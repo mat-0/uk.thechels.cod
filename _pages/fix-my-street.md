@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 23rd November :- [8455375](https://www.fixmystreet.com/report/8455375)
+- The whole road is full of potholes and poor repairs making the length of the road bumpy and uneven, 23rd November :- [8455296](https://www.fixmystreet.com/report/8455296)
 - Speed Camera Sign going to Apperley needed for Enforcement, 23rd November :- [8454951](https://www.fixmystreet.com/report/8454951)
 - Missing Sign for junction on Bend and 30mpg!, 23rd November :- [8454939](https://www.fixmystreet.com/report/8454939)
 - Deerhurst Walton sign too small and misplaced - bent, 23rd November :- [8454923](https://www.fixmystreet.com/report/8454923)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Large hole in middle of road, outside no. 45 Parton Road, 23rd November :- [8453728](https://www.fixmystreet.com/report/8453728)
 - Someone has flytipped, 23rd November :- [8453467](https://www.fixmystreet.com/report/8453467)
 - Getting deeper by the day on the bridge over the brook, 23rd November :- [8453023](https://www.fixmystreet.com/report/8453023)
-- Fixed traffic light on Ermin St/Golf Club Lane junction has been turned and is facing the wrong way causing confusion, 23rd November :- [8453013](https://www.fixmystreet.com/report/8453013)
-- Dead ash in verge near Brimpsfield Commin, 23rd November :- [8453000](https://www.fixmystreet.com/report/8453000)
 
 <!-- fix_marker ends -->

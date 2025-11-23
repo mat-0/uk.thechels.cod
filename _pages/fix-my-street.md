@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Speed Camera Sign going to Apperley needed for Enforcement, 23rd November :- [8454951](https://www.fixmystreet.com/report/8454951)
+- Missing Sign for junction on Bend and 30mpg!, 23rd November :- [8454939](https://www.fixmystreet.com/report/8454939)
+- Deerhurst Walton sign too small and misplaced - bent, 23rd November :- [8454923](https://www.fixmystreet.com/report/8454923)
+- Recent damage to pavement causing uneven surface, 23rd November :- [8454854](https://www.fixmystreet.com/report/8454854)
 - Holes dug out, 23rd November :- [8454651](https://www.fixmystreet.com/report/8454651)
 - Dangerous dugout areas, 23rd November :- [8454644](https://www.fixmystreet.com/report/8454644)
 - Flytipped mattress, 23rd November :- [8454622](https://www.fixmystreet.com/report/8454622)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Getting deeper by the day on the bridge over the brook, 23rd November :- [8453023](https://www.fixmystreet.com/report/8453023)
 - Fixed traffic light on Ermin St/Golf Club Lane junction has been turned and is facing the wrong way causing confusion, 23rd November :- [8453013](https://www.fixmystreet.com/report/8453013)
 - Dead ash in verge near Brimpsfield Commin, 23rd November :- [8453000](https://www.fixmystreet.com/report/8453000)
-- Pot hole again atter pppr repair, 23rd November :- [8452945](https://www.fixmystreet.com/report/8452945)
-- Roundabout, 23rd November :- [8452825](https://www.fixmystreet.com/report/8452825)
-- Extremely large puddle crossing the east lane of the A436 very dangerous doesnt take alot of rain before its right the way across the road., 23rd November :- [8452812](https://www.fixmystreet.com/report/8452812)
-- Sewer cover been moved causing a large gap, 23rd November :- [8452751](https://www.fixmystreet.com/report/8452751)
 
 <!-- fix_marker ends -->

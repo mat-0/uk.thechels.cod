@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The bike detection camera is misaligned and is looking into the trees, 23rd November :- [8455384](https://www.fixmystreet.com/report/8455384)
 - Large pothole, 23rd November :- [8455375](https://www.fixmystreet.com/report/8455375)
 - The whole road is full of potholes and poor repairs making the length of the road bumpy and uneven, 23rd November :- [8455296](https://www.fixmystreet.com/report/8455296)
 - Speed Camera Sign going to Apperley needed for Enforcement, 23rd November :- [8454951](https://www.fixmystreet.com/report/8454951)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large tree branches fallen onto road. At top of Parton Road, past allotments next to mains gas station on turning point. Branches are on edge of road., 23rd November :- [8453766](https://www.fixmystreet.com/report/8453766)
 - Large hole in middle of road, outside no. 45 Parton Road, 23rd November :- [8453728](https://www.fixmystreet.com/report/8453728)
 - Someone has flytipped, 23rd November :- [8453467](https://www.fixmystreet.com/report/8453467)
-- Getting deeper by the day on the bridge over the brook, 23rd November :- [8453023](https://www.fixmystreet.com/report/8453023)
 
 <!-- fix_marker ends -->

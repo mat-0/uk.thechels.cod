@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large rocks still present outside 47 Sandyleaze, 25th November :- [8464846](https://www.fixmystreet.com/report/8464846)
+- Parking area opposite the park, 25th November :- [8464823](https://www.fixmystreet.com/report/8464823)
+- Street name damaged and unclear, 25th November :- [8464591](https://www.fixmystreet.com/report/8464591)
+- The pavement has been left in a terrible condition following all the wok being done. Trip hazard. Especially in the dark and for elderly people., 25th November :- [8464462](https://www.fixmystreet.com/report/8464462)
+- Traffic signals warning sign is drastically faded with a rotting pole., 25th November :- [8464442](https://www.fixmystreet.com/report/8464442)
 - Traffic signal & yardage countdown warning sign is drastically faded and obscured by vegetation the bus stop pole / timetable., 25th November :- [8464432](https://www.fixmystreet.com/report/8464432)
 - Loose drain cover. Sunken. Is noisy and will cause damage to tyres, 25th November :- [8464429](https://www.fixmystreet.com/report/8464429)
 - Traffic lights ahead warning and yardage count sign is not easily readable due to dirty and tree algae, 25th November :- [8464412](https://www.fixmystreet.com/report/8464412)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 25th November :- [8463593](https://www.fixmystreet.com/report/8463593)
 - TMC - Defects -CW6 Potholes  problem, 25th November :- [8463608](https://www.fixmystreet.com/report/8463608)
 - TMC - Defects - Footways Slabs problem, 25th November :- [8463606](https://www.fixmystreet.com/report/8463606)
-- TMC - Defects -CW6 Potholes  problem, 25th November :- [8463605](https://www.fixmystreet.com/report/8463605)
-- TMC - Defects - Other FW6  Surface problem, 25th November :- [8463604](https://www.fixmystreet.com/report/8463604)
-- TMC - Defects - Other FW6  Surface problem, 25th November :- [8463603](https://www.fixmystreet.com/report/8463603)
-- Post or sign leaning slightly (less than 20 degrees) problem, 25th November :- [8463781](https://www.fixmystreet.com/report/8463781)
-- TMC - Defects - Signs & Street Furniture problem, 25th November :- [8463600](https://www.fixmystreet.com/report/8463600)
 
 <!-- fix_marker ends -->

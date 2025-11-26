@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocking driveway, 26th November :- [8465563](https://www.fixmystreet.com/report/8465563)
 - Big pothole in the road that caused my bike wheel to go in while riding., 25th November :- [8465389](https://www.fixmystreet.com/report/8465389)
 - Broken glass on pavement, 25th November :- [8465319](https://www.fixmystreet.com/report/8465319)
 - Tree trunk across footpath, 25th November :- [8465125](https://www.fixmystreet.com/report/8465125)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - No right hand turn sign into Shell Garage missing from traffic light posr, 25th November :- [8464158](https://www.fixmystreet.com/report/8464158)
 - Flooding across road and path when it rains, 25th November :- [8464089](https://www.fixmystreet.com/report/8464089)
 - White Lines, 25th November :- [8464024](https://www.fixmystreet.com/report/8464024)
-- TMC - Defects - Covers, Gratings & Frames problem, 25th November :- [8464322](https://www.fixmystreet.com/report/8464322)
 
 <!-- fix_marker ends -->

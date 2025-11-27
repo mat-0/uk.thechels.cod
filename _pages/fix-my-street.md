@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Health and Safety, 27th November :- [8474282](https://www.fixmystreet.com/report/8474282)
+- Land Cruiser continues to park blocking access, 27th November :- [8474109](https://www.fixmystreet.com/report/8474109)
 - Damage caused by articulated lorry, 27th November :- [8473664](https://www.fixmystreet.com/report/8473664)
 - Damage caused by articulated lorry, 27th November :- [8473632](https://www.fixmystreet.com/report/8473632)
 - Several large and small potholes at junction of mill lane and vicare lane brockworth .some have been repaired .others havenet .road is crumbling .only one hole has pait around it, 27th November :- [8473621](https://www.fixmystreet.com/report/8473621)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 2 pedestrian warning signs turned 90 degrees, 27th November :- [8472683](https://www.fixmystreet.com/report/8472683)
 - 2 construction barriers abandoned by contractors about 12 months ago, 27th November :- [8472552](https://www.fixmystreet.com/report/8472552)
 - Bus stop pole leaning badly, 27th November :- [8472403](https://www.fixmystreet.com/report/8472403)
-- Abandoned motorbike, 27th November :- [8472394](https://www.fixmystreet.com/report/8472394)
-- Ringway barriers, weeds and rubbish on pavement, 27th November :- [8472377](https://www.fixmystreet.com/report/8472377)
 
 <!-- fix_marker ends -->

@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Thursday, 27 November 2025
+## On Friday, 28 November 2025
 
-- The average temperature today is 10.45˚C,
-- With highs of 11.1˚C and lows of 9.82˚C,
-- It may feel like 9.85˚C with broken clouds
-- The wind speed is 4.02m/s and visibility is 10000m
+- The average temperature today is 10˚C,
+- With highs of 10.55˚C and lows of 9.26˚C,
+- It may feel like 8.2˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
 - The pressure is 1012hPa and humidity is 88%
-- The sun will rise at 07:47 and set at 16:04
+- The sun will rise at 07:49 and set at 16:03
 
 <!-- weather_marker ends -->
 

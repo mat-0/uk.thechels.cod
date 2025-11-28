@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 28th November :- [8477237](https://www.fixmystreet.com/report/8477237)
+- Multiple large potholes. Road surface falling apart., 28th November :- [8477180](https://www.fixmystreet.com/report/8477180)
+- The drain is blocked problem, 28th November :- [8477138](https://www.fixmystreet.com/report/8477138)
+- Kerb stone an surrounding tarmac surface damaged, 28th November :- [8477084](https://www.fixmystreet.com/report/8477084)
 - Water company have complained that they cannot access their cover because of excess pavement material that is from when it was resurfaced, 28th November :- [8476467](https://www.fixmystreet.com/report/8476467)
 - Dumped Car, 28th November :- [8476360](https://www.fixmystreet.com/report/8476360)
 - Bus stop, 28th November :- [8476333](https://www.fixmystreet.com/report/8476333)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pothole that could damage a tyre or have a cyclist crash, 27th November :- [8473614](https://www.fixmystreet.com/report/8473614)
 - Green light on traffic light is very dim - it looks dimmer in person than in the picture, 27th November :- [8473602](https://www.fixmystreet.com/report/8473602)
 - Abandoned work signs left blocking pavement, 27th November :- [8473564](https://www.fixmystreet.com/report/8473564)
-- Abandoned barriers in ditch, 27th November :- [8473525](https://www.fixmystreet.com/report/8473525)
-- Glebe Road Prestbury roadworks and flooding repairs., 27th November :- [8473253](https://www.fixmystreet.com/report/8473253)
-- Blocking visibility on road/junction (Grass/verge) problem, 27th November :- [8476203](https://www.fixmystreet.com/report/8476203)
-- Large pile of leaves on verge, 27th November :- [8473188](https://www.fixmystreet.com/report/8473188)
 
 <!-- fix_marker ends -->

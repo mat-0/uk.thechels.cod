@@ -19,5 +19,29 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: River Leadon catchment
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 28 November 2025  
+Widespread heavy rainfall overnight may lead to flooding. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 9:00AM on 29 November 2025 or as the situation changes.
+
+- Flood alert: River Wye in Herefordshire
+- Rising river levels today may lead to flooding. 
+Flooding is possible from the early hours of 29 November 2025 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.0m to 2.5m on 29/11 PM, Bredwardine 4.2m to 4.7m on 29/11 evening, Belmont 4.3m to 4.8m on 30/11 AM, Old Wye Bridge 3.7m to 4.2m on 30/11 AM, Mordiford 4.0m to 4.5m on 30/11 AM, Ross on Wye 3.5m to 4.0m on 30/11 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 29 November 2025 or as the situation changes.
+
+- Flood alert: Rivers in the Forest of Dean
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible from overnight on 28 November 2025 . 
+Widespread heavy rainfall overnight may lead to flooding. Locations that may be affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 9:00AM on 29 November 2025 or as the situation changes.
+
 
 <!-- flood_marker ends -->

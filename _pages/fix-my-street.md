@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Hubcap on outside lane just before roundabout, 28th November :- [8477786](https://www.fixmystreet.com/report/8477786)
+- Whole road of aprox 400 metres, 28th November :- [8477753](https://www.fixmystreet.com/report/8477753)
 - There is a large traffic cone and frame for a road sign left, 28th November :- [8477744](https://www.fixmystreet.com/report/8477744)
 - Failure to do stated works as stated in your letter Ref 11495612 dated 10 Nov 25, 28th November :- [8477675](https://www.fixmystreet.com/report/8477675)
 - Unpermitted roadworks problem, 28th November :- [8477674](https://www.fixmystreet.com/report/8477674)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Shurdingto Road path barriers down, 28th November :- [8476306](https://www.fixmystreet.com/report/8476306)
 - Abandoned vehicle, 28th November :- [8475823](https://www.fixmystreet.com/report/8475823)
 - Debris and leaves blocking the pavement, 28th November :- [8475797](https://www.fixmystreet.com/report/8475797)
-- Flooded bus stop bay, 28th November :- [8474862](https://www.fixmystreet.com/report/8474862)
-- Footpath & Cycle Way Obstructed for Weeks, 28th November :- [8474821](https://www.fixmystreet.com/report/8474821)
 
 <!-- fix_marker ends -->

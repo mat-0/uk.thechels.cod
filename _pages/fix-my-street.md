@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in the road, top end towards the carpark. Its in line with the green telephone communications box, 29th November :- [8480915](https://www.fixmystreet.com/report/8480915)
 - Bush shelter glass smashed, 29th November :- [8480730](https://www.fixmystreet.com/report/8480730)
 - Drain blocked, 29th November :- [8480674](https://www.fixmystreet.com/report/8480674)
 - Graffiti on bus stop, 29th November :- [8480592](https://www.fixmystreet.com/report/8480592)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street light was dull for several nights, but last night is was permanently off., 29th November :- [8478737](https://www.fixmystreet.com/report/8478737)
 - Ditch in between Salvation Army force & House Of Halo and Co, 29th November :- [8478594](https://www.fixmystreet.com/report/8478594)
 - Road sign damaged and missing, 28th November :- [8478199](https://www.fixmystreet.com/report/8478199)
-- Hubcap on outside lane just before roundabout, 28th November :- [8477786](https://www.fixmystreet.com/report/8477786)
 
 <!-- fix_marker ends -->

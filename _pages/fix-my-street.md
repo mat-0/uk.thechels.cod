@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in road, 29th November :- [8480421](https://www.fixmystreet.com/report/8480421)
+- A pothole in road problem, 29th November :- [8480341](https://www.fixmystreet.com/report/8480341)
 - Flytipped item, 29th November :- [8480030](https://www.fixmystreet.com/report/8480030)
 - Various flytipping, 29th November :- [8479977](https://www.fixmystreet.com/report/8479977)
 - Flytipped item, 29th November :- [8479955](https://www.fixmystreet.com/report/8479955)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - There is a large traffic cone and frame for a road sign left, 28th November :- [8477744](https://www.fixmystreet.com/report/8477744)
 - Failure to do stated works as stated in your letter Ref 11495612 dated 10 Nov 25, 28th November :- [8477675](https://www.fixmystreet.com/report/8477675)
 - Unpermitted roadworks problem, 28th November :- [8477674](https://www.fixmystreet.com/report/8477674)
-- Arm chair dumped and small mound of earth, 28th November :- [8477583](https://www.fixmystreet.com/report/8477583)
-- Cable run under pavement and over verge, 28th November :- [8477570](https://www.fixmystreet.com/report/8477570)
 
 <!-- fix_marker ends -->

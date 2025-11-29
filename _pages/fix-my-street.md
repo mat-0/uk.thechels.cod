@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Ditch in between Salvation Army force & House Of Halo and Co, 29th November :- [8478594](https://www.fixmystreet.com/report/8478594)
 - Road sign damaged and missing, 28th November :- [8478199](https://www.fixmystreet.com/report/8478199)
 - Hubcap on outside lane just before roundabout, 28th November :- [8477786](https://www.fixmystreet.com/report/8477786)
 - Whole road of aprox 400 metres, 28th November :- [8477753](https://www.fixmystreet.com/report/8477753)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dumped Car, 28th November :- [8476360](https://www.fixmystreet.com/report/8476360)
 - Bus stop, 28th November :- [8476333](https://www.fixmystreet.com/report/8476333)
 - Shurdingto Road path barriers down, 28th November :- [8476306](https://www.fixmystreet.com/report/8476306)
-- Abandoned vehicle, 28th November :- [8475823](https://www.fixmystreet.com/report/8475823)
 
 <!-- fix_marker ends -->

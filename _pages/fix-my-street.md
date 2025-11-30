@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Another mattress, 30th November :- [8481792](https://www.fixmystreet.com/report/8481792)
+- Grovefield Way at The Reddings sign metal work frames left, 30th November :- [8481768](https://www.fixmystreet.com/report/8481768)
+- Large pothole., 30th November :- [8481725](https://www.fixmystreet.com/report/8481725)
+- Large potholes similar to photo., 30th November :- [8481707](https://www.fixmystreet.com/report/8481707)
+- Signage left by contractors- blocking the footpath, 30th November :- [8481439](https://www.fixmystreet.com/report/8481439)
 - " large pot holes back to back on a bending junction with a futher large potholed and cracked ground less than 100 meters afterwards, 29th November :- [8481068](https://www.fixmystreet.com/report/8481068)
 - Large pothole outside 50 Mead Road, 29th November :- [8480977](https://www.fixmystreet.com/report/8480977)
 - Pothole in the road, top end towards the carpark. Its in line with the green telephone communications box, 29th November :- [8480915](https://www.fixmystreet.com/report/8480915)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Flytipped furniture, 29th November :- [8479928](https://www.fixmystreet.com/report/8479928)
 - Flytipped toy, 29th November :- [8479894](https://www.fixmystreet.com/report/8479894)
 - Up Hatherley path needs levelling to prevent water pools, 29th November :- [8479774](https://www.fixmystreet.com/report/8479774)
-- Junction blocked, 29th November :- [8479637](https://www.fixmystreet.com/report/8479637)
-- Large pothole in centre of road next to white line, 29th November :- [8479512](https://www.fixmystreet.com/report/8479512)
-- RTPI not working, 29th November :- [8479122](https://www.fixmystreet.com/report/8479122)
-- Constant dog fouling, 29th November :- [8478873](https://www.fixmystreet.com/report/8478873)
-- Street light was dull for several nights, but last night is was permanently off., 29th November :- [8478737](https://www.fixmystreet.com/report/8478737)
 
 <!-- fix_marker ends -->

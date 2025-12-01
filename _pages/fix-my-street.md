@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Shurdington road street lights out, 1st December :- [8484520](https://www.fixmystreet.com/report/8484520)
+- 3 way traffic lights - no works listed, 1st December :- [8484486](https://www.fixmystreet.com/report/8484486)
+- TMC - Defects - Signs & Street Furniture problem, 1st December :- [8484432](https://www.fixmystreet.com/report/8484432)
 - Abandoned signage, 1st December :- [8484185](https://www.fixmystreet.com/report/8484185)
 - Signage left, 1st December :- [8484180](https://www.fixmystreet.com/report/8484180)
 - 2 street lights out Hawkswood Road, 1st December :- [8484179](https://www.fixmystreet.com/report/8484179)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Duplicate signs and traffic lights, 30th November :- [8482749](https://www.fixmystreet.com/report/8482749)
 - Two traffic lights, one saying red and one green, 30th November :- [8482593](https://www.fixmystreet.com/report/8482593)
 - Over flowing bin, 30th November :- [8482487](https://www.fixmystreet.com/report/8482487)
-- Street light out, 30th November :- [8482375](https://www.fixmystreet.com/report/8482375)
-- Dumped metal, 30th November :- [8482344](https://www.fixmystreet.com/report/8482344)
-- Volunteer litter pick bags ready for collection, 30th November :- [8482250](https://www.fixmystreet.com/report/8482250)
 
 <!-- fix_marker ends -->

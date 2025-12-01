@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The light is dull outside numbers 41 and 43 wymans road lamp post number is 6, 1st December :- [8488250](https://www.fixmystreet.com/report/8488250)
+- Potholes, 1st December :- [8487940](https://www.fixmystreet.com/report/8487940)
+- Pavement floods regularly, 1st December :- [8487819](https://www.fixmystreet.com/report/8487819)
 - Traffic lights are failing, 1st December :- [8487774](https://www.fixmystreet.com/report/8487774)
 - Builders’ waste in front of the garage block, on the highway and pavement/service strip, restricting access to garages and communal parking area. Periodically waste is partially removed but never completely, and has been an issue since the first full week of September this year. Reporting it now as wet and windy conditions over the past few days have resulted in several items being blown across the cul de sac and the soil turning into a ‘river’ of mud on the road and inconveniencing other residents. The waste is not covered and at night there are no lights suggesting that this use of the highway is not licensed., 1st December :- [8487705](https://www.fixmystreet.com/report/8487705)
 - Drains on N bound A435 seem to be all blocked, 1st December :- [8487474](https://www.fixmystreet.com/report/8487474)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 1st December :- [8487156](https://www.fixmystreet.com/report/8487156)
 - Tree is damaged problem, 1st December :- [8487148](https://www.fixmystreet.com/report/8487148)
 - TMC - Defects -CW6 Potholes  problem, 1st December :- [8487154](https://www.fixmystreet.com/report/8487154)
-- TMC - Defects - Road Markings problem, 1st December :- [8487153](https://www.fixmystreet.com/report/8487153)
-- TMC - Defects -CW6 Potholes  problem, 1st December :- [8487150](https://www.fixmystreet.com/report/8487150)
-- TMC - Defects - Vegetation problem, 1st December :- [8486947](https://www.fixmystreet.com/report/8486947)
 
 <!-- fix_marker ends -->

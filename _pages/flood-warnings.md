@@ -60,12 +60,13 @@ We are closely monitoring the situation .
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
 
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected. This alert is being removed but rainfall throughout Monday is likely to require a re-issuing of the alert on Tuesday morning 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+- Flood alert: River Wye in Gloucestershire
+- Forecast rising river levels today may lead to flooding. 
+Flooding is possible from the early hours of 02 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.5m to 4.0m 02/12 PM, Lydbrook 5.0m to 5.5m 02/12 Evening. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 02 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - Forecast rising river levels today may lead to flooding. 

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned signage, 1st December :- [8484185](https://www.fixmystreet.com/report/8484185)
+- Signage left, 1st December :- [8484180](https://www.fixmystreet.com/report/8484180)
+- 2 street lights out Hawkswood Road, 1st December :- [8484179](https://www.fixmystreet.com/report/8484179)
+- Damaged (rotted and faded) street name sign, 1st December :- [8484177](https://www.fixmystreet.com/report/8484177)
 - Street light outside number 16 not working, 30th November :- [8483695](https://www.fixmystreet.com/report/8483695)
 - Multiple street lights out at the top of Wisteria Way / Lovage Close, 30th November :- [8483606](https://www.fixmystreet.com/report/8483606)
 - Hedgerows, 30th November :- [8483582](https://www.fixmystreet.com/report/8483582)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Street light out, 30th November :- [8482375](https://www.fixmystreet.com/report/8482375)
 - Dumped metal, 30th November :- [8482344](https://www.fixmystreet.com/report/8482344)
 - Volunteer litter pick bags ready for collection, 30th November :- [8482250](https://www.fixmystreet.com/report/8482250)
-- Non permitted road works at the junction of manor road and runnings road, 30th November :- [8482173](https://www.fixmystreet.com/report/8482173)
-- Man whole seems to have a problem and water is pouring from the cover and travelling down Gloucester Road and gathering outside the new housing estate and care home, 30th November :- [8481964](https://www.fixmystreet.com/report/8481964)
-- Sign and cone left on pavement since alma Road works in September, 30th November :- [8481911](https://www.fixmystreet.com/report/8481911)
-- Traffic cone left behind by contractors, 30th November :- [8481907](https://www.fixmystreet.com/report/8481907)
 
 <!-- fix_marker ends -->

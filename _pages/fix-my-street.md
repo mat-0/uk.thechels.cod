@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in the road in area of previous repair. A cyclist has just come off their bike due to the pothole and it not being visible as the road isn’t lit at night., 3rd December :- [8498580](https://www.fixmystreet.com/report/8498580)
 - Large pothole in previous repair and getting larger and deeper as vehicles are largely forced to drive through it. Will damage vehicles and is causing increased noise for the adjacent properties, often very loud when HGVs and buses hit it., 3rd December :- [8498037](https://www.fixmystreet.com/report/8498037)
 - 2 large new potholes. 1 deep on junction with church lane, 3rd December :- [8497995](https://www.fixmystreet.com/report/8497995)
 - Series of pothole, 3rd December :- [8497488](https://www.fixmystreet.com/report/8497488)
@@ -27,7 +28,6 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8496617](https://www.fixmystreet.com/report/8496617)
 - The drain is blocked problem, 3rd December :- [8496378](https://www.fixmystreet.com/report/8496378)
 - A pothole in road problem, 3rd December :- [8496376](https://www.fixmystreet.com/report/8496376)
-- TMC - Defects -CW10 Potholes problem, 3rd December :- [8496385](https://www.fixmystreet.com/report/8496385)
 - TMC - Defects -CW10 Potholes problem, 3rd December :- [8496384](https://www.fixmystreet.com/report/8496384)
 
 <!-- fix_marker ends -->

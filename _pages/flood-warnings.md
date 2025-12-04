@@ -23,15 +23,15 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall is forecast tomorrow Friday 05/12/25 and over the weekend. River levels will remain high over the coming days in response to this forecast rainfall.
 
 - Flood alert: River Churn and its tributaries
-- High river levels may lead to flooding. 
+- High river levels may lead to flooding.
 
-Flooding is possible from the morning of the 04 Dec 2025.
+Flooding is possible from the evening of the 04 Dec 2025.
 
-Flooding of low lying land and roads is possible today, along the River Churn around Cerney Wick. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to fall slowly.
+Flooding of low lying land and roads is possible tonight, along the River Churn around Cerney Wick. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to stay high.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 04 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 05 Dec 2025 or as the situation changes.
 
 - Warning no longer in force: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -41,17 +41,17 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- High river levels may lead to flooding. 
+- High river levels may lead to flooding.
 
-Flooding is possible from the morning of the 04 Dec 2025.
+Flooding is possible from the evening of the 04 Dec 2025.
 
-Flooding of low lying land and roads is possible today, 04 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is possible tonight, 04 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 04 Dec 2025 or as the situation changes.
+This message will be updated by 1100 05 Dec 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels are currently rising due to rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent to the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. The Severn Ham, Tewkesbury may start to fill.

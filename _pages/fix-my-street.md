@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 consecutive pot holes from 1a /Windy Corner & Chequers all on Chosen Drive, 4th December :- [8503045](https://www.fixmystreet.com/report/8503045)
+- 18” pothole on Leckhampton Hill near turn into Ullenwood Court, 4th December :- [8503006](https://www.fixmystreet.com/report/8503006)
 - You have reported that the problem has been fixed - the photos prove otherwise., 4th December :- [8502759](https://www.fixmystreet.com/report/8502759)
 - Fallen leaves making footpath hazardous, 4th December :- [8502696](https://www.fixmystreet.com/report/8502696)
 - Going into Salamanca road from Imjin Road the potholes start all the way up to the no 26, 4th December :- [8502601](https://www.fixmystreet.com/report/8502601)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Several large potholes in this location, 4th December :- [8500017](https://www.fixmystreet.com/report/8500017)
 - Very large pothole on this location, 4th December :- [8500003](https://www.fixmystreet.com/report/8500003)
 - Another fall on an unstable flagstone, 4th December :- [8499992](https://www.fixmystreet.com/report/8499992)
-- TMC - Defects - Other problem, 4th December :- [8500181](https://www.fixmystreet.com/report/8500181)
-- A pothole in road problem, 4th December :- [8499946](https://www.fixmystreet.com/report/8499946)
 
 <!-- fix_marker ends -->

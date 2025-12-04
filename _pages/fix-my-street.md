@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing flagstones Courtenay Street, 4th December :- [8503594](https://www.fixmystreet.com/report/8503594)
+- Flytipping multiple Malthouse Lane, 4th December :- [8503584](https://www.fixmystreet.com/report/8503584)
+- Pothole, 4th December :- [8503343](https://www.fixmystreet.com/report/8503343)
 - 3 consecutive pot holes from 1a /Windy Corner & Chequers all on Chosen Drive, 4th December :- [8503045](https://www.fixmystreet.com/report/8503045)
 - 18” pothole on Leckhampton Hill near turn into Ullenwood Court, 4th December :- [8503006](https://www.fixmystreet.com/report/8503006)
 - You have reported that the problem has been fixed - the photos prove otherwise., 4th December :- [8502759](https://www.fixmystreet.com/report/8502759)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flood not clearing on A40 Dowdeswell Reservoir, 4th December :- [8500783](https://www.fixmystreet.com/report/8500783)
 - Blocked drain, 4th December :- [8500618](https://www.fixmystreet.com/report/8500618)
 - Green or amber traffic light is not working problem, 4th December :- [8500410](https://www.fixmystreet.com/report/8500410)
-- Several large potholes in this location, 4th December :- [8500017](https://www.fixmystreet.com/report/8500017)
-- Very large pothole on this location, 4th December :- [8500003](https://www.fixmystreet.com/report/8500003)
-- Another fall on an unstable flagstone, 4th December :- [8499992](https://www.fixmystreet.com/report/8499992)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Recurrence of pothole under bridge on westbound side of carriageway, 5th December :- [8507711](https://www.fixmystreet.com/report/8507711)
+- Street light not working, road is darkened, 5th December :- [8507667](https://www.fixmystreet.com/report/8507667)
+- Chanel that has been previously cut out is collapsing and causing, 5th December :- [8507631](https://www.fixmystreet.com/report/8507631)
 - Path covered in watet this Friday needs filling, 5th December :- [8507450](https://www.fixmystreet.com/report/8507450)
 - Tree is damaged problem, 5th December :- [8507415](https://www.fixmystreet.com/report/8507415)
 - Fallen Tree, 5th December :- [8507388](https://www.fixmystreet.com/report/8507388)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Severn trent drain - tarmac coming away from edges of the drain. causing the drain to be raised. it is situated outside an over 60+ development block and residents are worried about tripping/unsafe. the drain is outside Homespring House GL52 2QB, 5th December :- [8506323](https://www.fixmystreet.com/report/8506323)
 - Large deep pothole. It has deteriorated rapidly over the last three weeks,, 5th December :- [8506209](https://www.fixmystreet.com/report/8506209)
 - Signage left by Annecy Gardens entrance on High Street, 5th December :- [8506170](https://www.fixmystreet.com/report/8506170)
-- 5 red and white bollards left over two weeks ago, They were not used by the contractors., 5th December :- [8506146](https://www.fixmystreet.com/report/8506146)
-- 'Pedestrians' sign left by street name sign, 5th December :- [8506070](https://www.fixmystreet.com/report/8506070)
-- Street light out, 5th December :- [8505914](https://www.fixmystreet.com/report/8505914)
 
 <!-- fix_marker ends -->

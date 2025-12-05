@@ -25,26 +25,26 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-Flooding is possible from the morning of the 05 Dec 2025.
+Flooding is possible from the evening of the 05 Dec 2025.
 
-Flooding of low lying land and roads is possible today, along the River Churn around Cerney Wick. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to stay high.
+Flooding of low lying land and roads is possible tonight, along the River Churn around Cerney Wick. The weather forecast is for further rain which could be heavy at times over the next 2 days. We expect river levels to stay high.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 05 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding.
 
 Flooding is possible from the evening of the 05 Dec 2025.
 
-Flooding of low lying land and roads is possible today, 05 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain which could be heavy at times over the next 3 days. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is possible tonight, 05 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain which could be heavy at times over the next 2 days. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 1900 05 Dec 2025 or as the situation changes.
+This message will be updated by 1100 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.
@@ -76,6 +76,18 @@ This message will be updated by 2:00PM on 06 December 2025 or as the situation c
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides today may lead to flooding. Flooding is possible from 7:15pm on Friday evening and 7:30am on Saturday morning.  Locations most affected will be low lying land and roads near rivers or on the coast. A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow.
 Predicted peaks: - Friday evening 05/12; Avonmouth Portbury 7.3m to 7.6m at 7:15PM, Newport 7m to 7.3m at 7:15PM. Saturday morning 06/12; Avonmouth Portbury 7.4m to 7.7m at 7:30AM, Newport 7.1m to 7.4m at 7:30AM.  We are closely monitoring the situation. Please monitor local water levels and weather conditions. This message will be updated by 2:00PM on 06 December 2025 or as the situation changes.
+
+- Flood warning: River Severn at Sandhurst and Maisemore
+- High river levels are expected to cause flooding tomorrow morning. 
+Flooding is expected on 06 December 2025  
+During high tides, flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore.  
+
+Predicted peaks:-  
+Friday evening 05/12; Gloucester 3.45m to 3.65m at 9:15PM, Sandhurst 3.5m to 3.7m at 9:30PM. 
+Saturday morning 06/12; Gloucester 3.5m to 3.7m at 9:30AM, Sandhurst 3.6m to 3.8m at 9:45AM. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses .Take care and avoid walking, cycling or driving through flood water 
+This message will be updated by 2:00PM on 06 December 2025 or as the situation changes. 
 
 - Flood alert: Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth
 - High tides tomorrow morning may lead to flooding. 

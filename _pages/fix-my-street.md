@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two foot roots, 5th December :- [8507989](https://www.fixmystreet.com/report/8507989)
+- A pothole in road problem, 5th December :- [8507983](https://www.fixmystreet.com/report/8507983)
 - Recurrence of pothole under bridge on westbound side of carriageway, 5th December :- [8507711](https://www.fixmystreet.com/report/8507711)
 - Street light not working, road is darkened, 5th December :- [8507667](https://www.fixmystreet.com/report/8507667)
 - Chanel that has been previously cut out is collapsing and causing, 5th December :- [8507631](https://www.fixmystreet.com/report/8507631)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Human faeces behind phone box, 5th December :- [8506509](https://www.fixmystreet.com/report/8506509)
 - TMC - Defects - Other problem, 5th December :- [8506567](https://www.fixmystreet.com/report/8506567)
 - Severn trent drain - tarmac coming away from edges of the drain. causing the drain to be raised. it is situated outside an over 60+ development block and residents are worried about tripping/unsafe. the drain is outside Homespring House GL52 2QB, 5th December :- [8506323](https://www.fixmystreet.com/report/8506323)
-- Large deep pothole. It has deteriorated rapidly over the last three weeks,, 5th December :- [8506209](https://www.fixmystreet.com/report/8506209)
-- Signage left by Annecy Gardens entrance on High Street, 5th December :- [8506170](https://www.fixmystreet.com/report/8506170)
 
 <!-- fix_marker ends -->

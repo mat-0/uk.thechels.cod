@@ -33,6 +33,22 @@ We are closely monitoring the situation. Avoid using low lying footpaths and any
 
 This message will be updated by 11:00 06 Dec 2025 or as the situation changes.
 
+- Flood alert: River Windrush from Bourton to Newbridge
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 05 December 2025 . 
+Flooding of low lying land and roads is possible, especially in the Newbridge area. Further rainfall is forecast tonight. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
+
+- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 05 December 2025 . 
+Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. Further rainfall is forecast tonight. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
+
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding.
 
@@ -45,6 +61,14 @@ We are closely monitoring the situation.
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
 This message will be updated by 1100 06 Dec 2025 or as the situation changes.
+
+- Flood alert: River Leach from Northleach to Mill Lane near Lechlade
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 05 December 2025 . 
+Flooding of low lying land and roads is possible, especially in the Lechlade area. Further rainfall is forecast tonight. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.

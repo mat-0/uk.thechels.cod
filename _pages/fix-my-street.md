@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic Light sequence causing long tail backs of traffic coming from Gloucester, 5th December :- [8505112](https://www.fixmystreet.com/report/8505112)
+- I was cycling down kayte lane on 03/12/2025 at 5.40pm, the lane has no street lighting and the on coming car headlights dazzled my view of the road and i went into this pot hole. This pot hole is very deep and large and difficult to swerve around it. I've badly injured my leg and head. This pot hole is very dangerous for cyclists who use this road frequently., 5th December :- [8505025](https://www.fixmystreet.com/report/8505025)
+- Large pothole, 5th December :- [8504870](https://www.fixmystreet.com/report/8504870)
+- Turning right from Cheltenham Road onto Greyhound gardens; the filter is only letting one or two cars though at a time, 5th December :- [8504725](https://www.fixmystreet.com/report/8504725)
+- Two large potholes on Willersey Road, near #17, 5th December :- [8504652](https://www.fixmystreet.com/report/8504652)
 - Road needs sweeping of huge amount of fallen leaves, 5th December :- [8504477](https://www.fixmystreet.com/report/8504477)
 - Manhole on pavement broken, 5th December :- [8504433](https://www.fixmystreet.com/report/8504433)
 - Extremely deep potholes that have reopened, 5th December :- [8504161](https://www.fixmystreet.com/report/8504161)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - 3 consecutive pot holes from 1a /Windy Corner & Chequers all on Chosen Drive, 4th December :- [8503045](https://www.fixmystreet.com/report/8503045)
 - 18” pothole on Leckhampton Hill near turn into Ullenwood Court, 4th December :- [8503006](https://www.fixmystreet.com/report/8503006)
 - You have reported that the problem has been fixed - the photos prove otherwise., 4th December :- [8502759](https://www.fixmystreet.com/report/8502759)
-- Fallen leaves making footpath hazardous, 4th December :- [8502696](https://www.fixmystreet.com/report/8502696)
-- Going into Salamanca road from Imjin Road the potholes start all the way up to the no 26, 4th December :- [8502601](https://www.fixmystreet.com/report/8502601)
-- Partially fallen tree, 4th December :- [8502506](https://www.fixmystreet.com/report/8502506)
-- A A pothole in pavement problem has been found, 4th December :- [8502054](https://www.fixmystreet.com/report/8502054)
-- A A pothole in pavement problem has been found, 4th December :- [8502019](https://www.fixmystreet.com/report/8502019)
 
 <!-- fix_marker ends -->

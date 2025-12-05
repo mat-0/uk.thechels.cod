@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 05 December 2025
 
-- The average temperature today is 10.1˚C,
-- With highs of 10.55˚C and lows of 9.05˚C,
-- It may feel like 9.54˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 990hPa and humidity is 91%
+- The average temperature today is 10.27˚C,
+- With highs of 11.1˚C and lows of 9.05˚C,
+- It may feel like 9.57˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 10000m
+- The pressure is 990hPa and humidity is 85%
 - The sun will rise at 07:59 and set at 15:59
 
 <!-- weather_marker ends -->

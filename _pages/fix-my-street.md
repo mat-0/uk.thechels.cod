@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign and plate pointing in different directions, 5th December :- [8508229](https://www.fixmystreet.com/report/8508229)
+- Light out, 5th December :- [8508225](https://www.fixmystreet.com/report/8508225)
+- Hyde lane,multiple pot holes on both sides of the road, 5th December :- [8508195](https://www.fixmystreet.com/report/8508195)
 - Two foot roots, 5th December :- [8507989](https://www.fixmystreet.com/report/8507989)
 - A pothole in road problem, 5th December :- [8507983](https://www.fixmystreet.com/report/8507983)
 - Recurrence of pothole under bridge on westbound side of carriageway, 5th December :- [8507711](https://www.fixmystreet.com/report/8507711)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Potholes next to Springfield park car park, 5th December :- [8506681](https://www.fixmystreet.com/report/8506681)
 - Undulating patched area that could cause damage to a bike rider, 5th December :- [8506600](https://www.fixmystreet.com/report/8506600)
 - Fly tripping at Springfield park in the parking area, 5th December :- [8506591](https://www.fixmystreet.com/report/8506591)
-- Human faeces behind phone box, 5th December :- [8506509](https://www.fixmystreet.com/report/8506509)
-- TMC - Defects - Other problem, 5th December :- [8506567](https://www.fixmystreet.com/report/8506567)
-- Severn trent drain - tarmac coming away from edges of the drain. causing the drain to be raised. it is situated outside an over 60+ development block and residents are worried about tripping/unsafe. the drain is outside Homespring House GL52 2QB, 5th December :- [8506323](https://www.fixmystreet.com/report/8506323)
 
 <!-- fix_marker ends -->

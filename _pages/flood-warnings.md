@@ -134,6 +134,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
 
+- Flood alert: River Wye in Gloucestershire
+- High river levels today may lead to flooding. 
+Flooding is possible on 06 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.9m 07/12 PM, Lydbrook 4.2m to 4.7m 07/12 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
+
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides today may lead to flooding. Flooding is possible from 7:15pm on Friday evening and 7:30am on Saturday morning.  Locations most affected will be low lying land and roads near rivers or on the coast. A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow.
 Predicted peaks: - Friday evening 05/12; Avonmouth Portbury 7.3m to 7.6m at 7:15PM, Newport 7m to 7.3m at 7:15PM. Saturday morning 06/12; Avonmouth Portbury 7.4m to 7.7m at 7:30AM, Newport 7.1m to 7.4m at 7:30AM.  We are closely monitoring the situation. Please monitor local water levels and weather conditions. This message will be updated by 2:00PM on 06 December 2025 or as the situation changes.

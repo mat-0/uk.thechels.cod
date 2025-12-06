@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes maybe 8 in total, 6th December :- [8509750](https://www.fixmystreet.com/report/8509750)
+- Dangerous pothole with significant risk to cyclists and other road users, 6th December :- [8509632](https://www.fixmystreet.com/report/8509632)
+- Very large Pothole, 6th December :- [8509465](https://www.fixmystreet.com/report/8509465)
+- Pothole in existing patched pothole, 6th December :- [8509370](https://www.fixmystreet.com/report/8509370)
+- Collapsed road, 6th December :- [8509359](https://www.fixmystreet.com/report/8509359)
+- Long stretch of flooding due to blocked drain. Pedestrians getting soaked by passing traffic spraying the water onto the pavement. Water stays for hours /days after rain., 6th December :- [8509299](https://www.fixmystreet.com/report/8509299)
 - Slippy leafs on footpath, 6th December :- [8509068](https://www.fixmystreet.com/report/8509068)
 - Third large branch to fall - danger to public, 6th December :- [8508938](https://www.fixmystreet.com/report/8508938)
 - Fallen tree on the side of A40 Lansdown Road, 6th December :- [8508906](https://www.fixmystreet.com/report/8508906)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Recurrence of pothole under bridge on westbound side of carriageway, 5th December :- [8507711](https://www.fixmystreet.com/report/8507711)
 - Street light not working, road is darkened, 5th December :- [8507667](https://www.fixmystreet.com/report/8507667)
 - Chanel that has been previously cut out is collapsing and causing, 5th December :- [8507631](https://www.fixmystreet.com/report/8507631)
-- Path covered in watet this Friday needs filling, 5th December :- [8507450](https://www.fixmystreet.com/report/8507450)
-- Tree is damaged problem, 5th December :- [8507415](https://www.fixmystreet.com/report/8507415)
-- Fallen Tree, 5th December :- [8507388](https://www.fixmystreet.com/report/8507388)
-- Blocked drains on Gloucester main road, near Brickfield Drive exit, 5th December :- [8507170](https://www.fixmystreet.com/report/8507170)
-- Flooded Footpath - Happens every time it rains, 5th December :- [8507134](https://www.fixmystreet.com/report/8507134)
-- A A pothole in road problem has been found, 5th December :- [8507038](https://www.fixmystreet.com/report/8507038)
 
 <!-- fix_marker ends -->

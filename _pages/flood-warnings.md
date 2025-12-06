@@ -20,55 +20,70 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall is forecast today 05/12/25 and over the weekend. River levels are forecast to rise further in the coming days and the flood risk remains.
+- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. Further rainfall is forecast over the weekend. River levels are steady but high and so there continues to be a risk of flooding.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of the 05 Dec 2025.
+Flooding is possible from the morning of the 06 Dec 2025.
 
-Flooding of low lying land and roads is possible tonight, along the River Churn around Cerney Wick. The weather forecast is for further rain which could be heavy at times over the next 2 days. We expect river levels to stay high.
+Flooding of low lying land and roads is possible today, along the River Churn around Cerney Wick. The weather forecast is for further light rain over the weekend. We expect river levels to remain high.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 11:00 06 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- Rising river levels overnight may lead to flooding. 
-Flooding is possible from the evening of 05 December 2025 . 
-Flooding of low lying land and roads is possible, especially in the Newbridge area. Further rainfall is forecast tonight. 
-We are monitoring rainfall and river levels . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
+- High river levels may lead to flooding.
+
+Flooding is possible from the morning of 06 Dec 2025.
+
+Flooding of low lying land and roads is possible, especially in the Newbridge area. The forecast is for further light rain over the weekend.
+
+We are monitoring rainfall and river levels.
+
+Avoid low lying roads near rivers, which may be flooded.
+
+This message will be updated by 19:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- Rising river levels overnight may lead to flooding. 
-Flooding is possible from the evening of 05 December 2025 . 
-Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. Further rainfall is forecast tonight. 
-We are monitoring rainfall and river levels . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
+- High river levels may lead to flooding.
+
+Flooding is possible from the morning of 06 Dec 2025.
+
+Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. The forecast is for further light rain over the weekend.
+
+We are monitoring rainfall and river levels.
+
+Avoid low lying roads near rivers, which may be flooded.
+
+This message will be updated by 19:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding.
 
-Flooding is possible from the evening of the 05 Dec 2025.
+Flooding is possible from the morning of the 06 Dec 2025.
 
-Flooding of low lying land and roads is possible tonight, 05 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain which could be heavy at times over the next 2 days. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is possible today, 06 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further light rain over the weekend. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 1100 06 Dec 2025 or as the situation changes.
+This message will be updated by 19:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- Rising river levels overnight may lead to flooding. 
-Flooding is possible from the evening of 05 December 2025 . 
-Flooding of low lying land and roads is possible, especially in the Lechlade area. Further rainfall is forecast tonight. 
-We are monitoring rainfall and river levels . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
+- High river levels may lead to flooding.
+
+Flooding is possible from the morning of 06 Dec 2025.
+
+Flooding of low lying land and roads is possible, especially in the Lechlade area. The forecast is for further light rain over the weekend.
+
+We are monitoring rainfall and river levels.
+
+Avoid low lying roads near rivers, which may be flooded.
+
+This message will be updated by 19:00 06 Dec 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
@@ -90,13 +105,12 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 9:00AM on 07 December 2025 or as the situation changes.
 
-- Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
-- High tides over the next two days may lead to flooding. 
-Flooding is possible from 07:00PM to 08:00PM on 05/12/2025 and 07:00AM and 08:00AM on 06/12/2025 
-Areas most at risk include the tidal River Avon from Sea Mills to Conham in Bristol and between the Avonmouth Bridge and Shirehampton Park including Pill and Shirehampton. The first forecast high water at Avonmouth is 7.48mAODN at 07:15pm this evening 05/12/2025, with South Westerly Force 5 winds. The second forecast high water is at 7:30am on Saturday 06/12/2025 with a level of 7.61mAODN and Force 7 South Westerly winds. mAODN is height above average sea level. Flooding to roads and farmland is possible but properties are not currently expected to flood. 
-We are closely monitoring the situation and our incident response staff will be on site closing flood gates 
-Take care and avoid walking, cycling or driving through flood water and don't put yourself or others at risk 
-This message will be updated by 12:30PM on 06 December 2025 or as the situation changes.
+- Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Tidal conditions are expected to improve and no flooding is expected.  
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. 
+
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - Higher than normal tides on Friday evening and Saturday morning may lead to flooding. Flooding is possible from 9:15pm on Friday evening and 9:30am on Saturday morning. 
@@ -136,28 +150,17 @@ We are closely monitoring the situation . 
 Avoid using low lying footpaths and any bridges near local watercourses .Take care and avoid walking, cycling or driving through flood water 
 This message will be updated by 2:00PM on 06 December 2025 or as the situation changes. 
 
-- Flood alert: Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth
-- High tides tomorrow morning may lead to flooding. 
-Flooding is possible from 6:30AM to 8:30AM on 06 December 2025. 
-High spring tides are forecast tomorrow morning 06 December 2025. Areas most at risk include the Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth including Aust and Old Passage.
-The detailed tidal forecast for those who use it is for a peak level at Avonmouth of 7.63mAODN at 7:30AM on 06 December 2025 (mAODN is height above average sea level). Flooding is possible for up to an hour either side of this time due to higher-than-normal tides combined with Force 7 South Westerly winds. 
+- Warning no longer in force: Severn Estuary at Oldbury-on-Severn, Northwick and Avonmouth
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+The previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-After the morning high tide, the weather is more settled, and no flooding is expected in these areas 
-We are closely monitoring the situation and checking flood defences. 
-Take care and avoid walking, cycling or driving through flood water and avoid coastal roads, which may be flooded . 
-This message will be updated by 12:00PM on 06 December 2025 or as the situation changes.
-
-- Flood alert: Severn Estuary at Severn Beach
-- High tides tomorrow morning may lead to flooding. 
-Flooding is possible from 6:30AM to 8:30AM on 06 December 2025. 
-High spring tides are forecast tomorrow morning 06 December 2025. Areas most at risk include the Severn Estuary at Severn Beach including New Passage and Pilning.
-
-The detailed tidal forecast for those who use it is for a peak level at Avonmouth of 7.63mAODN at 7:30AM on 06 December 2025 (mAODN is height above average sea level.) Flooding is possible for up to an hour either side of this time due to higher-than-normal tides combined with Force 7 South Westerly winds. 
-
-After the morning high tide, the weather is more settled, and no flooding is expected in these areas. 
-We are closely monitoring the situation and checking flood defences. 
-Take care and avoid walking, cycling or driving through flood water and avoid coastal roads, which may be flooded 
-This message will be updated by 12:00PM on 06 December 2025 or as the situation changes.
+- Warning no longer in force: Severn Estuary at Severn Beach
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+The previous tide of concern has now passed,  the weather is more settled and no flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
 <!-- flood_marker ends -->

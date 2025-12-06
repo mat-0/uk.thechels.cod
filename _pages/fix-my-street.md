@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A number of potholes, 6th December :- [8510668](https://www.fixmystreet.com/report/8510668)
+- 3 Large consequitive pot holes on Church Road, 6th December :- [8510596](https://www.fixmystreet.com/report/8510596)
+- Street lights not working, 6th December :- [8510516](https://www.fixmystreet.com/report/8510516)
 - Multiple potholes around the first turning area in Orchard Rd. The road is clearly breaking up and they are impossible to avoid. This has been getting worse over the last few months., 6th December :- [8510158](https://www.fixmystreet.com/report/8510158)
 - Multiple potholes across the road surface, 6th December :- [8510100](https://www.fixmystreet.com/report/8510100)
 - Huge pot hole. Already damaged several cars, 6th December :- [8509963](https://www.fixmystreet.com/report/8509963)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Leaves on pavement, 6th December :- [8508736](https://www.fixmystreet.com/report/8508736)
 - Finlay Way is not fit for purpose, 6th December :- [8508585](https://www.fixmystreet.com/report/8508585)
 - Sign and plate pointing in different directions, 5th December :- [8508229](https://www.fixmystreet.com/report/8508229)
-- Light out, 5th December :- [8508225](https://www.fixmystreet.com/report/8508225)
-- Hyde lane,multiple pot holes on both sides of the road, 5th December :- [8508195](https://www.fixmystreet.com/report/8508195)
-- Two foot roots, 5th December :- [8507989](https://www.fixmystreet.com/report/8507989)
 
 <!-- fix_marker ends -->

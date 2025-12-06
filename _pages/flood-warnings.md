@@ -100,6 +100,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 9:00AM on 07 December 2025 or as the situation changes.
 
+- Flood alert: River Avon in Worcestershire
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible on 06 December 2025 . 
+Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. River levels at Bredon are predicted to peak between 1.9m and 2.2m on Sunday afternoon 07/12. Further rainfall is forecast next week which may see river levels rise further. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 07 December 2025 or as the situation changes.
+
 - Warning no longer in force: Tidal River Avon at Bristol, Pill and Shirehampton
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
 Tidal conditions are expected to improve and no flooding is expected.  
@@ -138,6 +146,22 @@ Flooding may affect low lying land and roads along the River Wye. Predicted peak
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
+
+- Flood alert: River Severn in Worcestershire
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible from the evening of 06 December 2025 . 
+Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn.  
+ 
+Predicted peaks:-  
+Worcester 3.1m to 3.5m on Sunday morning,  
+Diglis 2.7m to 3.1m on Sunday morning,  
+Kempsey Yacht Club 4.9m to 5.3m Sunday morning,
+Saxons Lode 3.8m to 4.2m on Sunday evening.    
+ 
+Further rainfall is forecast next week which may see river levels rise further. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 07 December 2025 or as the situation changes.
 
 - Warning no longer in force: Wye Estuary in Gloucestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

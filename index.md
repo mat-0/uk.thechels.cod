@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 06 December 2025
 
-- The average temperature today is 11.32˚C,
+- The average temperature today is 11.42˚C,
 - With highs of 12.21˚C and lows of 10.71˚C,
-- It may feel like 10.78˚C with broken clouds
-- The wind speed is 6.69m/s and visibility is 9000m
-- The pressure is 994hPa and humidity is 87%
+- It may feel like 10.78˚C with scattered clouds
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 996hPa and humidity is 83%
 - The sun will rise at 08:00 and set at 15:58
 
 <!-- weather_marker ends -->

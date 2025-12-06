@@ -71,10 +71,24 @@ Avoid low lying roads near rivers, which may be flooded . 
 This message will be updated by 11:00AM on 06 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.
-Predicted peaks:- Friday evening 05/12; Gloucester 3.45m to 3.65m at 9:15PM, Sandhurst 3.5m to 3.7m at 9:30PM.
-Saturday morning 06/12; Gloucester 3.5m to 3.7m at 9:30AM, Sandhurst 3.6m to 3.8m at 9:45AM.
-River levels are currently peaking and will remain high over the next few days. Additional rainfall is forecast overnight tonight, 05/12/2025. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. This message will be updated by 09:00AM on 6 December 2025, or as the situation changes.
+- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
+
+Predicted peaks:-  
+Saturday morning 06/12; Gloucester 3.5m to 3.7m at 9:30AM, Sandhurst 3.6m to 3.8m at 9:45AM. 
+
+River levels are currently peaking and will remain high over the next few days. Additional rainfall is forecast over the next few days. 
+
+We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
+
+This message will be updated by 02:00PM on 7 December 2025, or as the situation changes.
+
+- Flood alert: River Leadon catchment
+- High river levels today may lead to flooding. 
+Flooding is possible on 06 December 2025 . 
+Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 07 December 2025 or as the situation changes.
 
 - Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
 - High tides over the next two days may lead to flooding. 
@@ -96,6 +110,15 @@ Saturday morning 06/12; Gloucester 3.5m to 3.7m at 9:30AM, Sandhurst 3.6m to 3.8
 We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions.  
 
 This message will be updated by 2:00PM on 06 December 2025 or as the situation changes.
+
+- Flood alert: River Wye in Herefordshire
+- High river levels today have led to flooding. 
+Flooding is possible on 06 December 2025 . 
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye 2.0m to 2.4m on 06/12 PM, Bredwardine 3.6m to 3.8m on 06/12 PM, Belmont 3.8m to 4.0m on 06/12 PM, Old Wye Bridge 3.2m to 3.4on 06/12 overnight, Mordiford 3.8m to 4.1m on 06/12 overnight, Ross on Wye 3.6m to 3.9m on 07/12 PM. 
+. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides today may lead to flooding. Flooding is possible from 7:15pm on Friday evening and 7:30am on Saturday morning.  Locations most affected will be low lying land and roads near rivers or on the coast. A series of high tides is due over the next few days. Flooding may affect low lying land and roads adjacent the Wye Estuary from Redbrook to Chepstow.

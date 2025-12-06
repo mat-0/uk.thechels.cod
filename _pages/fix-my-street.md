@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Finlay Way is not fit for purpose, 6th December :- [8508585](https://www.fixmystreet.com/report/8508585)
 - Sign and plate pointing in different directions, 5th December :- [8508229](https://www.fixmystreet.com/report/8508229)
 - Light out, 5th December :- [8508225](https://www.fixmystreet.com/report/8508225)
 - Hyde lane,multiple pot holes on both sides of the road, 5th December :- [8508195](https://www.fixmystreet.com/report/8508195)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cable across the footpath, 5th December :- [8506782](https://www.fixmystreet.com/report/8506782)
 - Potholes next to Springfield park car park, 5th December :- [8506681](https://www.fixmystreet.com/report/8506681)
 - Undulating patched area that could cause damage to a bike rider, 5th December :- [8506600](https://www.fixmystreet.com/report/8506600)
-- Fly tripping at Springfield park in the parking area, 5th December :- [8506591](https://www.fixmystreet.com/report/8506591)
 
 <!-- fix_marker ends -->

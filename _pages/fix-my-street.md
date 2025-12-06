@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rocking paving slab, 6th December :- [8511278](https://www.fixmystreet.com/report/8511278)
 - The light is out on column 14 Albion Stree, Cheltenham, 6th December :- [8510978](https://www.fixmystreet.com/report/8510978)
 - Pot hole, 6th December :- [8510885](https://www.fixmystreet.com/report/8510885)
 - Bus stop, 6th December :- [8510828](https://www.fixmystreet.com/report/8510828)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Very large Pothole, 6th December :- [8509465](https://www.fixmystreet.com/report/8509465)
 - Pothole in existing patched pothole, 6th December :- [8509370](https://www.fixmystreet.com/report/8509370)
 - Collapsed road, 6th December :- [8509359](https://www.fixmystreet.com/report/8509359)
-- Long stretch of flooding due to blocked drain. Pedestrians getting soaked by passing traffic spraying the water onto the pavement. Water stays for hours /days after rain., 6th December :- [8509299](https://www.fixmystreet.com/report/8509299)
 
 <!-- fix_marker ends -->

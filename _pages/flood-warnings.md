@@ -140,12 +140,7 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- High river levels today may lead to flooding. 
-Flooding is possible on 06 December 2025 . 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.9m 07/12 PM, Lydbrook 4.2m to 4.7m 07/12 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 07 December 2025 or as the situation changes.
+- High river levels today may lead to flooding.  Flooding is possible on 07 December 2025 .  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.9m 07/12 PM, Lydbrook 4.7m to 4.9m 07/12 PM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 08 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - Rising river levels this evening may lead to flooding. 

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 07 December 2025
 
-- The average temperature today is 13.91˚C,
-- With highs of 14.42˚C and lows of 13.25˚C,
-- It may feel like 13.78˚C with overcast clouds
-- The wind speed is 6.17m/s and visibility is 5000m
-- The pressure is 995hPa and humidity is 93%
+- The average temperature today is 15.28˚C,
+- With highs of 16.1˚C and lows of 13.8˚C,
+- It may feel like 15.08˚C with broken clouds
+- The wind speed is 8.23m/s and visibility is 10000m
+- The pressure is 994hPa and humidity is 85%
 - The sun will rise at 08:01 and set at 15:58
 
 <!-- weather_marker ends -->

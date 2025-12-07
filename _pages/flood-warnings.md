@@ -139,15 +139,16 @@ Take care and avoid walking, cycling or driving through flood water .
 
 This message will be updated by 9:00AM on 08 December 2025 or as the situation changes.
 
-- Warning no longer in force: Wye Estuary in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Tidal conditions are expected to improve and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.  
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood warning: River Severn at Sandhurst and Maisemore
 - High river levels are expected to cause flooding Sunday evening. Flooding is expected on 07/12/2025. During high tides, flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted peaks:- Sunday evening 07/12; Gloucester 3.5m to 3.6m at 11:15PM, Sandhurst 3.7m to 3.9m at 11:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and Take care and avoid walking, cycling or driving through flood water. This message will be updated by 2:00pm on 08 December 2025 or as the situation changes.
+
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- High river levels are expected to cause flooding overnight. 
+Flooding is expected on 07 December 2025 . 
+Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.6m to 3.8m on 09/12 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 08 December 2025 or as the situation changes. 
 
 
 <!-- flood_marker ends -->

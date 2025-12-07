@@ -12,9 +12,9 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Flags to honour aviation engineer Sir George Dowty ([5 hours ago](https://www.bbc.com/news/articles/c5y98vdz8ldo?at_medium=RSS&at_campaign=rss))
-- 'New Santa experience' and 'first padel championships' ([5 hours ago](https://www.bbc.com/news/articles/cx2gqelk077o?at_medium=RSS&at_campaign=rss))
-- Met Office issues weather warning for rain ([23 hours ago](https://www.bbc.com/news/articles/c0mp8dyg2xyo?at_medium=RSS&at_campaign=rss))
+- Flags to honour aviation engineer Sir George Dowty ([7 hours ago](https://www.bbc.com/news/articles/c5y98vdz8ldo?at_medium=RSS&at_campaign=rss))
+- 'New Santa experience' and 'first padel championships' ([7 hours ago](https://www.bbc.com/news/articles/cx2gqelk077o?at_medium=RSS&at_campaign=rss))
+- Met Office issues weather warning for rain ([1 days ago](https://www.bbc.com/news/articles/c0mp8dyg2xyo?at_medium=RSS&at_campaign=rss))
 - Workers say minimum wage rise is double-edged sword ([1 days ago](https://www.bbc.com/news/articles/cdrn360eg0yo?at_medium=RSS&at_campaign=rss))
 - Women swim in cold water in 'bonkers' challenge ([1 days ago](https://www.bbc.com/news/articles/c36z5283y32o?at_medium=RSS&at_campaign=rss))
 - 'Lifeboat generations' and 'chaotic Bath market' ([1 days ago](https://www.bbc.com/news/articles/c741nzm9r90o?at_medium=RSS&at_campaign=rss))
@@ -56,8 +56,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Survey open for parent carers to help shape future SEND services ([11 days ago](https://gloucesternewscentre.co.uk/survey-open-for-parent-carers-to-help-shape-future-send-services/))
 - 16 Days of Activism launches in Cheltenham as a push for safer spaces for women and girls ([12 days ago](https://www.cheltenham.gov.uk/news/article/3072/16_days_of_activism_launches_in_cheltenham_as_a_push_for_safer_spaces_for_women_and_girls))
 - All three local government reorganisation plans to be sent to ministers ([12 days ago](https://gloucesternewscentre.co.uk/all-three-local-government-reorganisation-plans-to-be-sent-to-ministers/))
-- Man dies following collision near Cheltenham ([12 days ago](https://gloucesternewscentre.co.uk/man-dies-following-collision-near-cheltenham/))
-- Cheltenham performing arts teacher honoured at national PQA awards ([12 days ago](https://gloucesternewscentre.co.uk/cheltenham-performing-arts-teacher-honoured-at-national-pqa-awards/))
+- Man dies following collision near Cheltenham ([13 days ago](https://gloucesternewscentre.co.uk/man-dies-following-collision-near-cheltenham/))
+- Cheltenham performing arts teacher honoured at national PQA awards ([13 days ago](https://gloucesternewscentre.co.uk/cheltenham-performing-arts-teacher-honoured-at-national-pqa-awards/))
 - High school students and Leckhampton Rovers score goal with new sustainability trail app ([13 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
 - Town centre building collapse scare causes 11-month delay to revamp ([15 days ago](https://gloucesternewscentre.co.uk/town-centre-building-collapse-scare-causes-11-month-delay-to-revamp/))
 - Views sought on plans for houses or new care home on former university campus ([15 days ago](https://gloucesternewscentre.co.uk/views-sought-on-plans-for-houses-or-new-care-home-on-former-university-campus/))

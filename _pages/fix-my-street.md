@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing pavement?, 6th December :- [8511433](https://www.fixmystreet.com/report/8511433)
+- Large sinkhole/dip, 6th December :- [8511429](https://www.fixmystreet.com/report/8511429)
+- Several old tarpaulins dumped on the verge, 6th December :- [8511396](https://www.fixmystreet.com/report/8511396)
+- Broken glass. Reported some time ago, not yet fixed., 6th December :- [8511389](https://www.fixmystreet.com/report/8511389)
+- Pothole, 6th December :- [8511380](https://www.fixmystreet.com/report/8511380)
 - Rocking paving slab, 6th December :- [8511278](https://www.fixmystreet.com/report/8511278)
 - The light is out on column 14 Albion Stree, Cheltenham, 6th December :- [8510978](https://www.fixmystreet.com/report/8510978)
 - Pot hole, 6th December :- [8510885](https://www.fixmystreet.com/report/8510885)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes across the road surface, 6th December :- [8510100](https://www.fixmystreet.com/report/8510100)
 - Huge pot hole. Already damaged several cars, 6th December :- [8509963](https://www.fixmystreet.com/report/8509963)
 - 12 inch pothole approx 4-6 inch deep, 6th December :- [8509947](https://www.fixmystreet.com/report/8509947)
-- Several potholes maybe 8 in total, 6th December :- [8509750](https://www.fixmystreet.com/report/8509750)
-- Dangerous pothole with significant risk to cyclists and other road users, 6th December :- [8509632](https://www.fixmystreet.com/report/8509632)
-- Very large Pothole, 6th December :- [8509465](https://www.fixmystreet.com/report/8509465)
-- Pothole in existing patched pothole, 6th December :- [8509370](https://www.fixmystreet.com/report/8509370)
-- Collapsed road, 6th December :- [8509359](https://www.fixmystreet.com/report/8509359)
 
 <!-- fix_marker ends -->

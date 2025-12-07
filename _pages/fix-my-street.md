@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The roundabout has been disrupted for almost 2 months restricting traffic flow, rarely is anyone working on it, it is not on your works map, we are approaching 2 race meeting events that will traffic chaos again, how much longer is this going on ? Can you remove lane restrictions when no one working at least., 7th December :- [8512322](https://www.fixmystreet.com/report/8512322)
+- 30mph/national speed limit signs, 7th December :- [8512283](https://www.fixmystreet.com/report/8512283)
+- Litter bags for collection, 7th December :- [8512266](https://www.fixmystreet.com/report/8512266)
+- Grey Fiat with no mot on Bayshill Road, 7th December :- [8512126](https://www.fixmystreet.com/report/8512126)
 - Deep unavoidable pothole caused by the deteriorating weather and volume of traffic now using this road, 7th December :- [8512062](https://www.fixmystreet.com/report/8512062)
 - Tree fallen on orchard way, 7th December :- [8511889](https://www.fixmystreet.com/report/8511889)
 - Pot hole on Charlton Rd, 7th December :- [8511645](https://www.fixmystreet.com/report/8511645)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - The light is out on column 14 Albion Stree, Cheltenham, 6th December :- [8510978](https://www.fixmystreet.com/report/8510978)
 - Pot hole, 6th December :- [8510885](https://www.fixmystreet.com/report/8510885)
 - Bus stop, 6th December :- [8510828](https://www.fixmystreet.com/report/8510828)
-- I have been reporting this for about 4 years the trees over hang my garden, 6th December :- [8510804](https://www.fixmystreet.com/report/8510804)
-- A pothole in road problem, 6th December :- [8510854](https://www.fixmystreet.com/report/8510854)
-- Bin full by Friday evening, 6th December :- [8510737](https://www.fixmystreet.com/report/8510737)
-- The rubbish bin on the corner of Winchcombe Street and Clarence Road is overflowing by Friday so by the end of the weekend there is rubbish all over the pavement., 6th December :- [8510709](https://www.fixmystreet.com/report/8510709)
 
 <!-- fix_marker ends -->

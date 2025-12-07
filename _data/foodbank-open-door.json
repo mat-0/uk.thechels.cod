@@ -26,6 +26,7 @@
   "locations": [],
   "donationpoints": [
     {
+      "id": "4f737ea4-3fa6-4f9c-a1ae-d25acd94e819",
       "name": "Cheltenham Household Essentials Project",
       "slug": "cheltenham-household-essentials-project",
       "address": "Ron Smith Pavilion\r\nSpringbank Way\r\nCheltenham\r\nGL51 0LH",
@@ -48,6 +49,7 @@
       }
     },
     {
+      "id": "dcb5e9ca-faeb-4806-8bfd-e3a32874a965",
       "name": "Emmaus",
       "slug": "emmaus",
       "address": "147-151 Bath Road\r\nCheltenham\r\nGL53 7LT",

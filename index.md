@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 08 December 2025
 
-- The average temperature today is 13.16˚C,
-- With highs of 13.49˚C and lows of 12.75˚C,
-- It may feel like 12.57˚C with scattered clouds
-- The wind speed is 5.66m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 78%
+- The average temperature today is 12.83˚C,
+- With highs of 13.31˚C and lows of 12.38˚C,
+- It may feel like 12.26˚C with scattered clouds
+- The wind speed is 4.12m/s and visibility is 10000m
+- The pressure is 1006hPa and humidity is 80%
 - The sun will rise at 08:02 and set at 15:58
 
 <!-- weather_marker ends -->

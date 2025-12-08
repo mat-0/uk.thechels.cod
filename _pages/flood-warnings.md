@@ -85,8 +85,27 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
 
+- Flood alert: Tributaries in Cheltenham and Tewkesbury
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible on 09 December 2025 . 
+Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks during high tides: - Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. Additional rainfall is forecast over the next few days. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded. This message will be updated by 2:00PM on 8 December 2025, or as the situation changes.
+- River levels remain high due to recent rainfall, flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
+
+Predicted peaks:-  
+
+Tuesday morning 09/12; Gloucester 2.9m to 3.2m at 00:00AM, Sandhurst 3.4m to 3.6m at 00:30AM. 
+Tuesday afternoon 09/12; Gloucester 3.2 to 3.5m at 12:00PM, Sandhurst 3.6m to 3.8m at 12:30PM 
+
+River levels are currently peaking and will remain high over the next few days. Additional rainfall is forecast over the next 48 hours. 
+
+We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and avoid low lying roads near rivers, which may be flooded.  
+
+This message will be updated by 2:00PM on 9 December 2025, or as the situation change.
 
 - Flood alert: River Leadon catchment
 - High river levels today may lead to flooding. 
@@ -115,17 +134,18 @@ Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides on Sunday evening and Monday morning may lead to flooding. Flooding is possible from 11:15pm on Sunday evening and 11:30am on Monday morning.
+- Higher than normal tides may lead to flooding over the next few days. 
 
-Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
 
 Predicted peaks: - 
-Sunday evening 07/12; Gloucester 3.5m to 3.6m at 23:15PM, Sandhurst 3.7m to 3.9m at 23:30PM. 
-Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. 
 
-We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions. 
+Tuesday morning 09/12; Gloucester 2.9m to 3.2m at 00:00AM, Sandhurst 3.4m to 3.6m at 00:30AM. 
+Tuesday afternoon 09/12; Gloucester 3.2 to 3.5m at 12:00PM, Sandhurst 3.6m to 3.8m at 12:30PM. 
 
-This message will be updated by 2:00PM on 08 December 2025 or as the situation changes.
+We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions.  
+
+This message will be updated by 2:00PM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - High river levels tomorrow may lead to flooding. 
@@ -162,8 +182,12 @@ Take care and avoid walking, cycling or driving through flood water .
 
 This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
-- Flood warning: River Severn at Sandhurst and Maisemore
-- High river levels are expected to cause flooding Sunday evening. Flooding is expected on 07/12/2025. During high tides, flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted peaks:- Sunday evening 07/12; Gloucester 3.5m to 3.6m at 11:15PM, Sandhurst 3.7m to 3.9m at 11:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and Take care and avoid walking, cycling or driving through flood water. This message will be updated by 2:00pm on 08 December 2025 or as the situation changes.
+- Warning no longer in force: River Severn at Sandhurst and Maisemore
+- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so.   
+
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - High river levels are expected to cause flooding today. Flooding is expected on 08 December 2025.  

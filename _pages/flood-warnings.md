@@ -25,65 +25,65 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-Flooding is possible from the morning of the 08 Dec 2025.
+Flooding is possible from the evening of the 08 Dec 2025.
 
-Flooding of low lying land and roads is possible today, along the River Churn around Cerney Wick. The weather forecast is for further rain over the next two days which could be heavy at times. We expect river levels to remain high.
+Flooding of low lying land and roads is possible tonight, along the River Churn around Cerney Wick. The weather forecast is for further rain heavy at times. We expect river levels to remain high.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - Rising river levels may lead to flooding.
 
-Flooding is possible from the morning of 08 Dec 2025.
+Flooding is possible from the evening of 08 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Newbridge area. The weather forecast is for further rain over the next two days which could be heavy at times.
+Flooding of low lying land and roads is possible, especially in the Newbridge area. The weather forecast is for further rain heavy at times.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding.
 
-Flooding is possible from the morning of 08 Dec 2025.
+Flooding is possible from the evening of 08 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. The weather forecast is for further rain over the next two days which could be heavy at times.
+Flooding of low lying land and roads is possible, especially in the Shipton under Wychwood and Woodstock areas. The weather forecast is for further rain heavy at times.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
+This message will be updated by 1100 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels may lead to flooding.
 
-Flooding is possible from the morning of the 08 Dec 2025.
+Flooding is possible from the evening of the 08 Dec 2025.
 
-Flooding of low lying land and roads is possible today, 08 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain over the next two days which could be heavy at times. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is possible tonight, 08 Dec 2025, along the River Thames, especially in the Kempsford area. This is as a result of rivers responding to recent rainfall. The weather forecast is for further rain heavy at times. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding.
 
-Flooding is possible from the morning of 08 Dec 2025.
+Flooding is possible from the evening of 08 Dec 2025.
 
-Flooding of low lying land and roads is possible, especially in the Lechlade area. The weather forecast is for further rain over the next two days which could be heavy at times.
+Flooding of low lying land and roads is possible, especially in the Lechlade area. The weather forecast is for further rain heavy at times.
 
 We are monitoring rainfall and river levels.
 
 Avoid low lying roads near rivers, which may be flooded.
 
-This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
+This message will be updated by 11:00 on 09 Dec 2025 or as the situation changes.
 
 - Flood alert: Tributaries in Gloucester
 - Forecast rising river levels overnight may lead to flooding. 

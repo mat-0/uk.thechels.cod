@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Vehicles being driven over/parked on grass verge, 8th December :- [8519194](https://www.fixmystreet.com/report/8519194)
+- Street light 15 not working, 8th December :- [8519151](https://www.fixmystreet.com/report/8519151)
 - 16 inch pothole 6m before coopers hill house, 8th December :- [8518925](https://www.fixmystreet.com/report/8518925)
 - Carpet on pavement St George’s St, 8th December :- [8518919](https://www.fixmystreet.com/report/8518919)
 - Mattress on pavement outside 14 St George’s Street, 8th December :- [8518910](https://www.fixmystreet.com/report/8518910)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 8th December :- [8518283](https://www.fixmystreet.com/report/8518283)
 - TMC - Defects -CW10 Potholes problem, 8th December :- [8518282](https://www.fixmystreet.com/report/8518282)
 - Tree is damaged problem, 8th December :- [8518075](https://www.fixmystreet.com/report/8518075)
-- TMC - Defects -CW10 Potholes problem, 8th December :- [8518281](https://www.fixmystreet.com/report/8518281)
-- 12 inch pothole along the line where the slip road leaves the main road, 8th December :- [8518022](https://www.fixmystreet.com/report/8518022)
 
 <!-- fix_marker ends -->

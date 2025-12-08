@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Both pathways are blocked each side of road so pedestrians with buggy’s or wheelchairs have to go up the road, 8th December :- [8515038](https://www.fixmystreet.com/report/8515038)
+- Extremely LARGE and DANGEROUS hole, just past The Oaklands. Yes, it has been reported already but a programmed repair is not good enough. This could cause a fatality!, 8th December :- [8514893](https://www.fixmystreet.com/report/8514893)
+- Deep pothole by entry to Lilleybrook Care Home, 8th December :- [8514759](https://www.fixmystreet.com/report/8514759)
+- Road works and Bin Men, 8th December :- [8514725](https://www.fixmystreet.com/report/8514725)
+- TMC - Defects -CW6 Potholes  problem, 8th December :- [8514944](https://www.fixmystreet.com/report/8514944)
+- TMC - Defects -CW6 Potholes  problem, 8th December :- [8514943](https://www.fixmystreet.com/report/8514943)
 - Signage needed to show these are not 3 way lights anymore, 7th December :- [8514282](https://www.fixmystreet.com/report/8514282)
 - Unavoidable pot hole on road., 7th December :- [8514143](https://www.fixmystreet.com/report/8514143)
 - Driving past bacon Theatre on Hatherley road, didn’t see pothole, then ‘bang’ as I drove over it, it seemed quite deep, had to inspect my true., 7th December :- [8513795](https://www.fixmystreet.com/report/8513795)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - 30mph/national speed limit signs, 7th December :- [8512283](https://www.fixmystreet.com/report/8512283)
 - Litter bags for collection, 7th December :- [8512266](https://www.fixmystreet.com/report/8512266)
 - Grey Fiat with no mot on Bayshill Road, 7th December :- [8512126](https://www.fixmystreet.com/report/8512126)
-- Deep unavoidable pothole caused by the deteriorating weather and volume of traffic now using this road, 7th December :- [8512062](https://www.fixmystreet.com/report/8512062)
-- Tree fallen on orchard way, 7th December :- [8511889](https://www.fixmystreet.com/report/8511889)
-- Pot hole on Charlton Rd, 7th December :- [8511645](https://www.fixmystreet.com/report/8511645)
-- Pothole, 7th December :- [8511627](https://www.fixmystreet.com/report/8511627)
-- Cycle path, 7th December :- [8511612](https://www.fixmystreet.com/report/8511612)
-- Shopping trolley dumped in watercourse/ drainage outlet, 7th December :- [8511533](https://www.fixmystreet.com/report/8511533)
 
 <!-- fix_marker ends -->

@@ -93,24 +93,26 @@ This message will be updated by 11:00 08 Dec 2025 or as the situation changes.
 
 Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  
 
-Further rainfall is forecast next week which may see river levels rise further. We are closely monitoring the situation.  
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 9:00AM on 08 December 2025 or as the situation changes.
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - High river levels today may lead to flooding. 
 
 Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted.  
 
-River levels at Bredon are predicted to peak between 2.0m and 2.2m this morning, Sunday 07/12/25. Further rainfall is forecast next week which may see river levels rise further.  
+Predicted peaks: -  
 
-We are closely monitoring the situation.  
+Bredon is currently peaking at 2.2m, 08/12/25. 
+
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 9:00AM on 08 December 2025 or as the situation changes.
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - High tides on Sunday evening and Monday morning may lead to flooding. Flooding is possible from 11:15pm on Sunday evening and 11:30am on Monday morning.
@@ -132,33 +134,41 @@ This message will be updated by 2:00PM on 08 December 2025 or as the situation c
 - High river levels today may lead to flooding.  Flooding is possible on 07 December 2025 .  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.6m to 3.9m 07/12 PM, Lydbrook 4.7m to 4.9m 07/12 PM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 08 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- High river levels today may lead to flooding. 
+- High river levels today may lead to flooding.  
 
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. 
 
 Predicted peaks:- 
-Worcester 3.3m to 3.5m this morning, 07/12/25. 
-Diglis 3.1m to 3.2m this morning, 07/12/25 
-Kempsey Yacht Club 5.2m to 5.3m this morning, 07/12/25. 
-Saxons Lode 3.9m to 4.3m this morning, 07/12/25. 
-Bewdley 3.2m to 3.6m on Tuesday morning, 07/12/25. 
 
-Further rainfall is forecast next week which may see river levels rise further. We are closely monitoring the situation.  
+Worcester is currently peaking at 3.5m, 08/12/25. 
+Diglis is currently peaking at 3.3m, 08/12/25. 
+Kempsey Yacht Club is currently peaking at 5.4m, 08/12/25. 
+Saxons Lode is currently peaking at 4.1m, 08/12/25. 
+Bewdley 3.0m to 3.4m on Tuesday, 09/12/25. 
+
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water .  
 
-This message will be updated by 9:00AM on 08 December 2025 or as the situation changes.
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Sandhurst and Maisemore
 - High river levels are expected to cause flooding Sunday evening. Flooding is expected on 07/12/2025. During high tides, flooding may affect Coal Wharf and Riverside, Maisemore and Sandhurst Lane. A417 Over to Maisemore (fluvial and tidal). Properties in Base Lane Sandhurst, Sandhurst Lane and Riverside, Maisemore. Predicted peaks:- Sunday evening 07/12; Gloucester 3.5m to 3.6m at 11:15PM, Sandhurst 3.7m to 3.9m at 11:30PM. Monday morning 08/12; Gloucester 3.5m to 3.6m at 11:30AM, Sandhurst 3.7m to 3.9m at 11:45AM. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses and Take care and avoid walking, cycling or driving through flood water. This message will be updated by 2:00pm on 08 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- High river levels are expected to cause flooding overnight. 
-Flooding is expected on 07 December 2025 . 
-Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peaks:- at Mythe 3.6m to 3.8m on 09/12 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 08 December 2025 or as the situation changes. 
+- High river levels are expected to cause flooding today. Flooding is expected on 08 December 2025.  
+
+Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley.  
+
+Predicted peaks:-  
+
+Mythe is currently peaking at 3.6m, 08/12/25. 
+
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
+
+Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

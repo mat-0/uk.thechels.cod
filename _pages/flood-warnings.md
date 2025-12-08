@@ -85,6 +85,14 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 on 08 Dec 2025 or as the situation changes.
 
+- Flood alert: Tributaries in Gloucester
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible on 09 December 2025 . 
+Flooding may affect  low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
+
 - Flood alert: Tributaries in Cheltenham and Tewkesbury
 - Forecast rising river levels overnight may lead to flooding. 
 Flooding is possible on 09 December 2025 . 
@@ -154,6 +162,14 @@ Flooding may affect low lying land and roads along the River Wye from Hay on Wye
 We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 09 December 2025 or as the situation changes.
+
+- Flood alert: Rivers in the Forest of Dean
+- Forecast rising river levels overnight may lead to flooding. 
+Flooding is possible on 09 December 2025 . 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 9:00AM on 09 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels on Wednesday may lead to flooding. 

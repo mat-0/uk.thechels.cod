@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- BOTH street lights have stopped working, 10th December :- [8531063](https://www.fixmystreet.com/report/8531063)
+- Potholes dangerous, 10th December :- [8530918](https://www.fixmystreet.com/report/8530918)
+- Graffiti on the wall, 10th December :- [8530816](https://www.fixmystreet.com/report/8530816)
 - Concrete broken, 10th December :- [8530664](https://www.fixmystreet.com/report/8530664)
 - Intimidating horse blocking public footpath, 10th December :- [8530598](https://www.fixmystreet.com/report/8530598)
 - Streetlights are out, 10th December :- [8530576](https://www.fixmystreet.com/report/8530576)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 10th December :- [8529633](https://www.fixmystreet.com/report/8529633)
 - TMC - Defects -CW6 Potholes  problem, 10th December :- [8529619](https://www.fixmystreet.com/report/8529619)
 - Deep pothole at junction of Mead Road and Nuunton Lane, 10th December :- [8529451](https://www.fixmystreet.com/report/8529451)
-- TMC - Defects -CW6 Potholes  problem, 10th December :- [8529615](https://www.fixmystreet.com/report/8529615)
-- TMC - Defects -CW6 Potholes  problem, 10th December :- [8529614](https://www.fixmystreet.com/report/8529614)
-- TMC - Defects -CW6 Potholes  problem, 10th December :- [8529613](https://www.fixmystreet.com/report/8529613)
 
 <!-- fix_marker ends -->

@@ -180,19 +180,12 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 on 10 Dec 2025 or as the situation changes.
 
-- Flood alert: Severn estuary from Gloucester to Sharpness
-- Higher than normal tides may lead to flooding over the next few days. 
+- Warning no longer in force: Severn estuary from Gloucester to Sharpness
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+We do not expect to see similar impacts from the next high tide. River levels are expected to remain high as a result of rainfall in the upper catchment. 
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
 
-Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the coming days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded.  
-
-Predicted peaks: - 
-
-Wednesday morning 10/12; Gloucester 2.9m to 3.2m at 01:00AM, Sandhurst 3.5m to 3.7m at 01:30AM 
-Wednesday afternoon 10/12; Gloucester 2.9m to 3.2m at 13:30PM, Sandhurst 3.6m to 3.7m at 13:45PM. 
-
-We are closely monitoring the situation. Please continue to monitor local water levels and weather conditions.  
-
-This message will be updated by 2:00PM on 10 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - High river levels today may lead to flooding. Flooding is possible on 10 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye 3.63m at 20:45 09/12 PM, Bredwardine 5.7m to 6.0m on 10/12 AM, Belmont 5.1m to 5.5m on 10/12 PM, Old Wye Bridge 4.4m to 4.7m on 10/12 PM, Mordiford 4.6m to 4.9m on 10/12 PM, Ross on Wye 3.8m to 4.3m on 10/12 overnight. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 11 December 2025 or as the situation changes.

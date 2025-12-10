@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Filter light not working, 10th December :- [8526617](https://www.fixmystreet.com/report/8526617)
+- Huge potholes on both sides of the road. This is lethal and will result in the death of a cyclist if you don't act on this! Cyclists having to swerve into traffic to avoid both side on poorly lit roads!, 10th December :- [8526507](https://www.fixmystreet.com/report/8526507)
+- Large tree branch on pavement, 10th December :- [8526504](https://www.fixmystreet.com/report/8526504)
+- National Grid fault - excavation unlit and extending into roadway and footpath, 10th December :- [8526417](https://www.fixmystreet.com/report/8526417)
+- Large white door in park, 10th December :- [8526348](https://www.fixmystreet.com/report/8526348)
 - Reoccurrence of previously repaired pothole, 9th December :- [8525971](https://www.fixmystreet.com/report/8525971)
 - Speed warning sign not working, 9th December :- [8525964](https://www.fixmystreet.com/report/8525964)
 - Breakdown of large area around manhole cover, 9th December :- [8525840](https://www.fixmystreet.com/report/8525840)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Ongoing Neglect of Elmfield Avenue and Elmfield Street, 9th December :- [8524314](https://www.fixmystreet.com/report/8524314)
 - Tree is damaged problem, 9th December :- [8524360](https://www.fixmystreet.com/report/8524360)
 - Deep potholes around drains, 9th December :- [8524289](https://www.fixmystreet.com/report/8524289)
-- Pothole on northbound carriageway, 9th December :- [8524281](https://www.fixmystreet.com/report/8524281)
-- Uneven manhole cover in comparison to the road, cause noticeable dip when driving, 9th December :- [8524245](https://www.fixmystreet.com/report/8524245)
-- Pothole in newly paved road, 9th December :- [8524176](https://www.fixmystreet.com/report/8524176)
-- A pothole in road problem, 9th December :- [8523942](https://www.fixmystreet.com/report/8523942)
-- Pothole, 9th December :- [8523869](https://www.fixmystreet.com/report/8523869)
 
 <!-- fix_marker ends -->

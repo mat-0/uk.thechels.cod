@@ -23,93 +23,93 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are high but are now falling. Further rainfall is, however, forecast later this week. We are closely monitoring the situation and will update this message by 11:30AM on 11 December 2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
-- High river levels may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025 .
+Flooding remains possible through the day on 11 December 2025 .
 
-Flooding of low lying land and roads is expected to continue along the River Churn around Cerney Wick. The forecast is for a predominantly dry night with the possibility of isolated showers. Levels are currently high but stable. We expect river levels to remain high over the coming days.
+Flooding of low lying land and roads is expected to continue along the River Churn around Cerney Wick. The forecast is for a predominantly dry day with the possibility of isolated showers. Levels are currently high but stable. We expect river levels to remain high over the coming days.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes.
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- High river levels may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025.
+Flooding remains possible through the day on 11 December 2025.
 
-Flooding of low lying land and roads is possible, especially in the Newbridge area. The forecast is for a predominantly dry night with the possibility of isolated showers. River levels are currently high but stable. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads is possible, especially in the Newbridge area. The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are currently high but stable. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes.
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- High river levels may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025.
+Flooding remains possible through the day on 11 December 2025.
 
-Flooding of low lying land and roads is expected to continue, especially in the Shipton under Wychwood and Woodstock areas.  The forecast is for a predominantly dry night with the possibility of isolated showers. Levels are starting to fall slowly along the Evenlode, but will remain high over the coming days. River levels on the Glyme are very slowly rising but expected to stabilise into tomorrow, 11 December 2025.
+Flooding of low lying land and roads is expected to continue, especially in the Shipton under Wychwood and Woodstock areas.  The forecast is for a predominantly dry day with the possibility of isolated showers. Levels are starting to fall slowly along the Evenlode, but will remain high over the coming days. River levels on the Glyme are very slowly rising but expected to stabilise through today, 11 December 2025.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes.
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- High river levels may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025 .
+Flooding remains possible through the day on 11 December 2025 .
 
-Flooding of low lying land and roads is expected to continue overnight, 10 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for a predominantly dry night with the possibility of isolated showers. River levels are currently high and stable. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is expected to continue today, 11 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are currently high and stable. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes.
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025.
+Flooding remains possible through the day on 11 December 2025.
 
-Flooding of low lying land and roads is possible, especially in the Bourton on the Water area. The forecast is for a predominantly dry night with the possibility of isolated showers. River levels are falling slowly and expected to continue falling overnight. 
+Flooding of low lying land and roads is possible, especially in the Bourton on the Water area. The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are falling slowly and expected to continue falling through today. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes."
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- High river levels may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025
+Flooding remains possible through the day on 11 December 2025
 
-Flooding of low lying land and roads iis expected to continue overnight on 10 December 2025, especially in the Lechlade area.  The forecast is for a predominantly dry night with the possibility of isolated showers.River levels are currently high but stable. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads iis expected to continue through the day on 11 December 2025, especially in the Lechlade area.  The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are currently high but stable. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes.
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - "High river levels may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025
+Flooding remains possible through the day on 11 December 2025
 
-Flooding of low lying land and roads is possible, especially in the Oaksey area. The forecast is for a predominantly dry night with the possibility of isolated showers. River levels are starting to fall slowly. We expect levels to continue to fall overnight.
+Flooding of low lying land and roads is possible, especially in the Oaksey area. The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are starting to fall slowly. We expect levels to continue to fall through today.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes."
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Warning no longer in force: Tributaries in Gloucester
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -148,15 +148,15 @@ This message will be updated by 10:00AM on 11 December 2025 or as the situation 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - "High river levels this morning may lead to flooding. 
 
-Flooding remains possible overnight on 10 December 2025.
+Flooding remains possible through the day on 11 December 2025.
 
-Flooding of low lying land and roads is expected to continue along many parts of the River Thames between Lechlade and Eynsham.The forecast is for a predominantly dry night with the possibility of isolated showers. River levels are expected to continue rising slowly overnight as water moves downstream.
+Flooding of low lying land and roads is expected to continue along many parts of the River Thames between Lechlade and Eynsham. The forecast is for a predominantly dry day with the possibility of isolated showers. River levels are expected to continue rising slowly through today between Radcot and Eynsham as water moves downstream. Further upstream of Radcot, levels are slowly falling. River levels are expected to remain high over the coming days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 09:00 11 December 2025 or as the situation changes."
+This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
 - Warning no longer in force: Severn estuary from Gloucester to Sharpness
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

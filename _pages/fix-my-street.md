@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Resurfaced road already deteriorated!, 11th December :- [8536171](https://www.fixmystreet.com/report/8536171)
+- Broken Contractor Sign Twisted in Verge Near Road, 11th December :- [8536054](https://www.fixmystreet.com/report/8536054)
+- Large deep pot-hole in road, before corner, 11th December :- [8536048](https://www.fixmystreet.com/report/8536048)
+- A pothole in road problem, 11th December :- [8536101](https://www.fixmystreet.com/report/8536101)
+- Abandoned roadwork signs blocking the pavement on Justica Way, just after the first speed bump., 11th December :- [8535955](https://www.fixmystreet.com/report/8535955)
+- Constant dog fouling, 11th December :- [8535921](https://www.fixmystreet.com/report/8535921)
 - Sharp edged pothole on entrance to windyridge road, 11th December :- [8535884](https://www.fixmystreet.com/report/8535884)
 - Footbridge Rotten, 11th December :- [8535740](https://www.fixmystreet.com/report/8535740)
 - Drain is blocked and road flooding, 11th December :- [8535669](https://www.fixmystreet.com/report/8535669)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Very deep pothole edge of road, difficult to avoid as road very narrow, 11th December :- [8533340](https://www.fixmystreet.com/report/8533340)
 - Large and deep potholes along marsland road, 11th December :- [8533338](https://www.fixmystreet.com/report/8533338)
 - Pothole adjacent to previous repair centre of road, 11th December :- [8533294](https://www.fixmystreet.com/report/8533294)
-- Large deep potholes in road, 11th December :- [8533291](https://www.fixmystreet.com/report/8533291)
-- 2 potholes close together plus very poor surface area of road - been repaired at least 3 times in last 5 years - please fix whole area properly and remove debris from area, 11th December :- [8533280](https://www.fixmystreet.com/report/8533280)
-- TMC - Defects -other CW6 problem, 11th December :- [8533458](https://www.fixmystreet.com/report/8533458)
-- TMC - Defects -CW6 Potholes  problem, 11th December :- [8533223](https://www.fixmystreet.com/report/8533223)
-- TMC - Defects -CW6 Potholes  problem, 11th December :- [8533222](https://www.fixmystreet.com/report/8533222)
-- TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
 
 <!-- fix_marker ends -->

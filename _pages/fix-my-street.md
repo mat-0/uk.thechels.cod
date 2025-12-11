@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Missing sign for Restricted Byway, 11th December :- [8533894](https://www.fixmystreet.com/report/8533894)
+- Large series of dangerous potholes are growing, 11th December :- [8533670](https://www.fixmystreet.com/report/8533670)
+- Very deep pothole edge of road, difficult to avoid as road very narrow, 11th December :- [8533340](https://www.fixmystreet.com/report/8533340)
+- Large and deep potholes along marsland road, 11th December :- [8533338](https://www.fixmystreet.com/report/8533338)
+- Pothole adjacent to previous repair centre of road, 11th December :- [8533294](https://www.fixmystreet.com/report/8533294)
+- Large deep potholes in road, 11th December :- [8533291](https://www.fixmystreet.com/report/8533291)
+- 2 potholes close together plus very poor surface area of road - been repaired at least 3 times in last 5 years - please fix whole area properly and remove debris from area, 11th December :- [8533280](https://www.fixmystreet.com/report/8533280)
+- TMC - Defects -other CW6 problem, 11th December :- [8533458](https://www.fixmystreet.com/report/8533458)
+- TMC - Defects -CW6 Potholes  problem, 11th December :- [8533223](https://www.fixmystreet.com/report/8533223)
+- TMC - Defects -CW6 Potholes  problem, 11th December :- [8533222](https://www.fixmystreet.com/report/8533222)
+- TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
+- TMC - Defects -FW6 Potholes problem, 11th December :- [8533219](https://www.fixmystreet.com/report/8533219)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533005](https://www.fixmystreet.com/report/8533005)
 - Constant rubbish blocking the pavement, 11th December :- [8532949](https://www.fixmystreet.com/report/8532949)
 - 2 large potholes on both sides of this fast road, cars swerving to avoid., 11th December :- [8532566](https://www.fixmystreet.com/report/8532566)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other FW6  Surface problem, 11th December :- [8532517](https://www.fixmystreet.com/report/8532517)
 - TMC - Defects -CW10 Potholes problem, 11th December :- [8532507](https://www.fixmystreet.com/report/8532507)
 - Another pothole, 11th December :- [8532221](https://www.fixmystreet.com/report/8532221)
-- Dangerous pothole, 11th December :- [8532218](https://www.fixmystreet.com/report/8532218)
-- A pothole in road problem, 11th December :- [8532288](https://www.fixmystreet.com/report/8532288)
-- Large deep pothole, 11th December :- [8532211](https://www.fixmystreet.com/report/8532211)
-- Another large pothole, 11th December :- [8532204](https://www.fixmystreet.com/report/8532204)
-- More potholes on harp hill, 11th December :- [8532198](https://www.fixmystreet.com/report/8532198)
-- Deep pothole, 11th December :- [8532188](https://www.fixmystreet.com/report/8532188)
-- Another pothole, 11th December :- [8532182](https://www.fixmystreet.com/report/8532182)
-- Another pothole, 11th December :- [8532179](https://www.fixmystreet.com/report/8532179)
-- More road disintegration / pothole, 11th December :- [8532175](https://www.fixmystreet.com/report/8532175)
-- Post or sign leaning slightly (less than 20 degrees) problem, 11th December :- [8532736](https://www.fixmystreet.com/report/8532736)
-- Road Ahead Closed sign, 11th December :- [8532010](https://www.fixmystreet.com/report/8532010)
-- Ovenon/by path, 11th December :- [8532007](https://www.fixmystreet.com/report/8532007)
 
 <!-- fix_marker ends -->

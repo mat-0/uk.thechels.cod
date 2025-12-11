@@ -111,20 +111,6 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
-- Warning no longer in force: Tributaries in Gloucester
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.  
-
-
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 11 December 2025. 
 
@@ -180,13 +166,6 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 - Flood alert: River Wye in Herefordshire
 - River levels continue to rise at the Ross on Wye river gauge and remain high at Belmont, Old Wye Bridge and Mordiford river gauges. Flooding continues on 11 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye peaked at 3.63m on 09/12 Bredwardine peaked at 5.72m at 7am on 10/12 AM, Belmont peaked at 5.35m on 10/12 PM, Old Wye Bridge peaked at 4.66m on 10/12 PM, Mordiford peaked at 4.86m on 10/12 eve. Predicted peak: Ross on Wye 4.2m to 4.3m on 11/12 PM. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
-
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger.   
-
 
 - Flood alert: River Wye in Gloucestershire
 - River levels remain high and continue to rise. Flooding continues. Flooding may affect low lying land and roads along the River Wye. .Predicted peak: Ross on Wye 4.2m to 4.3m on 11/12 PM, Lydbrook 5.0 to 5.3m on 11/12 eve.. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.

@@ -157,13 +157,6 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 11 December 2025 or as the situation changes."
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-We do not expect to see similar impacts from the next high tide. River levels are expected to remain high as a result of rainfall in the upper catchment. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood alert: River Wye in Herefordshire
 - River levels continue to rise at the Ross on Wye river gauge and remain high at Belmont, Old Wye Bridge and Mordiford river gauges. Flooding continues on 11 December 2025 . Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Peaks:- Hay on Wye peaked at 3.63m on 09/12 Bredwardine peaked at 5.72m at 7am on 10/12 AM, Belmont peaked at 5.35m on 10/12 PM, Old Wye Bridge peaked at 4.66m on 10/12 PM, Mordiford peaked at 4.86m on 10/12 eve. Predicted peak: Ross on Wye 4.2m to 4.3m on 11/12 PM. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
 

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping and rubbish by brook., 11th December :- [8534625](https://www.fixmystreet.com/report/8534625)
+- Tesco trolley abandoned, 11th December :- [8534589](https://www.fixmystreet.com/report/8534589)
+- Continuous flow of water out of road due to broken storm drain, 11th December :- [8534236](https://www.fixmystreet.com/report/8534236)
 - Missing sign for Restricted Byway, 11th December :- [8533894](https://www.fixmystreet.com/report/8533894)
 - Large series of dangerous potholes are growing, 11th December :- [8533670](https://www.fixmystreet.com/report/8533670)
 - Very deep pothole edge of road, difficult to avoid as road very narrow, 11th December :- [8533340](https://www.fixmystreet.com/report/8533340)
@@ -19,15 +22,12 @@ permalink: /fix-my-street
 - TMC - Defects -other CW6 problem, 11th December :- [8533458](https://www.fixmystreet.com/report/8533458)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533223](https://www.fixmystreet.com/report/8533223)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533222](https://www.fixmystreet.com/report/8533222)
-- TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
 - TMC - Defects -FW6 Potholes problem, 11th December :- [8533219](https://www.fixmystreet.com/report/8533219)
+- TMC - Defects -FW6 Potholes problem, 11th December :- [8533218](https://www.fixmystreet.com/report/8533218)
 - TMC - Defects -CW6 Potholes  problem, 11th December :- [8533005](https://www.fixmystreet.com/report/8533005)
 - Constant rubbish blocking the pavement, 11th December :- [8532949](https://www.fixmystreet.com/report/8532949)
 - 2 large potholes on both sides of this fast road, cars swerving to avoid., 11th December :- [8532566](https://www.fixmystreet.com/report/8532566)
 - Pothole on the railway bridge in road, 11th December :- [8532472](https://www.fixmystreet.com/report/8532472)
 - TMC - Defects - Other FW6  Surface problem, 11th December :- [8532516](https://www.fixmystreet.com/report/8532516)
-- TMC - Defects - Other FW6  Surface problem, 11th December :- [8532517](https://www.fixmystreet.com/report/8532517)
-- TMC - Defects -CW10 Potholes problem, 11th December :- [8532507](https://www.fixmystreet.com/report/8532507)
-- Another pothole, 11th December :- [8532221](https://www.fixmystreet.com/report/8532221)
 
 <!-- fix_marker ends -->

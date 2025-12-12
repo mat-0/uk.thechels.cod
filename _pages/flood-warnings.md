@@ -98,7 +98,7 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 19:00 12 December 2025 or as the situation changes."
 
 - Flood alert: River Severn in Gloucestershire
-- High river levels today may lead to flooding. Flooding is possible on 11 December 2025. 
+- High river levels today may lead to flooding. Flooding is possible on 12 December 2025. 
 
 River levels remain high due to recent rainfall. Flooding may continue over the next few days. 
 
@@ -106,9 +106,9 @@ Flooding may affect low lying land and roads adjacent the River Severn from Tewk
 
 Predicted peaks:- 
 
-Mythe 3.8m to 4.2m on Saturday 13/11. 
+Mythe 3.7m to 4.1m on Saturday 13/11/25. 
 
-Haw Bridge 4.6m to 5.0m on Saturday 13/11. 
+Haw Bridge 4.6m to 5.0m on Saturday 13/11/25. 
 
 No flooding is expected at other gauge locations currently. 
 
@@ -118,17 +118,18 @@ We are closely monitoring the situation.
 
 Avoid using low lying footpaths and any bridges near local watercourses . 
 
-This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
-
-- Warning no longer in force: River Leadon catchment
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
+This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible on 11 December 2025. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. The River Avon is peaking at the Bredon gauge today at 2.35m. Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 12 December 2025. 
+
+Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. 
+
+River levels at the Bredon gauge peaked at 2.35m on Thursday 11/12/25. 
+
+Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
+
+This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - "High river levels this morning may lead to flooding. 
@@ -148,37 +149,41 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Flood alert: River Wye in Gloucestershire
-- River levels remain high and continue to rise. Flooding continues. Flooding may affect low lying land and roads along the River Wye. .Predicted peak: Ross on Wye 4.2m to 4.3m on 11/12 PM, Lydbrook 5.0 to 5.3m on 11/12 eve.. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
+- Warning no longer in force: River Wye in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible on 11 December 2025. 
+- High river levels today may lead to flooding. Flooding is possible on 12 December 2025. 
 
 Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. 
 
 Predicted peaks:- 
 
-Bewdley 3.6m to 4.0m Friday, 12/12/25. 
+Bewdley 3.4m to 3.8m Friday, 12/12/25. 
 
-Worcester 4.4m to 4.7m Saturday, 13/12/25. 
+Worcester 4.0m to 4.4m Saturday, 13/12/25. 
 
-Diglis 4.0m to 4.4m Saturday, 13/12/25. 
+Diglis 3.7m to 4.0m Saturday, 13/12/25. 
 
-Kempsey Yacht Club 6.0m to 6.5m Saturday, 13/12/25. 
+Kempsey Yacht Club 5.8m to 6.2m Saturday, 13/12/25. 
 
-Saxons Lode 4.4m to 4.9m Saturday, 13/12/25. 
+Saxons Lode 4.4m to 4.8m Saturday, 13/12/25. 
 
 Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  
 
 Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
+This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- High river levels are expected to cause flooding today. Flooding is expected on 11 December 2025. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peak:- Mythe 3.8m to 4.2m Saturday, 13/12/25. Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
+- High river levels are expected to cause flooding today. Flooding is expected on 12 December 2025. Flooding may affect property and roads around Mill Avon Riverside including minor roads at Tirley, Chaceley, Hasfield, Hawbridge, Lower Lode, Ashleworth, Deerhurst, Wainlode and Apperley. Predicted peak:-  Mythe 3.7m to 4.1m Saturday, 13/12/25. Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 - Flood warning: River Severn at Apperley and The Leigh
-- Rising river levels are expected to cause flooding today.  Flooding is expected from the early hours of 11 December 2025.  Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted peak at Haw Bridge 4.6m to 5.0m on 13/12.  We are closely monitoring the situation.  Start acting on your flood plan if you have one.  This message will be updated by 10:00AM on 12 December 2025 or as the situation changes.
+- Rising river levels are expected to cause flooding today. Flooding is expected on 12 December 2025. Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted peak: Haw Bridge 4.6m to 5.0m on Saturday13/12/25. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water not flowing way - huge build up of leaves and dirt, 12th December :- [8538089](https://www.fixmystreet.com/report/8538089)
+- Precarious sign, 12th December :- [8537844](https://www.fixmystreet.com/report/8537844)
+- Very deep hole in the carriageway of the roundabout, 12th December :- [8537789](https://www.fixmystreet.com/report/8537789)
+- TMC - Defects - Kerbs and Channels problem, 12th December :- [8537907](https://www.fixmystreet.com/report/8537907)
+- TMC - Defects - Kerbs and Channels problem, 12th December :- [8537906](https://www.fixmystreet.com/report/8537906)
+- Trolleys, 12th December :- [8537755](https://www.fixmystreet.com/report/8537755)
 - Lime trees urgently need pollarding, 12th December :- [8537229](https://www.fixmystreet.com/report/8537229)
 - 8 inch, 12th December :- [8537041](https://www.fixmystreet.com/report/8537041)
 - H&S risk- someone has put some fencing in posts only, risk of falling and injury to humans and animals. Fencing, feet and bolts been on the grass since work in car park weeks ago. I assume this was local youths messing about, too heavy to me to take down and make safe on my own, 12th December :- [8536740](https://www.fixmystreet.com/report/8536740)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 11th December :- [8536101](https://www.fixmystreet.com/report/8536101)
 - Abandoned roadwork signs blocking the pavement on Justica Way, just after the first speed bump., 11th December :- [8535955](https://www.fixmystreet.com/report/8535955)
 - Constant dog fouling, 11th December :- [8535921](https://www.fixmystreet.com/report/8535921)
-- Sharp edged pothole on entrance to windyridge road, 11th December :- [8535884](https://www.fixmystreet.com/report/8535884)
-- Footbridge Rotten, 11th December :- [8535740](https://www.fixmystreet.com/report/8535740)
-- Drain is blocked and road flooding, 11th December :- [8535669](https://www.fixmystreet.com/report/8535669)
-- Huge series of potholes when turning left from Greenhills Road onto Moorend Road, 11th December :- [8534976](https://www.fixmystreet.com/report/8534976)
-- Blocked drain on Battledown Approach, 11th December :- [8534952](https://www.fixmystreet.com/report/8534952)
-- The drain is blocked problem, 11th December :- [8534860](https://www.fixmystreet.com/report/8534860)
 
 <!-- fix_marker ends -->

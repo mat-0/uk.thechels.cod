@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lime trees urgently need pollarding, 12th December :- [8537229](https://www.fixmystreet.com/report/8537229)
+- 8 inch, 12th December :- [8537041](https://www.fixmystreet.com/report/8537041)
 - H&S risk- someone has put some fencing in posts only, risk of falling and injury to humans and animals. Fencing, feet and bolts been on the grass since work in car park weeks ago. I assume this was local youths messing about, too heavy to me to take down and make safe on my own, 12th December :- [8536740](https://www.fixmystreet.com/report/8536740)
 - Flood water collects causing vehicles to skid and crash, 11th December :- [8536655](https://www.fixmystreet.com/report/8536655)
 - Large hols, 11th December :- [8536527](https://www.fixmystreet.com/report/8536527)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Huge series of potholes when turning left from Greenhills Road onto Moorend Road, 11th December :- [8534976](https://www.fixmystreet.com/report/8534976)
 - Blocked drain on Battledown Approach, 11th December :- [8534952](https://www.fixmystreet.com/report/8534952)
 - The drain is blocked problem, 11th December :- [8534860](https://www.fixmystreet.com/report/8534860)
-- Flytipping and rubbish by brook., 11th December :- [8534625](https://www.fixmystreet.com/report/8534625)
-- Tesco trolley abandoned, 11th December :- [8534589](https://www.fixmystreet.com/report/8534589)
 
 <!-- fix_marker ends -->

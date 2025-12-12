@@ -89,13 +89,13 @@ This message will be updated by 09:00 13 December 2025 or as the situation chang
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - "High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible through today, 12 December 2025, especially in the Oaksey area however it is no longer expected. The forecast is for bands of rain particularly through the morning, some of which may be heavy. Rainfall totals are not expected to be significant. River levels are falling slowly and are close to being back within banks. We expect levels to continue to fall overnight.
+Flooding of low lying land and roads remains possible overnight, 12 December 2025, especially in the Oaksey area. The forecast is for a dry night and day tomorrow, 13 December 2025. River levels are falling slowly and are close to being back below the flooding threshold. We expect levels to continue to fall overnight.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 12 December 2025 or as the situation changes."
+This message will be updated by 09:00 13 December 2025 or as the situation changes."
 
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 12 December 2025. 
@@ -132,15 +132,15 @@ Further rainfall is forecast over the next 48 hours which may see river levels r
 This message will be updated by 10:00AM on 13 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- "High river levels this morning may lead to flooding. 
+- "High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 12 December 2025, along many parts of the River Thames between Lechlade and Eynsham. The forecast is for bands of rain particularly through the morning, some of which may be heavy. Rainfall totals are not expected to be significant. River levels have now stabilised or are falling very slowly. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads is expected to continue overnight, 12 December 2025, along many parts of the River Thames between Lechlade and Eynsham. The forecast is for a dry night and day tomorrow, 13 December 2025. River levels have now stabilised or are falling very slowly. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 12 December 2025 or as the situation changes."
+This message will be updated by 09:00 13 December 2025 or as the situation changes."
 
 - Warning no longer in force: River Wye in Herefordshire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

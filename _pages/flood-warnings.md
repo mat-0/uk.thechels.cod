@@ -31,68 +31,68 @@ Monitor local water levels and weather conditions. We urge all people to take ca
 This message will be updated by 11:30 AM on 14/12/2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
-- "High river levels may lead to flooding. Flooding remains possible.
+- High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, along the River Churn around Cerney Wick. The forecast is for a dry day and night. Levels remain high but stable. We expect river levels to remain high over the coming days.
+Flooding of low lying land and roads is expected to continue overnight, 13 December 2025, along the River Churn around Cerney Wick. The forecast is for a dry night. Levels remain high but stable. We expect river levels to remain high over the coming days.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- "High river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, especially in the Newbridge and Standlake areas. The forecast is for a dry day and night. River levels remain high but stable. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads is expected to continue tonight, 13 December 2025, especially in the Newbridge and Standlake areas. The forecast is for a dry night. River levels remain high but stable. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
-- "High river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, especially in the Woodstock area along the River Glyme.  The forecast is for a dry day and night. River levels have fallen below the flood risk threshold on the River Evenlode, but remain high and falling slowly on the River Glyme. We expect levels on the River Glyme to remain high over the coming days.
+Flooding of low lying land and roads is expected to continue tonight, 13 December 2025, especially in the Woodstock area along the River Glyme. The forecast is for a dry night. River levels have fallen below the flood risk threshold on the River Evenlode, but remain high and falling slowly, on the River Glyme. We expect levels on the River Glyme to remain high over the coming days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- "High river levels may lead to flooding. Flooding remains possible .
+- High river levels may lead to flooding. Flooding remains possible.
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for a dry day and night. River levels are currently high and falling slowly. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is expected to continue tonight, 13 December 2025, along the River Thames, especially in the Kempsford area. The forecast is for a dry night. River levels are currently high and falling slowly. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation. 
 
 Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
-- "High river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible today, 13 December 2025, especially in the Bourton on the Water area. The forecast is for a dry day and night. River levels are stable and back below the flood risk threshold along much of the River Dikler. 
+Flooding of low lying land and roads remains possible tonight, 13 December 2025, especially in the Bourton on the Water area. The forecast is for a dry night. River levels are stable and back below the flood risk threshold along much of the River Dikler. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- "High river levels may lead to flooding.
+- High river levels may lead to flooding.
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, especially in the Lechlade area.  The forecast is for a dry day and night. River levels remain high but stable. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads is expected to continue overnight, 13 December 2025, especially in the Lechlade area. The forecast is for a dry night. River levels remain high but stable. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -122,15 +122,15 @@ Further rainfall is forecast over the next 48 hours which may see river levels r
 This message will be updated by 10:00AM on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- "High river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 13 December 2025, along many parts of the River Thames between Lechlade and Eynsham. The forecast is for a dry day and night. River levels are generally now falling very slowly. We expect levels to remain high over the coming days. 
+Flooding of low lying land and roads is expected to continue tonight, 13 December 2025, along many parts of the River Thames between Lechlade and Eynsham. The forecast is for a dry night. River levels are generally now falling very slowly. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 13 December 2025 or as the situation changes."
+This message will be updated by 09:00am on 14 December 2025 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - High river levels today may lead to flooding. Flooding is possible on 13 December 2025.

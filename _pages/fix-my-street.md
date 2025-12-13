@@ -9,9 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
+- Pothole nr column 5 Imperial Square, Cheltenham, 13th December :- [8543415](https://www.fixmystreet.com/report/8543415)
+- Light out on street trough, 13th December :- [8543398](https://www.fixmystreet.com/report/8543398)
 - Large traffic cone abandoned after temporary lights removed, 13th December :- [8542626](https://www.fixmystreet.com/report/8542626)
 - Volunteer litter pick bags ready for collection, 13th December :- [8542598](https://www.fixmystreet.com/report/8542598)
 - 3-4 large deep potholes v dangerous, 13th December :- [8542557](https://www.fixmystreet.com/report/8542557)
+- 3 large potholes in the lane, 13th December :- [8542525](https://www.fixmystreet.com/report/8542525)
 - Pothole on st Michael’s roads on junction with woodlands road nr 42 woodlands, 13th December :- [8542401](https://www.fixmystreet.com/report/8542401)
 - Pothole outside 45 woodlands Road on junction with st Michael’s Road, 13th December :- [8542385](https://www.fixmystreet.com/report/8542385)
 - Very large pothole outside number 32 woodlands road, 13th December :- [8542367](https://www.fixmystreet.com/report/8542367)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes, 13th December :- [8542044](https://www.fixmystreet.com/report/8542044)
 - Large hole in Westfield rd near keep clear markings. Wires showing., 13th December :- [8542020](https://www.fixmystreet.com/report/8542020)
 - Pothole outside 6 Charlton Court Rd, 13th December :- [8541985](https://www.fixmystreet.com/report/8541985)
-- Does not stop traffic, 13th December :- [8541972](https://www.fixmystreet.com/report/8541972)
-- Flytipped furniture, 13th December :- [8541958](https://www.fixmystreet.com/report/8541958)
-- Flytipping, 13th December :- [8541707](https://www.fixmystreet.com/report/8541707)
-- Road closed sign , cone and sand bag left, 13th December :- [8541475](https://www.fixmystreet.com/report/8541475)
 
 <!-- fix_marker ends -->

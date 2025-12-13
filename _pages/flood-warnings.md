@@ -20,7 +20,15 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- This flood alert remains in place. Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected. River levels are now falling and we expect to remove this message in the next 24 hours. We are closely monitoring the situation and will update this message by 11:30AM on 13 December 2025, or as the situation changes.
+- River levels remain high the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook due to rainfall.
+
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land expected to be most affected, particularly around the road at Reybridge.
+
+We are monitoring rainfall and river levels. More rainfall is forecast after the weekend so this alert may stay out for several days. Avoid using low lying footpaths and any bridges near local watercourses and do not attempt to walk or drive through flood water.
+
+Monitor local water levels and weather conditions. We urge all people to take care and not drive through flood water.
+
+This message will be updated by 11:30 AM on 14/12/2025, or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - "High river levels may lead to flooding. Flooding remains possible.
@@ -123,13 +131,6 @@ We are monitoring rainfall and river levels.
 Avoid low lying roads near rivers, which may be flooded. 
 
 This message will be updated by 19:00 13 December 2025 or as the situation changes."
-
-- Warning no longer in force: River Wye in Gloucestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Severn in Worcestershire
 - High river levels today may lead to flooding. Flooding is possible on 13 December 2025.

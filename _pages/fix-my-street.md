@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flytipping, 13th December :- [8541707](https://www.fixmystreet.com/report/8541707)
+- Road closed sign , cone and sand bag left, 13th December :- [8541475](https://www.fixmystreet.com/report/8541475)
 - Bin overflowing, 13th December :- [8541348](https://www.fixmystreet.com/report/8541348)
 - Extensive puddling on new cycleway, 13th December :- [8541328](https://www.fixmystreet.com/report/8541328)
 - Smashed glass, 13th December :- [8541284](https://www.fixmystreet.com/report/8541284)
@@ -19,15 +21,13 @@ permalink: /fix-my-street
 - Rubbish under the subway linking Medoc Close with Thomond Close, 12th December :- [8539957](https://www.fixmystreet.com/report/8539957)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539872](https://www.fixmystreet.com/report/8539872)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539869](https://www.fixmystreet.com/report/8539869)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [8539867](https://www.fixmystreet.com/report/8539867)
+- TMC - Defects -CW6 Potholes  problem, 12th December :- [8539868](https://www.fixmystreet.com/report/8539868)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539870](https://www.fixmystreet.com/report/8539870)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539866](https://www.fixmystreet.com/report/8539866)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539871](https://www.fixmystreet.com/report/8539871)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [8539868](https://www.fixmystreet.com/report/8539868)
+- TMC - Defects -CW6 Potholes  problem, 12th December :- [8539867](https://www.fixmystreet.com/report/8539867)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539865](https://www.fixmystreet.com/report/8539865)
 - TMC - Defects -CW6 Potholes  problem, 12th December :- [8539680](https://www.fixmystreet.com/report/8539680)
 - Junction littered with potholes with one very large pothole on Mill Lane, 12th December :- [8539628](https://www.fixmystreet.com/report/8539628)
-- The drain is blocked problem, 12th December :- [8539667](https://www.fixmystreet.com/report/8539667)
-- TMC - Defects -CW6 Potholes  problem, 12th December :- [8539669](https://www.fixmystreet.com/report/8539669)
 
 <!-- fix_marker ends -->

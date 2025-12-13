@@ -8,13 +8,13 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Friday, 12 December 2025
+## On Saturday, 13 December 2025
 
-- The average temperature today is 5.67˚C,
-- With highs of 7.19˚C and lows of 4.26˚C,
-- It may feel like 5.67˚C with broken clouds
+- The average temperature today is 5.61˚C,
+- With highs of 6.65˚C and lows of 4.27˚C,
+- It may feel like 5.61˚C with clear sky
 - The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 1024hPa and humidity is 91%
+- The pressure is 1024hPa and humidity is 93%
 - The sun will rise at 08:07 and set at 15:57
 
 <!-- weather_marker ends -->

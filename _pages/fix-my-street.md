@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large traffic cone abandoned after temporary lights removed, 13th December :- [8542626](https://www.fixmystreet.com/report/8542626)
+- Volunteer litter pick bags ready for collection, 13th December :- [8542598](https://www.fixmystreet.com/report/8542598)
+- 3-4 large deep potholes v dangerous, 13th December :- [8542557](https://www.fixmystreet.com/report/8542557)
 - Pothole on st Michael’s roads on junction with woodlands road nr 42 woodlands, 13th December :- [8542401](https://www.fixmystreet.com/report/8542401)
 - Pothole outside 45 woodlands Road on junction with st Michael’s Road, 13th December :- [8542385](https://www.fixmystreet.com/report/8542385)
 - Very large pothole outside number 32 woodlands road, 13th December :- [8542367](https://www.fixmystreet.com/report/8542367)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped furniture, 13th December :- [8541958](https://www.fixmystreet.com/report/8541958)
 - Flytipping, 13th December :- [8541707](https://www.fixmystreet.com/report/8541707)
 - Road closed sign , cone and sand bag left, 13th December :- [8541475](https://www.fixmystreet.com/report/8541475)
-- Bin overflowing, 13th December :- [8541348](https://www.fixmystreet.com/report/8541348)
-- Extensive puddling on new cycleway, 13th December :- [8541328](https://www.fixmystreet.com/report/8541328)
-- Smashed glass, 13th December :- [8541284](https://www.fixmystreet.com/report/8541284)
 
 <!-- fix_marker ends -->

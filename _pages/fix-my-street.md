@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A few lights are out on the junction on both sides of the road, 14th December :- [8546817](https://www.fixmystreet.com/report/8546817)
+- Blocked Drain, 14th December :- [8546625](https://www.fixmystreet.com/report/8546625)
 - At least 5 potholes in stretch, 14th December :- [8546515](https://www.fixmystreet.com/report/8546515)
 - Numerous potholes in this area! Terrible!, 14th December :- [8546409](https://www.fixmystreet.com/report/8546409)
 - Very large pothole, 14th December :- [8546398](https://www.fixmystreet.com/report/8546398)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Deep pothole x2, 14th December :- [8544755](https://www.fixmystreet.com/report/8544755)
 - Public footpath surface rendered impassable by deep slurry and standing water, 14th December :- [8544703](https://www.fixmystreet.com/report/8544703)
 - Several large potholes on Ullenwood Lane, 14th December :- [8544612](https://www.fixmystreet.com/report/8544612)
-- Two pot holes on Druro Road, 14th December :- [8544359](https://www.fixmystreet.com/report/8544359)
-- Street Light outside 11 Robinswood Close is out, 14th December :- [8544324](https://www.fixmystreet.com/report/8544324)
 
 <!-- fix_marker ends -->

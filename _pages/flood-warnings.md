@@ -103,17 +103,12 @@ We are closely monitoring the situation.
 Avoid using low lying footpaths and any bridges near local watercourses .
 This message will be updated by 10:00AM on 15 December 2025 or as the situation changes.
 
-- Flood alert: River Avon in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible on 14 December 2025.
+- Warning no longer in force: River Avon in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.  
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
-Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury is impacted.
-
-Recorded peaks:
-Bredon gauge peaked at 2.35m on Thursday 11/12/25.
-
-Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
-
-This message will be updated by 10:00AM on 15 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 

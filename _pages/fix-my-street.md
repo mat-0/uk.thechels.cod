@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very dangerous large pothole in all three passing places on the Syreford Road, 14th December :- [8546075](https://www.fixmystreet.com/report/8546075)
+- Dog dirt, 14th December :- [8545976](https://www.fixmystreet.com/report/8545976)
+- Fly tipped rubbish, 14th December :- [8545828](https://www.fixmystreet.com/report/8545828)
+- Broken glass, 14th December :- [8545818](https://www.fixmystreet.com/report/8545818)
 - Badly patched pavement with steep sides, 14th December :- [8545589](https://www.fixmystreet.com/report/8545589)
 - Gas canisters dumped on roadside., 14th December :- [8545507](https://www.fixmystreet.com/report/8545507)
 - The road junction signpost was damaged and knocked down months ago and has not been replaced, 14th December :- [8545282](https://www.fixmystreet.com/report/8545282)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Over M5 bridge blocked drains, 14th December :- [8544032](https://www.fixmystreet.com/report/8544032)
 - High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
 - Pothole nr column 5 Imperial Square, Cheltenham, 13th December :- [8543415](https://www.fixmystreet.com/report/8543415)
-- Light out on street trough, 13th December :- [8543398](https://www.fixmystreet.com/report/8543398)
-- Large traffic cone abandoned after temporary lights removed, 13th December :- [8542626](https://www.fixmystreet.com/report/8542626)
-- Volunteer litter pick bags ready for collection, 13th December :- [8542598](https://www.fixmystreet.com/report/8542598)
-- 3-4 large deep potholes v dangerous, 13th December :- [8542557](https://www.fixmystreet.com/report/8542557)
 
 <!-- fix_marker ends -->

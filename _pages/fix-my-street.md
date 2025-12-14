@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Over M5 bridge blocked drains, 14th December :- [8544032](https://www.fixmystreet.com/report/8544032)
 - High Illuminated Bollard Light Out, 13th December :- [8543744](https://www.fixmystreet.com/report/8543744)
 - Pothole nr column 5 Imperial Square, Cheltenham, 13th December :- [8543415](https://www.fixmystreet.com/report/8543415)
 - Light out on street trough, 13th December :- [8543398](https://www.fixmystreet.com/report/8543398)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Rapidly deteriorating pothole in the road, 13th December :- [8542236](https://www.fixmystreet.com/report/8542236)
 - Multiple potholes, 13th December :- [8542044](https://www.fixmystreet.com/report/8542044)
 - Large hole in Westfield rd near keep clear markings. Wires showing., 13th December :- [8542020](https://www.fixmystreet.com/report/8542020)
-- Pothole outside 6 Charlton Court Rd, 13th December :- [8541985](https://www.fixmystreet.com/report/8541985)
 
 <!-- fix_marker ends -->

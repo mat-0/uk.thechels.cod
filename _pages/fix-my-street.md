@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked. As such danger to flooding of my property, 15th December :- [8551653](https://www.fixmystreet.com/report/8551653)
+- St Anne’s terrace is a one way street yet I see at least 4 cars a day going the wrong way down it., 15th December :- [8551417](https://www.fixmystreet.com/report/8551417)
 - Broken rotten fencing, 15th December :- [8551360](https://www.fixmystreet.com/report/8551360)
 - Blocked drain causing large puddle, 15th December :- [8551237](https://www.fixmystreet.com/report/8551237)
 - 18 inch wide 3 inch deep pothole, 15th December :- [8551004](https://www.fixmystreet.com/report/8551004)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550306](https://www.fixmystreet.com/report/8550306)
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550305](https://www.fixmystreet.com/report/8550305)
 - TMC - Defects -CW6 Potholes  problem, 15th December :- [8550112](https://www.fixmystreet.com/report/8550112)
-- TMC - Defects -CW10 Potholes problem, 15th December :- [8550121](https://www.fixmystreet.com/report/8550121)
-- TMC - Defects -CW10 Potholes problem, 15th December :- [8550120](https://www.fixmystreet.com/report/8550120)
 
 <!-- fix_marker ends -->

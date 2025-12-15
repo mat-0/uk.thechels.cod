@@ -91,17 +91,7 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 09:00 15 December 2025 or as the situation changes."
 
 - Flood alert: River Severn in Gloucestershire
-- High river levels today may lead to flooding. Flooding is possible on 14 December 2025.
-River levels remain high due to recent rainfall. Flooding may continue over the next few days.
-Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill.
-Recorded peaks:-
-Mythe peaked at 3.80m on Thursday 11/12/25
-Haw Bridge peaked at 4.75m on Thursday 11/12/25
-No flooding is expected at other gauge locations currently.
-Further rainfall is forecast over the next 48 hours which may see river levels rise further.
-We are closely monitoring the situation.
-Avoid using low lying footpaths and any bridges near local watercourses .
-This message will be updated by 10:00AM on 15 December 2025 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 15 December 2025. River levels remain high due to recent rainfall. Flooding may continue over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Recorded peaks:- Mythe peaked at 3.80m on Thursday 11/12/25 Haw Bridge peaked at 4.75m on Thursday 11/12/25. Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses . This message will be updated by 10:00AM on 16 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Avon in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -121,8 +111,12 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 09:00 15 December 2025 or as the situation changes."
 
-- Flood alert: River Severn in Worcestershire
-- High river levels today may lead to flooding. Flooding is possible on 14 December 2025. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Observed peaks:- Bewdley 3.49m Friday 12/12, Worcester 4.07m Saturday 13/12, Diglis 3.71m Saturday 13/12, Kempsey Yacht Club 5.82m Thursday 11/12, Saxons Lode 4.41m Thursday 11/12. Further rainfall is forecast over the next 48 hours which may see river levels rise further. We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 December 2025 or as the situation changes.
+- Warning no longer in force: River Severn in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 
 <!-- flood_marker ends -->

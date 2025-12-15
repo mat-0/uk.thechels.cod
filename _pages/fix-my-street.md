@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 15th December :- [8547464](https://www.fixmystreet.com/report/8547464)
+- Furniture and fridge on pavement for months, 15th December :- [8547415](https://www.fixmystreet.com/report/8547415)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547463](https://www.fixmystreet.com/report/8547463)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547462](https://www.fixmystreet.com/report/8547462)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547461](https://www.fixmystreet.com/report/8547461)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547460](https://www.fixmystreet.com/report/8547460)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547459](https://www.fixmystreet.com/report/8547459)
+- TMC - Defects -CW6 Potholes  problem, 15th December :- [8547458](https://www.fixmystreet.com/report/8547458)
+- TMC - Defects - Kerbs and Channels problem, 15th December :- [8547338](https://www.fixmystreet.com/report/8547338)
 - HUGE Pothole (Location approximate), 14th December :- [8546920](https://www.fixmystreet.com/report/8546920)
 - A few lights are out on the junction on both sides of the road, 14th December :- [8546817](https://www.fixmystreet.com/report/8546817)
 - Blocked Drain, 14th December :- [8546625](https://www.fixmystreet.com/report/8546625)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Dog dirt, 14th December :- [8545976](https://www.fixmystreet.com/report/8545976)
 - Fly tipped rubbish, 14th December :- [8545828](https://www.fixmystreet.com/report/8545828)
 - Broken glass, 14th December :- [8545818](https://www.fixmystreet.com/report/8545818)
-- Badly patched pavement with steep sides, 14th December :- [8545589](https://www.fixmystreet.com/report/8545589)
-- Gas canisters dumped on roadside., 14th December :- [8545507](https://www.fixmystreet.com/report/8545507)
-- The road junction signpost was damaged and knocked down months ago and has not been replaced, 14th December :- [8545282](https://www.fixmystreet.com/report/8545282)
-- The Reddings to Grovefieldway roundabout has metal sign frames ., 14th December :- [8545255](https://www.fixmystreet.com/report/8545255)
-- Potholes on King Alfred Way, between Saxon Way & Haywards Rd, 14th December :- [8544928](https://www.fixmystreet.com/report/8544928)
-- On speed bump, 14th December :- [8544785](https://www.fixmystreet.com/report/8544785)
-- On speed bump, 14th December :- [8544772](https://www.fixmystreet.com/report/8544772)
-- Deep pothole x2, 14th December :- [8544755](https://www.fixmystreet.com/report/8544755)
-- Public footpath surface rendered impassable by deep slurry and standing water, 14th December :- [8544703](https://www.fixmystreet.com/report/8544703)
 
 <!-- fix_marker ends -->

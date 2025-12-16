@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several potholes along a trench that has opened up on previous repair, 16th December :- [8556795](https://www.fixmystreet.com/report/8556795)
+- Deep pot hole can't be avoided by cars due to narrow road, 16th December :- [8556783](https://www.fixmystreet.com/report/8556783)
+- Large pothole which had beenn repaired has opened up again, 16th December :- [8556777](https://www.fixmystreet.com/report/8556777)
 - Massive pot hole., 16th December :- [8556386](https://www.fixmystreet.com/report/8556386)
 - Massive pot hole, 16th December :- [8556368](https://www.fixmystreet.com/report/8556368)
 - Pothole, 16th December :- [8556367](https://www.fixmystreet.com/report/8556367)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree uprooted, 16th December :- [8555416](https://www.fixmystreet.com/report/8555416)
 - TMC - Defects -CW6 Potholes  problem, 16th December :- [8555602](https://www.fixmystreet.com/report/8555602)
 - TMC - Defects -CW6 Potholes  problem, 16th December :- [8555601](https://www.fixmystreet.com/report/8555601)
-- TMC - Defects -CW6 Potholes  problem, 16th December :- [8555600](https://www.fixmystreet.com/report/8555600)
-- TMC - Defects -CW10 Potholes problem, 16th December :- [8555614](https://www.fixmystreet.com/report/8555614)
-- TMC - Defects -CW6 Potholes  problem, 16th December :- [8555599](https://www.fixmystreet.com/report/8555599)
 
 <!-- fix_marker ends -->

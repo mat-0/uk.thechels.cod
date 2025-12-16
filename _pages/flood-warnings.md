@@ -198,5 +198,16 @@ We are closely monitoring the situation. Take care and avoid walking, cycling 
 
 This message will be updated by 10:00AM on 17 December 2025 or as the situation changes.
 
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- Rising river levels are expected to cause flooding overnight. 
+Flooding is expected on 17 December 2025 . 
+Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised.
+
+Predicted peak:- 
+Mythe 3.3m to 3.8m on 17/12 PM. 
+We are monitoring rainfall and river levels . 
+Monitor local water levels and weather conditions . 
+This message will be updated by 10:00AM on 17 December 2025 or as the situation changes. 
+
 
 <!-- flood_marker ends -->

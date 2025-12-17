@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bins permanently stored on verge, 17th December :- [8561131](https://www.fixmystreet.com/report/8561131)
+- Noise Noise Noise !!, 17th December :- [8561037](https://www.fixmystreet.com/report/8561037)
+- Pothole in road, 17th December :- [8561012](https://www.fixmystreet.com/report/8561012)
+- A pothole in road problem, 17th December :- [8561001](https://www.fixmystreet.com/report/8561001)
 - Missing sigage Bollard for crossing, 17th December :- [8560787](https://www.fixmystreet.com/report/8560787)
 - A pothole in road problem, 17th December :- [8560722](https://www.fixmystreet.com/report/8560722)
 - No bus shelter reinstated since cycle path finished in May 2025, 17th December :- [8560394](https://www.fixmystreet.com/report/8560394)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 17th December :- [8559735](https://www.fixmystreet.com/report/8559735)
 - The underpass is flooded, 17th December :- [8559652](https://www.fixmystreet.com/report/8559652)
 - The drain is blocked problem, 17th December :- [8559734](https://www.fixmystreet.com/report/8559734)
-- TMC - Defects - Other problem, 17th December :- [8559738](https://www.fixmystreet.com/report/8559738)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559737](https://www.fixmystreet.com/report/8559737)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559736](https://www.fixmystreet.com/report/8559736)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8559539](https://www.fixmystreet.com/report/8559539)
 
 <!-- fix_marker ends -->

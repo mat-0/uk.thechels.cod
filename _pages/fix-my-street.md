@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole / road breaking up, 17th December :- [8561722](https://www.fixmystreet.com/report/8561722)
+- There is a seriously dangerous pothole on Church Road Leckhampton which caused in instant puncture which could have ended in a serious crash, 17th December :- [8561634](https://www.fixmystreet.com/report/8561634)
 - Bins permanently stored on verge, 17th December :- [8561131](https://www.fixmystreet.com/report/8561131)
 - Noise Noise Noise !!, 17th December :- [8561037](https://www.fixmystreet.com/report/8561037)
 - Pothole in road, 17th December :- [8561012](https://www.fixmystreet.com/report/8561012)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 17th December :- [8559912](https://www.fixmystreet.com/report/8559912)
 - TMC - Defects -CW10 Potholes problem, 17th December :- [8559911](https://www.fixmystreet.com/report/8559911)
 - A pothole in road problem, 17th December :- [8559735](https://www.fixmystreet.com/report/8559735)
-- The underpass is flooded, 17th December :- [8559652](https://www.fixmystreet.com/report/8559652)
-- The drain is blocked problem, 17th December :- [8559734](https://www.fixmystreet.com/report/8559734)
 
 <!-- fix_marker ends -->

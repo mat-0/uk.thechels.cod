@@ -67,13 +67,13 @@ This message will be updated by 09:00AM on 18 December 2025 or as the situation 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible today, 17 December 2025, especially in the Bourton on the Water area. The forecast is for a dry morning before persistent rain moves in this afternoon, 17 December 2025. Rain is expected to continue overnight.  River levels are currently falling slowly. River levels are likely to rise again in response to forecast rainfall over the coming 48 hours. 
+Flooding of low lying land and roads remains possible tonight, 17 December 2025, especially in the Bourton on the Water area. Heavy overnight rain is forecast tonight, 17 December 2025, with further heavy rain forecast on 18 December 2025. Levels are expected to remain high over the coming days, and may rise further in response to forecasted rainfall over the coming 36 hours.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 17 December 2025 or as the situation changes.
+This message will be updated by 09:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding.
@@ -89,13 +89,13 @@ This message will be updated by 09:00AM on 18 December 2025 or as the situation 
 - Flood alert: Tributaries on the Upper River Thames above Cricklade
 - High river levels this evening may lead to flooding. 
 
-Flooding of low lying land and roads is expected to continue today, 17 December 2025, especially close to the Swill Brook in the Oaksey area. The forecast is for a dry morning before persistent rain moves in this afternoon, 17 December 2025. Rain is expected to continue overnight. River levels are currently high but stable. Levels may rise further in response to forecast rainfall over the coming 48 hours. 
+Flooding of low lying land and roads is expected to continue tonight, 17 December 2025, especially close to the Swill Brook in the Oaksey area. Heavy overnight rain is forecast tonight, 17 December 2025, with further heavy rain forecast on 18 December 2025. Levels are expected to remain high over the coming days, and may rise further in response to forecasted rainfall over the coming 36 hours.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 17 Dec 2025 or as the situation changes.
+This message will be updated by 09:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
 - Although some river levels are still rising, some river levels are forecast to fall during today, though may rise again overnight in response to further forecast rainfall.  Flooding is possible on 18 December 2025.  Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 11:00AM on 18 December 2025 or as the situation changes.
@@ -179,13 +179,13 @@ This message will be updated by 10:00AM on 18 December 2025 or as the situation 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - Rising river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected today, 17 December 2025, particularly along the River Thames between Lechlade and Shifford. The forecast is for a dry morning before persistent rain moves in this afternoon, 17 December 2025. Rain is expected to continue overnight.  River levels are rising slowly in response to recent rainfall along much of the Upper Thames. It is expected that river levels will rise further in response to forecast rainfall over the coming days. 
+Flooding of low lying land and roads is expected tonight, 17 December 2025, particularly along the River Thames between Lechlade and Shifford. Heavy overnight rain is forecast tonight, 17 December 2025, with further heavy rain forecast on 18 December 2025. River levels are rising slowly in response to recent rainfall along much of the Upper Thames. It is expected that river levels will rise further in response to forecasted rainfall over the coming days. 
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 19:00 17 December 2025 or as the situation changes.
+This message will be updated by 09:00AM on 18 December 2025 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - Rising river levels today may lead to flooding. 

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 17th December :- [8561956](https://www.fixmystreet.com/report/8561956)
+- Deep pothole, 17th December :- [8561883](https://www.fixmystreet.com/report/8561883)
+- Sign about road closure from Run Cheltenham event in September, 17th December :- [8561874](https://www.fixmystreet.com/report/8561874)
 - Pothole / road breaking up, 17th December :- [8561722](https://www.fixmystreet.com/report/8561722)
 - There is a seriously dangerous pothole on Church Road Leckhampton which caused in instant puncture which could have ended in a serious crash, 17th December :- [8561634](https://www.fixmystreet.com/report/8561634)
 - Bins permanently stored on verge, 17th December :- [8561131](https://www.fixmystreet.com/report/8561131)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Massive potholes all over the road, already damaged cars needs a new length of tarmac, 17th December :- [8559763](https://www.fixmystreet.com/report/8559763)
 - TMC - Defects -CW10 Potholes problem, 17th December :- [8559914](https://www.fixmystreet.com/report/8559914)
 - TMC - Defects -CW10 Potholes problem, 17th December :- [8559913](https://www.fixmystreet.com/report/8559913)
-- TMC - Defects -CW10 Potholes problem, 17th December :- [8559912](https://www.fixmystreet.com/report/8559912)
-- TMC - Defects -CW10 Potholes problem, 17th December :- [8559911](https://www.fixmystreet.com/report/8559911)
-- A pothole in road problem, 17th December :- [8559735](https://www.fixmystreet.com/report/8559735)
 
 <!-- fix_marker ends -->

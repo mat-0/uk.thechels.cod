@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street sign bent, 18th December :- [8563357](https://www.fixmystreet.com/report/8563357)
+- Public right of way blocked by animals, 18th December :- [8563104](https://www.fixmystreet.com/report/8563104)
+- Hole is opening up in the pavement which is approximately 200mm deep., 18th December :- [8562846](https://www.fixmystreet.com/report/8562846)
+- Just a Massive, Massive' Thankyou to all of your Team & Engineers, that have been involved, & attended & addressed the problem of this noisy Drainage cover outside of 52 Cheltenham Road East, Last night they worked through the Rain & elements & we have finally got closure on the Noisy metal cover, that has been plaguing us for weeks' Thankyou ! For yor understanding and help sorting this 😊👌🏼👍🏼, 18th December :- [8562816](https://www.fixmystreet.com/report/8562816)
 - Large tree growing outside house and lifting the pavement substantially. Roots possibly going under house and causing damage, 18th December :- [8562694](https://www.fixmystreet.com/report/8562694)
 - East verge of bays hill road covered in thick piles of leaves, 18th December :- [8562561](https://www.fixmystreet.com/report/8562561)
 - Abandoned shopping trolley full of rubbish, 18th December :- [8562475](https://www.fixmystreet.com/report/8562475)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Missing sigage Bollard for crossing, 17th December :- [8560787](https://www.fixmystreet.com/report/8560787)
 - A pothole in road problem, 17th December :- [8560722](https://www.fixmystreet.com/report/8560722)
 - No bus shelter reinstated since cycle path finished in May 2025, 17th December :- [8560394](https://www.fixmystreet.com/report/8560394)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8560341](https://www.fixmystreet.com/report/8560341)
-- TMC - Defects -CW6 Potholes  problem, 17th December :- [8560326](https://www.fixmystreet.com/report/8560326)
-- Surface is damaged problem, 17th December :- [8560133](https://www.fixmystreet.com/report/8560133)
-- Large pothole and poor road near allotment retaining wall, 17th December :- [8559978](https://www.fixmystreet.com/report/8559978)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 18 December 2025
 
-- The average temperature today is 11.32˚C,
-- With highs of 11.96˚C and lows of 10.47˚C,
-- It may feel like 10.96˚C with overcast clouds
-- The wind speed is 4.02m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 94%
+- The average temperature today is 10.54˚C,
+- With highs of 11.08˚C and lows of 10.16˚C,
+- It may feel like 10.08˚C with overcast clouds
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 93%
 - The sun will rise at 08:11 and set at 15:58
 
 <!-- weather_marker ends -->

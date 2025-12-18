@@ -188,5 +188,22 @@ This message will be updated by 10:00AM on 19 December 2025 or as the situation 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - Rising river levels are expected to cause flooding today.  Flooding is expected from 18 December 2025 over the next few days. Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peak:- Mythe 3.6m to 4.1m on 21/12/25 PM.  We are monitoring rainfall and river levels. Monitor local water levels and weather conditions.  This message will be updated by 10:00AM on 19 December 2025 or as the situation changes.
 
+- Flood alert: Lower Bristol Avon area
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 18 December 2025 and 19 December 2025. 
+Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly low lying land at Hanham Lock and the floodplain upstream of Bath.					
+Drier conditions are forecast on Friday 19 December 2025 and levels will begin to recede through the day. 
+We are closely monitoring the situation and will issue updates and warnings as necessary. 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:30AM on 19 December 2025 or as the situation changes.
+
+- Flood warning: Daniels Brook at Lower Tuffley
+- Rising river levels are expected to cause flooding this evening. 
+Flooding is expected on 18 December 2025 . 
+Flooding may affect properties and roads around Charlecote Avenue, Thoresby Avenue, Boadiam Avenue and Greenhill Drive. 
+We are monitoring rainfall and river levels . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 19 December 2025 or as the situation changes. 
+
 
 <!-- flood_marker ends -->

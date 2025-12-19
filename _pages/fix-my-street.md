@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot holes, 19th December :- [8567492](https://www.fixmystreet.com/report/8567492)
+- Pot hole, 19th December :- [8567491](https://www.fixmystreet.com/report/8567491)
 - 2 drain lids in road not fitted correctly causing noise every time a vehicle goes over them, 18th December :- [8567297](https://www.fixmystreet.com/report/8567297)
 - Blocked highway drain causing flooding on the highway and footpath, 18th December :- [8566876](https://www.fixmystreet.com/report/8566876)
 - Streetlight on alleyway not working, 18th December :- [8566760](https://www.fixmystreet.com/report/8566760)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Half the road, the footpath and first 100 m of the park path is flooded, 18th December :- [8565732](https://www.fixmystreet.com/report/8565732)
 - Overflowing drain flooding road, 18th December :- [8565618](https://www.fixmystreet.com/report/8565618)
 - Blocked drain causing flooding, 18th December :- [8565587](https://www.fixmystreet.com/report/8565587)
-- TMC - Defects -CW6 Potholes  problem, 18th December :- [8565673](https://www.fixmystreet.com/report/8565673)
-- TMC - Defects -CW6 Potholes  problem, 18th December :- [8565672](https://www.fixmystreet.com/report/8565672)
 
 <!-- fix_marker ends -->

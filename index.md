@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 19 December 2025
 
-- The average temperature today is 6.91˚C,
-- With highs of 7.94˚C and lows of 5.93˚C,
-- It may feel like 5.03˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1006hPa and humidity is 84%
+- The average temperature today is 7.58˚C,
+- With highs of 8.32˚C and lows of 6.51˚C,
+- It may feel like 5.25˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1008hPa and humidity is 82%
 - The sun will rise at 08:12 and set at 15:58
 
 <!-- weather_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 2 street lights are permanently out around Pittville circus, 19th December :- [8572412](https://www.fixmystreet.com/report/8572412)
 - Pothole which is deep and large in area., 19th December :- [8572081](https://www.fixmystreet.com/report/8572081)
 - Must be a burst pipe which has been going on & off for a few months. Today looked like a serious loss of water., 19th December :- [8572018](https://www.fixmystreet.com/report/8572018)
 - Flooding on corner bullfinch way, 19th December :- [8571971](https://www.fixmystreet.com/report/8571971)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 19th December :- [8570371](https://www.fixmystreet.com/report/8570371)
 - TMC - Defects - Vegetation problem, 19th December :- [8570374](https://www.fixmystreet.com/report/8570374)
 - TMC - Defects - Vegetation problem, 19th December :- [8570373](https://www.fixmystreet.com/report/8570373)
-- 6 cm deep hole has appeared on near side road for Eastbound cars outside entrance to 14 Greenhills Road., 19th December :- [8570133](https://www.fixmystreet.com/report/8570133)
 
 <!-- fix_marker ends -->

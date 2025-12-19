@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- How volunteers are spreading joy this Christmas ([2 hours ago](https://www.bbc.com/news/articles/c3d0zxxr99go?at_medium=RSS&at_campaign=rss))
-- Teenage boys charged with murder of man in his 40s ([11 hours ago](https://www.bbc.com/news/articles/c9d93p7y8d7o?at_medium=RSS&at_campaign=rss))
-- Local charity Cobalt appeals for used Christmas cards to support vital medical services ([15 hours ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
-- 'Much-loved' café to close despite rise in customers ([15 hours ago](https://www.bbc.com/news/articles/cly08jnm3mmo?at_medium=RSS&at_campaign=rss))
-- 'Rise in EV battery fires' and 'blaze destroys family's home' ([21 hours ago](https://www.bbc.com/news/articles/ckg9xw505l8o?at_medium=RSS&at_campaign=rss))
+- How volunteers are spreading joy this Christmas ([4 hours ago](https://www.bbc.com/news/articles/c3d0zxxr99go?at_medium=RSS&at_campaign=rss))
+- Teenage boys charged with murder of man in his 40s ([13 hours ago](https://www.bbc.com/news/articles/c9d93p7y8d7o?at_medium=RSS&at_campaign=rss))
+- Local charity Cobalt appeals for used Christmas cards to support vital medical services ([17 hours ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
+- 'Much-loved' café to close despite rise in customers ([17 hours ago](https://www.bbc.com/news/articles/cly08jnm3mmo?at_medium=RSS&at_campaign=rss))
+- 'Rise in EV battery fires' and 'blaze destroys family's home' ([23 hours ago](https://www.bbc.com/news/articles/ckg9xw505l8o?at_medium=RSS&at_campaign=rss))
 - Gloucester MP raises concern with Evri deliveries ([1 days ago](https://www.bbc.com/news/articles/czj0wvv9ywpo?at_medium=RSS&at_campaign=rss))
 - Wheelbarrow marathon to raise funds for hospice ([1 days ago](https://www.bbc.com/news/articles/cm28k184kj2o?at_medium=RSS&at_campaign=rss))
 - Family facing eviction at Christmas find new home ([1 days ago](https://www.bbc.com/news/articles/ckgz0ldjjlno?at_medium=RSS&at_campaign=rss))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - New campaign highlights the silent danger of sleeping in bins ([14 days ago](https://gloucesternewscentre.co.uk/new-campaign-highlights-the-silent-danger-of-sleeping-in-bins/))
 - Cheltenham man conquers 900km Camino de Santiago in memory of wife ([14 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-conquers-900km-camino-de-santiago-in-memory-of-wife/))
 - Cheltenham sexual entertainment venue plans approved ([14 days ago](https://gloucesternewscentre.co.uk/cheltenham-sexual-entertainment-venue-plans-approved/))
-- Christmas and New Year waste and recycling collections ([14 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
+- Christmas and New Year waste and recycling collections ([15 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 - Wychwood Festival crowned ‘Family Festival of the Year’ ([15 days ago](https://gloucesternewscentre.co.uk/wychwood-festival-crowned-family-festival-of-the-year/))
 - Gloucestershire Hospitals NHS Trust first in UK to adopt wristband for patients with difficult intravenous access ([16 days ago](https://gloucesternewscentre.co.uk/gloucestershire-hospitals-nhs-trust-first-in-uk-to-adopt-wristband-for-patients-with-difficult-intravenous-access/))
 - Help shape the future: share your views on new research for the strategic and local plan ([17 days ago](https://www.cheltenham.gov.uk/news/article/3078/help_shape_the_future_share_your_views_on_new_research_for_the_strategic_and_local_plan))
@@ -60,8 +60,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Safer Streets Winter launches in Cheltenham following successful summer crackdown ([20 days ago](https://www.cheltenham.gov.uk/news/article/3076/safer_streets_winter_launches_in_cheltenham_following_successful_summer_crackdown))
 - Media release: Exciting new flagship development is breaking ground ([21 days ago](https://www.cheltenham.gov.uk/news/article/3075/media_release_exciting_new_flagship_development_is_breaking_ground))
 - 12 businesses awarded with CheltenhamZero business grant ([21 days ago](https://www.cheltenham.gov.uk/news/article/3074/12_businesses_awarded_with_cheltenhamzero_business_grant))
-- Cheltenham Borough Council supports two councils for Gloucestershire ([21 days ago](https://www.cheltenham.gov.uk/news/article/3073/cheltenham_borough_council_supports_two_councils_for_gloucestershire))
+- Cheltenham Borough Council supports two councils for Gloucestershire ([22 days ago](https://www.cheltenham.gov.uk/news/article/3073/cheltenham_borough_council_supports_two_councils_for_gloucestershire))
 - 16 Days of Activism launches in Cheltenham as a push for safer spaces for women and girls ([23 days ago](https://www.cheltenham.gov.uk/news/article/3072/16_days_of_activism_launches_in_cheltenham_as_a_push_for_safer_spaces_for_women_and_girls))
-- High school students and Leckhampton Rovers score goal with new sustainability trail app ([24 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
+- High school students and Leckhampton Rovers score goal with new sustainability trail app ([25 days ago](https://www.cheltenham.gov.uk/news/article/3071/high_school_students_and_leckhampton_rovers_score_goal_with_new_sustainability_trail_app))
 
 <!-- news_marker ends -->

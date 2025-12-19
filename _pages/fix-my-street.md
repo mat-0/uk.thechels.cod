@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain, 19th December :- [8567967](https://www.fixmystreet.com/report/8567967)
+- Blocked drain, 19th December :- [8567963](https://www.fixmystreet.com/report/8567963)
+- Drain blocked with leafs, 19th December :- [8567951](https://www.fixmystreet.com/report/8567951)
+- Blocked drain on LHS as you are going up hill, 19th December :- [8567949](https://www.fixmystreet.com/report/8567949)
+- Drain is blocked and road floods when a lot of rain, 19th December :- [8567592](https://www.fixmystreet.com/report/8567592)
 - Road signs, 19th December :- [8567563](https://www.fixmystreet.com/report/8567563)
 - Pot holes, 19th December :- [8567492](https://www.fixmystreet.com/report/8567492)
 - Pot hole, 19th December :- [8567491](https://www.fixmystreet.com/report/8567491)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Drain lid rising, 18th December :- [8566186](https://www.fixmystreet.com/report/8566186)
 - Huge puddle several feet wide / long outside 8 Pittville Lawn GL52 2BD. This is an ongoing problem every time it rains and it makes the pavement impassable., 18th December :- [8566181](https://www.fixmystreet.com/report/8566181)
 - Cement and mud on road causing slippery surface, 18th December :- [8566140](https://www.fixmystreet.com/report/8566140)
-- Major flooding on the road, 18th December :- [8566071](https://www.fixmystreet.com/report/8566071)
-- Blocked drains. Leaves still not cleared., 18th December :- [8566040](https://www.fixmystreet.com/report/8566040)
-- Flooding in Betty Roberts lane due to unauthorised works., 18th December :- [8565987](https://www.fixmystreet.com/report/8565987)
-- Half the road, the footpath and first 100 m of the park path is flooded, 18th December :- [8565732](https://www.fixmystreet.com/report/8565732)
-- Overflowing drain flooding road, 18th December :- [8565618](https://www.fixmystreet.com/report/8565618)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole in the road after new bus route started, 19th December :- [8571536](https://www.fixmystreet.com/report/8571536)
 - Deep pothole, 19th December :- [8571296](https://www.fixmystreet.com/report/8571296)
 - Deep pothole, 19th December :- [8571280](https://www.fixmystreet.com/report/8571280)
 - Deep potholes, 19th December :- [8571250](https://www.fixmystreet.com/report/8571250)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Green or amber traffic light is not working problem, 19th December :- [8569923](https://www.fixmystreet.com/report/8569923)
 - A pothole in road problem, 19th December :- [8570141](https://www.fixmystreet.com/report/8570141)
 - A pothole in road problem, 19th December :- [8569922](https://www.fixmystreet.com/report/8569922)
-- A pothole in road problem, 19th December :- [8569921](https://www.fixmystreet.com/report/8569921)
 
 <!-- fix_marker ends -->

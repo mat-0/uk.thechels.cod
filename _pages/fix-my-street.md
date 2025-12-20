@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All 3 drains are blocked, 20th December :- [8572726](https://www.fixmystreet.com/report/8572726)
 - 2 street lights are permanently out around Pittville circus, 19th December :- [8572412](https://www.fixmystreet.com/report/8572412)
 - Pothole which is deep and large in area., 19th December :- [8572081](https://www.fixmystreet.com/report/8572081)
 - Must be a burst pipe which has been going on & off for a few months. Today looked like a serious loss of water., 19th December :- [8572018](https://www.fixmystreet.com/report/8572018)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 19th December :- [8570372](https://www.fixmystreet.com/report/8570372)
 - TMC - Defects -CW6 Potholes  problem, 19th December :- [8570371](https://www.fixmystreet.com/report/8570371)
 - TMC - Defects - Vegetation problem, 19th December :- [8570374](https://www.fixmystreet.com/report/8570374)
-- TMC - Defects - Vegetation problem, 19th December :- [8570373](https://www.fixmystreet.com/report/8570373)
 
 <!-- fix_marker ends -->

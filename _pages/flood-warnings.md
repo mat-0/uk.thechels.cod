@@ -145,13 +145,6 @@ We will continue to monitor the situation and will issue further alerts or warni
 Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Warning no longer in force: River Wye in Gloucestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
 Further rainfall is forecast but no further flooding is expected.   

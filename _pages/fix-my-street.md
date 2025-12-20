@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574662](https://www.fixmystreet.com/report/8574662)
+- Deep potholes along Bayshill Road dangerous for motorbikes also pedestrians at the crossing outside the Ladies College, 20th December :- [8574661](https://www.fixmystreet.com/report/8574661)
+- Three potholes, 20th December :- [8574629](https://www.fixmystreet.com/report/8574629)
+- Roadwork barriers in road, 20th December :- [8574556](https://www.fixmystreet.com/report/8574556)
 - Volunteer litter pick bags ready for collection, 20th December :- [8574168](https://www.fixmystreet.com/report/8574168)
 - Pothole on harp hill, 20th December :- [8574118](https://www.fixmystreet.com/report/8574118)
 - Flytipped item, 20th December :- [8573714](https://www.fixmystreet.com/report/8573714)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Huge pothole on side of road hard to see when full of water when raining, 20th December :- [8573115](https://www.fixmystreet.com/report/8573115)
 - A pothole in road problem, 20th December :- [8573066](https://www.fixmystreet.com/report/8573066)
 - Smashed bottle by bike racks, 20th December :- [8572943](https://www.fixmystreet.com/report/8572943)
-- All 3 drains are blocked, 20th December :- [8572726](https://www.fixmystreet.com/report/8572726)
-- 2 street lights are permanently out around Pittville circus, 19th December :- [8572412](https://www.fixmystreet.com/report/8572412)
-- Pothole which is deep and large in area., 19th December :- [8572081](https://www.fixmystreet.com/report/8572081)
-- Must be a burst pipe which has been going on & off for a few months. Today looked like a serious loss of water., 19th December :- [8572018](https://www.fixmystreet.com/report/8572018)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street light not working, 22nd December :- [8583296](https://www.fixmystreet.com/report/8583296)
+- Fly tipping of items in trees/bushes by the railway over bridge on Pirton Lane, 22nd December :- [8583088](https://www.fixmystreet.com/report/8583088)
+- Blocked drain, 22nd December :- [8582709](https://www.fixmystreet.com/report/8582709)
 - Multiple potholes along one stretch of road, deep enough to damage tyres. You have to drive like you’re drunk to avoid them all, 22nd December :- [8582216](https://www.fixmystreet.com/report/8582216)
 - Massive Pothole, 22nd December :- [8582177](https://www.fixmystreet.com/report/8582177)
 - Noticeable pothole by entry of Hazlewood Close, 22nd December :- [8582022](https://www.fixmystreet.com/report/8582022)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581515](https://www.fixmystreet.com/report/8581515)
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581514](https://www.fixmystreet.com/report/8581514)
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581513](https://www.fixmystreet.com/report/8581513)
-- TMC - Defects - Other problem, 22nd December :- [8581343](https://www.fixmystreet.com/report/8581343)
-- More broken glass here, 22nd December :- [8580987](https://www.fixmystreet.com/report/8580987)
-- This crossing over the drainage ditch is dangerous and confusing. It should be taken away as there is a safer one just a few meters further to the left. Problem Identified 22-12-2025. The damaged stile is one field further over the drainage along the footpath., 22nd December :- [8580945](https://www.fixmystreet.com/report/8580945)
 
 <!-- fix_marker ends -->

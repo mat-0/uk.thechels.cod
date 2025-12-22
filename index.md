@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 21 December 2025
+## On Monday, 22 December 2025
 
-- The average temperature today is 10.43˚C,
-- With highs of 10.85˚C and lows of 9.83˚C,
-- It may feel like 9.96˚C with overcast clouds
-- The wind speed is 5.36m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 93%
-- The sun will rise at 08:13 and set at 15:59
+- The average temperature today is 10.44˚C,
+- With highs of 10.85˚C and lows of 9.6˚C,
+- It may feel like 9.94˚C with overcast clouds
+- The wind speed is 4.02m/s and visibility is 10000m
+- The pressure is 1002hPa and humidity is 92%
+- The sun will rise at 08:14 and set at 15:59
 
 <!-- weather_marker ends -->
 

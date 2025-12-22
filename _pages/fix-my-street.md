@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole road surface worn out from Greenway lane to Hales road, 22nd December :- [8578683](https://www.fixmystreet.com/report/8578683)
+- Series of potholes along this Granville Street, 22nd December :- [8578645](https://www.fixmystreet.com/report/8578645)
+- Deep large pothole in right hand turning lane towards St Paul's Medical Centre, 21st December :- [8578638](https://www.fixmystreet.com/report/8578638)
 - Dinner plate size pothole just past junction for Robert’s Road, 21st December :- [8578171](https://www.fixmystreet.com/report/8578171)
 - Potholes and uneven surface from juntion 10 m5 to past Junc 9, 21st December :- [8577832](https://www.fixmystreet.com/report/8577832)
 - Flytipping, 21st December :- [8577781](https://www.fixmystreet.com/report/8577781)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Flytipped item, 21st December :- [8576757](https://www.fixmystreet.com/report/8576757)
 - Flytipped item, 21st December :- [8576751](https://www.fixmystreet.com/report/8576751)
 - Abandoned road works sign, 21st December :- [8576585](https://www.fixmystreet.com/report/8576585)
-- Abandoned street signs, 21st December :- [8576529](https://www.fixmystreet.com/report/8576529)
-- Pot hole in middle of road, 21st December :- [8576361](https://www.fixmystreet.com/report/8576361)
-- Red barrier appears abandoned leaning against bus stop, 21st December :- [8576239](https://www.fixmystreet.com/report/8576239)
 
 <!-- fix_marker ends -->

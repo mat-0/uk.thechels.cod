@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 22 December 2025
 
-- The average temperature today is 11.04˚C,
-- With highs of 11.4˚C and lows of 10.16˚C,
-- It may feel like 10.42˚C with broken clouds
-- The wind speed is 1.34m/s and visibility is 10000m
-- The pressure is 1007hPa and humidity is 85%
+- The average temperature today is 10.46˚C,
+- With highs of 10.75˚C and lows of 9.6˚C,
+- It may feel like 9.86˚C with broken clouds
+- The wind speed is 3.09m/s and visibility is 10000m
+- The pressure is 1009hPa and humidity is 88%
 - The sun will rise at 08:14 and set at 15:59
 
 <!-- weather_marker ends -->

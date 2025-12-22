@@ -132,13 +132,6 @@ Avoid low lying roads near rivers, which may be flooded.
 
 This message will be updated by 19:00 22 December 2025 or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Tidal conditions are expected to improve and no flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
-
-
 - Flood alert: River Severn in Worcestershire
 - River levels are falling but remain high, therefore the risk of flooding continues on 22 December and over the next few days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley peaked at 3.02m 21/12, Worcester peaked at 4.14 20/12, Diglis peaked at 3.91m 20/12, Kempsey Yacht Club peaked 6.03m on 21/12, Saxons Lode peaked at 4.68 21/12. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 23 December 2025 or as the situation changes.
 

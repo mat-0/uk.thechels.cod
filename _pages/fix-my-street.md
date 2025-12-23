@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Deep pothole in addition to those already reported but not fixed, 23rd December :- [8583500](https://www.fixmystreet.com/report/8583500)
 - Street light not working, 22nd December :- [8583296](https://www.fixmystreet.com/report/8583296)
 - Fly tipping of items in trees/bushes by the railway over bridge on Pirton Lane, 22nd December :- [8583088](https://www.fixmystreet.com/report/8583088)
 - Blocked drain, 22nd December :- [8582709](https://www.fixmystreet.com/report/8582709)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581516](https://www.fixmystreet.com/report/8581516)
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581515](https://www.fixmystreet.com/report/8581515)
 - TMC - Defects -CW10 Potholes problem, 22nd December :- [8581514](https://www.fixmystreet.com/report/8581514)
-- TMC - Defects -CW10 Potholes problem, 22nd December :- [8581513](https://www.fixmystreet.com/report/8581513)
 
 <!-- fix_marker ends -->

@@ -28,15 +28,7 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:27AM on 23 December 2025 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
-- Flooding remains possible.
-
-Flooding of low lying land and roads is expected to continue, river levels along the River Churn remain high, particularly in Cerney Wick. The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the next few days. 
-
-We are closely monitoring the situation. 
-
-Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+- Flooding remains possible. Flooding of low lying land and roads is expected to continue as river levels along the River Churn remain high, particularly in Cerney Wick. The weather forecast is dry for Tuesday and Wednesday. We expect river levels to remain high over the next few days. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels. This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - Flood risk remains possible. 
@@ -63,13 +55,11 @@ This message will be updated by 12:00PM, midday, on the 24 December 2025 or as t
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels have led to flooding of land close to the river.
 
-Flooding of low lying land and roads is expected to continue today because river levels along the River Thames remain high, particularly in the Kempsford area. The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the next few days but they have started to fall. 
+Flooding of low lying land and roads is expected to continue today, because river levels along the River Thames remain high, particularly in the Kempsford area. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the next few days. 
 
-We are closely monitoring the situation. 
+We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -109,13 +99,11 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels have led to flooding of land close to the river.
 
-Flooding of low lying land and roads is expected to continue, as the River Thames remains high. The weather forecast is dry Monday night and throughout Tuesday. We do not expect the river to rise further, however river levels will remain high over the coming days.
+Flooding of low lying land and roads is expected to continue, as the River Thames remains high. The weather forecast is dry Tuesday and Wednesday. We do not expect the river to rise further, however river levels will remain high over the coming days.
 
-We are monitoring rainfall and river levels. 
+We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. 
 
-Avoid low lying roads near rivers, which may be flooded. 
-
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Warning no longer in force: River Severn in Worcestershire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

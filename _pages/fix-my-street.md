@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole repair is broken, 23rd December :- [8585941](https://www.fixmystreet.com/report/8585941)
+- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585992](https://www.fixmystreet.com/report/8585992)
+- TMC - Defects - Other problem, 23rd December :- [8585989](https://www.fixmystreet.com/report/8585989)
+- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585828](https://www.fixmystreet.com/report/8585828)
+- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585827](https://www.fixmystreet.com/report/8585827)
+- TMC - Defects - Other problem, 23rd December :- [8585985](https://www.fixmystreet.com/report/8585985)
+- Incompetent workmen and council, 23rd December :- [8585550](https://www.fixmystreet.com/report/8585550)
+- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585661](https://www.fixmystreet.com/report/8585661)
+- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585660](https://www.fixmystreet.com/report/8585660)
+- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585658](https://www.fixmystreet.com/report/8585658)
+- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585656](https://www.fixmystreet.com/report/8585656)
+- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585655](https://www.fixmystreet.com/report/8585655)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585481](https://www.fixmystreet.com/report/8585481)
 - Potholes on roundabout, 23rd December :- [8585382](https://www.fixmystreet.com/report/8585382)
 - More failed repairs pot hole again, 23rd December :- [8585375](https://www.fixmystreet.com/report/8585375)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 23rd December :- [8585319](https://www.fixmystreet.com/report/8585319)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585329](https://www.fixmystreet.com/report/8585329)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585322](https://www.fixmystreet.com/report/8585322)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585323](https://www.fixmystreet.com/report/8585323)
-- A pothole in road problem, 23rd December :- [8585136](https://www.fixmystreet.com/report/8585136)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585158](https://www.fixmystreet.com/report/8585158)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585157](https://www.fixmystreet.com/report/8585157)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585153](https://www.fixmystreet.com/report/8585153)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585152](https://www.fixmystreet.com/report/8585152)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585145](https://www.fixmystreet.com/report/8585145)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585147](https://www.fixmystreet.com/report/8585147)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585144](https://www.fixmystreet.com/report/8585144)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585143](https://www.fixmystreet.com/report/8585143)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585146](https://www.fixmystreet.com/report/8585146)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585148](https://www.fixmystreet.com/report/8585148)
 
 <!-- fix_marker ends -->

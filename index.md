@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 23 December 2025
 
-- The average temperature today is 6.86˚C,
-- With highs of 7.2˚C and lows of 6.27˚C,
-- It may feel like 2.84˚C with overcast clouds
-- The wind speed is 7.2m/s and visibility is 8000m
-- The pressure is 1019hPa and humidity is 85%
+- The average temperature today is 6.66˚C,
+- With highs of 7.19˚C and lows of 5.71˚C,
+- It may feel like 2.42˚C with overcast clouds
+- The wind speed is 7.72m/s and visibility is 8000m
+- The pressure is 1020hPa and humidity is 83%
 - The sun will rise at 08:14 and set at 16:00
 
 <!-- weather_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pot hole adjacent access chamber in road, 23rd December :- [8586664](https://www.fixmystreet.com/report/8586664)
+- Verge has been trashed due to heavy traffic in village caused by A40 closure . It needs reversing and a lot of road debris needs removing . It also needs new chevrons to direct traffic off it( old ones broken) Village also needs more “ 20 is plenty “ signage as speeding has become a real issue, 23rd December :- [8586592](https://www.fixmystreet.com/report/8586592)
+- Large hole in road, on left hand edging going towards Badgeworth Road, opposite entrance to Elm Farm entrance, 23rd December :- [8586254](https://www.fixmystreet.com/report/8586254)
 - Pothole repair is broken, 23rd December :- [8585941](https://www.fixmystreet.com/report/8585941)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585992](https://www.fixmystreet.com/report/8585992)
 - TMC - Defects - Other problem, 23rd December :- [8585989](https://www.fixmystreet.com/report/8585989)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - More failed repairs pot hole again, 23rd December :- [8585375](https://www.fixmystreet.com/report/8585375)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585480](https://www.fixmystreet.com/report/8585480)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585478](https://www.fixmystreet.com/report/8585478)
-- A pothole in road problem, 23rd December :- [8585319](https://www.fixmystreet.com/report/8585319)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585329](https://www.fixmystreet.com/report/8585329)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585322](https://www.fixmystreet.com/report/8585322)
 
 <!-- fix_marker ends -->

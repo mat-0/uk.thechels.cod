@@ -93,8 +93,12 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Severn in Gloucestershire
 - River levels are falling but remain high, therefore the risk of flooding continues on 23 December and over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe peaked at 4.13m on 21/12, Haw Bridge peaked at 4.97m 21/12. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 24 December 2025 or as the situation changes.
 
-- Flood alert: River Avon in Worcestershire
-- River levels are falling but remain high, therefore the risk of flooding continues on 23 December and over the next few days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury may be impacted. Peaks:- Evesham peaked AT 2.8M 19/12 , Bredon peaked at 2.92m 21/12. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by10:00AM on 24 December 2025 or as the situation changes.
+- Warning no longer in force: River Avon in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Never drive through flood water,  just 30cm of fast flowing water is enough to move your car. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels have led to flooding of land close to the river.

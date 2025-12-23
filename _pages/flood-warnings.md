@@ -39,26 +39,26 @@ Avoid using low lying footpaths and any bridges near local watercourses. Go to R
 This message will be updated by 12:00 23 December 2025 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- The flood risk remains.
+- Flood risk remains possible. 
 
-Flooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water, Witney, Standlake and Newbridge. The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water, Witney, Standlake and Newbridge. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the next few days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels have led to flooding of land close to the River Glyme. 
 
-Flooding of low lying land and roads is expected to continue on the River Glyme at Woodstock. The river is now flowing within banks on the River Evenlode although water will remain in fields close to the river over the next few days. The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the next few days, particularly on the River Glyme.  
+Flooding of low lying land and roads is expected to continue on the River Glyme at Woodstock. The river is now flowing within banks on the River Evenlode although water will remain in fields close to the river over the next few days. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the next few days, particularly on the River Glyme.  
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
 - High river levels have led to flooding of land close to the river.
@@ -74,24 +74,24 @@ This message will be updated by 12:00 23 December 2025 or as the situation chang
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads remains possible today in the Bourton on the Water area.  The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the coming days.
+Flooding of low lying land and roads remains possible today in the Bourton on the Water area. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. 
 
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
-- Flooding remains possible.
+- Flood risk remains possible.
 
-Flooding of low lying land and roads is expected to continue as river levels remain high, especially in the Lechlade area.  The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high over the next few days.
+Flooding of low lying land and roads is expected to continue as river levels remain high, especially in the Lechlade area. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the next few days.
 
 We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 - Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -141,11 +141,11 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood alert: River Coln and its tributaries
 - Flooding remains possible.
 
-Flooding of low lying land and roads is expected, especially around Fossebridge and Bibury. The weather forecast is dry Monday night and throughout Tuesday. We expect river levels to remain high and responsive to further rain over the coming days. We are monitoring rainfall and river levels. 
+Flooding of low lying land and roads is expected, especially around Fossebridge and Bibury. The weather forecast is dry Tuesday and Wednesday. We expect river levels to remain high over the coming days. We are monitoring rainfall and river levels. 
 
 Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00 23 December 2025 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
 
 <!-- flood_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken Glass, 24th December :- [8588246](https://www.fixmystreet.com/report/8588246)
+- Dumped chest freezer outside 11 Goldsmith Road, 24th December :- [8587965](https://www.fixmystreet.com/report/8587965)
 - Holes around drain, 23rd December :- [8587405](https://www.fixmystreet.com/report/8587405)
 - Several potholes - deteriorating tarmac, 23rd December :- [8587290](https://www.fixmystreet.com/report/8587290)
 - Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585661](https://www.fixmystreet.com/report/8585661)
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585660](https://www.fixmystreet.com/report/8585660)
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585658](https://www.fixmystreet.com/report/8585658)
-- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585656](https://www.fixmystreet.com/report/8585656)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585655](https://www.fixmystreet.com/report/8585655)
 
 <!-- fix_marker ends -->

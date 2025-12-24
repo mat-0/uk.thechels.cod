@@ -78,13 +78,6 @@ Avoid low lying roads near rivers, which may be flooded. Go to River levels onli
 
 This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
 
-- Warning no longer in force: Tributaries on the Upper River Thames above Cricklade
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - River levels are falling but remain high, therefore the risk of flooding continues on 24 December and over the next few days. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgeley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe peaked at 4.13m on 21/12, Haw Bridge peaked at 4.97m 21/12. We are monitoring rainfall and river levels. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 25 December 2025 or as the situation changes.
 
@@ -103,27 +96,6 @@ Flooding of low lying land and roads is expected to continue, as the River Thame
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. 
 
 This message will be updated by 12:00PM, midday, on the 24 December 2025 or as the situation changes.
-
-- Warning no longer in force: River Severn in Worcestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
-- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
-- Warning no longer in force: River Severn at Apperley and The Leigh
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 
 - Flood alert: River Coln and its tributaries
 - Flooding remains possible.

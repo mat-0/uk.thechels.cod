@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Holes around drain, 23rd December :- [8587405](https://www.fixmystreet.com/report/8587405)
+- Several potholes - deteriorating tarmac, 23rd December :- [8587290](https://www.fixmystreet.com/report/8587290)
 - Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
 - Pavement covered in mud, 23rd December :- [8586754](https://www.fixmystreet.com/report/8586754)
 - Grass verge covered in gravel, 23rd December :- [8586745](https://www.fixmystreet.com/report/8586745)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585658](https://www.fixmystreet.com/report/8585658)
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585656](https://www.fixmystreet.com/report/8585656)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585655](https://www.fixmystreet.com/report/8585655)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585481](https://www.fixmystreet.com/report/8585481)
-- Potholes on roundabout, 23rd December :- [8585382](https://www.fixmystreet.com/report/8585382)
 
 <!-- fix_marker ends -->

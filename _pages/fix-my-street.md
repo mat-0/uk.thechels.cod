@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large stretch of badly deformed road causing risk to PTWs, bicycles and pedestrians, 24th December :- [8589344](https://www.fixmystreet.com/report/8589344)
+- A pothole in road problem, 24th December :- [8589225](https://www.fixmystreet.com/report/8589225)
 - Broken Glass, 24th December :- [8588246](https://www.fixmystreet.com/report/8588246)
 - Dumped chest freezer outside 11 Goldsmith Road, 24th December :- [8587965](https://www.fixmystreet.com/report/8587965)
 - Holes around drain, 23rd December :- [8587405](https://www.fixmystreet.com/report/8587405)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 23rd December :- [8585985](https://www.fixmystreet.com/report/8585985)
 - Incompetent workmen and council, 23rd December :- [8585550](https://www.fixmystreet.com/report/8585550)
 - TMC - Defects -CW10 Potholes problem, 23rd December :- [8585661](https://www.fixmystreet.com/report/8585661)
-- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585660](https://www.fixmystreet.com/report/8585660)
-- TMC - Defects -CW10 Potholes problem, 23rd December :- [8585658](https://www.fixmystreet.com/report/8585658)
 
 <!-- fix_marker ends -->

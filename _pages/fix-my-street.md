@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree has fallen right across the path (Cotswold Way), 25th December :- [8590799](https://www.fixmystreet.com/report/8590799)
+- Trees require maintenance, 25th December :- [8590772](https://www.fixmystreet.com/report/8590772)
+- Multiple large potholes junction, 25th December :- [8590743](https://www.fixmystreet.com/report/8590743)
+- Rubbish bags left on driveway at No. 10, 25th December :- [8590707](https://www.fixmystreet.com/report/8590707)
 - Tree blocking road, 25th December :- [8590679](https://www.fixmystreet.com/report/8590679)
 - Button not working at crossing, only stays on if another button is pressed at a seperate crossing, 25th December :- [8590396](https://www.fixmystreet.com/report/8590396)
 - Middle of the road, 25th December :- [8590347](https://www.fixmystreet.com/report/8590347)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Drain cover Is making a noise everytime a vehicle passes and we live right by the bypass so hear it all day and night, 23rd December :- [8587278](https://www.fixmystreet.com/report/8587278)
 - Pavement covered in mud, 23rd December :- [8586754](https://www.fixmystreet.com/report/8586754)
 - Grass verge covered in gravel, 23rd December :- [8586745](https://www.fixmystreet.com/report/8586745)
-- Large pot hole adjacent access chamber in road, 23rd December :- [8586664](https://www.fixmystreet.com/report/8586664)
-- Verge has been trashed due to heavy traffic in village caused by A40 closure . It needs reversing and a lot of road debris needs removing . It also needs new chevrons to direct traffic off it( old ones broken) Village also needs more “ 20 is plenty “ signage as speeding has become a real issue, 23rd December :- [8586592](https://www.fixmystreet.com/report/8586592)
-- Large hole in road, on left hand edging going towards Badgeworth Road, opposite entrance to Elm Farm entrance, 23rd December :- [8586254](https://www.fixmystreet.com/report/8586254)
-- Pothole repair is broken, 23rd December :- [8585941](https://www.fixmystreet.com/report/8585941)
 
 <!-- fix_marker ends -->

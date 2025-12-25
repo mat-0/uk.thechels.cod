@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Dangerous flooding across road, 24th December :- [8590197](https://www.fixmystreet.com/report/8590197)
 - Old roadworks refill has sunk, 24th December :- [8590122](https://www.fixmystreet.com/report/8590122)
 - Deep pothole, 24th December :- [8589699](https://www.fixmystreet.com/report/8589699)
 - Large deep pothole unavoidable, 24th December :- [8589691](https://www.fixmystreet.com/report/8589691)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585992](https://www.fixmystreet.com/report/8585992)
 - TMC - Defects - Other problem, 23rd December :- [8585989](https://www.fixmystreet.com/report/8585989)
 - TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585828](https://www.fixmystreet.com/report/8585828)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585827](https://www.fixmystreet.com/report/8585827)
 
 <!-- fix_marker ends -->

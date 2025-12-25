@@ -12,8 +12,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- From 13st dog to tallest donkey: the amazing animals of 2025 ([10 hours ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
-- The West's end of year news quiz ([12 hours ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
+- From 13st dog to tallest donkey: the amazing animals of 2025 ([12 hours ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
+- The West's end of year news quiz ([13 hours ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
 - Man completes Christmas wheelbarrow marathon ([1 days ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
 - Business to shut down after more than 100 years ([1 days ago](https://www.bbc.com/news/articles/cgr1v505w50o?at_medium=RSS&at_campaign=rss))
 - Princess Anne to attend official campus opening ([1 days ago](https://www.bbc.com/news/articles/c20kjv124nxo?at_medium=RSS&at_campaign=rss))
@@ -38,7 +38,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([6 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([6 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([6 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([6 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([7 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([7 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - Three further arrests following murder in Cheltenham yesterday ([8 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))
 - Duracell E-Charge launches first UK ultra-rapid charging hub in Cheltenham ([8 days ago](https://gloucesternewscentre.co.uk/duracell-e-charge-launches-first-uk-ultra-rapid-charging-hub-in-cheltenham/))

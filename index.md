@@ -11,9 +11,9 @@ seo: Menu
 ## On Thursday, 25 December 2025
 
 - The average temperature today is 3.21˚C,
-- With highs of 3.86˚C and lows of 2.61˚C,
-- It may feel like -0.07˚C with clear sky
-- The wind speed is 3.58m/s and visibility is 10000m
+- With highs of 3.86˚C and lows of 2.38˚C,
+- It may feel like -0.35˚C with clear sky
+- The wind speed is 4.02m/s and visibility is 10000m
 - The pressure is 1032hPa and humidity is 79%
 - The sun will rise at 08:15 and set at 16:01
 

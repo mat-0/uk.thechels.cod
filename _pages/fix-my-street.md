@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree blocking road, 25th December :- [8590679](https://www.fixmystreet.com/report/8590679)
 - Button not working at crossing, only stays on if another button is pressed at a seperate crossing, 25th December :- [8590396](https://www.fixmystreet.com/report/8590396)
 - Middle of the road, 25th December :- [8590347](https://www.fixmystreet.com/report/8590347)
 - Dangerous flooding across road, 24th December :- [8590197](https://www.fixmystreet.com/report/8590197)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Verge has been trashed due to heavy traffic in village caused by A40 closure . It needs reversing and a lot of road debris needs removing . It also needs new chevrons to direct traffic off it( old ones broken) Village also needs more “ 20 is plenty “ signage as speeding has become a real issue, 23rd December :- [8586592](https://www.fixmystreet.com/report/8586592)
 - Large hole in road, on left hand edging going towards Badgeworth Road, opposite entrance to Elm Farm entrance, 23rd December :- [8586254](https://www.fixmystreet.com/report/8586254)
 - Pothole repair is broken, 23rd December :- [8585941](https://www.fixmystreet.com/report/8585941)
-- TMC - Defects -CW6 Potholes  problem, 23rd December :- [8585992](https://www.fixmystreet.com/report/8585992)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Blocked drain with growth, 26th December :- [8592261](https://www.fixmystreet.com/report/8592261)
+- Traffic lights not working, 26th December :- [8592238](https://www.fixmystreet.com/report/8592238)
+- Traffic lights not working, 26th December :- [8592237](https://www.fixmystreet.com/report/8592237)
 - Gulley is rattling again!!!! This has only recently repaired again, 26th December :- [8591832](https://www.fixmystreet.com/report/8591832)
 - Tables, 26th December :- [8591284](https://www.fixmystreet.com/report/8591284)
 - Scaffold and debris, 26th December :- [8591279](https://www.fixmystreet.com/report/8591279)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Deep pothole, 24th December :- [8589699](https://www.fixmystreet.com/report/8589699)
 - Large deep pothole unavoidable, 24th December :- [8589691](https://www.fixmystreet.com/report/8589691)
 - Large stretch of badly deformed road causing risk to PTWs, bicycles and pedestrians, 24th December :- [8589344](https://www.fixmystreet.com/report/8589344)
-- A pothole in road problem, 24th December :- [8589225](https://www.fixmystreet.com/report/8589225)
-- Broken Glass, 24th December :- [8588246](https://www.fixmystreet.com/report/8588246)
-- Dumped chest freezer outside 11 Goldsmith Road, 24th December :- [8587965](https://www.fixmystreet.com/report/8587965)
 
 <!-- fix_marker ends -->

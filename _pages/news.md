@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Absolute legends of rugby' to race for charity ([1 minutes ago](https://www.bbc.com/news/articles/ce86p4wyy1ko?at_medium=RSS&at_campaign=rss))
-- Historic forest to grow with mass tree planting ([3 hours ago](https://www.bbc.com/news/articles/c208dwyqgp1o?at_medium=RSS&at_campaign=rss))
-- Volunteers boost children's enjoyment of reading ([3 hours ago](https://www.bbc.com/news/articles/c1lrql916ggo?at_medium=RSS&at_campaign=rss))
-- Got an e-scooter for Christmas? Here's what you should know ([3 hours ago](https://www.bbc.com/news/articles/cn098gezdkeo?at_medium=RSS&at_campaign=rss))
+- 'Absolute legends of rugby' to race for charity ([2 hours ago](https://www.bbc.com/news/articles/ce86p4wyy1ko?at_medium=RSS&at_campaign=rss))
+- Historic forest to grow with mass tree planting ([5 hours ago](https://www.bbc.com/news/articles/c208dwyqgp1o?at_medium=RSS&at_campaign=rss))
+- Volunteers boost children's enjoyment of reading ([5 hours ago](https://www.bbc.com/news/articles/c1lrql916ggo?at_medium=RSS&at_campaign=rss))
+- Got an e-scooter for Christmas? Here's what you should know ([5 hours ago](https://www.bbc.com/news/articles/cn098gezdkeo?at_medium=RSS&at_campaign=rss))
 - From 13st dog to tallest donkey: the amazing animals of 2025 ([1 days ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
 - The West's end of year news quiz ([1 days ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
 - Man completes Christmas wheelbarrow marathon ([1 days ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham tax bills could rise if new town council is created ([8 days ago](https://gloucesternewscentre.co.uk/cheltenham-tax-bills-could-rise-if-new-town-council-is-created/))
 - Town’s independent artists must not be made homeless, says MP ([9 days ago](https://gloucesternewscentre.co.uk/towns-independent-artists-must-not-be-made-homeless-says-mp/))
 - New Tesco to sell booze as opening month announced ([10 days ago](https://gloucesternewscentre.co.uk/new-tesco-to-sell-booze-as-opening-month-announced/))
-- Progress on new A38 junction after traffic disruption ([10 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
+- Progress on new A38 junction after traffic disruption ([11 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
 - Daring Dippers take the plunge for charity ([13 days ago](https://gloucesternewscentre.co.uk/daring-dippers-take-the-plunge-for-charity/))
 - Questions over airport sale amid fears deal is in trouble ([13 days ago](https://gloucesternewscentre.co.uk/questions-over-airport-sale-amid-fears-deal-is-in-trouble/))
 - Row over ‘£17m black hole’ in council funding ([15 days ago](https://gloucesternewscentre.co.uk/row-over-17m-black-hole-in-council-funding/))
@@ -59,10 +59,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham man conquers 900km Camino de Santiago in memory of wife ([21 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-conquers-900km-camino-de-santiago-in-memory-of-wife/))
 - Christmas and New Year waste and recycling collections ([22 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 - Help shape the future: share your views on new research for the strategic and local plan ([24 days ago](https://www.cheltenham.gov.uk/news/article/3078/help_shape_the_future_share_your_views_on_new_research_for_the_strategic_and_local_plan))
-- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([24 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
-- Safer Streets Winter launches in Cheltenham following successful summer crackdown ([27 days ago](https://www.cheltenham.gov.uk/news/article/3076/safer_streets_winter_launches_in_cheltenham_following_successful_summer_crackdown))
-- Media release: Exciting new flagship development is breaking ground ([28 days ago](https://www.cheltenham.gov.uk/news/article/3075/media_release_exciting_new_flagship_development_is_breaking_ground))
-- 12 businesses awarded with CheltenhamZero business grant ([28 days ago](https://www.cheltenham.gov.uk/news/article/3074/12_businesses_awarded_with_cheltenhamzero_business_grant))
+- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([25 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
+- Safer Streets Winter launches in Cheltenham following successful summer crackdown ([28 days ago](https://www.cheltenham.gov.uk/news/article/3076/safer_streets_winter_launches_in_cheltenham_following_successful_summer_crackdown))
+- Media release: Exciting new flagship development is breaking ground ([29 days ago](https://www.cheltenham.gov.uk/news/article/3075/media_release_exciting_new_flagship_development_is_breaking_ground))
+- 12 businesses awarded with CheltenhamZero business grant ([29 days ago](https://www.cheltenham.gov.uk/news/article/3074/12_businesses_awarded_with_cheltenhamzero_business_grant))
 - Cheltenham Borough Council supports two councils for Gloucestershire ([29 days ago](https://www.cheltenham.gov.uk/news/article/3073/cheltenham_borough_council_supports_two_councils_for_gloucestershire))
 
 <!-- news_marker ends -->

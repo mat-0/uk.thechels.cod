@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pot hole in road, 27th December :- [8593050](https://www.fixmystreet.com/report/8593050)
+- Pot holes in road, 27th December :- [8593046](https://www.fixmystreet.com/report/8593046)
+- Pothole in road, 27th December :- [8593044](https://www.fixmystreet.com/report/8593044)
 - Pothole, 26th December :- [8592920](https://www.fixmystreet.com/report/8592920)
 - 10 inch, deeply sunken pothole on the left of the road, 26th December :- [8592763](https://www.fixmystreet.com/report/8592763)
 - Blocked drain with growth, 26th December :- [8592261](https://www.fixmystreet.com/report/8592261)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Tree blocking road, 25th December :- [8590679](https://www.fixmystreet.com/report/8590679)
 - Button not working at crossing, only stays on if another button is pressed at a seperate crossing, 25th December :- [8590396](https://www.fixmystreet.com/report/8590396)
 - Middle of the road, 25th December :- [8590347](https://www.fixmystreet.com/report/8590347)
-- Dangerous flooding across road, 24th December :- [8590197](https://www.fixmystreet.com/report/8590197)
-- Old roadworks refill has sunk, 24th December :- [8590122](https://www.fixmystreet.com/report/8590122)
-- Deep pothole, 24th December :- [8589699](https://www.fixmystreet.com/report/8589699)
 
 <!-- fix_marker ends -->

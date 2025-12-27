@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Three people unaccounted for after house fire ([10 hours ago](https://www.bbc.com/news/articles/cdrn8mrglnjo?at_medium=RSS&at_campaign=rss))
-- 'Absolute legends of rugby' to race for charity ([16 hours ago](https://www.bbc.com/news/articles/ce86p4wyy1ko?at_medium=RSS&at_campaign=rss))
-- Historic forest to grow with mass tree planting ([19 hours ago](https://www.bbc.com/news/articles/c208dwyqgp1o?at_medium=RSS&at_campaign=rss))
-- Volunteers boost children's enjoyment of reading ([20 hours ago](https://www.bbc.com/news/articles/c1lrql916ggo?at_medium=RSS&at_campaign=rss))
-- Got an e-scooter for Christmas? Here's what you should know ([20 hours ago](https://www.bbc.com/news/articles/cn098gezdkeo?at_medium=RSS&at_campaign=rss))
+- Three people unaccounted for after house fire ([12 hours ago](https://www.bbc.com/news/articles/cdrn8mrglnjo?at_medium=RSS&at_campaign=rss))
+- 'Absolute legends of rugby' to race for charity ([18 hours ago](https://www.bbc.com/news/articles/ce86p4wyy1ko?at_medium=RSS&at_campaign=rss))
+- Historic forest to grow with mass tree planting ([21 hours ago](https://www.bbc.com/news/articles/c208dwyqgp1o?at_medium=RSS&at_campaign=rss))
+- Volunteers boost children's enjoyment of reading ([21 hours ago](https://www.bbc.com/news/articles/c1lrql916ggo?at_medium=RSS&at_campaign=rss))
+- Got an e-scooter for Christmas? Here's what you should know ([21 hours ago](https://www.bbc.com/news/articles/cn098gezdkeo?at_medium=RSS&at_campaign=rss))
 - From 13st dog to tallest donkey: the amazing animals of 2025 ([1 days ago](https://www.bbc.com/news/articles/c5ydl4j213zo?at_medium=RSS&at_campaign=rss))
 - The West's end of year news quiz ([1 days ago](https://www.bbc.com/news/articles/clydjl0x488o?at_medium=RSS&at_campaign=rss))
 - Man completes Christmas wheelbarrow marathon ([2 days ago](https://www.bbc.com/news/articles/czxpzkwyyxlo?at_medium=RSS&at_campaign=rss))

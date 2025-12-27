@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Broken glass, 27th December :- [8593916](https://www.fixmystreet.com/report/8593916)
+- Dog mess on pavement, 27th December :- [8593871](https://www.fixmystreet.com/report/8593871)
 - Pot hole in road, 27th December :- [8593050](https://www.fixmystreet.com/report/8593050)
 - Pot holes in road, 27th December :- [8593046](https://www.fixmystreet.com/report/8593046)
 - Pothole in road, 27th December :- [8593044](https://www.fixmystreet.com/report/8593044)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Multiple large potholes junction, 25th December :- [8590743](https://www.fixmystreet.com/report/8590743)
 - Rubbish bags left on driveway at No. 10, 25th December :- [8590707](https://www.fixmystreet.com/report/8590707)
 - Tree blocking road, 25th December :- [8590679](https://www.fixmystreet.com/report/8590679)
-- Button not working at crossing, only stays on if another button is pressed at a seperate crossing, 25th December :- [8590396](https://www.fixmystreet.com/report/8590396)
-- Middle of the road, 25th December :- [8590347](https://www.fixmystreet.com/report/8590347)
 
 <!-- fix_marker ends -->

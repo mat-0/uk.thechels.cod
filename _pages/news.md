@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Giant community mural is nearly finished ([3 hours ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
-- Plans on track for natural outdoor swimming spot ([3 hours ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
-- Three still missing after Boxing Day house fire ([19 hours ago](https://www.bbc.com/news/articles/cp9kdxrv9ngo?at_medium=RSS&at_campaign=rss))
+- Charity fundraiser dies from MND ([32 minutes ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
+- Giant community mural is nearly finished ([5 hours ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
+- Plans on track for natural outdoor swimming spot ([5 hours ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
+- Three still missing after Boxing Day house fire ([21 hours ago](https://www.bbc.com/news/articles/cp9kdxrv9ngo?at_medium=RSS&at_campaign=rss))
 - Changes to weekend rail journeys in January ([1 days ago](https://www.bbc.com/news/articles/c79xy3ry9geo?at_medium=RSS&at_campaign=rss))
 - Memories recaptured through live performances ([1 days ago](https://www.bbc.com/news/articles/c39pw11rn00o?at_medium=RSS&at_campaign=rss))
 - Author says she 'refuses to let the racists win' ([1 days ago](https://www.bbc.com/news/articles/c0rprxr2gr5o?at_medium=RSS&at_campaign=rss))
@@ -31,7 +32,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Go-ahead for Prinbox Works redevelopment ([4 days ago](https://gloucesternewscentre.co.uk/go-ahead-for-prinbox-works-redevelopment/))
 - Council to protect services as funding is cut ([4 days ago](https://gloucesternewscentre.co.uk/council-to-protect-services-as-funding-is-cut/))
 - Further arrest made in connection with Cheltenham murder investigation ([4 days ago](https://gloucesternewscentre.co.uk/further-arrest-made-in-connection-with-cheltenham-murder-investigation/))
-- Third teenager arrested in connection to murder ([4 days ago](https://www.bbc.com/news/articles/c4g931j4ywlo?at_medium=RSS&at_campaign=rss))
 - Cheltenham Borough Council launches consultation on draft 2026/27 budget ([4 days ago](https://www.cheltenham.gov.uk/news/article/3082/cheltenham_borough_council_launches_consultation_on_draft_202627_budget))
 - Mayor of Cheltenham thanks racegoers for their generosity ([7 days ago](https://www.cheltenham.gov.uk/news/article/3081/mayor_of_cheltenham_thanks_racegoers_for_their_generosity))
 - Ex-mayor fears council is ‘sliding into crisis’ amid £564k overspend ([8 days ago](https://gloucesternewscentre.co.uk/ex-mayor-fears-council-is-sliding-into-crisis-amid-564k-overspend/))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham tax bills could rise if new town council is created ([10 days ago](https://gloucesternewscentre.co.uk/cheltenham-tax-bills-could-rise-if-new-town-council-is-created/))
 - Town’s independent artists must not be made homeless, says MP ([11 days ago](https://gloucesternewscentre.co.uk/towns-independent-artists-must-not-be-made-homeless-says-mp/))
 - New Tesco to sell booze as opening month announced ([12 days ago](https://gloucesternewscentre.co.uk/new-tesco-to-sell-booze-as-opening-month-announced/))
-- Progress on new A38 junction after traffic disruption ([12 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
+- Progress on new A38 junction after traffic disruption ([13 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
 - Daring Dippers take the plunge for charity ([15 days ago](https://gloucesternewscentre.co.uk/daring-dippers-take-the-plunge-for-charity/))
 - Questions over airport sale amid fears deal is in trouble ([15 days ago](https://gloucesternewscentre.co.uk/questions-over-airport-sale-amid-fears-deal-is-in-trouble/))
 - Row over ‘£17m black hole’ in council funding ([17 days ago](https://gloucesternewscentre.co.uk/row-over-17m-black-hole-in-council-funding/))
@@ -59,7 +59,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham man conquers 900km Camino de Santiago in memory of wife ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-conquers-900km-camino-de-santiago-in-memory-of-wife/))
 - Christmas and New Year waste and recycling collections ([24 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 - Help shape the future: share your views on new research for the strategic and local plan ([26 days ago](https://www.cheltenham.gov.uk/news/article/3078/help_shape_the_future_share_your_views_on_new_research_for_the_strategic_and_local_plan))
-- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([26 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
-- Safer Streets Winter launches in Cheltenham following successful summer crackdown ([29 days ago](https://www.cheltenham.gov.uk/news/article/3076/safer_streets_winter_launches_in_cheltenham_following_successful_summer_crackdown))
+- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([27 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
 
 <!-- news_marker ends -->

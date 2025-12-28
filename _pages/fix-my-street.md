@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bridge across the river Chelt is missing planks and very unsafe., 28th December :- [8596641](https://www.fixmystreet.com/report/8596641)
+- Blocked drain, 28th December :- [8596616](https://www.fixmystreet.com/report/8596616)
+- Continuing problems where there was previous sink hole. Repair last week was poor and didn’t even extend to white line. Should make a full and proper repair to this whole area to stop having to forever come back for poor quality patch ups, 28th December :- [8596603](https://www.fixmystreet.com/report/8596603)
+- In front of entrance to nursing home, 28th December :- [8596581](https://www.fixmystreet.com/report/8596581)
+- As you leave Gallagher retail park & turn right with Aldi on your left a pothole on the merging lane, 28th December :- [8596524](https://www.fixmystreet.com/report/8596524)
+- Tarmac needs replacing around drain, 28th December :- [8596407](https://www.fixmystreet.com/report/8596407)
+- Bin over flowing, 28th December :- [8596365](https://www.fixmystreet.com/report/8596365)
+- Defective resurfacing: uneven surface and loose stones, 28th December :- [8596264](https://www.fixmystreet.com/report/8596264)
 - Water ponding, 28th December :- [8595960](https://www.fixmystreet.com/report/8595960)
 - Pothole, 28th December :- [8595956](https://www.fixmystreet.com/report/8595956)
 - Pothole, 28th December :- [8595954](https://www.fixmystreet.com/report/8595954)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Huge amount of rubbish in the lay-by and beyond, 27th December :- [8594787](https://www.fixmystreet.com/report/8594787)
 - Rotary washing line and bin bag dumped, 27th December :- [8594581](https://www.fixmystreet.com/report/8594581)
 - Chipboard 4’x8’ left outside my house, 27th December :- [8594547](https://www.fixmystreet.com/report/8594547)
-- Quite deep pothole just outside my driveway, it keeps getting filled but within a few days it is back, 27th December :- [8594533](https://www.fixmystreet.com/report/8594533)
-- Abandoned shopping trolley, 27th December :- [8594414](https://www.fixmystreet.com/report/8594414)
-- Broken glass, 27th December :- [8593916](https://www.fixmystreet.com/report/8593916)
-- Dog mess on pavement, 27th December :- [8593871](https://www.fixmystreet.com/report/8593871)
-- Pot hole in road, 27th December :- [8593050](https://www.fixmystreet.com/report/8593050)
-- Pot holes in road, 27th December :- [8593046](https://www.fixmystreet.com/report/8593046)
-- Pothole in road, 27th December :- [8593044](https://www.fixmystreet.com/report/8593044)
-- Pothole, 26th December :- [8592920](https://www.fixmystreet.com/report/8592920)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 28 December 2025
 
-- The average temperature today is 5.58˚C,
-- With highs of 5.85˚C and lows of 4.6˚C,
-- It may feel like 3.81˚C with broken clouds
-- The wind speed is 2.24m/s and visibility is 10000m
-- The pressure is 1034hPa and humidity is 82%
+- The average temperature today is 5.46˚C,
+- With highs of 5.95˚C and lows of 4.6˚C,
+- It may feel like 3.3˚C with scattered clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1034hPa and humidity is 80%
 - The sun will rise at 08:15 and set at 16:03
 
 <!-- weather_marker ends -->

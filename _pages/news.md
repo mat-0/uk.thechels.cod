@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Group close to raising £200k to buy community hub ([4 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
-- Film to highlight changing face of the Cotswolds ([4 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
-- What can I do with my tree after Christmas? ([4 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
-- Charity fundraiser dies from MND ([22 hours ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
+- Mother and two children killed in Boxing Day blaze ([1 hours ago](https://www.bbc.com/news/articles/c0mpmw42jx4o?at_medium=RSS&at_campaign=rss))
+- Group close to raising £200k to buy community hub ([6 hours ago](https://www.bbc.com/news/articles/cg7ve2vej8lo?at_medium=RSS&at_campaign=rss))
+- Film to highlight changing face of the Cotswolds ([6 hours ago](https://www.bbc.com/news/articles/cr7l3xj3n5vo?at_medium=RSS&at_campaign=rss))
+- What can I do with my tree after Christmas? ([6 hours ago](https://www.bbc.com/news/articles/cvgqw19ppjeo?at_medium=RSS&at_campaign=rss))
+- Charity fundraiser dies from MND ([1 days ago](https://www.bbc.com/news/articles/cwyl80pex4no?at_medium=RSS&at_campaign=rss))
 - Giant community mural is nearly finished ([1 days ago](https://www.bbc.com/news/articles/cre31gdrxd9o?at_medium=RSS&at_campaign=rss))
 - Plans on track for natural outdoor swimming spot ([1 days ago](https://www.bbc.com/news/articles/c04vvv1x3vdo?at_medium=RSS&at_campaign=rss))
-- Three still missing after Boxing Day house fire ([1 days ago](https://www.bbc.com/news/articles/cp9kdxrv9ngo?at_medium=RSS&at_campaign=rss))
 - Changes to weekend rail journeys in January ([2 days ago](https://www.bbc.com/news/articles/c79xy3ry9geo?at_medium=RSS&at_campaign=rss))
 - Memories recaptured through live performances ([2 days ago](https://www.bbc.com/news/articles/c39pw11rn00o?at_medium=RSS&at_campaign=rss))
 - Author says she 'refuses to let the racists win' ([2 days ago](https://www.bbc.com/news/articles/c0rprxr2gr5o?at_medium=RSS&at_campaign=rss))
@@ -46,7 +46,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham tax bills could rise if new town council is created ([11 days ago](https://gloucesternewscentre.co.uk/cheltenham-tax-bills-could-rise-if-new-town-council-is-created/))
 - Town’s independent artists must not be made homeless, says MP ([12 days ago](https://gloucesternewscentre.co.uk/towns-independent-artists-must-not-be-made-homeless-says-mp/))
 - New Tesco to sell booze as opening month announced ([13 days ago](https://gloucesternewscentre.co.uk/new-tesco-to-sell-booze-as-opening-month-announced/))
-- Progress on new A38 junction after traffic disruption ([13 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
+- Progress on new A38 junction after traffic disruption ([14 days ago](https://www.bbc.co.uk/sounds/play/p0mnq7jd?at_medium=RSS&at_campaign=rss))
 - Daring Dippers take the plunge for charity ([16 days ago](https://gloucesternewscentre.co.uk/daring-dippers-take-the-plunge-for-charity/))
 - Questions over airport sale amid fears deal is in trouble ([16 days ago](https://gloucesternewscentre.co.uk/questions-over-airport-sale-amid-fears-deal-is-in-trouble/))
 - Row over ‘£17m black hole’ in council funding ([18 days ago](https://gloucesternewscentre.co.uk/row-over-17m-black-hole-in-council-funding/))
@@ -59,6 +59,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham man conquers 900km Camino de Santiago in memory of wife ([24 days ago](https://gloucesternewscentre.co.uk/cheltenham-man-conquers-900km-camino-de-santiago-in-memory-of-wife/))
 - Christmas and New Year waste and recycling collections ([25 days ago](https://www.cheltenham.gov.uk/news/article/3079/christmas_and_new_year_waste_and_recycling_collections))
 - Help shape the future: share your views on new research for the strategic and local plan ([27 days ago](https://www.cheltenham.gov.uk/news/article/3078/help_shape_the_future_share_your_views_on_new_research_for_the_strategic_and_local_plan))
-- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([27 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
+- Last chance to have your say on shaping the future of Cheltenham’s Heritage ([28 days ago](https://www.cheltenham.gov.uk/news/article/3077/last_chance_to_have_your_say_on_shaping_the_future_of_cheltenhams_heritage))
 
 <!-- news_marker ends -->

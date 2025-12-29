@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Long pothole, 29th December :- [8599858](https://www.fixmystreet.com/report/8599858)
+- Manhole cover loose and making noise, 29th December :- [8599339](https://www.fixmystreet.com/report/8599339)
+- Drain cover is loose and the drain is blocked and floods during wet weather, 29th December :- [8599167](https://www.fixmystreet.com/report/8599167)
+- TMC - Defects -CW6 Potholes  problem, 29th December :- [8599300](https://www.fixmystreet.com/report/8599300)
+- TMC - Defects -CW6 Potholes  problem, 29th December :- [8599103](https://www.fixmystreet.com/report/8599103)
 - Deep pothole in dual carriageway., 29th December :- [8598804](https://www.fixmystreet.com/report/8598804)
 - Flags on lamp posts, 29th December :- [8598799](https://www.fixmystreet.com/report/8598799)
 - Street light flashing on and off, 29th December :- [8598796](https://www.fixmystreet.com/report/8598796)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Various potholes around both mini roundabouts, 28th December :- [8596857](https://www.fixmystreet.com/report/8596857)
 - Bridge across the river Chelt is missing planks and very unsafe., 28th December :- [8596641](https://www.fixmystreet.com/report/8596641)
 - Blocked drain, 28th December :- [8596616](https://www.fixmystreet.com/report/8596616)
-- Continuing problems where there was previous sink hole. Repair last week was poor and didn’t even extend to white line. Should make a full and proper repair to this whole area to stop having to forever come back for poor quality patch ups, 28th December :- [8596603](https://www.fixmystreet.com/report/8596603)
-- In front of entrance to nursing home, 28th December :- [8596581](https://www.fixmystreet.com/report/8596581)
-- As you leave Gallagher retail park & turn right with Aldi on your left a pothole on the merging lane, 28th December :- [8596524](https://www.fixmystreet.com/report/8596524)
-- Tarmac needs replacing around drain, 28th December :- [8596407](https://www.fixmystreet.com/report/8596407)
-- Bin over flowing, 28th December :- [8596365](https://www.fixmystreet.com/report/8596365)
 
 <!-- fix_marker ends -->

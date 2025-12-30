@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 x pot holes, 30th December :- [8607973](https://www.fixmystreet.com/report/8607973)
 - Multiple potholes located going down the bridge slope heading towards ‘the reddings’, 30th December :- [8607941](https://www.fixmystreet.com/report/8607941)
 - Abandoned warning sign, 30th December :- [8607468](https://www.fixmystreet.com/report/8607468)
 - A pothole in road problem, 30th December :- [8607513](https://www.fixmystreet.com/report/8607513)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606280](https://www.fixmystreet.com/report/8606280)
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606273](https://www.fixmystreet.com/report/8606273)
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606272](https://www.fixmystreet.com/report/8606272)
-- TMC - Defects - Vegetation problem, 30th December :- [8605880](https://www.fixmystreet.com/report/8605880)
 
 <!-- fix_marker ends -->

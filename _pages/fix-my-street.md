@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- New traffic lights permanently stuck on red, 30th December :- [8603838](https://www.fixmystreet.com/report/8603838)
 - Pathway blocked by gate, 29th December :- [8602500](https://www.fixmystreet.com/report/8602500)
 - Blocked Drain, 29th December :- [8602489](https://www.fixmystreet.com/report/8602489)
 - Broken Perspex, 29th December :- [8602460](https://www.fixmystreet.com/report/8602460)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th December :- [8601460](https://www.fixmystreet.com/report/8601460)
 - TMC - Defects -CW6 Potholes  problem, 29th December :- [8601452](https://www.fixmystreet.com/report/8601452)
 - TMC - Defects -CW6 Potholes  problem, 29th December :- [8601453](https://www.fixmystreet.com/report/8601453)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601242](https://www.fixmystreet.com/report/8601242)
 
 <!-- fix_marker ends -->

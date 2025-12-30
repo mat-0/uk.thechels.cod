@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes located going down the bridge slope heading towards ‘the reddings’, 30th December :- [8607941](https://www.fixmystreet.com/report/8607941)
 - Abandoned warning sign, 30th December :- [8607468](https://www.fixmystreet.com/report/8607468)
 - A pothole in road problem, 30th December :- [8607513](https://www.fixmystreet.com/report/8607513)
 - 4 inch deep pothole, 30th December :- [8607357](https://www.fixmystreet.com/report/8607357)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606273](https://www.fixmystreet.com/report/8606273)
 - TMC - Defects -CW6 Potholes  problem, 30th December :- [8606272](https://www.fixmystreet.com/report/8606272)
 - TMC - Defects - Vegetation problem, 30th December :- [8605880](https://www.fixmystreet.com/report/8605880)
-- Loose iron cover causing continual environmental noise. The drain is nearest the Winchcombe Primary School and by the yellow road word, ‘clear’, which is part of the phrase, Keep school clear’. It is the yearly marking nearest the school side., 30th December :- [8605813](https://www.fixmystreet.com/report/8605813)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- TMC - Defects -CW10 Potholes problem, 30th December :- [8604705](https://www.fixmystreet.com/report/8604705)
+- TMC - Defects - Other problem, 30th December :- [8604697](https://www.fixmystreet.com/report/8604697)
+- TMC - Defects -CW10 Potholes problem, 30th December :- [8604696](https://www.fixmystreet.com/report/8604696)
+- TMC - Defects - Other problem, 30th December :- [8604695](https://www.fixmystreet.com/report/8604695)
+- TMC - Defects -CW6 Potholes  problem, 30th December :- [8604690](https://www.fixmystreet.com/report/8604690)
+- TMC - Defects -CW6 Potholes  problem, 30th December :- [8604328](https://www.fixmystreet.com/report/8604328)
+- TMC - Defects -CW6 Potholes  problem, 30th December :- [8604327](https://www.fixmystreet.com/report/8604327)
+- TMC - Defects - Vegetation problem, 30th December :- [8604323](https://www.fixmystreet.com/report/8604323)
 - Pot holes reappeared around fixed areas, 30th December :- [8604010](https://www.fixmystreet.com/report/8604010)
 - Large deep pothole, 30th December :- [8603977](https://www.fixmystreet.com/report/8603977)
 - New traffic lights permanently stuck on red, 30th December :- [8603838](https://www.fixmystreet.com/report/8603838)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 29th December :- [8602130](https://www.fixmystreet.com/report/8602130)
 - TMC - Defects - Road Markings problem, 29th December :- [8602128](https://www.fixmystreet.com/report/8602128)
 - TMC - Defects -CW6 Potholes  problem, 29th December :- [8601693](https://www.fixmystreet.com/report/8601693)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601692](https://www.fixmystreet.com/report/8601692)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601689](https://www.fixmystreet.com/report/8601689)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601691](https://www.fixmystreet.com/report/8601691)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601690](https://www.fixmystreet.com/report/8601690)
-- TMC - Defects -FW6 Potholes problem, 29th December :- [8601679](https://www.fixmystreet.com/report/8601679)
-- TMC - Defects - Footways Slabs problem, 29th December :- [8601677](https://www.fixmystreet.com/report/8601677)
-- A pothole in road problem, 29th December :- [8601451](https://www.fixmystreet.com/report/8601451)
-- TMC - Defects -CW6 Potholes  problem, 29th December :- [8601460](https://www.fixmystreet.com/report/8601460)
 
 <!-- fix_marker ends -->

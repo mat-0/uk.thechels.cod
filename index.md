@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 30 December 2025
 
-- The average temperature today is 3.45˚C,
-- With highs of 4.05˚C and lows of 2.69˚C,
-- It may feel like 0.57˚C with overcast clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1035hPa and humidity is 91%
+- The average temperature today is 4.58˚C,
+- With highs of 5.52˚C and lows of 3.72˚C,
+- It may feel like 1.59˚C with broken clouds
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1035hPa and humidity is 87%
 - The sun will rise at 08:16 and set at 16:05
 
 <!-- weather_marker ends -->

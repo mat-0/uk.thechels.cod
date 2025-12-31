@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple holes from 45 to 67 Malden Road, 31st December :- [8611700](https://www.fixmystreet.com/report/8611700)
 - The gate was tied with a knot we could not undo so I cut it out. But the gate lock area was deliberately infilled with thorny bush offcuts we had to cut out first. It was a deliberate act to prevent access., 31st December :- [8611509](https://www.fixmystreet.com/report/8611509)
 - Request to put yellow lines on Shakespeare road to help bus route, 31st December :- [8611292](https://www.fixmystreet.com/report/8611292)
 - Pot hole caused damage to my front left tyre, 31st December :- [8611246](https://www.fixmystreet.com/report/8611246)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Large multiple potholes in road at entrance to mill lane., 31st December :- [8609675](https://www.fixmystreet.com/report/8609675)
 - Volunteer litter pick bags ready for collection, 31st December :- [8609636](https://www.fixmystreet.com/report/8609636)
 - TMC - Defects - Vegetation problem, 31st December :- [8609690](https://www.fixmystreet.com/report/8609690)
-- TMC - Defects -CW6 Potholes  problem, 31st December :- [8609688](https://www.fixmystreet.com/report/8609688)
 
 <!-- fix_marker ends -->

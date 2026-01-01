@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain blocked again by mud and detritus. Road drainage team never alight from vehicle to examine or clear manually. A common and oft repeated blockage., 1st January :- [8612633](https://www.fixmystreet.com/report/8612633)
+- Water sitting on grass verge next to manhole cover, 1st January :- [8612549](https://www.fixmystreet.com/report/8612549)
+- TV set dumped on the side of the road, 1st January :- [8612093](https://www.fixmystreet.com/report/8612093)
 - There is no bus shelter and access to bus is standing on grass verge which is muddy and overgrown, 1st January :- [8612084](https://www.fixmystreet.com/report/8612084)
 - Multiple holes from 45 to 67 Malden Road, 31st December :- [8611700](https://www.fixmystreet.com/report/8611700)
 - The gate was tied with a knot we could not undo so I cut it out. But the gate lock area was deliberately infilled with thorny bush offcuts we had to cut out first. It was a deliberate act to prevent access., 31st December :- [8611509](https://www.fixmystreet.com/report/8611509)
@@ -23,11 +26,8 @@ permalink: /fix-my-street
 - Abandoned Van., 31st December :- [8609836](https://www.fixmystreet.com/report/8609836)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609878](https://www.fixmystreet.com/report/8609878)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609877](https://www.fixmystreet.com/report/8609877)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609854](https://www.fixmystreet.com/report/8609854)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609855](https://www.fixmystreet.com/report/8609855)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609852](https://www.fixmystreet.com/report/8609852)
-- Large multiple potholes in road at entrance to mill lane., 31st December :- [8609675](https://www.fixmystreet.com/report/8609675)
-- Volunteer litter pick bags ready for collection, 31st December :- [8609636](https://www.fixmystreet.com/report/8609636)
 
 <!-- fix_marker ends -->

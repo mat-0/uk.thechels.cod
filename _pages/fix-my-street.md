@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole around drain outside 78 Gretton Road, 1st January :- [8612852](https://www.fixmystreet.com/report/8612852)
 - Drain blocked again by mud and detritus. Road drainage team never alight from vehicle to examine or clear manually. A common and oft repeated blockage., 1st January :- [8612633](https://www.fixmystreet.com/report/8612633)
 - Water sitting on grass verge next to manhole cover, 1st January :- [8612549](https://www.fixmystreet.com/report/8612549)
 - TV set dumped on the side of the road, 1st January :- [8612093](https://www.fixmystreet.com/report/8612093)
@@ -26,8 +27,7 @@ permalink: /fix-my-street
 - Abandoned Van., 31st December :- [8609836](https://www.fixmystreet.com/report/8609836)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609878](https://www.fixmystreet.com/report/8609878)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609877](https://www.fixmystreet.com/report/8609877)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8609855](https://www.fixmystreet.com/report/8609855)
 - TMC - Defects -CW10 Potholes problem, 31st December :- [8609852](https://www.fixmystreet.com/report/8609852)
+- TMC - Defects -CW10 Potholes problem, 31st December :- [8609856](https://www.fixmystreet.com/report/8609856)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A broken babies car seat has been dumped on the grass verge, 1st January :- [8613731](https://www.fixmystreet.com/report/8613731)
+- The potholes that were supposed to be fixed are in fact not fixed at all. One pothole has been filled in. There are multiple more potholes that need filling as a matter of urgency, 1st January :- [8613720](https://www.fixmystreet.com/report/8613720)
+- Multiple potholes on this road, 1st January :- [8613688](https://www.fixmystreet.com/report/8613688)
 - Street light not working, 1st January :- [8613454](https://www.fixmystreet.com/report/8613454)
 - Firework rubbish in park, 1st January :- [8613337](https://www.fixmystreet.com/report/8613337)
 - Flytipped items, 1st January :- [8613122](https://www.fixmystreet.com/report/8613122)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Potholes at the entrance to the McDonalds trading centre, 31st December :- [8611150](https://www.fixmystreet.com/report/8611150)
 - Over 12”, large stones which hit cars and has caused damage, 31st December :- [8610966](https://www.fixmystreet.com/report/8610966)
 - Electrical cable dangling, 31st December :- [8610604](https://www.fixmystreet.com/report/8610604)
-- TMC - Defects -CW10 Potholes problem, 31st December :- [8610704](https://www.fixmystreet.com/report/8610704)
-- The drain is blocked problem, 31st December :- [8610168](https://www.fixmystreet.com/report/8610168)
-- 14 inch pothole as you turn in to Well Place from Douro Road., 31st December :- [8609914](https://www.fixmystreet.com/report/8609914)
 
 <!-- fix_marker ends -->

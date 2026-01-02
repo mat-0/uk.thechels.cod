@@ -22,20 +22,20 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - The flood risk remains.
 
-Flooding of low lying land and roads is expected to continue. River levels are high, but falling very slowly, along the River Churn, near Cerney Wick. The weather forecast is for a few showers on Thursday 1 January, Another band of  rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.
+Flooding of low lying land and roads is expected to continue. River levels are high, but falling very slowly, along the River Churn, near Cerney Wick. The weather forecast is for showers to pass through the area on Friday morning and then to be mostly dry for the next few days. We expect river levels to remain high but to continue to fall slowly over the coming days.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00, midday, on the 2nd January 2026 or as the situation changes.
+This message will be updated by 12:00, midday, on the 3nd January 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - The flood risk remains.
 
-Flooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water and Newbridge areas. The weather forecast is for a few showers on Thursday 1 January, Another band of rain will pass through the area on Friday but is not expected to cause any impacts. We expect river levels to remain high but continue a slow fall over the coming days.
+Flooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water and Newbridge areas. The weather forecast is for showers to pass through the area on Friday morning and then to be mostly dry for the next few days. We expect river levels to continue to fall slowly over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00, midday, on the 2 January 2026 or as the situation changes.
+This message will be updated by 12:00, midday, on the 3 January 2026 or as the situation changes.
 
 - Warning no longer in force: River Dikler from Condicote to Little Rissington
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

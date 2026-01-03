@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Evidence of burst water main, 3rd January :- [8621300](https://www.fixmystreet.com/report/8621300)
+- Potholes on Blacksmiths Lane, The Leigh, 3rd January :- [8621260](https://www.fixmystreet.com/report/8621260)
+- Caravan, 3rd January :- [8621054](https://www.fixmystreet.com/report/8621054)
+- This car has been parked and therefore blocking the use of an EV bay since mid December. It had 3 parking tickets on 19th Dec but even the traffic wardens seem to have stopped issuing parking tickets. I think it has been ambandomed, but even if not it is preventing the use of 25% of the EV bays Sherborne Street Cheltenham, 3rd January :- [8620885](https://www.fixmystreet.com/report/8620885)
 - Object stuck in drain, 3rd January :- [8620424](https://www.fixmystreet.com/report/8620424)
 - Graffiti tag on wall, 3rd January :- [8620422](https://www.fixmystreet.com/report/8620422)
 - Graffiti tag on wall, 3rd January :- [8620420](https://www.fixmystreet.com/report/8620420)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A5 Sized pothole on Paygrove Lane, 2nd January :- [8617611](https://www.fixmystreet.com/report/8617611)
 - Falling branches on carriageway and pavement from Ash tree.Danger to traffic and pedestrians., 2nd January :- [8617547](https://www.fixmystreet.com/report/8617547)
 - Pedestrian crossing lights in Ermine Street changing every 2mins without human intervention., 2nd January :- [8617319](https://www.fixmystreet.com/report/8617319)
-- Fridge and other things have been there for weeks., 2nd January :- [8617079](https://www.fixmystreet.com/report/8617079)
-- Large quantity of gas canisters dumped, 2nd January :- [8617072](https://www.fixmystreet.com/report/8617072)
-- 2 potholes in close proximity, 2nd January :- [8617045](https://www.fixmystreet.com/report/8617045)
-- 2 potholes in close proximity, 2nd January :- [8617022](https://www.fixmystreet.com/report/8617022)
 
 <!-- fix_marker ends -->

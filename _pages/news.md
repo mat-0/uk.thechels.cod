@@ -12,11 +12,11 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Family walks length of UK in daughter's memory ([3 hours ago](https://www.bbc.com/news/articles/c9dvy392dpdo?at_medium=RSS&at_campaign=rss))
-- Weather warnings in place as snow and ice blanket parts of UK ([6 hours ago](https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss))
-- Hunt for e-bike rider accused of abusing van driver ([10 hours ago](https://www.bbc.com/news/articles/cr4kl6v145no?at_medium=RSS&at_campaign=rss))
-- Former business site could become homes and offices ([13 hours ago](https://www.bbc.com/news/articles/cdrel6nvv4vo?at_medium=RSS&at_campaign=rss))
-- What will 2026 bring for West rail services? ([13 hours ago](https://www.bbc.com/news/articles/c8983dvlj09o?at_medium=RSS&at_campaign=rss))
+- Family walks length of UK in daughter's memory ([5 hours ago](https://www.bbc.com/news/articles/c9dvy392dpdo?at_medium=RSS&at_campaign=rss))
+- Weather warnings in place as snow and ice blanket parts of UK ([8 hours ago](https://www.bbc.com/news/articles/c1jednyk611o?at_medium=RSS&at_campaign=rss))
+- Hunt for e-bike rider accused of abusing van driver ([12 hours ago](https://www.bbc.com/news/articles/cr4kl6v145no?at_medium=RSS&at_campaign=rss))
+- Former business site could become homes and offices ([15 hours ago](https://www.bbc.com/news/articles/cdrel6nvv4vo?at_medium=RSS&at_campaign=rss))
+- What will 2026 bring for West rail services? ([15 hours ago](https://www.bbc.com/news/articles/c8983dvlj09o?at_medium=RSS&at_campaign=rss))
 - Urgent reform needed for Send 'crisis' ([1 days ago](https://www.bbc.com/news/articles/c5y9yg1ee74o?at_medium=RSS&at_campaign=rss))
 - How to recycle your Christmas tree from your doorstep ([1 days ago](https://www.bbc.com/news/articles/cd9e8e59n7wo?at_medium=RSS&at_campaign=rss))
 - 'Half marathon returns' and 'rare eagle spotted' ([1 days ago](https://www.bbc.com/news/articles/clyml2elxn5o?at_medium=RSS&at_campaign=rss))

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 03 January 2026
 
-- The average temperature today is 1.02˚C,
-- With highs of 2.19˚C and lows of 0.38˚C,
-- It may feel like -2.38˚C with broken clouds
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1009hPa and humidity is 89%
+- The average temperature today is 0.75˚C,
+- With highs of 1.83˚C and lows of -0.17˚C,
+- It may feel like -1.86˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 10000m
+- The pressure is 1010hPa and humidity is 84%
 - The sun will rise at 08:15 and set at 16:09
 
 <!-- weather_marker ends -->

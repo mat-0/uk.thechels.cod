@@ -20,22 +20,18 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: River Churn and its tributaries
-- The flood risk remains.
-
-Flooding of low lying land and roads is expected to continue. River levels are high, but falling very slowly, along the River Churn, near Cerney Wick. The weather forecast is for showers to pass through the area on Friday morning and then to be mostly dry for the next few days. We expect river levels to remain high but to continue to fall slowly over the coming days.
+- River levels are slowly falling on the River Churn following recent rainfall. Flooding of low lying land and roads remains posible today, 03 January 2026, particularly in the Cerney Wick area. The weather forecast is mainly dry today and overnight. We expect river levels to continue to fall slowly over the coming days.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00, midday, on the 3nd January 2026 or as the situation changes.
+This message will be updated by 12:00, midday, on the 04 January 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- The flood risk remains.
-
-Flooding of low lying land and roads is expected to continue as river levels along the River Windrush remain high, particularly in Bourton on the Water and Newbridge areas. The weather forecast is for showers to pass through the area on Friday morning and then to be mostly dry for the next few days. We expect river levels to continue to fall slowly over the coming days.
+- River levels are slowly falling on the River Windrush. Flooding of low lying land and roads remains posible today, 03 January 2026, particularly in the Bourton on the Water and Newbridge areas. The weather forecast is mainly dry today and overnight. We expect river levels to continue to fall slowly over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00, midday, on the 3 January 2026 or as the situation changes.
+This message will be updated by 12:00, midday, on the 04 January 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

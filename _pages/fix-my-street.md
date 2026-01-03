@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes on Blacksmiths Lane, 3rd January :- [8620085](https://www.fixmystreet.com/report/8620085)
+- Bollard cover completely off, 3rd January :- [8619653](https://www.fixmystreet.com/report/8619653)
 - Graffiti, 3rd January :- [8619460](https://www.fixmystreet.com/report/8619460)
 - SUGGESTION : Could you add 'hoods' to the green traffic lights at the new bus stop ?, 3rd January :- [8618798](https://www.fixmystreet.com/report/8618798)
 - Cable/pipe repair work damaged surgace, 2nd January :- [8618308](https://www.fixmystreet.com/report/8618308)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Dumped items left at entrance to park, 2nd January :- [8616713](https://www.fixmystreet.com/report/8616713)
 - 12 inch pothole about 4 inches deep outside No.34 Shaw Green Lane, 2nd January :- [8616654](https://www.fixmystreet.com/report/8616654)
 - Drain blocked, 2nd January :- [8616615](https://www.fixmystreet.com/report/8616615)
-- 2 bags next to litter bin 478 on Lobleys Drive, before the motorway bridge, 2nd January :- [8616583](https://www.fixmystreet.com/report/8616583)
-- 4 potholes in a line, 2nd January :- [8616465](https://www.fixmystreet.com/report/8616465)
 
 <!-- fix_marker ends -->

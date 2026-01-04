@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water consistently running down this road. Now lethal as turned to ice, 4th January :- [8625673](https://www.fixmystreet.com/report/8625673)
 - Abandoned metal sign on Honeybourne path, 4th January :- [8625237](https://www.fixmystreet.com/report/8625237)
 - Six abandoned road signs on verge within 100 metres, 4th January :- [8625031](https://www.fixmystreet.com/report/8625031)
 - Public footpath no longer visible or maintained., 4th January :- [8624859](https://www.fixmystreet.com/report/8624859)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Potholes on Blacksmiths Lane, The Leigh, 3rd January :- [8621260](https://www.fixmystreet.com/report/8621260)
 - Caravan, 3rd January :- [8621054](https://www.fixmystreet.com/report/8621054)
 - This car has been parked and therefore blocking the use of an EV bay since mid December. It had 3 parking tickets on 19th Dec but even the traffic wardens seem to have stopped issuing parking tickets. I think it has been ambandomed, but even if not it is preventing the use of 25% of the EV bays Sherborne Street Cheltenham, 3rd January :- [8620885](https://www.fixmystreet.com/report/8620885)
-- Object stuck in drain, 3rd January :- [8620424](https://www.fixmystreet.com/report/8620424)
 
 <!-- fix_marker ends -->

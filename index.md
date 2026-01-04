@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 04 January 2026
 
-- The average temperature today is 2.77˚C,
-- With highs of 3.3˚C and lows of 2.6˚C,
-- It may feel like -0.24˚C with scattered clouds
-- The wind speed is 3.09m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 78%
+- The average temperature today is 2.38˚C,
+- With highs of 2.76˚C and lows of 2.04˚C,
+- It may feel like -1.09˚C with light rain
+- The wind speed is 3.6m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 81%
 - The sun will rise at 08:15 and set at 16:10
 
 <!-- weather_marker ends -->

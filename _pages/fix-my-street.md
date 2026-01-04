@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Public footpath no longer visible or maintained., 4th January :- [8624859](https://www.fixmystreet.com/report/8624859)
+- Lots of flytipped rubbish on side of lane, 4th January :- [8624401](https://www.fixmystreet.com/report/8624401)
 - Bird droppings on pavement, 4th January :- [8624246](https://www.fixmystreet.com/report/8624246)
 - Slightly raised FH, 4th January :- [8624135](https://www.fixmystreet.com/report/8624135)
 - Fairview Road puddles since resurfacing, 4th January :- [8623498](https://www.fixmystreet.com/report/8623498)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Object stuck in drain, 3rd January :- [8620424](https://www.fixmystreet.com/report/8620424)
 - Graffiti tag on wall, 3rd January :- [8620422](https://www.fixmystreet.com/report/8620422)
 - Graffiti tag on wall, 3rd January :- [8620420](https://www.fixmystreet.com/report/8620420)
-- Upside down flags, 3rd January :- [8620272](https://www.fixmystreet.com/report/8620272)
-- Potholes on Blacksmiths Lane, 3rd January :- [8620085](https://www.fixmystreet.com/report/8620085)
 
 <!-- fix_marker ends -->

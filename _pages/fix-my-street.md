@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole in the middle of the road on manor road headhunting towards the roundabout, 4th January :- [8622921](https://www.fixmystreet.com/report/8622921)
+- There are a few potholes on the junction, 4th January :- [8622903](https://www.fixmystreet.com/report/8622903)
 - Inadequate street lighting in Mill Street Prestbury Cheltenham, 3rd January :- [8622266](https://www.fixmystreet.com/report/8622266)
 - Pot hole in centre of road, 3rd January :- [8621835](https://www.fixmystreet.com/report/8621835)
 - Multiple pot holes. Road needs resurface, 3rd January :- [8621828](https://www.fixmystreet.com/report/8621828)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 12 inch very deep pothole on the left of the road going towards Prestbury but after the Ellenborough Hotel, 3rd January :- [8618975](https://www.fixmystreet.com/report/8618975)
 - SUGGESTION : Could you add 'hoods' to the green traffic lights at the new bus stop ?, 3rd January :- [8618798](https://www.fixmystreet.com/report/8618798)
 - Cable/pipe repair work damaged surgace, 2nd January :- [8618308](https://www.fixmystreet.com/report/8618308)
-- Subsidence, 2nd January :- [8618135](https://www.fixmystreet.com/report/8618135)
-- Street light not working, 2nd January :- [8618097](https://www.fixmystreet.com/report/8618097)
 
 <!-- fix_marker ends -->

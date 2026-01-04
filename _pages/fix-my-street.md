@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Bird droppings on pavement, 4th January :- [8624246](https://www.fixmystreet.com/report/8624246)
+- Slightly raised FH, 4th January :- [8624135](https://www.fixmystreet.com/report/8624135)
 - Fairview Road puddles since resurfacing, 4th January :- [8623498](https://www.fixmystreet.com/report/8623498)
 - Damaged verge and pavement, 4th January :- [8623227](https://www.fixmystreet.com/report/8623227)
 - Large and deep pothole getting more so everyday as traffic terrible on this rat run, 4th January :- [8623165](https://www.fixmystreet.com/report/8623165)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Graffiti tag on wall, 3rd January :- [8620420](https://www.fixmystreet.com/report/8620420)
 - Upside down flags, 3rd January :- [8620272](https://www.fixmystreet.com/report/8620272)
 - Potholes on Blacksmiths Lane, 3rd January :- [8620085](https://www.fixmystreet.com/report/8620085)
-- Bollard cover completely off, 3rd January :- [8619653](https://www.fixmystreet.com/report/8619653)
-- Graffiti, 3rd January :- [8619460](https://www.fixmystreet.com/report/8619460)
 
 <!-- fix_marker ends -->

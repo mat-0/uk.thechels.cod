@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Tree roots causing trip hazard on pavement, 5th January :- [8626143](https://www.fixmystreet.com/report/8626143)
+- Pothole, 5th January :- [8626135](https://www.fixmystreet.com/report/8626135)
 - Water consistently running down this road. Now lethal as turned to ice, 4th January :- [8625673](https://www.fixmystreet.com/report/8625673)
 - Abandoned metal sign on Honeybourne path, 4th January :- [8625237](https://www.fixmystreet.com/report/8625237)
 - Six abandoned road signs on verge within 100 metres, 4th January :- [8625031](https://www.fixmystreet.com/report/8625031)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Water and ice on road adjacent to Harmony house, Mill Lane, Prestbury GL52, 3rd January :- [8621551](https://www.fixmystreet.com/report/8621551)
 - Evidence of burst water main, 3rd January :- [8621300](https://www.fixmystreet.com/report/8621300)
 - Potholes on Blacksmiths Lane, The Leigh, 3rd January :- [8621260](https://www.fixmystreet.com/report/8621260)
-- Caravan, 3rd January :- [8621054](https://www.fixmystreet.com/report/8621054)
-- This car has been parked and therefore blocking the use of an EV bay since mid December. It had 3 parking tickets on 19th Dec but even the traffic wardens seem to have stopped issuing parking tickets. I think it has been ambandomed, but even if not it is preventing the use of 25% of the EV bays Sherborne Street Cheltenham, 3rd January :- [8620885](https://www.fixmystreet.com/report/8620885)
 
 <!-- fix_marker ends -->

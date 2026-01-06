@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 06 January 2026
 
-- The average temperature today is -4.31˚C,
-- With highs of -2.23˚C and lows of -5.73˚C,
-- It may feel like -4.31˚C with broken clouds
+- The average temperature today is -2.85˚C,
+- With highs of -0.57˚C and lows of -4.07˚C,
+- It may feel like -2.85˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1018hPa and humidity is 90%
+- The pressure is 1017hPa and humidity is 91%
 - The sun will rise at 08:14 and set at 16:13
 
 <!-- weather_marker ends -->

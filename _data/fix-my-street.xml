@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
- xmlns:georss="http://www.georss.org/georss"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+ xmlns:georss="http://www.georss.org/georss"
 >
 
 <channel>
@@ -14,6 +14,60 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>TMC - Defects -other CW6 problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8633405</link>
+<description>CW: Abrupt Level Difference ( Around Gully)&amp;#10;1100mmx600mmx82mm&amp;#10;TM: temporary lane closure &amp;#10;On Traffic Lights (CW6 Abrupt Level Differences )&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8633405&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -other CW6</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8633405</guid>
+<pubDate>Tue, 06 Jan 2026 09:50:34 +0000</pubDate>
+<georss:point>51.8971453 -2.1179116</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8633400</link>
+<description>15DB CW: Pothole &amp;#10;400mmx400mmx47mm&amp;#10;TM: temporary road closure &amp;#10;ENWD &amp;#10;On Junction (North West Road) (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8633400&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8633400</guid>
+<pubDate>Tue, 06 Jan 2026 09:37:34 +0000</pubDate>
+<georss:point>51.8910659 -2.1417223</georss:point>
+</item>
+<item>
+<title>Tree is damaged problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8633382</link>
+<description>The street tree has low branches which are overhanging the driveway and catching and scraping vehicles it. Wood is continually dropping on the driveway. This was reported in September 2024 and over a year later has not been fixed.&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8633382&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>Tree is damaged</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8633382</guid>
+<pubDate>Tue, 06 Jan 2026 09:36:50 +0000</pubDate>
+<georss:point>51.88234 -2.067364</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8633399</link>
+<description>15DB CW: Pothole &amp;#10;1500mmx800mmx81mm&amp;#10;TM: temporary road closure &amp;#10;ENWD &amp;#10;Use pinpoint (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8633399&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8633399</guid>
+<pubDate>Tue, 06 Jan 2026 09:31:00 +0000</pubDate>
+<georss:point>51.890891 -2.13951469999999</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8632887</link>
+<description>2 HOUR Carriage way pothole   15  minutes delay boards 800x600x100mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8632887&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8632887</guid>
+<pubDate>Tue, 06 Jan 2026 08:47:54 +0000</pubDate>
+<georss:point>51.9003093857537 -2.11711140516983</georss:point>
+</item>
+<item>
+<title>TMC - Defects -CW6 Potholes  problem, 6th January</title>
+<link>https://www.fixmystreet.com/report/8632886</link>
+<description>Carriage way pothole  28 day 15  minutes delay boards 800x600x100mm (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8632886&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>TMC - Defects -CW6 Potholes</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8632886</guid>
+<pubDate>Tue, 06 Jan 2026 08:47:47 +0000</pubDate>
+<georss:point>51.9003512 -2.11722369999999</georss:point>
+</item>
 <item>
 <title>Next to the traffic calming measure there are lots of potholes, 5th January</title>
 <link>https://www.fixmystreet.com/report/8632088</link>
@@ -139,60 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8629989</guid>
 <pubDate>Mon, 05 Jan 2026 15:15:10 +0000</pubDate>
 <georss:point>51.901834 -2.059162</georss:point>
-</item>
-<item>
-<title>Filter light not working, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629893</link>
-<description>Filter light not working (or only intermittently) for the turning onto Pirton Lane. This has been a constant problem since the new lights were installed. This causes traffic to back up onto Elmbridge roundabout at peak times and causes late collections for school pick ups. Please sort this out as it’s increasingly frustration for me to report this multiple times with no permanent resolution.&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Cheltenham Road East, Churchdown, Tewkesbury&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629893&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Green or amber traffic light is not working</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629893</guid>
-<pubDate>Mon, 05 Jan 2026 15:06:58 +0000</pubDate>
-<georss:point>51.885028 -2.190747</georss:point>
-</item>
-<item>
-<title>Stoplines faded, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629842</link>
-<description>Pedestrian Crossing PC-421 Hales Road (Battledown Approach) Cheltenhan&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8629842.0.jpeg?133198c6&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): 74, Hales Road, Battledown, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629842&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road marking white lines or studs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629842</guid>
-<pubDate>Mon, 05 Jan 2026 15:02:42 +0000</pubDate>
-<georss:point>51.89685 -2.059732</georss:point>
-</item>
-<item>
-<title>Stoplines faded, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629791</link>
-<description>Pedestrian Crossing PC-412 Albion Street by Grosvenor Road&#10;&lt;br&gt;&lt;img src=&quot;https://www.fixmystreet.com/photo/8629791.0.jpeg?a0ce68c6&quot;&gt;&#10;&lt;br&gt;Nearest road to the pin placed on the map (automatically generated by OpenStreetMap): Fairview, Cheltenham&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629791&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>Road marking white lines or studs</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629791</guid>
-<pubDate>Mon, 05 Jan 2026 14:55:47 +0000</pubDate>
-<georss:point>51.89924 -2.069366</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629879</link>
-<description>Pothole CW&amp;#10;800x500x60mm approx&amp;#10;Road closure &amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629879&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629879</guid>
-<pubDate>Mon, 05 Jan 2026 14:26:36 +0000</pubDate>
-<georss:point>51.9482558 -2.15958250000002</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629878</link>
-<description>Pothole CW&amp;#10;600x500x60mm approx&amp;#10;Road closure &amp;#10;Not marked or measured due to location (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629878&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629878</guid>
-<pubDate>Mon, 05 Jan 2026 14:26:36 +0000</pubDate>
-<georss:point>51.9482078 -2.15959989999999</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 5th January</title>
-<link>https://www.fixmystreet.com/report/8629587</link>
-<description>Carriage way pothole 28 day  with lane closures 1000x600x50mm stats required unable to mark up size is approx (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8629587&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8629587</guid>
-<pubDate>Mon, 05 Jan 2026 14:10:01 +0000</pubDate>
-<georss:point>51.9055526816282 -2.08113289277046</georss:point>
 </item>
 </channel>
 </rss>

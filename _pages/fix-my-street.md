@@ -9,11 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of dog poo back on pavements on way up to school, 7th January :- [8638225](https://www.fixmystreet.com/report/8638225)
 - Large deep pothole, 7th January :- [8638118](https://www.fixmystreet.com/report/8638118)
 - There are two sets of temp traffic lights by golden vale and the coop on Parton Road. They are causing chaos, 6th January :- [8637917](https://www.fixmystreet.com/report/8637917)
 - Furniture flytipped on pavement, 6th January :- [8637905](https://www.fixmystreet.com/report/8637905)
 - Sofa, 6th January :- [8637769](https://www.fixmystreet.com/report/8637769)
 - Two lorry tyres dumped on verge in Cockcroft Lane., 6th January :- [8637563](https://www.fixmystreet.com/report/8637563)
+- Water leaking onto pavement, 7th January :- [8637317](https://www.fixmystreet.com/report/8637317)
 - There is still water leaking, 6th January :- [8636937](https://www.fixmystreet.com/report/8636937)
 - Large pothole on Left had side coming down the hill, 6th January :- [8636732](https://www.fixmystreet.com/report/8636732)
 - Light sensor is not detecting vehicles problem, 6th January :- [8636602](https://www.fixmystreet.com/report/8636602)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW10 Potholes problem, 6th January :- [8635995](https://www.fixmystreet.com/report/8635995)
 - A pothole in road problem, 6th January :- [8635980](https://www.fixmystreet.com/report/8635980)
 - TMC - Defects -other CW6 problem, 6th January :- [8635994](https://www.fixmystreet.com/report/8635994)
-- TMC - Defects -CW6 Potholes  problem, 6th January :- [8635992](https://www.fixmystreet.com/report/8635992)
-- TMC - Defects -CW6 Potholes  problem, 6th January :- [8635993](https://www.fixmystreet.com/report/8635993)
 
 <!-- fix_marker ends -->

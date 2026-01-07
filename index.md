@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 07 January 2026
 
-- The average temperature today is 4.53˚C,
-- With highs of 5.29˚C and lows of 4.26˚C,
-- It may feel like 1.54˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 1005hPa and humidity is 93%
+- The average temperature today is 3.38˚C,
+- With highs of 4.05˚C and lows of 2.61˚C,
+- It may feel like 0.82˚C with broken clouds
+- The wind speed is 2.68m/s and visibility is 10000m
+- The pressure is 1005hPa and humidity is 90%
 - The sun will rise at 08:14 and set at 16:14
 
 <!-- weather_marker ends -->

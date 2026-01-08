@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Photo taken at 3pm with only light drizzle. No significant rain in last hours and pooling water., 8th January :- [8650507](https://www.fixmystreet.com/report/8650507)
+- The drain is prone to blocking and flooding., 8th January :- [8650118](https://www.fixmystreet.com/report/8650118)
 - Huge pothole. Would potentially cause significant damage to a bike., 8th January :- [8649678](https://www.fixmystreet.com/report/8649678)
 - Blocked drain, 8th January :- [8649639](https://www.fixmystreet.com/report/8649639)
 - Drain is blocked (has been for over a year now), every time it rains one side of Douro Road is unusable, 8th January :- [8649499](https://www.fixmystreet.com/report/8649499)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Road Markings on approach to roundabout from A40 need review, 8th January :- [8646558](https://www.fixmystreet.com/report/8646558)
 - The drain is blocked problem, 8th January :- [8646622](https://www.fixmystreet.com/report/8646622)
 - Street Light Outage Opposite to 2 Cromwell Road, Innsworth, GL3 1FG, 8th January :- [8646125](https://www.fixmystreet.com/report/8646125)
-- Over grown with Ivy, 8th January :- [8646106](https://www.fixmystreet.com/report/8646106)
-- The drain is blocked problem, 8th January :- [8646381](https://www.fixmystreet.com/report/8646381)
 
 <!-- fix_marker ends -->

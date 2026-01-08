@@ -33,5 +33,13 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00 PM, midday, on the 09 January 2026 or as the situation changes.
 
+- Flood alert: River Leadon catchment
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 08 January 2026 . 
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 09 January 2026 or as the situation changes.
+
 
 <!-- flood_marker ends -->

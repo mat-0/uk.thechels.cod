@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- There are several AWFUL potholes around the garage and at the lights in the Lansdown Road / Hatherley Road junction/ traffic lights, 8th January :- [8648388](https://www.fixmystreet.com/report/8648388)
+- Tree is damaged problem, 8th January :- [8648495](https://www.fixmystreet.com/report/8648495)
+- Pothole on the side driving from Tewkesbury to Bishops Cleeve, 8th January :- [8648276](https://www.fixmystreet.com/report/8648276)
+- Area keeps flooding g due to poor road surface, 8th January :- [8648207](https://www.fixmystreet.com/report/8648207)
 - Other damage to pavement i.e. cobbles, raised mound/surface problem, 8th January :- [8647345](https://www.fixmystreet.com/report/8647345)
 - Series of Dropped service drains, 8th January :- [8647127](https://www.fixmystreet.com/report/8647127)
 - Large pot hole before the bus stop on the left hand side, 8th January :- [8647024](https://www.fixmystreet.com/report/8647024)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - In the road, 8th January :- [8644822](https://www.fixmystreet.com/report/8644822)
 - Do NOT fell tree please, 8th January :- [8644818](https://www.fixmystreet.com/report/8644818)
 - Temp lights by Hare & Hounds junction, 8th January :- [8644711](https://www.fixmystreet.com/report/8644711)
-- VAS Not Working Correctly, 8th January :- [8644549](https://www.fixmystreet.com/report/8644549)
-- 5 streetlights out on Pittville Circus, 7th January :- [8644427](https://www.fixmystreet.com/report/8644427)
-- Reinstatement across the road has sunk significantly., 7th January :- [8643852](https://www.fixmystreet.com/report/8643852)
-- Pothole appearing at side of road, 7th January :- [8643730](https://www.fixmystreet.com/report/8643730)
 
 <!-- fix_marker ends -->

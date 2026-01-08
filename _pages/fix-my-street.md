@@ -25,8 +25,8 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641903](https://www.fixmystreet.com/report/8641903)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641902](https://www.fixmystreet.com/report/8641902)
 - TMC - Defects - Covers, Gratings & Frames problem, 7th January :- [8641896](https://www.fixmystreet.com/report/8641896)
-- TMC - Defects -CW6 Potholes  problem, 7th January :- [8641890](https://www.fixmystreet.com/report/8641890)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641891](https://www.fixmystreet.com/report/8641891)
+- TMC - Defects -CW6 Potholes  problem, 7th January :- [8641890](https://www.fixmystreet.com/report/8641890)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641625](https://www.fixmystreet.com/report/8641625)
 - TMC - Defects -CW6 Potholes  problem, 7th January :- [8641624](https://www.fixmystreet.com/report/8641624)
 

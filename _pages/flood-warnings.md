@@ -54,6 +54,14 @@ Avoid low lying roads near rivers, which may be flooded. Go to River levels onli
 
 This message will be updated by 12:00 PM on 10 January 2026 or as the situation changes.
 
+- Flood alert: Middle Avon Rugby to Bidford
+- High river levels today may lead to flooding. 
+Flooding is possible on 09 January 2026 and into Saturday 10/1/26. 
+Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 1:00PM on 10 January 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - Rising river levels today may lead to flooding. 
 Flooding is possible from the early hours of 10 January 2026 . 
@@ -71,6 +79,14 @@ Flooding is possible on 09 January 2026 . Flooding may continue over the next fe
 Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 2.1m to 2.3m on 09/01 PM, Bredon 1.9m to 2.1m on 10/01 AM. 
 We are closely monitoring the situation . 
 Monitor local water levels and weather conditions . 
+This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
+
+- Flood alert: River Severn in Worcestershire
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 10 January 2026 . 
+Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:-   Diglis 2.9m to 3.2m on 10/01 AM, Kempsey Yacht Club 5.1m to 5.4m on 10/01 AM, Saxons Lode 3.9m to 4.3m on 11/01 AM.   Other gauge locations are not forecast to exceed Flood Alert thresholds. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
 
 

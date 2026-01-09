@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 3 deep pot holes, 9th January :- [8659055](https://www.fixmystreet.com/report/8659055)
+- Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658990](https://www.fixmystreet.com/report/8658990)
+- Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658983](https://www.fixmystreet.com/report/8658983)
+- Long narrow pot hole in middle of road, 9th January :- [8658967](https://www.fixmystreet.com/report/8658967)
+- Long narrow pot hole in middle of road, 9th January :- [8658966](https://www.fixmystreet.com/report/8658966)
+- Two large potholes in middle of the road, 9th January :- [8658770](https://www.fixmystreet.com/report/8658770)
 - Tree at imminent risk of falling across the rAggsoad, 9th January :- [8658254](https://www.fixmystreet.com/report/8658254)
 - Debris in road. See photo., 9th January :- [8658237](https://www.fixmystreet.com/report/8658237)
 - Light sensor is not detecting vehicles problem, 9th January :- [8658032](https://www.fixmystreet.com/report/8658032)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Pot hole in road by keep clear markings, 9th January :- [8657407](https://www.fixmystreet.com/report/8657407)
 - Large deep pothole in road (previously repaired), 9th January :- [8657361](https://www.fixmystreet.com/report/8657361)
 - Tree is damaged problem, 9th January :- [8657490](https://www.fixmystreet.com/report/8657490)
-- Potholes on m5, 9th January :- [8657317](https://www.fixmystreet.com/report/8657317)
-- TMC - Defects -CW10 Potholes problem, 9th January :- [8657491](https://www.fixmystreet.com/report/8657491)
-- TMC - Defects -CW10 Potholes problem, 9th January :- [8657207](https://www.fixmystreet.com/report/8657207)
-- A pothole in road problem, 9th January :- [8657195](https://www.fixmystreet.com/report/8657195)
-- TMC - Defects -CW10 Potholes problem, 9th January :- [8657205](https://www.fixmystreet.com/report/8657205)
-- Pavement overtaken by grass, 9th January :- [8657134](https://www.fixmystreet.com/report/8657134)
 
 <!-- fix_marker ends -->

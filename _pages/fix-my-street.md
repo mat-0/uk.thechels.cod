@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 10th January :- [8661675](https://www.fixmystreet.com/report/8661675)
+- Flytipped items, 10th January :- [8661632](https://www.fixmystreet.com/report/8661632)
+- Flytipped item, 10th January :- [8661630](https://www.fixmystreet.com/report/8661630)
+- Flytipped items, 10th January :- [8661621](https://www.fixmystreet.com/report/8661621)
+- 4way traffic lights installed, BG have 8 days of works. Not permitted, 10th January :- [8661336](https://www.fixmystreet.com/report/8661336)
 - Large pothole on Brooklyn Road opposite Kipling Road, 10th January :- [8660748](https://www.fixmystreet.com/report/8660748)
 - Bridge not replaced yet, 10th January :- [8660704](https://www.fixmystreet.com/report/8660704)
 - Fly tipping block a public footpath, 10th January :- [8660567](https://www.fixmystreet.com/report/8660567)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - 3 deep pot holes, 9th January :- [8659055](https://www.fixmystreet.com/report/8659055)
 - Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658990](https://www.fixmystreet.com/report/8658990)
 - Large section of top layer of asphalt is missing. Unavoidable without crossing onto southbound carriageway, 9th January :- [8658983](https://www.fixmystreet.com/report/8658983)
-- Long narrow pot hole in middle of road, 9th January :- [8658967](https://www.fixmystreet.com/report/8658967)
-- Long narrow pot hole in middle of road, 9th January :- [8658966](https://www.fixmystreet.com/report/8658966)
-- Two large potholes in middle of the road, 9th January :- [8658770](https://www.fixmystreet.com/report/8658770)
-- Tree at imminent risk of falling across the rAggsoad, 9th January :- [8658254](https://www.fixmystreet.com/report/8658254)
-- Debris in road. See photo., 9th January :- [8658237](https://www.fixmystreet.com/report/8658237)
 
 <!-- fix_marker ends -->

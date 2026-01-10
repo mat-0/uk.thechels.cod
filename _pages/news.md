@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Palm tree planning row' and 'Wolf moon' ([3 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
-- Record number of callouts for air ambulance charity ([3 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
-- New fleet of bin lorries to be fuelled by cooking oil ([17 hours ago](https://www.bbc.com/news/articles/c62nz607vyeo?at_medium=RSS&at_campaign=rss))
-- 'Disturbing' PC is sacked for sexual harassment ([17 hours ago](https://www.bbc.com/news/articles/c1evn5v8840o?at_medium=RSS&at_campaign=rss))
-- School closures and travel disruption as storm hits ([21 hours ago](https://www.bbc.com/news/articles/c4g30q12w98o?at_medium=RSS&at_campaign=rss))
-- Golden Valley submits detailed plans for phase one ([22 hours ago](https://www.cheltenham.gov.uk/news/article/3083/golden_valley_submits_detailed_plans_for_phase_one))
+- 'Palm tree planning row' and 'Wolf moon' ([5 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
+- Record number of callouts for air ambulance charity ([5 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
+- New fleet of bin lorries to be fuelled by cooking oil ([19 hours ago](https://www.bbc.com/news/articles/c62nz607vyeo?at_medium=RSS&at_campaign=rss))
+- 'Disturbing' PC is sacked for sexual harassment ([20 hours ago](https://www.bbc.com/news/articles/c1evn5v8840o?at_medium=RSS&at_campaign=rss))
+- School closures and travel disruption as storm hits ([23 hours ago](https://www.bbc.com/news/articles/c4g30q12w98o?at_medium=RSS&at_campaign=rss))
+- Golden Valley submits detailed plans for phase one ([1 days ago](https://www.cheltenham.gov.uk/news/article/3083/golden_valley_submits_detailed_plans_for_phase_one))
 - 'Hundreds of homes approved' and 'hare coursing damage' ([1 days ago](https://www.bbc.com/news/articles/cql4ypkkvldo?at_medium=RSS&at_campaign=rss))
 - How gritters work and risk to drivers explained ([1 days ago](https://www.bbc.com/news/articles/cm2xn41102yo?at_medium=RSS&at_campaign=rss))
 - Former monastery could be converted into new homes ([1 days ago](https://www.bbc.com/news/articles/czejp5n0nzwo?at_medium=RSS&at_campaign=rss))

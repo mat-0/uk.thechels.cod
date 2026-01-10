@@ -61,5 +61,13 @@ This message will be updated by 12:00PM, midday, on the 11 January 2026 or as th
 - Flood alert: River Severn in Worcestershire
 - River levels are rising slowly. Flooding is possible on 10 January 2026 .  Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Diglis 3.0m to 3.3m on 10/01 PM, Kempsey Yacht Club 5.2m to 5.5m on 10/01 PM, Saxons Lode 3.9m to 4.3m overnight tonight, 10/01 AM. Other gauge locations are not forecast to exceed Flood Alert thresholds.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 11 January 2026 or as the situation changes.
 
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- High river levels are expected to cause flooding overnight. 
+Flooding is expected on 10 January 2026 . 
+Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.4m to 3.7m on 10/01 PM, Upper Pound 3.5m to 3.7m on 10/01 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 11 January 2026 or as the situation changes. 
+
 
 <!-- flood_marker ends -->

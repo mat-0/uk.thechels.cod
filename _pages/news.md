@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Final plans submitted for Golden Valley project ([4 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
-- New NHS dental surgery to open in city ([4 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
-- 'Palm tree planning row' and 'Wolf moon' ([11 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
-- Record number of callouts for air ambulance charity ([11 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
+- Final plans submitted for Golden Valley project ([6 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
+- New NHS dental surgery to open in city ([6 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
+- 'Palm tree planning row' and 'Wolf moon' ([13 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
+- Record number of callouts for air ambulance charity ([13 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
 - New fleet of bin lorries to be fuelled by cooking oil ([1 days ago](https://www.bbc.com/news/articles/c62nz607vyeo?at_medium=RSS&at_campaign=rss))
 - 'Disturbing' PC is sacked for sexual harassment ([1 days ago](https://www.bbc.com/news/articles/c1evn5v8840o?at_medium=RSS&at_campaign=rss))
 - School closures and travel disruption as storm hits ([1 days ago](https://www.bbc.com/news/articles/c4g30q12w98o?at_medium=RSS&at_campaign=rss))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([22 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([22 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([22 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([22 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([23 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([23 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - Three further arrests following murder in Cheltenham yesterday ([24 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))
 - Duracell E-Charge launches first UK ultra-rapid charging hub in Cheltenham ([24 days ago](https://gloucesternewscentre.co.uk/duracell-e-charge-launches-first-uk-ultra-rapid-charging-hub-in-cheltenham/))

@@ -11,10 +11,10 @@ seo: Menu
 ## On Saturday, 10 January 2026
 
 - The average temperature today is 0.8˚C,
-- With highs of 1.66˚C and lows of -1.27˚C,
-- It may feel like -1.26˚C with overcast clouds
-- The wind speed is 1.79m/s and visibility is 10000m
-- The pressure is 1021hPa and humidity is 89%
+- With highs of 2.38˚C and lows of -0.18˚C,
+- It may feel like 0.8˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1021hPa and humidity is 93%
 - The sun will rise at 08:12 and set at 16:18
 
 <!-- weather_marker ends -->

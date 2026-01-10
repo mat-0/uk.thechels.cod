@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned road repairs from Redmarley Road block paving repairs 2 months ago, 10th January :- [8663854](https://www.fixmystreet.com/report/8663854)
 - Blocked Drain, 10th January :- [8663654](https://www.fixmystreet.com/report/8663654)
 - Drainage blocked by house causing dangerous driving, 10th January :- [8663580](https://www.fixmystreet.com/report/8663580)
 - A speed indication sign that you installed a year ago or more still isn't working. Nor is the equivalent sign the other side of the road. Traffic regularly exceeds the speed limit here at extreme risk to pedestrians on the narrow pavement. Please bring these signs into use., 10th January :- [8662894](https://www.fixmystreet.com/report/8662894)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pedestrian crossing phase glitches, 10th January :- [8662012](https://www.fixmystreet.com/report/8662012)
 - Large pothole, 10th January :- [8661675](https://www.fixmystreet.com/report/8661675)
 - Flytipped items, 10th January :- [8661632](https://www.fixmystreet.com/report/8661632)
-- Flytipped item, 10th January :- [8661630](https://www.fixmystreet.com/report/8661630)
 
 <!-- fix_marker ends -->

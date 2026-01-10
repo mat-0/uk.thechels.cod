@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole on Brooklyn Road opposite Kipling Road, 10th January :- [8660748](https://www.fixmystreet.com/report/8660748)
+- Bridge not replaced yet, 10th January :- [8660704](https://www.fixmystreet.com/report/8660704)
+- Fly tipping block a public footpath, 10th January :- [8660567](https://www.fixmystreet.com/report/8660567)
 - Push Button stuck on Pedestrian Crossing. Regularly stopping traffic when there are no pedestrians, 10th January :- [8660303](https://www.fixmystreet.com/report/8660303)
 - Pot Holes All Over Whittington Road, 10th January :- [8660178](https://www.fixmystreet.com/report/8660178)
 - 2 potholes on Hatherley Road, 10th January :- [8660004](https://www.fixmystreet.com/report/8660004)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Two large potholes in middle of the road, 9th January :- [8658770](https://www.fixmystreet.com/report/8658770)
 - Tree at imminent risk of falling across the rAggsoad, 9th January :- [8658254](https://www.fixmystreet.com/report/8658254)
 - Debris in road. See photo., 9th January :- [8658237](https://www.fixmystreet.com/report/8658237)
-- Light sensor is not detecting vehicles problem, 9th January :- [8658032](https://www.fixmystreet.com/report/8658032)
-- Light sensor is not detecting vehicles problem, 9th January :- [8658031](https://www.fixmystreet.com/report/8658031)
-- The drain is blocked problem, 9th January :- [8657773](https://www.fixmystreet.com/report/8657773)
 
 <!-- fix_marker ends -->

@@ -20,74 +20,46 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels over the next two days may lead to flooding. 
-Flooding is possible on 09 January 2026 . 
-Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
-Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
-Weather conditions are expected to improve throughout Friday but rivers are likely to remain high for the next two days. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:30AM on 10 January 2026 or as the situation changes.
+- Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
+Weather conditions are expected to continue to improve throughout Saturday. River levels are beginning to stabilise and some cases, levels are falling, however, further rainfall is forecast during Sunday and Monday where the river levels are likely to rise again.
 
 - Flood alert: River Churn and its tributaries
-- River levels are high on the River Churn particularly around Cerney Wick. Flooding of low lying land and roads is expected today, 09 January 2026, due to heavy rain that occurred on Thursday afternoon and evening. After some showers this morning, the weather forecast today is dry from midday and dry on Saturday 10 January. We expect river levels to remain high over the next few days.
+- River levels are high on the River Churn particularly around Cerney Wick. Flooding of low lying land and roads is possible today, 10 January 2026, due to heavy rain that occurred Thursday afternoon and evening. The weather forecast is dry today, with further rain expected on Sunday. We expect river levels to remain high over the next few days.
 
 We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00 PM, midday, on the 10 January 2026 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 11 January 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
-- River levels are high on parts of the River Windrush. Therefore, flooding of low lying land and roads remains possible today, 09 January 2026, due to heavy rain that occurred on Thursday afternoon and evening. After some showers this morning, the weather forecast today is dry from midday and dry on Saturday 10 January. We expect river levels to remain high and responsive to further rainfall over the next few days.
+- River levels are high on parts of the River Windrush. Therefore, flooding of low lying land and roads remains possible today, 10 January 2026, especially near Newbridge. The weather forecast is dry today, with further rain expected on Sunday 11 January. We expect river levels to remain high and responsive to further rainfall over the next few days. 
 
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-This message will be updated by 12:00 PM, midday, on the 10 January 2026 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 11 January 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-Flooding of low lying land and roads is expected on the River Evenlode, especially near the Evenlode and Broadwell areas. The forecast is dry overnight and on Saturday 10 January. We expect river levels to remain high overnight. 
+Water levels are high on parts of the River Evenlode. Therefore, flooding of low lying land and roads remains possible today, 10 January 2026, especially near Shipton-under-Wychwood. The weather forecast is dry today with further rain expected on Sunday 11 January. We expect river levels to remain high and responsive to further rainfall over the next few days. 
 
-We are monitoring rainfall and river levels. 
+We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
-Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
-
-This message will be updated by 12:00 PM on 10 January 2026 or as the situation changes.
+This message will be updated by 12:00PM, midday, on the 11 January 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels today may lead to flooding. 
-Flooding is possible on 09 January 2026 and into Saturday 10/1/26. 
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 1:00PM on 10 January 2026 or as the situation changes.
+- River levels remain high and may still cause some flooding today Saturday 10/1/26. This message will next be updated tomorrow morning 11/1/26 at 11:00am.
 
 - Flood alert: River Severn in Gloucestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible from the early hours of 10 January 2026 . 
-Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 2.7m to 3.1m on 10/01/26 PM. No flooding is expected at other gauge locations currently. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
+- River level are rising slowly.  Flooding may continue today 10 January 2026 .  Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 3.5m to 3.8m overnight tonight 10/01 PM. No flooding is expected at other gauge locations currently.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 11 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - Rising river levels today may lead to flooding.  Flooding is possible on 09 January 2026 and may continue over the next few days .  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 09 January 2026 . Flooding may continue over the next few days. 
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 2.1m to 2.3m on 09/01 PM, Bredon 1.9m to 2.1m on 10/01 AM. 
-We are closely monitoring the situation . 
-Monitor local water levels and weather conditions . 
-This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
+- Rising river levels today may lead to flooding.  Flooding is possible on 10 January 2026 . Flooding may continue over the next few days.  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham is peaking now, Bredon 2.2m to 2.5m on 11/01 PM.  We are closely monitoring the situation .  Monitor local water levels and weather conditions .  This message will be updated by 10:00AM on 11 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- High river levels overnight may lead to flooding. 
-Flooding is possible on 10 January 2026 . 
-Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:-   Diglis 2.9m to 3.2m on 10/01 AM, Kempsey Yacht Club 5.1m to 5.4m on 10/01 AM, Saxons Lode 3.9m to 4.3m on 11/01 AM.   Other gauge locations are not forecast to exceed Flood Alert thresholds. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 10 January 2026 or as the situation changes.
+- River levels are rising slowly. Flooding is possible on 10 January 2026 .  Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Diglis 3.0m to 3.3m on 10/01 PM, Kempsey Yacht Club 5.2m to 5.5m on 10/01 PM, Saxons Lode 3.9m to 4.3m overnight tonight, 10/01 AM. Other gauge locations are not forecast to exceed Flood Alert thresholds.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 11 January 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

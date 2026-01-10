@@ -12,9 +12,9 @@ seo: Menu
 
 - The average temperature today is -0.81˚C,
 - With highs of 0.55˚C and lows of -1.85˚C,
-- It may feel like -0.81˚C with broken clouds
+- It may feel like -0.81˚C with few clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1013hPa and humidity is 95%
+- The pressure is 1015hPa and humidity is 95%
 - The sun will rise at 08:12 and set at 16:18
 
 <!-- weather_marker ends -->

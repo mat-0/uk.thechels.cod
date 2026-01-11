@@ -21,7 +21,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
 - Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge.
-Weather conditions are expected to continue to improve throughout Saturday. River levels are beginning to stabilise and some cases, levels are falling, however, further rainfall is forecast during Sunday and Monday where the river levels are likely to rise again.
+Weather conditions are changeable at present. Rain is expected throughout Sunday and Monday. Whilst river levels have dropped following Strom Goretti, and are currently below the Flood alert level, the Flood Alert remains in place as the river levels are most likely to rise again Sunday evening and maintain a higher level into Tuesday, at the least.
 
 - Flood alert: River Churn and its tributaries
 - River levels are high on the River Churn particularly around Cerney Wick. Flooding of low lying land and roads is possible today, on Sunday 11 January. The weather forecast is for heavy rain showers today, with further rain expected tomorrow. We expect river levels to remain high over the next few days.

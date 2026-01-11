@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Final plans submitted for Golden Valley project ([10 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
-- New NHS dental surgery to open in city ([10 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
-- 'Palm tree planning row' and 'Wolf moon' ([18 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
-- Record number of callouts for air ambulance charity ([18 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
+- Final plans submitted for Golden Valley project ([12 hours ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
+- New NHS dental surgery to open in city ([12 hours ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
+- 'Palm tree planning row' and 'Wolf moon' ([20 hours ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
+- Record number of callouts for air ambulance charity ([20 hours ago](https://www.bbc.com/news/articles/cg4e5329rp3o?at_medium=RSS&at_campaign=rss))
 - New fleet of bin lorries to be fuelled by cooking oil ([1 days ago](https://www.bbc.com/news/articles/c62nz607vyeo?at_medium=RSS&at_campaign=rss))
 - 'Disturbing' PC is sacked for sexual harassment ([1 days ago](https://www.bbc.com/news/articles/c1evn5v8840o?at_medium=RSS&at_campaign=rss))
 - School closures and travel disruption as storm hits ([1 days ago](https://www.bbc.com/news/articles/c4g30q12w98o?at_medium=RSS&at_campaign=rss))

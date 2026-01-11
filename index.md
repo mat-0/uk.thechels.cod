@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 11 January 2026
 
-- The average temperature today is 1.85˚C,
-- With highs of 2.2˚C and lows of 1.5˚C,
-- It may feel like -1˚C with overcast clouds
-- The wind speed is 2.68m/s and visibility is 10000m
-- The pressure is 1020hPa and humidity is 86%
+- The average temperature today is 2.25˚C,
+- With highs of 2.6˚C and lows of 1.83˚C,
+- It may feel like -1.24˚C with overcast clouds
+- The wind speed is 3.58m/s and visibility is 10000m
+- The pressure is 1017hPa and humidity is 84%
 - The sun will rise at 08:12 and set at 16:19
 
 <!-- weather_marker ends -->

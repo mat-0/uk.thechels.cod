@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Graffiti on bridge and wall by entrance. Netting broken underneath and filling up with rubbish and birds, dead and alive. Lots of poo on path underneath. Small pike of rubble on path washed down from bridge drain., 11th January :- [8667980](https://www.fixmystreet.com/report/8667980)
+- Numerous potholes, 11th January :- [8667907](https://www.fixmystreet.com/report/8667907)
+- Gravel walk has numerous issues, the road has collapsed in many places including a very large pothole near the substation and damage to the sewer chamber which has just been filled with soft tarmac. This will not solve the issue with the chamber. The road has collapsed near verges down the entirety of the road due to the use of heavy building machinery, 11th January :- [8667698](https://www.fixmystreet.com/report/8667698)
+- Large Pothole on Hyde Lane, 11th January :- [8667588](https://www.fixmystreet.com/report/8667588)
+- Faded white line across entrance to Hambrook St / dangerous junction, 11th January :- [8667584](https://www.fixmystreet.com/report/8667584)
+- Kerb wedges, 11th January :- [8667553](https://www.fixmystreet.com/report/8667553)
 - Various holes in the road, need repair as trip hazard and causing damage to vehicles, 11th January :- [8667437](https://www.fixmystreet.com/report/8667437)
 - Large deep pothole, 11th January :- [8667337](https://www.fixmystreet.com/report/8667337)
 - Uneven moving slab, 11th January :- [8667228](https://www.fixmystreet.com/report/8667228)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - A stretch of broken road surface., 11th January :- [8666848](https://www.fixmystreet.com/report/8666848)
 - Pothole in road, 11th January :- [8666846](https://www.fixmystreet.com/report/8666846)
 - Buttons not working on any of this side of the road, 11th January :- [8666735](https://www.fixmystreet.com/report/8666735)
-- Loose/sunken drain cover on mini roundabout exit by booker, 11th January :- [8666712](https://www.fixmystreet.com/report/8666712)
-- Big pothole on the edge of the road, westbound, 11th January :- [8666696](https://www.fixmystreet.com/report/8666696)
-- Huge pothole in the middle of the road, 11th January :- [8666658](https://www.fixmystreet.com/report/8666658)
-- Broad pothole just past the entrance to the Texaco garage., 11th January :- [8666394](https://www.fixmystreet.com/report/8666394)
-- Albert Road chicanes, 11th January :- [8666373](https://www.fixmystreet.com/report/8666373)
-- 10 very large Traffic cones and 2 street closed signs dumped, 11th January :- [8666308](https://www.fixmystreet.com/report/8666308)
 
 <!-- fix_marker ends -->

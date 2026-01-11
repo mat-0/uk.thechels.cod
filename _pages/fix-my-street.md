@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 60cm wide pothole, 11th January :- [8668454](https://www.fixmystreet.com/report/8668454)
+- 60cm wide pothole, 11th January :- [8668422](https://www.fixmystreet.com/report/8668422)
+- Large pot hole by shicane, 11th January :- [8668419](https://www.fixmystreet.com/report/8668419)
+- 60cm wide pothole 10cm deep, 11th January :- [8668394](https://www.fixmystreet.com/report/8668394)
+- 30cm pothole and other small potholes next to it, 11th January :- [8668318](https://www.fixmystreet.com/report/8668318)
+- Streetlight not working, alleyway is in darkness., 11th January :- [8668146](https://www.fixmystreet.com/report/8668146)
+- Previous sinkhole dipping again, 11th January :- [8668085](https://www.fixmystreet.com/report/8668085)
 - Graffiti on bridge and wall by entrance. Netting broken underneath and filling up with rubbish and birds, dead and alive. Lots of poo on path underneath. Small pike of rubble on path washed down from bridge drain., 11th January :- [8667980](https://www.fixmystreet.com/report/8667980)
 - Numerous potholes, 11th January :- [8667907](https://www.fixmystreet.com/report/8667907)
 - Gravel walk has numerous issues, the road has collapsed in many places including a very large pothole near the substation and damage to the sewer chamber which has just been filled with soft tarmac. This will not solve the issue with the chamber. The road has collapsed near verges down the entirety of the road due to the use of heavy building machinery, 11th January :- [8667698](https://www.fixmystreet.com/report/8667698)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Fly tipping on bank of Horsbere Brook by Paygrove Lane Play Area, 11th January :- [8667161](https://www.fixmystreet.com/report/8667161)
 - 3 large potholes, 11th January :- [8667082](https://www.fixmystreet.com/report/8667082)
 - 2 potholes appeared after a burst water pipe. Severn Trent fixed the pipe under the pavement but not the road., 11th January :- [8667071](https://www.fixmystreet.com/report/8667071)
-- Very big pothole, 11th January :- [8667053](https://www.fixmystreet.com/report/8667053)
-- Large pot hole near bend and entrance to Hayfield Homes Development work entrance, 11th January :- [8667045](https://www.fixmystreet.com/report/8667045)
-- This whole road needs urgent repair, 11th January :- [8667039](https://www.fixmystreet.com/report/8667039)
-- 3 potholes that have become deeper in recent weeks., 11th January :- [8666874](https://www.fixmystreet.com/report/8666874)
-- A stretch of broken road surface., 11th January :- [8666848](https://www.fixmystreet.com/report/8666848)
-- Pothole in road, 11th January :- [8666846](https://www.fixmystreet.com/report/8666846)
-- Buttons not working on any of this side of the road, 11th January :- [8666735](https://www.fixmystreet.com/report/8666735)
 
 <!-- fix_marker ends -->

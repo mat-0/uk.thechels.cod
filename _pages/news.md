@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Thousands of fish introduced to West waterways ([1 hours ago](https://www.bbc.com/news/articles/c0507gm7yy4o?at_medium=RSS&at_campaign=rss))
-- Appeal after person struck with bicycle chain ([4 hours ago](https://www.bbc.com/news/articles/cp87k8zygero?at_medium=RSS&at_campaign=rss))
-- In pictures: 'Cold snap' and 'FA Cup heroes' ([11 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
-- TV drama being made about bereaved mum's fight ([11 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
+- Thousands of fish introduced to West waterways ([3 hours ago](https://www.bbc.com/news/articles/c0507gm7yy4o?at_medium=RSS&at_campaign=rss))
+- Appeal after person struck with bicycle chain ([6 hours ago](https://www.bbc.com/news/articles/cp87k8zygero?at_medium=RSS&at_campaign=rss))
+- In pictures: 'Cold snap' and 'FA Cup heroes' ([13 hours ago](https://www.bbc.com/news/articles/cx2k5340yd5o?at_medium=RSS&at_campaign=rss))
+- TV drama being made about bereaved mum's fight ([13 hours ago](https://www.bbc.com/news/articles/ce3zze07qk7o?at_medium=RSS&at_campaign=rss))
 - Final plans submitted for Golden Valley project ([1 days ago](https://www.bbc.com/news/articles/cpwnzyrqjljo?at_medium=RSS&at_campaign=rss))
 - New NHS dental surgery to open in city ([1 days ago](https://www.bbc.com/news/articles/cx2x5p4g0zno?at_medium=RSS&at_campaign=rss))
 - 'Palm tree planning row' and 'Wolf moon' ([1 days ago](https://www.bbc.com/news/articles/c24g7gygg6do?at_medium=RSS&at_campaign=rss))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([23 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([23 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([23 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([23 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([24 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([24 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 - Three further arrests following murder in Cheltenham yesterday ([25 days ago](https://gloucesternewscentre.co.uk/three-further-arrests-following-murder-in-cheltenham-yesterday/))
 - Duracell E-Charge launches first UK ultra-rapid charging hub in Cheltenham ([25 days ago](https://gloucesternewscentre.co.uk/duracell-e-charge-launches-first-uk-ultra-rapid-charging-hub-in-cheltenham/))

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large hole, North Road West, left hand edging heading towards Badgeworth Road, just before Elm Farm entrance on other side of road., 11th January :- [8664541](https://www.fixmystreet.com/report/8664541)
+- A couple of pot holes together getting bigger daily, 11th January :- [8664391](https://www.fixmystreet.com/report/8664391)
+- Pothole getting bigger by the day, 11th January :- [8664384](https://www.fixmystreet.com/report/8664384)
+- Large pothole, 11th January :- [8664299](https://www.fixmystreet.com/report/8664299)
 - Large long pothole, 11th January :- [8664244](https://www.fixmystreet.com/report/8664244)
 - Abandoned road repairs from Redmarley Road block paving repairs 2 months ago, 10th January :- [8663854](https://www.fixmystreet.com/report/8663854)
 - Blocked Drain, 10th January :- [8663654](https://www.fixmystreet.com/report/8663654)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Road has sunk and has been potholes it’s becoming dangerous due to heavy traffic use, 10th January :- [8662371](https://www.fixmystreet.com/report/8662371)
 - Volunteer litter pick bags ready for collection, 10th January :- [8662312](https://www.fixmystreet.com/report/8662312)
 - Deep long pothole, 10th January :- [8662190](https://www.fixmystreet.com/report/8662190)
-- Huge numerous potholes, 10th January :- [8662154](https://www.fixmystreet.com/report/8662154)
-- A pothole in road problem, 10th January :- [8662202](https://www.fixmystreet.com/report/8662202)
-- Pedestrian crossing phase glitches, 10th January :- [8662012](https://www.fixmystreet.com/report/8662012)
-- Large pothole, 10th January :- [8661675](https://www.fixmystreet.com/report/8661675)
 
 <!-- fix_marker ends -->

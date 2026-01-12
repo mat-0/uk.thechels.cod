@@ -37,8 +37,12 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00PM, midday, on the 13 January 2026 or as the situation changes.
 
-- Flood alert: Middle Avon Rugby to Bidford
-- River levels remain high at the Bidford river gauge as a result of rain and snow melt. Flooding is expected throughout today 11th January 2026 and overnight. Flooding is expected to affect low-lying land and roads between Rugby and Bidford including caravan parks and farmland. A band of heavy rainfall is forecast for today along with further snow melt this afternoon. As a result, river levels are expected to rise again this evening. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 11:00AM on 12th January 2026 or as the situation changes.
+- Warning no longer in force: Middle Avon Rugby to Bidford
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Further rainfall is forecast but no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Gloucestershire
 - Rising river levels today may lead to flooding. 

@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Poorly repair pot hole, 12th January :- [8676132](https://www.fixmystreet.com/report/8676132)
+- Deep pot hole, 12th January :- [8676050](https://www.fixmystreet.com/report/8676050)
+- Road regularly floods, 12th January :- [8676001](https://www.fixmystreet.com/report/8676001)
+- 56 cm pothole on Green Street, 12th January :- [8675813](https://www.fixmystreet.com/report/8675813)
 - Streetlight is out, 12th January :- [8675364](https://www.fixmystreet.com/report/8675364)
 - Poplar tree with crack at the base, 12th January :- [8675137](https://www.fixmystreet.com/report/8675137)
 - Streetlight out, 12th January :- [8674967](https://www.fixmystreet.com/report/8674967)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Craters in the road, 12th January :- [8673865](https://www.fixmystreet.com/report/8673865)
 - Fly tipping - children’s basket ball hoop, food bin, plastic basket and a lot of litter in bushes, 12th January :- [8673714](https://www.fixmystreet.com/report/8673714)
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8673792](https://www.fixmystreet.com/report/8673792)
-- TMC - Defects - Signs & Street Furniture problem, 12th January :- [8673800](https://www.fixmystreet.com/report/8673800)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673791](https://www.fixmystreet.com/report/8673791)
-- Drain blocked since first reported Nov 2023, 12th January :- [8673388](https://www.fixmystreet.com/report/8673388)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8673483](https://www.fixmystreet.com/report/8673483)
 
 <!-- fix_marker ends -->

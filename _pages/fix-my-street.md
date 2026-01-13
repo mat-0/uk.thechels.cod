@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very uneven pavement, as a senior citizen I am very concerned about the trip hazard the pavement on mead road all the way from 58a to 42 mead rd, 13th January :- [8676797](https://www.fixmystreet.com/report/8676797)
 - A pothole in road problem, 12th January :- [8676496](https://www.fixmystreet.com/report/8676496)
 - Dog dirt, 12th January :- [8676425](https://www.fixmystreet.com/report/8676425)
 - Poorly repair pot hole, 12th January :- [8676132](https://www.fixmystreet.com/report/8676132)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8674093](https://www.fixmystreet.com/report/8674093)
 - TMC - Defects -CW6 Potholes  problem, 12th January :- [8674092](https://www.fixmystreet.com/report/8674092)
 - Large craters in road, 12th January :- [8673878](https://www.fixmystreet.com/report/8673878)
-- Craters in the road, 12th January :- [8673865](https://www.fixmystreet.com/report/8673865)
 
 <!-- fix_marker ends -->

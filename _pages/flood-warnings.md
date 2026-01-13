@@ -41,8 +41,12 @@ This message will be updated by 12:00PM, midday, on the 14 January 2026 or as th
 - Flood alert: River Severn in Gloucestershire
 - River levels are rising slowly today. Flooding may continue on 13 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 3.6m to 3.8m on 14/01 AM, Haw Bridge 4.6m to 4.8m on 14/01 AM, Sandhurst 2.9m to 3.1m on 14/01 AM. We are closely monitoring the situation. Further rainfall is forecast for Thursday 15/01. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 14 January 2026 or as the situation changes.
 
-- Flood alert: River Leadon catchment
-- River levels are falling but remain high today and may lead to flooding. Flooding is possible on 13 January 2026 . Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 14 January 2026 or as the situation changes.
+- Warning no longer in force: River Leadon catchment
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+If you have been evacuated only return to your property once the emergency services have advised that it is safe to do so. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.  
+
 
 - Flood alert: River Avon in Worcestershire
 - High river levels today may lead to flooding.  Flooding is possible on 13 January 2026 .  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Bredon 2.2m to 2.4m on 13/01 overnight. Flooding is not expected at other gauge locations.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 14 January 2026 or as the situation changes.

@@ -9,7 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fridge freezer dumped on side of road, 13th January :- [8677405](https://www.fixmystreet.com/report/8677405)
+- Over 1 meter by 1 meter of road surface completely loose, 13th January :- [8676960](https://www.fixmystreet.com/report/8676960)
+- 15 inch pothole in road. Lots of loose debris, 13th January :- [8676956](https://www.fixmystreet.com/report/8676956)
 - Very uneven pavement, as a senior citizen I am very concerned about the trip hazard the pavement on mead road all the way from 58a to 42 mead rd, 13th January :- [8676797](https://www.fixmystreet.com/report/8676797)
+- Inspection hatch - previous infill has gone., 13th January :- [8676637](https://www.fixmystreet.com/report/8676637)
 - A pothole in road problem, 12th January :- [8676496](https://www.fixmystreet.com/report/8676496)
 - Dog dirt, 12th January :- [8676425](https://www.fixmystreet.com/report/8676425)
 - Poorly repair pot hole, 12th January :- [8676132](https://www.fixmystreet.com/report/8676132)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Road markings severely faded, 12th January :- [8674043](https://www.fixmystreet.com/report/8674043)
 - Roadworks causing 45 minute delays and lights are not detecting cars, 12th January :- [8673939](https://www.fixmystreet.com/report/8673939)
 - Large crater/danergous road, 12th January :- [8673909](https://www.fixmystreet.com/report/8673909)
-- Large craters/potholes, 12th January :- [8673892](https://www.fixmystreet.com/report/8673892)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8674093](https://www.fixmystreet.com/report/8674093)
-- TMC - Defects -CW6 Potholes  problem, 12th January :- [8674092](https://www.fixmystreet.com/report/8674092)
-- Large craters in road, 12th January :- [8673878](https://www.fixmystreet.com/report/8673878)
 
 <!-- fix_marker ends -->

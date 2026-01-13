@@ -56,28 +56,13 @@ This message will be updated by 10:00AM on 13 January 2026 or as the situation c
 - High river levels today may lead to flooding. Flooding is possible on 12 January 2026 and may continue over the next few days . Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 13 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- High river levels today may lead to flooding. 
-Flooding is possible on 12 January 2026 . 
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:-  Bredon 2.2m to 2.5m on 13/01 PM. Flooding is not expected at other gauge locations. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 13 January 2026 or as the situation changes.
+- High river levels today may lead to flooding.  Flooding is possible on 13 January 2026 .  Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Bredon 2.2m to 2.4m on 13/01 overnight. Flooding is not expected at other gauge locations.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 14 January 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- High river levels today have led to flooding. 
-Flooding is possible on 12 January 2026 . 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- Hay on Wye peaking at 2.20m on 12/01, Bredwardine 3.8m to 4.1m on 12/01 PM, Belmont 3.8m to 4.1m on 12/01 PM, Old Wye Bridge 3.2m to 3.6m on 12/01 PM, Mordiford 3.6m to 4.0m over night on 13/01, Ross on Wye 3.5m to 3.8m on 13/01 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:00AM on 13 January 2026 or as the situation changes.
+- High river levels today have led to flooding. Flooding is possible on 13 January 2026. Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- River levels upstream of Ross on Wye have reached their highest and are now falling. Ross on Wye 3.5m to 3.7m on 13/01/25 AM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 9:00AM on 14 January 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- Forecast rising river levels today may lead to flooding. 
-Flooding is possible from the afternoon of 12 January 2026 . 
-Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.5m to 3.8m 13/01 AM, Lydbrook 3.9m to 4.3m 13/01 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 9:00AM on 13 January 2026 or as the situation changes.
+- Rising river levels today have led to flooding.  Flooding is possible on 13 January 2026.  Flooding may affect low lying land and roads along the River Wye. Predicted peaks:- Ross on Wye 3.5m to 3.7m 13/01 AM, Lydbrook 4.2m to 4.5m 13/01 PM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 9:00AM on 14 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - Rising river levels today may lead to flooding. 
@@ -88,7 +73,7 @@ Avoid using low lying footpaths and any bridges near local watercourses Avoid lo
 This message will be updated by 10:00AM on 13 January 2026 or as the situation changes.
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
-- High river levels are expected to cause flooding tomorrow.  Flooding is expected on 13 January 2026 .   Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.6m to 3.8m on 13/01 PM  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 13 January 2026 or as the situation changes.
+- High river levels are expected to cause flooding today and tomorrow. Flooding is expected on 13 January 2026 . Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.6m to 3.8m on 13/01 overnight. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 14 January 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

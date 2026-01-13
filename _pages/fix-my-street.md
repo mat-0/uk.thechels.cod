@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple large pot holes, 13th January :- [8683330](https://www.fixmystreet.com/report/8683330)
+- Many potholes - photos attached., 13th January :- [8683320](https://www.fixmystreet.com/report/8683320)
+- Pothole opposite number 43, 13th January :- [8683253](https://www.fixmystreet.com/report/8683253)
 - Potholes, 13th January :- [8683027](https://www.fixmystreet.com/report/8683027)
 - Deep pothole and manhole cover, 13th January :- [8682903](https://www.fixmystreet.com/report/8682903)
 - Poor road surface, 13th January :- [8682585](https://www.fixmystreet.com/report/8682585)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes in disintegrating tarmac surface. Danger to cyclists. Whole area needs repaving as existing patching not working., 13th January :- [8681411](https://www.fixmystreet.com/report/8681411)
 - Large collection of deep potholes, 13th January :- [8681388](https://www.fixmystreet.com/report/8681388)
 - Large deep pothole, not visible when driving in the dark, 13th January :- [8681379](https://www.fixmystreet.com/report/8681379)
-- A pothole in road problem, 13th January :- [8681431](https://www.fixmystreet.com/report/8681431)
-- Traffic is crazy. Awful TM, 13th January :- [8681165](https://www.fixmystreet.com/report/8681165)
-- A pothole in road problem, 13th January :- [8681209](https://www.fixmystreet.com/report/8681209)
 
 <!-- fix_marker ends -->

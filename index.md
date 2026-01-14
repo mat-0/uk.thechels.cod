@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Tuesday, 13 January 2026
+## On Wednesday, 14 January 2026
 
-- The average temperature today is 2.63˚C,
-- With highs of 4.97˚C and lows of 1.4˚C,
-- It may feel like 2.63˚C with overcast clouds
+- The average temperature today is 0.6˚C,
+- With highs of 2.2˚C and lows of -0.82˚C,
+- It may feel like 0.6˚C with clear sky
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1010hPa and humidity is 93%
-- The sun will rise at 08:10 and set at 16:22
+- The pressure is 1011hPa and humidity is 94%
+- The sun will rise at 08:09 and set at 16:24
 
 <!-- weather_marker ends -->
 

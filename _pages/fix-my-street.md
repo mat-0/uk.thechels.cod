@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- You recently fixed a sink hole and had to stop traffic for days. It’s outside number 17., 14th January :- [8690372](https://www.fixmystreet.com/report/8690372)
 - Fly tipping along The Runnings, 14th January :- [8689999](https://www.fixmystreet.com/report/8689999)
 - Pothole cluster, 14th January :- [8689921](https://www.fixmystreet.com/report/8689921)
 - Gl54 4hq, 14th January :- [8689855](https://www.fixmystreet.com/report/8689855)
@@ -25,9 +26,8 @@ permalink: /fix-my-street
 - Raised iron cover on pavement, 14th January :- [8688309](https://www.fixmystreet.com/report/8688309)
 - Felled tree on side of road, corner of Swindon Lane/ Windyridge Road., 14th January :- [8688089](https://www.fixmystreet.com/report/8688089)
 - Missing curved mirror, 14th January :- [8688036](https://www.fixmystreet.com/report/8688036)
-- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688153](https://www.fixmystreet.com/report/8688153)
 - TMC - Defects -CW6 Potholes  problem, 14th January :- [8688152](https://www.fixmystreet.com/report/8688152)
+- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688153](https://www.fixmystreet.com/report/8688153)
 - TMC - Defects -CW6 Potholes  problem, 14th January :- [8688151](https://www.fixmystreet.com/report/8688151)
-- TMC - Defects - Other FW6  Surface problem, 14th January :- [8688164](https://www.fixmystreet.com/report/8688164)
 
 <!-- fix_marker ends -->

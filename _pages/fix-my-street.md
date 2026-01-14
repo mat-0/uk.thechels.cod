@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping along The Runnings, 14th January :- [8689999](https://www.fixmystreet.com/report/8689999)
+- Pothole cluster, 14th January :- [8689921](https://www.fixmystreet.com/report/8689921)
+- Gl54 4hq, 14th January :- [8689855](https://www.fixmystreet.com/report/8689855)
+- Roughly 12inches diameter and depth of 20 plus cms deep, 14th January :- [8689643](https://www.fixmystreet.com/report/8689643)
+- A number of potholes along frog furlong lane my car was pushed over the road by a speeding car today casing me to hit one of the potholes damaging both left hand tyres on my car, 14th January :- [8689588](https://www.fixmystreet.com/report/8689588)
 - Pothole, 14th January :- [8689296](https://www.fixmystreet.com/report/8689296)
 - Uneven paving slabs, 14th January :- [8689124](https://www.fixmystreet.com/report/8689124)
 - At junction, 14th January :- [8689014](https://www.fixmystreet.com/report/8689014)
@@ -20,14 +25,9 @@ permalink: /fix-my-street
 - Raised iron cover on pavement, 14th January :- [8688309](https://www.fixmystreet.com/report/8688309)
 - Felled tree on side of road, corner of Swindon Lane/ Windyridge Road., 14th January :- [8688089](https://www.fixmystreet.com/report/8688089)
 - Missing curved mirror, 14th January :- [8688036](https://www.fixmystreet.com/report/8688036)
-- TMC - Defects - Other FW6  Surface problem, 14th January :- [8688164](https://www.fixmystreet.com/report/8688164)
-- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688151](https://www.fixmystreet.com/report/8688151)
-- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688152](https://www.fixmystreet.com/report/8688152)
-- TMC - Defects -other CW6 problem, 14th January :- [8688160](https://www.fixmystreet.com/report/8688160)
 - TMC - Defects -CW6 Potholes  problem, 14th January :- [8688153](https://www.fixmystreet.com/report/8688153)
-- TMC - Defects - Other FW6  Surface problem, 14th January :- [8688163](https://www.fixmystreet.com/report/8688163)
-- Large drain surround badly damaged, 14th January :- [8687973](https://www.fixmystreet.com/report/8687973)
-- Road sign defaced, 14th January :- [8687951](https://www.fixmystreet.com/report/8687951)
-- Drain surround badly damaged & missing causing pothole., 14th January :- [8687934](https://www.fixmystreet.com/report/8687934)
+- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688152](https://www.fixmystreet.com/report/8688152)
+- TMC - Defects -CW6 Potholes  problem, 14th January :- [8688151](https://www.fixmystreet.com/report/8688151)
+- TMC - Defects - Other FW6  Surface problem, 14th January :- [8688164](https://www.fixmystreet.com/report/8688164)
 
 <!-- fix_marker ends -->

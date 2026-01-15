@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 15 January 2026
 
-- The average temperature today is 6.98˚C,
-- With highs of 7.75˚C and lows of 6.49˚C,
-- It may feel like 4.82˚C with moderate rain
-- The wind speed is 3.09m/s and visibility is 6000m
-- The pressure is 996hPa and humidity is 97%
+- The average temperature today is 6.16˚C,
+- With highs of 6.83˚C and lows of 5.75˚C,
+- It may feel like 4.22˚C with light rain
+- The wind speed is 2.57m/s and visibility is 7000m
+- The pressure is 995hPa and humidity is 97%
 - The sun will rise at 08:09 and set at 16:25
 
 <!-- weather_marker ends -->

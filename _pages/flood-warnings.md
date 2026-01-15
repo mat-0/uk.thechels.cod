@@ -26,8 +26,24 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00 pm, midday, on the 16 January 2026 or as the situation changes.
 
+- Flood alert: Middle Avon Rugby to Bidford
+- Forecast high river levels today may lead to flooding. 
+Flooding is possible on 15 January 2026 . 
+Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 16 January 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high and flooding may continue today 15 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. We are closely monitoring the situation. Further rainfall is forecast today 16 January 2026. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 16 January 2026 or as the situation changes.
+
+- Flood alert: River Leadon catchment
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 15 January 2026 . 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 16 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high and flooding is possible today 15 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Further rain is forecast today 15 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 16 January 2026 or as the situation changes.

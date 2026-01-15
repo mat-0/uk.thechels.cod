@@ -19,12 +19,30 @@ This project fetches flood warning data for the Gloucestershire area and publish
 ## Latest
 
 <!-- flood_marker starts -->
+- Flood alert: Upper Bristol Avon area
+- High river levels today may lead to flooding. 
+Flooding is possible on 15 January 2026 . 
+River levels are rising due to Thursday’s rain and are expected to peak over night.
+Areas most at risk include low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge
+Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water .  Avoid using low lying footpaths and any bridges near local watercourses. 
+This message will be updated by 12:00AM on 16 January 2026 or as the situation changes.
+
 - Flood alert: River Windrush from Bourton to Newbridge
 - River levels are high on parts of the River Windrush. Therefore flooding of low lying land and roads remains possible today, near Newbridge. Widespread persistant rain is expected today (Thursday 15 January) which will be heavy in places. Further rainfall possible tomorrow. We expect river levels to rise in response and to remain high over the weekend.
 
 We are monitoring rainfall and river levels. Avoid low lying roads near rivers, which may be flooded. Go to River levels online for updates on current river levels.
 
 This message will be updated by 12:00 pm, midday, on the 16 January 2026 or as the situation changes.
+
+- Flood alert: River Dikler from Condicote to Little Rissington
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible from the evening of 15 January 2026 . 
+Flooding of low lying land and roads is possible, especially in areas of Bourton on the Water close to the River Dikler. River levels have risen due to persistent heavy rain today. Further rainfall is possible tomorrow. We expect river levels to rise overnight, 15/01/26, and to remain high into the weekend. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . Go to River levels online for updates on current river levels. 
+This message will be updated by 12:00PM on 16 January 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
 - Forecast high river levels today may lead to flooding. 

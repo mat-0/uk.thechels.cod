@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Road surface eroded, large pothole growing daily, 15th January :- [8697865](https://www.fixmystreet.com/report/8697865)
+- Trench opening up in the main road where old roadworks have taken place, 15th January :- [8697835](https://www.fixmystreet.com/report/8697835)
+- Parking on old Cheltenham Road. Why have the double yellow lines not been repainted?, 15th January :- [8697832](https://www.fixmystreet.com/report/8697832)
+- Pedestrian buttons not working for green man to come on, 15th January :- [8697808](https://www.fixmystreet.com/report/8697808)
 - Potholes increasing in size and number, 15th January :- [8697274](https://www.fixmystreet.com/report/8697274)
 - Potholes reopened shortly after being fixed, 15th January :- [8697123](https://www.fixmystreet.com/report/8697123)
 - Street light still not working, 15th January :- [8696977](https://www.fixmystreet.com/report/8696977)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - On bend coming into Winton Close, 15th January :- [8696353](https://www.fixmystreet.com/report/8696353)
 - In subway - human excrement & various items, 15th January :- [8696179](https://www.fixmystreet.com/report/8696179)
 - 4 street lights out in Hucclecote, Rd, Gloucester, 15th January :- [8696109](https://www.fixmystreet.com/report/8696109)
-- 3 or 4 large pot holes in close proximity, 15th January :- [8695950](https://www.fixmystreet.com/report/8695950)
-- A pothole in road problem, 15th January :- [8696202](https://www.fixmystreet.com/report/8696202)
-- Huge!!! damaged tyre, 15th January :- [8695813](https://www.fixmystreet.com/report/8695813)
-- Multiple potholes and uneven road surface on Kingsley Gardens, 15th January :- [8695671](https://www.fixmystreet.com/report/8695671)
 
 <!-- fix_marker ends -->

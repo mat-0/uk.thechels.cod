@@ -29,6 +29,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water .  Avoid using low lying footpaths and any bridges near local watercourses. 
 This message will be updated by 12:00AM on 16 January 2026 or as the situation changes.
 
+- Flood alert: River Churn and its tributaries
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible from the evening of 15 January 2026 . 
+Flooding of low lying land and roads is expected, especially in the Cerney Wick area. River levels have risen due to persistent heavy rain today. Further rainfall is possible tomorrow. We expect river levels to rise this evening, 15 January 2026, and to remain high over the coming days. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . Go to River levels online for updates on current river levels. 
+This message will be updated by 12:00PM on 16 January 2026 or as the situation changes.
+
 - Flood alert: River Windrush from Bourton to Newbridge
 - River levels are high on parts of the River Windrush. Therefore flooding of low lying land and roads remains possible today, near Newbridge. Widespread persistant rain is expected today (Thursday 15 January) which will be heavy in places. Further rainfall possible tomorrow. We expect river levels to rise in response and to remain high over the weekend.
 

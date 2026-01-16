@@ -12,15 +12,15 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cheltenham joins English councils asking for election delays ([57 minutes ago](https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss))
-- Have your say on Cheltenham’s housing budget for 2026/27 ([1 hours ago](https://www.cheltenham.gov.uk/news/article/3086/have_your_say_on_cheltenhams_housing_budget_for_202627))
-- Princess Anne opens new university campus ([1 hours ago](https://www.bbc.com/news/articles/c62r7ern3k2o?at_medium=RSS&at_campaign=rss))
-- Long‑awaited review of sexual entertainment rules announced following Cheltenham campaign ([3 hours ago](https://www.cheltenham.gov.uk/news/article/3087/long%E2%80%91awaited_review_of_sexual_entertainment_rules_announced_following_cheltenham_campaign))
-- Major investment into new cyber security barracks ([4 hours ago](https://www.bbc.com/news/articles/c98pl98je1no?at_medium=RSS&at_campaign=rss))
-- Arrests after boy injured in park attack ([6 hours ago](https://www.bbc.com/news/articles/c07xplr0vyxo?at_medium=RSS&at_campaign=rss))
-- 'What are you showing our children?': Bereaved parents take on TikTok ([7 hours ago](https://www.bbc.com/news/articles/cn8j1rgj07ko?at_medium=RSS&at_campaign=rss))
-- Police officer's eight-month challenge in wife's memory ([8 hours ago](https://www.bbc.com/news/articles/c5ydl355z7lo?at_medium=RSS&at_campaign=rss))
-- Taxi drivers call for more restrictions on Uber ([12 hours ago](https://www.bbc.com/news/articles/c1lzjn5y5mqo?at_medium=RSS&at_campaign=rss))
+- Cheltenham joins English councils asking for election delays ([2 hours ago](https://www.bbc.com/news/articles/cd7z892jzdeo?at_medium=RSS&at_campaign=rss))
+- Have your say on Cheltenham’s housing budget for 2026/27 ([3 hours ago](https://www.cheltenham.gov.uk/news/article/3086/have_your_say_on_cheltenhams_housing_budget_for_202627))
+- Princess Anne opens new university campus ([3 hours ago](https://www.bbc.com/news/articles/c62r7ern3k2o?at_medium=RSS&at_campaign=rss))
+- Long‑awaited review of sexual entertainment rules announced following Cheltenham campaign ([4 hours ago](https://www.cheltenham.gov.uk/news/article/3087/long%E2%80%91awaited_review_of_sexual_entertainment_rules_announced_following_cheltenham_campaign))
+- Major investment into new cyber security barracks ([6 hours ago](https://www.bbc.com/news/articles/c98pl98je1no?at_medium=RSS&at_campaign=rss))
+- Arrests after boy injured in park attack ([8 hours ago](https://www.bbc.com/news/articles/c07xplr0vyxo?at_medium=RSS&at_campaign=rss))
+- 'What are you showing our children?': Bereaved parents take on TikTok ([9 hours ago](https://www.bbc.com/news/articles/cn8j1rgj07ko?at_medium=RSS&at_campaign=rss))
+- Police officer's eight-month challenge in wife's memory ([10 hours ago](https://www.bbc.com/news/articles/c5ydl355z7lo?at_medium=RSS&at_campaign=rss))
+- Taxi drivers call for more restrictions on Uber ([14 hours ago](https://www.bbc.com/news/articles/c1lzjn5y5mqo?at_medium=RSS&at_campaign=rss))
 - Rare coin thief caught after going on the run ([1 days ago](https://www.bbc.com/news/articles/ce8e339jxj0o?at_medium=RSS&at_campaign=rss))
 - Calls for Cavendish House to be ‘restored to past glories’ after traders leave ([1 days ago](https://gloucesternewscentre.co.uk/calls-for-cavendish-house-to-be-restored-to-past-glories-after-traders-leave/))
 - Knife-wielding thief who attacked bookies while on bail is jailed ([1 days ago](https://www.bbc.com/news/articles/clym8jjn838o?at_medium=RSS&at_campaign=rss))
@@ -58,7 +58,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Cheltenham 2026 elections could be postponed due to local government reorganisation ([28 days ago](https://gloucesternewscentre.co.uk/cheltenham-2026-elections-could-be-postponed-due-to-local-government-reorganisation/))
 - Men jailed after they admitted to stealing nearly £20,000-worth of jewellery in Cheltenham ([28 days ago](https://gloucesternewscentre.co.uk/men-jailed-after-they-admitted-to-stealing-nearly-20000-worth-of-jewellery-in-cheltenham/))
 - Traffic disruption concerns over roadworks plan ([28 days ago](https://gloucesternewscentre.co.uk/traffic-disruption-concerns-over-roadworks-plan/))
-- Two teenage boys charged in connection with Cheltenham murder ([28 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
+- Two teenage boys charged in connection with Cheltenham murder ([29 days ago](https://gloucesternewscentre.co.uk/two-teenage-boys-charged-in-connection-with-cheltenham-murder/))
 - Local charity Cobalt appeals for used Christmas cards to support vital medical services ([29 days ago](https://gloucesternewscentre.co.uk/local-charity-cobalt-appeals-for-used-christmas-cards-to-support-vital-medical-services/))
 
 <!-- news_marker ends -->

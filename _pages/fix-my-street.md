@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- No Priority Ever Given to Green Arrow, 16th January :- [8705573](https://www.fixmystreet.com/report/8705573)
+- Fly tipping, 16th January :- [8705421](https://www.fixmystreet.com/report/8705421)
+- Fly tipping, 16th January :- [8705408](https://www.fixmystreet.com/report/8705408)
+- Around drainage cover, 16th January :- [8705301](https://www.fixmystreet.com/report/8705301)
+- Large pothole on bend towards edge of road, 16th January :- [8705138](https://www.fixmystreet.com/report/8705138)
 - Large deep pothole, 16th January :- [8704750](https://www.fixmystreet.com/report/8704750)
 - Cluster of deep and wide potholes, 16th January :- [8704600](https://www.fixmystreet.com/report/8704600)
 - Sunken drainage grid at passing place on Dog Lane, 16th January :- [8704258](https://www.fixmystreet.com/report/8704258)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 16th January :- [8703839](https://www.fixmystreet.com/report/8703839)
 - A pothole in road problem, 16th January :- [8703838](https://www.fixmystreet.com/report/8703838)
 - A pothole in road problem, 16th January :- [8703837](https://www.fixmystreet.com/report/8703837)
-- More gravel for camber on footpath needed, 16th January :- [8703479](https://www.fixmystreet.com/report/8703479)
-- Large pot hole formed just off the junction heading towards Home Farm., 16th January :- [8703285](https://www.fixmystreet.com/report/8703285)
-- A pothole in road problem, 16th January :- [8703835](https://www.fixmystreet.com/report/8703835)
-- A pothole in road problem, 16th January :- [8703247](https://www.fixmystreet.com/report/8703247)
-- 2 big deep potholes by bus stop, 16th January :- [8703037](https://www.fixmystreet.com/report/8703037)
 
 <!-- fix_marker ends -->

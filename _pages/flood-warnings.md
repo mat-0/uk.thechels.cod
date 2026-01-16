@@ -44,6 +44,14 @@ We are monitoring rainfall and river levels. Avoid low lying roads near rivers, 
 
 This message will be updated by 12:00 pm, midday, on the 16 January 2026 or as the situation changes.
 
+- Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
+- High river levels today may lead to flooding. 
+Flooding is possible from the morning of 16 January 2026 . 
+Flooding of low lying land and roads is possible, especially in the Evenlode area. River levels have risen overnight due to persistent heavy rain yesterday. Further isolated showers, which may be heavy in places, are expected today. We expect river levels to remain high today, 16 January 2026. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . Go to River levels online for updates on current river levels. 
+This message will be updated by 12:00PM on 17 January 2026 or as the situation changes.
+
 - Flood alert: River Dikler from Condicote to Little Rissington
 - Rising river levels this evening may lead to flooding. 
 Flooding is possible from the evening of 15 January 2026 . 

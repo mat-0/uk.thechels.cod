@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Series of potholes near old repairs, 17th January :- [8708206](https://www.fixmystreet.com/report/8708206)
+- Deep pothole, 17th January :- [8707726](https://www.fixmystreet.com/report/8707726)
+- Missing green cycle path finish, 17th January :- [8707573](https://www.fixmystreet.com/report/8707573)
+- Numerous potholes along the road, 3 metres in length total, 17th January :- [8707532](https://www.fixmystreet.com/report/8707532)
+- The road is starting to subside, 17th January :- [8707494](https://www.fixmystreet.com/report/8707494)
+- Large very deep pothole, 17th January :- [8707461](https://www.fixmystreet.com/report/8707461)
+- Along pavement of most of st Anne’s road is a lot of rotting leaves which are slippy, 17th January :- [8707443](https://www.fixmystreet.com/report/8707443)
 - Series of pot holes in 5meter radius, 17th January :- [8707383](https://www.fixmystreet.com/report/8707383)
 - 300mm x 50mm pothope, 17th January :- [8707361](https://www.fixmystreet.com/report/8707361)
 - Every time there is any rain , the road becomes blocked by surface water which has not drained away, 17th January :- [8707359](https://www.fixmystreet.com/report/8707359)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Water flowing out of drain, 17th January :- [8706399](https://www.fixmystreet.com/report/8706399)
 - Missing metal cover on drainage deep and wide without any indication of the issue on road, 17th January :- [8706346](https://www.fixmystreet.com/report/8706346)
 - Multiple large pothole damage over on a junction, 16th January :- [8706029](https://www.fixmystreet.com/report/8706029)
-- Multiple pot holes along this stretch of road. Previous repairs have undone and the road surface is very uneven. This is has been made worse by temporary traffic lights and works that has taken place in the last week. The problem is worse on the left hand lane of the road next to the grass / houses., 16th January :- [8705884](https://www.fixmystreet.com/report/8705884)
-- Multiple Pot Holes, 16th January :- [8705876](https://www.fixmystreet.com/report/8705876)
-- No Priority Ever Given to Green Arrow, 16th January :- [8705573](https://www.fixmystreet.com/report/8705573)
-- Fly tipping, 16th January :- [8705421](https://www.fixmystreet.com/report/8705421)
-- Fly tipping, 16th January :- [8705408](https://www.fixmystreet.com/report/8705408)
-- Around drainage cover, 16th January :- [8705301](https://www.fixmystreet.com/report/8705301)
-- Large pothole on bend towards edge of road, 16th January :- [8705138](https://www.fixmystreet.com/report/8705138)
 
 <!-- fix_marker ends -->

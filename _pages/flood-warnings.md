@@ -63,13 +63,13 @@ This message will be updated by 12:00 pm on 17 January 2026 or as the situation 
 - Forecast high river levels today may lead to flooding.  Flooding is possible on 16 January 2026 .  Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 17 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels remain high and flooding may continue today 16 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 17 January 2026 or as the situation changes
+- River levels remain high but are falling slowly today 17 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 18 January 2026 or as the situation changes
 
 - Flood alert: River Leadon catchment
-- River levels remain high and flooding may continue today 16 January 2026 .  Locations most affected will be low lying land and roads near rivers.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 10:00AM on 17 January 2026 or as the situation changes.
+- River levels remain high but are falling slowly today 17 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 18 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- River levels remain high and flooding is possible today 16 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 17 January 2026 or as the situation changes.
+- River levels remain high but are falling slowly today 17 January 2026. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury is impacted. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 18 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - Rising river levels today may lead to flooding. 
@@ -79,8 +79,12 @@ We are monitoring rainfall and river levels . 
 Avoid using low lying footpaths and any bridges near local watercourses . Go to River levels online for updates on current river levels. 
 This message will be updated by 12:00PM on 17 January 2026 or as the situation changes.
 
-- Flood alert: River Severn in Worcestershire
-- River levels remain high and flooding may continue today 16 January 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 17 January 2026 or as the situation changes
+- Warning no longer in force: River Severn in Worcestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
+
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels remain high and flooding is expected today 16 January 2026 . Flooding may affect Gabb Lane at Apperley and local caravan parks. Further rain is forecast today 16 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 17 January 2026 or as the situation changes.

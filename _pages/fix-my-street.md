@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Repeated flooding at this location. Drain appears not to work, 17th January :- [8706690](https://www.fixmystreet.com/report/8706690)
 - Water flowing out of drain, 17th January :- [8706399](https://www.fixmystreet.com/report/8706399)
 - Missing metal cover on drainage deep and wide without any indication of the issue on road, 17th January :- [8706346](https://www.fixmystreet.com/report/8706346)
 - Multiple large pothole damage over on a junction, 16th January :- [8706029](https://www.fixmystreet.com/report/8706029)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 16th January :- [8704162](https://www.fixmystreet.com/report/8704162)
 - Pothole on Dog Lane between The Kneelings and The Uplands fields, 16th January :- [8704013](https://www.fixmystreet.com/report/8704013)
 - Fly Tip in Mill Lane (Ham Road end), 16th January :- [8703985](https://www.fixmystreet.com/report/8703985)
-- Pothole in Dog Lane, 16th January :- [8703949](https://www.fixmystreet.com/report/8703949)
 
 <!-- fix_marker ends -->

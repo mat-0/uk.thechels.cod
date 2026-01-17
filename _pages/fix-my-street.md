@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes along the stretch of road, 17th January :- [8710391](https://www.fixmystreet.com/report/8710391)
+- Pothole on Yarnolds deepened in last week, 17th January :- [8710105](https://www.fixmystreet.com/report/8710105)
 - Trip hazard telephone manhole cover on pavement., 17th January :- [8709630](https://www.fixmystreet.com/report/8709630)
 - Standing water on road in Hucclecourt bypass, 17th January :- [8709598](https://www.fixmystreet.com/report/8709598)
 - Chairs and other items dumped, 17th January :- [8709570](https://www.fixmystreet.com/report/8709570)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Volunteer litter pick bags ready for collection, 17th January :- [8708846](https://www.fixmystreet.com/report/8708846)
 - Very large pot hole on churchdown lane, 17th January :- [8708811](https://www.fixmystreet.com/report/8708811)
 - Path totally blocked by overgrown vegetation, 17th January :- [8708777](https://www.fixmystreet.com/report/8708777)
-- It was dark so couldn't see the pothole on unlit road. Felt very deep though. Before railway bridge heading along Badgeworth road from Churchdown towards the Reddings, 17th January :- [8708556](https://www.fixmystreet.com/report/8708556)
-- Series of potholes near old repairs, 17th January :- [8708206](https://www.fixmystreet.com/report/8708206)
 
 <!-- fix_marker ends -->

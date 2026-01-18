@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Slightly out of view traffic, near miss collision, 18th January :- [8712213](https://www.fixmystreet.com/report/8712213)
+- Large are of badly fixed road. this area has been fixed poorly so many times and needs the whole area diging up and fixing. it is dangerous for drivers and cyclists., 18th January :- [8712192](https://www.fixmystreet.com/report/8712192)
+- Approximate 5 inch pothole. Becoming deep quick due to inability to avoid it. Worsening due to weather and wear and tear, 18th January :- [8712120](https://www.fixmystreet.com/report/8712120)
+- Approximate 3 inch pothole forming. Worsening due to location and traffic/weather, 18th January :- [8712098](https://www.fixmystreet.com/report/8712098)
+- Approximate 5 inch pothole in length. Centre of road worsening quickly., 18th January :- [8712083](https://www.fixmystreet.com/report/8712083)
+- Pothole forming in centre of road. Will expand quickly due to location, weather and traffic., 18th January :- [8712054](https://www.fixmystreet.com/report/8712054)
+- Large area of tarmac crumble. size and depth has increased since last weey, 18th January :- [8711938](https://www.fixmystreet.com/report/8711938)
+- Massive Pothole, 18th January :- [8711935](https://www.fixmystreet.com/report/8711935)
+- Water pouring from public footpath into Bentham Lane, 18th January :- [8711868](https://www.fixmystreet.com/report/8711868)
+- Constant stream of water pouring down Dog Lane, 18th January :- [8711841](https://www.fixmystreet.com/report/8711841)
 - This is a very poor repair of a pothole. If you study the picture there have been gouges made in the original surface to which the new tarmac should abut. It does not. No decent compaction or edging resulting in rapid deterioration of repair. Tarmac saving and poor effort. The same has happened with a similar repair up the road. Do you not carry out quality control?!, 18th January :- [8711588](https://www.fixmystreet.com/report/8711588)
 - Extensive tagging, 18th January :- [8711507](https://www.fixmystreet.com/report/8711507)
 - Previous repair around metal inspection cover is failing, 18th January :- [8711505](https://www.fixmystreet.com/report/8711505)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - Black bollard knocked over, 17th January :- [8710501](https://www.fixmystreet.com/report/8710501)
 - Potholes along the stretch of road, 17th January :- [8710391](https://www.fixmystreet.com/report/8710391)
 - Pothole on Yarnolds deepened in last week, 17th January :- [8710105](https://www.fixmystreet.com/report/8710105)
-- Trip hazard telephone manhole cover on pavement., 17th January :- [8709630](https://www.fixmystreet.com/report/8709630)
-- Standing water on road in Hucclecourt bypass, 17th January :- [8709598](https://www.fixmystreet.com/report/8709598)
-- Chairs and other items dumped, 17th January :- [8709570](https://www.fixmystreet.com/report/8709570)
-- Smashed glass all over skate park, 17th January :- [8709409](https://www.fixmystreet.com/report/8709409)
-- Rubbish strewn about, 17th January :- [8709363](https://www.fixmystreet.com/report/8709363)
-- Deep pothole, 17th January :- [8709295](https://www.fixmystreet.com/report/8709295)
-- Pothole in centre of road, dangerous for cyclists, 17th January :- [8709283](https://www.fixmystreet.com/report/8709283)
-- Continued parking on double yellow lines, 17th January :- [8709246](https://www.fixmystreet.com/report/8709246)
-- Damaged road surface, 17th January :- [8709227](https://www.fixmystreet.com/report/8709227)
-- Pothole in road, near kerb, 17th January :- [8709105](https://www.fixmystreet.com/report/8709105)
 
 <!-- fix_marker ends -->

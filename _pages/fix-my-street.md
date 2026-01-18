@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Water streaming across A40- ice hazard, 18th January :- [8712923](https://www.fixmystreet.com/report/8712923)
+- Blocked drain, 18th January :- [8712839](https://www.fixmystreet.com/report/8712839)
+- Workers at nearby property drove heavy vehicle over tarmac, 18th January :- [8712786](https://www.fixmystreet.com/report/8712786)
+- Large pothole and surrounding area has sunk below drain level so holds water causing tarmac to rot away, 18th January :- [8712762](https://www.fixmystreet.com/report/8712762)
+- Pothole, 18th January :- [8712728](https://www.fixmystreet.com/report/8712728)
+- 12 inch pothole on Withington to Hilcot Riad, 18th January :- [8712681](https://www.fixmystreet.com/report/8712681)
+- Massive breakdown in road structure, 18th January :- [8712642](https://www.fixmystreet.com/report/8712642)
+- Large hole, 18th January :- [8712623](https://www.fixmystreet.com/report/8712623)
+- Large pothole near junction…, 18th January :- [8712581](https://www.fixmystreet.com/report/8712581)
+- Drain blocked, 18th January :- [8712379](https://www.fixmystreet.com/report/8712379)
+- Badly damaged child safety barrier, 18th January :- [8712308](https://www.fixmystreet.com/report/8712308)
 - Slightly out of view traffic, near miss collision, 18th January :- [8712213](https://www.fixmystreet.com/report/8712213)
 - Large are of badly fixed road. this area has been fixed poorly so many times and needs the whole area diging up and fixing. it is dangerous for drivers and cyclists., 18th January :- [8712192](https://www.fixmystreet.com/report/8712192)
 - Approximate 5 inch pothole. Becoming deep quick due to inability to avoid it. Worsening due to weather and wear and tear, 18th January :- [8712120](https://www.fixmystreet.com/report/8712120)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Large area of tarmac crumble. size and depth has increased since last weey, 18th January :- [8711938](https://www.fixmystreet.com/report/8711938)
 - Massive Pothole, 18th January :- [8711935](https://www.fixmystreet.com/report/8711935)
 - Water pouring from public footpath into Bentham Lane, 18th January :- [8711868](https://www.fixmystreet.com/report/8711868)
-- Constant stream of water pouring down Dog Lane, 18th January :- [8711841](https://www.fixmystreet.com/report/8711841)
-- This is a very poor repair of a pothole. If you study the picture there have been gouges made in the original surface to which the new tarmac should abut. It does not. No decent compaction or edging resulting in rapid deterioration of repair. Tarmac saving and poor effort. The same has happened with a similar repair up the road. Do you not carry out quality control?!, 18th January :- [8711588](https://www.fixmystreet.com/report/8711588)
-- Extensive tagging, 18th January :- [8711507](https://www.fixmystreet.com/report/8711507)
-- Previous repair around metal inspection cover is failing, 18th January :- [8711505](https://www.fixmystreet.com/report/8711505)
-- Potholes, 17th January :- [8710850](https://www.fixmystreet.com/report/8710850)
-- Damaged cones littering the verges, 17th January :- [8710729](https://www.fixmystreet.com/report/8710729)
-- Huge potholes by the bridge badgeworth lane and the Redding’s., 17th January :- [8710722](https://www.fixmystreet.com/report/8710722)
-- Deep pothole on the approach to Whaley Farm, shredded my Marie’s from tyre, 17th January :- [8710564](https://www.fixmystreet.com/report/8710564)
-- Black bollard knocked over, 17th January :- [8710501](https://www.fixmystreet.com/report/8710501)
-- Potholes along the stretch of road, 17th January :- [8710391](https://www.fixmystreet.com/report/8710391)
-- Pothole on Yarnolds deepened in last week, 17th January :- [8710105](https://www.fixmystreet.com/report/8710105)
 
 <!-- fix_marker ends -->

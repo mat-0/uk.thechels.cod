@@ -65,7 +65,12 @@ This message will be updated by 11:00AM on 19 January 2026 or as the situation c
 - River levels remain high but are falling slowly today 18 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 19 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high but are falling slowly today 18 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 19 January 2026 or as the situation changes.
+- Rising river levels overnight may lead to flooding. 
+Flooding is possible from the evening of 18 January 2026 . 
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 19 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high but are falling slowly today 18 January 2026. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubilee Bridge to Fladbury is impacted. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 19 January 2026 or as the situation changes.

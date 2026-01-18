@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Several large potholes and road surface breaking ip, 18th January :- [8714786](https://www.fixmystreet.com/report/8714786)
+- Large potpoke, 18th January :- [8714768](https://www.fixmystreet.com/report/8714768)
+- Very deep large pothole, 18th January :- [8714755](https://www.fixmystreet.com/report/8714755)
+- Big pot hole large and deep, 18th January :- [8714743](https://www.fixmystreet.com/report/8714743)
+- Long deep pothole, 18th January :- [8714734](https://www.fixmystreet.com/report/8714734)
+- Why no bus numbers at bus stops, 18th January :- [8714693](https://www.fixmystreet.com/report/8714693)
+- Redundant bus stop, 18th January :- [8714664](https://www.fixmystreet.com/report/8714664)
+- Repeated fly tipping A38 lay-by Priors Norton, 18th January :- [8714557](https://www.fixmystreet.com/report/8714557)
 - Massive pothole in middle of road .repair from 1 month failed already .pothole is increasing in size everday, 18th January :- [8713836](https://www.fixmystreet.com/report/8713836)
 - Minibus parking and ruining the grass, 18th January :- [8713833](https://www.fixmystreet.com/report/8713833)
 - Flytipped washing machine off Market Street, 18th January :- [8713829](https://www.fixmystreet.com/report/8713829)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Two 25 cm diam holes close together at entrance to No 14 Greenhills Road, 18th January :- [8713633](https://www.fixmystreet.com/report/8713633)
 - All along the length of Cold Pool lane the Verge is degraded due traffic, 18th January :- [8713626](https://www.fixmystreet.com/report/8713626)
 - Water streaming across A40- ice hazard, 18th January :- [8712923](https://www.fixmystreet.com/report/8712923)
-- Blocked drain, 18th January :- [8712839](https://www.fixmystreet.com/report/8712839)
-- Workers at nearby property drove heavy vehicle over tarmac, 18th January :- [8712786](https://www.fixmystreet.com/report/8712786)
-- Large pothole and surrounding area has sunk below drain level so holds water causing tarmac to rot away, 18th January :- [8712762](https://www.fixmystreet.com/report/8712762)
-- Pothole, 18th January :- [8712728](https://www.fixmystreet.com/report/8712728)
-- 12 inch pothole on Withington to Hilcot Riad, 18th January :- [8712681](https://www.fixmystreet.com/report/8712681)
-- Massive breakdown in road structure, 18th January :- [8712642](https://www.fixmystreet.com/report/8712642)
-- Large hole, 18th January :- [8712623](https://www.fixmystreet.com/report/8712623)
-- Large pothole near junction…, 18th January :- [8712581](https://www.fixmystreet.com/report/8712581)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 18 January 2026
 
-- The average temperature today is 6.87˚C,
-- With highs of 7.51˚C and lows of 6.49˚C,
-- It may feel like 6.87˚C with mist
-- The wind speed is 1.03m/s and visibility is 4000m
-- The pressure is 1016hPa and humidity is 95%
+- The average temperature today is 7.45˚C,
+- With highs of 8.07˚C and lows of 6.27˚C,
+- It may feel like 6.69˚C with mist
+- The wind speed is 1.54m/s and visibility is 3000m
+- The pressure is 1015hPa and humidity is 95%
 - The sun will rise at 08:06 and set at 16:30
 
 <!-- weather_marker ends -->

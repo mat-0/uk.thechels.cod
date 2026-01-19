@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Sunday, 18 January 2026
+## On Monday, 19 January 2026
 
-- The average temperature today is 7.12˚C,
-- With highs of 8.32˚C and lows of 6.49˚C,
-- It may feel like 7.12˚C with light rain
-- The wind speed is 0.45m/s and visibility is 3540m
-- The pressure is 1013hPa and humidity is 96%
-- The sun will rise at 08:06 and set at 16:30
+- The average temperature today is 6.35˚C,
+- With highs of 7.69˚C and lows of 5.93˚C,
+- It may feel like 6.35˚C with overcast clouds
+- The wind speed is 0.89m/s and visibility is 10000m
+- The pressure is 1013hPa and humidity is 98%
+- The sun will rise at 08:05 and set at 16:32
 
 <!-- weather_marker ends -->
 

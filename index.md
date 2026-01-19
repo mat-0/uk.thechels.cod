@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 19 January 2026
 
-- The average temperature today is 8.16˚C,
-- With highs of 9.36˚C and lows of 7.61˚C,
-- It may feel like 6.25˚C with fog
-- The wind speed is 3.09m/s and visibility is 5000m
-- The pressure is 1011hPa and humidity is 98%
+- The average temperature today is 9.03˚C,
+- With highs of 9.73˚C and lows of 7.75˚C,
+- It may feel like 7.87˚C with fog
+- The wind speed is 2.24m/s and visibility is 8000m
+- The pressure is 1011hPa and humidity is 96%
 - The sun will rise at 08:05 and set at 16:32
 
 <!-- weather_marker ends -->

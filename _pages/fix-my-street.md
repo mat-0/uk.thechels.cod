@@ -9,6 +9,17 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Rubbish, 19th January :- [8724289](https://www.fixmystreet.com/report/8724289)
+- Pedestrian lights constantly active, 19th January :- [8724095](https://www.fixmystreet.com/report/8724095)
+- Large pothole, killed tire immediately!, 19th January :- [8724029](https://www.fixmystreet.com/report/8724029)
+- Several potholes recently filled have reopened, 19th January :- [8723864](https://www.fixmystreet.com/report/8723864)
+- Dangerous pothole, 19th January :- [8723786](https://www.fixmystreet.com/report/8723786)
+- Large pothole on side of road., 19th January :- [8723685](https://www.fixmystreet.com/report/8723685)
+- 5/6 potholes as you turn off the A435 on to Gotherington Fields, 19th January :- [8723624](https://www.fixmystreet.com/report/8723624)
+- Significant leaf drop all over paths, 19th January :- [8723586](https://www.fixmystreet.com/report/8723586)
+- Multiple potholes on left of road with timber place in yiur right, after Aldi on your right. A long stretch on left side and centre of the road. Atrocious, dangerous, diabolical etc. You can't drive safely in that direction towards Pilgrove Way. The current multiple puddles show how many potholes are on this road. I tried ringing the emergency number, but no answer. The whole stretch of the road needs resurfacing, so that it lasts!!, 19th January :- [8723572](https://www.fixmystreet.com/report/8723572)
+- Collapsed footpath around manhole, 19th January :- [8723560](https://www.fixmystreet.com/report/8723560)
+- On the corner as you go round, 19th January :- [8723364](https://www.fixmystreet.com/report/8723364)
 - Two mead road down to about numbers 6 several deep pot holes, 19th January :- [8723332](https://www.fixmystreet.com/report/8723332)
 - Significant pothole, 19th January :- [8723301](https://www.fixmystreet.com/report/8723301)
 - Pothole on corner of vineyards, 19th January :- [8723293](https://www.fixmystreet.com/report/8723293)
@@ -18,16 +29,5 @@ permalink: /fix-my-street
 - Flytipping, 19th January :- [8722833](https://www.fixmystreet.com/report/8722833)
 - Direction signs for Tewkesbury and Cheltenham are missing following RTA, 19th January :- [8722814](https://www.fixmystreet.com/report/8722814)
 - 2 streetlights out, 19th January :- [8722626](https://www.fixmystreet.com/report/8722626)
-- 30-40 cm in diameter, 4cm deep, 19th January :- [8722571](https://www.fixmystreet.com/report/8722571)
-- On bend, 19th January :- [8722397](https://www.fixmystreet.com/report/8722397)
-- On bend, 19th January :- [8722396](https://www.fixmystreet.com/report/8722396)
-- A few in the same area, 19th January :- [8722384](https://www.fixmystreet.com/report/8722384)
-- A pothole in road problem, 19th January :- [8722616](https://www.fixmystreet.com/report/8722616)
-- Deep pothole previously repaired opposite St George’s church hall on court road, 19th January :- [8722051](https://www.fixmystreet.com/report/8722051)
-- Deep pothole previously repaired opposite St George’s church hall on court road, 19th January :- [8722050](https://www.fixmystreet.com/report/8722050)
-- Large deep pothole outside 61 court road, 19th January :- [8722026](https://www.fixmystreet.com/report/8722026)
-- A pothole in road problem, 19th January :- [8722613](https://www.fixmystreet.com/report/8722613)
-- Cycle Lane full of debris, rubbish and leaves, 19th January :- [8721681](https://www.fixmystreet.com/report/8721681)
-- This picture taken less than a week after my previous report and the supposed repair you informed me about.Please also see my response on the GCC SATISFACTION LINK, 19th January :- [8721608](https://www.fixmystreet.com/report/8721608)
 
 <!-- fix_marker ends -->

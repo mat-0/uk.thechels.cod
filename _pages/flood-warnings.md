@@ -70,13 +70,6 @@ If you have been evacuated only return to your property once the emergency servi
 - Flood alert: River Leadon catchment
 - River levels are rising and flooding will continue today 20 January 2026. Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 21 January 2026 or as the situation changes.
 
-- Warning no longer in force: River Avon in Worcestershire
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today, especially in areas between Northmoor and Eynsham. Isolated showers are expected today (19/01/26), with bands of rains expected tonight and tomorrow evening. River levels are expected to remain high over the coming days. 
 

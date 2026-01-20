@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive pot hole, 20th January :- [8724472](https://www.fixmystreet.com/report/8724472)
+- This pot hole is massive and deep (probaly close to 5 inches deep). Photos included with deicer for scale., 19th January :- [8724431](https://www.fixmystreet.com/report/8724431)
 - Rubbish, 19th January :- [8724289](https://www.fixmystreet.com/report/8724289)
 - Pedestrian lights constantly active, 19th January :- [8724095](https://www.fixmystreet.com/report/8724095)
 - Large pothole, killed tire immediately!, 19th January :- [8724029](https://www.fixmystreet.com/report/8724029)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - 20cm wide pothole in road outside 13&14 Pine Bank, Bishops Cleeve., 19th January :- [8722959](https://www.fixmystreet.com/report/8722959)
 - Flytipping in Pittville Park, 19th January :- [8722868](https://www.fixmystreet.com/report/8722868)
 - Flytipping, 19th January :- [8722833](https://www.fixmystreet.com/report/8722833)
-- Direction signs for Tewkesbury and Cheltenham are missing following RTA, 19th January :- [8722814](https://www.fixmystreet.com/report/8722814)
-- 2 streetlights out, 19th January :- [8722626](https://www.fixmystreet.com/report/8722626)
 
 <!-- fix_marker ends -->

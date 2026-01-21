@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 21 January 2026
 
-- The average temperature today is 7.95˚C,
-- With highs of 8.3˚C and lows of 6.83˚C,
-- It may feel like 3.43˚C with light intensity drizzle
-- The wind speed is 10.29m/s and visibility is 7000m
-- The pressure is 985hPa and humidity is 94%
+- The average temperature today is 9.98˚C,
+- With highs of 10.75˚C and lows of 9.36˚C,
+- It may feel like 6.86˚C with drizzle
+- The wind speed is 7.2m/s and visibility is 5000m
+- The pressure is 984hPa and humidity is 92%
 - The sun will rise at 08:03 and set at 16:35
 
 <!-- weather_marker ends -->

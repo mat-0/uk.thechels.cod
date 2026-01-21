@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding highway culvert on footpath, 21st January :- [8739279](https://www.fixmystreet.com/report/8739279)
+- Impossible to avoid huge pothole in carriagway on bridge, 21st January :- [8739146](https://www.fixmystreet.com/report/8739146)
+- Length of cycle path down B4063 very muddy, 21st January :- [8739038](https://www.fixmystreet.com/report/8739038)
+- Large depp pothole, 21st January :- [8739016](https://www.fixmystreet.com/report/8739016)
+- Large pothole and damage on Lansdown Road, near jct with Lansdown Parade, 21st January :- [8738944](https://www.fixmystreet.com/report/8738944)
+- Pothole and failing repairs, Hewlett Road beside school, 21st January :- [8738926](https://www.fixmystreet.com/report/8738926)
+- Water flowing out of cottage verge causing significant water to flow onto road causing dangerous conditions., 21st January :- [8738892](https://www.fixmystreet.com/report/8738892)
+- Large pothole in Bethesda St., 21st January :- [8738829](https://www.fixmystreet.com/report/8738829)
+- Floodwater at pedestrian crossing, 21st January :- [8738803](https://www.fixmystreet.com/report/8738803)
 - Flooding/ Poor road surface, 21st January :- [8738598](https://www.fixmystreet.com/report/8738598)
 - A pothole in road problem, 21st January :- [8738525](https://www.fixmystreet.com/report/8738525)
 - Multiple pothole on Mill Lane and Vicarage lane junction, 21st January :- [8738288](https://www.fixmystreet.com/report/8738288)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Large pothole on 70mph road not visible in the dark. Still not fixed, 21st January :- [8737909](https://www.fixmystreet.com/report/8737909)
 - New pot hole , big bang from wheel no street lighting, 21st January :- [8737903](https://www.fixmystreet.com/report/8737903)
 - This is a verey dangerous stretch of potholes, especially if you dont know the road. there will be an accident before long. get it sorted asap, 21st January :- [8737847](https://www.fixmystreet.com/report/8737847)
-- Rubbish, 21st January :- [8737810](https://www.fixmystreet.com/report/8737810)
-- Huge pothole has opened up again. Over 10 people have burst tyres now including hotel guests, staff and village locals. You cannot dodge it as the road is too narrow, and now I myself have burst a tyre today. The water runs over the road when raining and hides the large patch of badly repaired holes so impossible to see and avoid. It’s close to being an emergency now and cannot emphasise enough how bad it has gotten in the last two weeks. Maybe someone needs to drive down there to drive through the hole to see for themselves how bad it is. With the other back roads to cowley being closed for various reasons, this is the only access road to the village. The road is surprisingly busy and needs attention., 21st January :- [8737713](https://www.fixmystreet.com/report/8737713)
-- Large pot holes appearing, 21st January :- [8737625](https://www.fixmystreet.com/report/8737625)
-- Deep pothole westbound from Bishops Cleeve on Finlay Way between Willow Park Drive & The withers, 21st January :- [8737548](https://www.fixmystreet.com/report/8737548)
-- Large area of pot holes, 21st January :- [8737513](https://www.fixmystreet.com/report/8737513)
-- Ref 22097461 TWO holes near the lampost and the grassed area, 21st January :- [8737045](https://www.fixmystreet.com/report/8737045)
-- Tree at an odd angle, 21st January :- [8737031](https://www.fixmystreet.com/report/8737031)
-- Ref 22097461 on the south side of the road as one goes round the corner, 21st January :- [8737024](https://www.fixmystreet.com/report/8737024)
-- A pothole in road problem, 21st January :- [8737232](https://www.fixmystreet.com/report/8737232)
 
 <!-- fix_marker ends -->

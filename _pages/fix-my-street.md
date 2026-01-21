@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Flooding/ Poor road surface, 21st January :- [8738598](https://www.fixmystreet.com/report/8738598)
+- A pothole in road problem, 21st January :- [8738525](https://www.fixmystreet.com/report/8738525)
+- Multiple pothole on Mill Lane and Vicarage lane junction, 21st January :- [8738288](https://www.fixmystreet.com/report/8738288)
+- Huge pothole over the railway bridge, which caused my tire to punchure, 21st January :- [8738286](https://www.fixmystreet.com/report/8738286)
 - Many deep potholes getter worse, 21st January :- [8738168](https://www.fixmystreet.com/report/8738168)
 - Potholes and broken road surface, 21st January :- [8738138](https://www.fixmystreet.com/report/8738138)
 - Large dangerous deep pothole within section of traffic lights, 21st January :- [8738091](https://www.fixmystreet.com/report/8738091)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Tree at an odd angle, 21st January :- [8737031](https://www.fixmystreet.com/report/8737031)
 - Ref 22097461 on the south side of the road as one goes round the corner, 21st January :- [8737024](https://www.fixmystreet.com/report/8737024)
 - A pothole in road problem, 21st January :- [8737232](https://www.fixmystreet.com/report/8737232)
-- A pothole in road problem, 21st January :- [8736998](https://www.fixmystreet.com/report/8736998)
-- TMC - Defects - Other problem, 21st January :- [8737234](https://www.fixmystreet.com/report/8737234)
-- TMC - Defects - Other problem, 21st January :- [8737001](https://www.fixmystreet.com/report/8737001)
-- TMC - Defects - Other problem, 21st January :- [8737000](https://www.fixmystreet.com/report/8737000)
 
 <!-- fix_marker ends -->

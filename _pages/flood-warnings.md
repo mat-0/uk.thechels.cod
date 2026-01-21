@@ -57,6 +57,14 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
 
+- Flood alert: Tributaries on the Upper River Thames above Cricklade
+- High river levels overnight may lead to flooding. 
+Flooding is possible from the early hours of 22 January 2026 . 
+Flooding of low lying land and roads is expected, especially close to the Swill Brook in the Oaksey area. Further rainfall is forecast tomorrow morning. We expect river levels to remain high over the next few days. 
+We are monitoring rainfall and river levels . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 12:00PM on 22 January 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels are falling slowly but may rise again following forecast rainfall later today 21 January 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on 22 January 2026 or as the situation changes.
 
@@ -69,6 +77,15 @@ This message will be updated by 12:00 pm on 22 January 2026 or as the situation 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
 This message will be updated by 12:00 pm on 22 January 2026 or as the situation changes.
+
+- Flood alert: Severn estuary from Gloucester to Sharpness
+- High tides today may lead to flooding. 
+Flooding is possible from 11pm on 21/01/2026 to 1am 22/01/2026 and from 11am to 1pm on 22/01/2026 
+Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.6m on 21/01 11:30pm and 3.4m to 3.7m on 22/01 11:30am. we are not currently expecting flooding at other gauge locations. 
+We are closely monitoring the situation . 
+Avoid coastal roads and low lying roads near rivers, which may be flooded . 
+This message will be updated by 2:00PM on 22 January 2026 or as the situation changes.
+
 
 - Warning no longer in force: Rivers in the Forest of Dean
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

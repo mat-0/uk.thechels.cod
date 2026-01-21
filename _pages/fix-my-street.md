@@ -9,6 +9,16 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Many deep potholes getter worse, 21st January :- [8738168](https://www.fixmystreet.com/report/8738168)
+- Potholes and broken road surface, 21st January :- [8738138](https://www.fixmystreet.com/report/8738138)
+- Large dangerous deep pothole within section of traffic lights, 21st January :- [8738091](https://www.fixmystreet.com/report/8738091)
+- A pothole in road problem, 21st January :- [8738183](https://www.fixmystreet.com/report/8738183)
+- Large pothole on 70mph road not visible in the dark. Still not fixed, 21st January :- [8737909](https://www.fixmystreet.com/report/8737909)
+- New pot hole , big bang from wheel no street lighting, 21st January :- [8737903](https://www.fixmystreet.com/report/8737903)
+- This is a verey dangerous stretch of potholes, especially if you dont know the road. there will be an accident before long. get it sorted asap, 21st January :- [8737847](https://www.fixmystreet.com/report/8737847)
+- Rubbish, 21st January :- [8737810](https://www.fixmystreet.com/report/8737810)
+- Huge pothole has opened up again. Over 10 people have burst tyres now including hotel guests, staff and village locals. You cannot dodge it as the road is too narrow, and now I myself have burst a tyre today. The water runs over the road when raining and hides the large patch of badly repaired holes so impossible to see and avoid. It’s close to being an emergency now and cannot emphasise enough how bad it has gotten in the last two weeks. Maybe someone needs to drive down there to drive through the hole to see for themselves how bad it is. With the other back roads to cowley being closed for various reasons, this is the only access road to the village. The road is surprisingly busy and needs attention., 21st January :- [8737713](https://www.fixmystreet.com/report/8737713)
+- Large pot holes appearing, 21st January :- [8737625](https://www.fixmystreet.com/report/8737625)
 - Deep pothole westbound from Bishops Cleeve on Finlay Way between Willow Park Drive & The withers, 21st January :- [8737548](https://www.fixmystreet.com/report/8737548)
 - Large area of pot holes, 21st January :- [8737513](https://www.fixmystreet.com/report/8737513)
 - Ref 22097461 TWO holes near the lampost and the grassed area, 21st January :- [8737045](https://www.fixmystreet.com/report/8737045)
@@ -19,15 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects - Other problem, 21st January :- [8737234](https://www.fixmystreet.com/report/8737234)
 - TMC - Defects - Other problem, 21st January :- [8737001](https://www.fixmystreet.com/report/8737001)
 - TMC - Defects - Other problem, 21st January :- [8737000](https://www.fixmystreet.com/report/8737000)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736761](https://www.fixmystreet.com/report/8736761)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736759](https://www.fixmystreet.com/report/8736759)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736758](https://www.fixmystreet.com/report/8736758)
-- 20 inch new pothole has appeared today, 21st January :- [8736375](https://www.fixmystreet.com/report/8736375)
-- A pothole in road problem, 21st January :- [8736467](https://www.fixmystreet.com/report/8736467)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736475](https://www.fixmystreet.com/report/8736475)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736476](https://www.fixmystreet.com/report/8736476)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736477](https://www.fixmystreet.com/report/8736477)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736478](https://www.fixmystreet.com/report/8736478)
-- TMC - Defects -CW6 Potholes  problem, 21st January :- [8736479](https://www.fixmystreet.com/report/8736479)
 
 <!-- fix_marker ends -->

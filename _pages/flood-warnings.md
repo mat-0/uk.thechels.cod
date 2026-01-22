@@ -67,7 +67,12 @@ Avoid low lying roads near rivers, which may be flooded.
 This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels are rising slowly due to persistent rainfall. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded. This message will be updated by 7:00PM on 22 January 2026 or as the situation changes.
+- High river levels today may lead to flooding. 
+Flooding is possible on 22 January 2026 . 
+River levels are rising slowly due to persistent rainfall. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Predicted peaks:- Mythe 3.3m to 3.7m on 24 01 AM. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses Avoid low lying roads near rivers, which may be flooded 
+This message will be updated by 10:00AM on 23 January 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
 - River levels remain high today 22 January 2026. Locations most affected will be low lying land and roads near rivers. Further rain is forecast today 22 January 2026. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 23 January 2026 or as the situation changes

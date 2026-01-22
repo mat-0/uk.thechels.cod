@@ -87,12 +87,5 @@ Avoid coastal roads and low lying roads near rivers, which may be flooded . 
 This message will be updated by 2:00PM on 22 January 2026 or as the situation changes.
 
 
-- Warning no longer in force: Rivers in the Forest of Dean
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Stay away from floodwater - it contains hidden dangers such as open manhole covers, sewage and chemicals.   
-
-
 
 <!-- flood_marker ends -->

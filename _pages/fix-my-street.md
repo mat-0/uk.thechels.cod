@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Gl501nw, 22nd January :- [8747783](https://www.fixmystreet.com/report/8747783)
+- Large pothole on the raised speed cushions, 22nd January :- [8747779](https://www.fixmystreet.com/report/8747779)
+- Front of the Cheltenham Borough council, 22nd January :- [8747766](https://www.fixmystreet.com/report/8747766)
+- At least 30cm x 30cm, 22nd January :- [8747708](https://www.fixmystreet.com/report/8747708)
+- Dangerous large potholes, 22nd January :- [8747672](https://www.fixmystreet.com/report/8747672)
+- Numerous DEEP BUG potholes, 22nd January :- [8747642](https://www.fixmystreet.com/report/8747642)
+- Road looks neglected, as if the Council spent the entire maintenance budget building a cycle path that nobody will use...oh wait..., 22nd January :- [8747531](https://www.fixmystreet.com/report/8747531)
+- Pair of potholes, one larger than the other., 22nd January :- [8747477](https://www.fixmystreet.com/report/8747477)
 - Street light is not working, 22nd January :- [8747258](https://www.fixmystreet.com/report/8747258)
 - Deep pot hole, the whole road is a mess and should be sorted out rather than waiting for people to raise a problem., 22nd January :- [8747250](https://www.fixmystreet.com/report/8747250)
 - Large pothole - very deep and unavoidable, 22nd January :- [8747240](https://www.fixmystreet.com/report/8747240)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - 2 blocked drains causing local flooding, 22nd January :- [8746691](https://www.fixmystreet.com/report/8746691)
 - Water bubbling through road, 22nd January :- [8746635](https://www.fixmystreet.com/report/8746635)
 - No photo, 22nd January :- [8746624](https://www.fixmystreet.com/report/8746624)
-- Multiple large potholes along road, 22nd January :- [8746615](https://www.fixmystreet.com/report/8746615)
-- Persistent puddle blocking pavement, having to walk in road to avoid, 22nd January :- [8746603](https://www.fixmystreet.com/report/8746603)
-- Road cracking damaged surface, 22nd January :- [8746589](https://www.fixmystreet.com/report/8746589)
-- Bollards damaged, 22nd January :- [8746568](https://www.fixmystreet.com/report/8746568)
-- Series of large potholes along Linden Avenue, 22nd January :- [8746555](https://www.fixmystreet.com/report/8746555)
-- Metal drain cover exposed and road damaged around it, 22nd January :- [8746460](https://www.fixmystreet.com/report/8746460)
-- Mini in road, 22nd January :- [8746390](https://www.fixmystreet.com/report/8746390)
-- Pothole on junction of The Grove and Hales Road (failed repair), 22nd January :- [8746373](https://www.fixmystreet.com/report/8746373)
 
 <!-- fix_marker ends -->

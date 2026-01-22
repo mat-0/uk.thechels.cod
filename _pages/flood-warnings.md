@@ -72,6 +72,14 @@ This message will be updated by 12:00 pm on 23 January 2026 or as the situation 
 - Flood alert: River Leadon catchment
 - River levels remain high today 22 January 2026. Locations most affected will be low lying land and roads near rivers. Further rain is forecast today 22 January 2026. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 23 January 2026 or as the situation changes
 
+- Flood alert: River Avon in Worcestershire
+- High river levels today may lead to flooding. 
+Flooding is possible on 22 January 2026 . 
+Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks: Bredon 2.0m to 2.4m on Saturday 24/01 AM 
+We are monitoring rainfall and river levels . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 23 January 2026 or as the situation changes.
+
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - River levels remain high on the River Thames. Therefore flooding of low lying land and roads remains possible today near the river.  Further bands of rain are expected today (22.01.26) and tomorrow.  River levels are expected to increase over the coming days. 
 
@@ -80,13 +88,7 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 pm on 23 January 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
-- High tides today may lead to flooding. 
-Flooding is possible from 11pm on 21/01/2026 to 1am 22/01/2026 and from 11am to 1pm on 22/01/2026 
-Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.6m on 21/01 11:30pm and 3.4m to 3.7m on 22/01 11:30am. we are not currently expecting flooding at other gauge locations. 
-We are closely monitoring the situation . 
-Avoid coastal roads and low lying roads near rivers, which may be flooded . 
-This message will be updated by 2:00PM on 22 January 2026 or as the situation changes.
-
+- High tides today may lead to flooding. Flooding is possible from 12am to 2am 23/01/2026 and from 12pm to 2pm on 23/01/2026.  Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next few days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.3m to 3.6m at 00:15am 23/01 and 3.3m to 3.6m at 12:30pm 23/01. We are not currently expecting flooding at other gauge locations. We are closely monitoring the situation. Avoid coastal roads and low lying roads near rivers, which may be flooded. This message will be updated by 2:00PM on 23 January 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

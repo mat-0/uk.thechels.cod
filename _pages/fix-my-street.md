@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive pothole, 22nd January :- [8747883](https://www.fixmystreet.com/report/8747883)
+- Drain is raised above newly resurfaced road so water pools along the entire side of road, 22nd January :- [8747882](https://www.fixmystreet.com/report/8747882)
 - Gl501nw, 22nd January :- [8747783](https://www.fixmystreet.com/report/8747783)
 - Large pothole on the raised speed cushions, 22nd January :- [8747779](https://www.fixmystreet.com/report/8747779)
 - Front of the Cheltenham Borough council, 22nd January :- [8747766](https://www.fixmystreet.com/report/8747766)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole Eastbound, 22nd January :- [8746896](https://www.fixmystreet.com/report/8746896)
 - Eastbound Lane One, 22nd January :- [8746879](https://www.fixmystreet.com/report/8746879)
 - 2 blocked drains causing local flooding, 22nd January :- [8746691](https://www.fixmystreet.com/report/8746691)
-- Water bubbling through road, 22nd January :- [8746635](https://www.fixmystreet.com/report/8746635)
-- No photo, 22nd January :- [8746624](https://www.fixmystreet.com/report/8746624)
 
 <!-- fix_marker ends -->

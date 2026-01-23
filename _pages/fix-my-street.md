@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Extensive damage to road surface, 23rd January :- [8755425](https://www.fixmystreet.com/report/8755425)
+- Lots of deep pot holes. Can’t even drive round them. Very dangerous, 23rd January :- [8755396](https://www.fixmystreet.com/report/8755396)
+- Growing pothole, 23rd January :- [8755258](https://www.fixmystreet.com/report/8755258)
+- Large pothole, 23rd January :- [8755253](https://www.fixmystreet.com/report/8755253)
 - Street light completely out meaning that area is in complete darkness, 23rd January :- [8755101](https://www.fixmystreet.com/report/8755101)
 - Series of potholes & damage to road, 23rd January :- [8755086](https://www.fixmystreet.com/report/8755086)
 - Series of potholes, 23rd January :- [8755078](https://www.fixmystreet.com/report/8755078)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Pothole, 23rd January :- [8753859](https://www.fixmystreet.com/report/8753859)
 - Multiple deep potholes, 23rd January :- [8753835](https://www.fixmystreet.com/report/8753835)
 - Very deep pothole, 23rd January :- [8753828](https://www.fixmystreet.com/report/8753828)
-- Pothole like a crater!, 23rd January :- [8753820](https://www.fixmystreet.com/report/8753820)
-- There are several pot holes between House on the Green and Brook Cottage which are extremely dangerous to the elderly, 23rd January :- [8753783](https://www.fixmystreet.com/report/8753783)
-- Blocked drain, 23rd January :- [8753618](https://www.fixmystreet.com/report/8753618)
-- Pot hole in road, 23rd January :- [8753543](https://www.fixmystreet.com/report/8753543)
 
 <!-- fix_marker ends -->

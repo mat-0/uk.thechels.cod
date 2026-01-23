@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Massive new pothole, 23rd January :- [8748063](https://www.fixmystreet.com/report/8748063)
+- Fly tipping, 23rd January :- [8748057](https://www.fixmystreet.com/report/8748057)
+- Fly tipping, 23rd January :- [8748053](https://www.fixmystreet.com/report/8748053)
 - Massive pothole, 22nd January :- [8747883](https://www.fixmystreet.com/report/8747883)
 - Drain is raised above newly resurfaced road so water pools along the entire side of road, 22nd January :- [8747882](https://www.fixmystreet.com/report/8747882)
 - Gl501nw, 22nd January :- [8747783](https://www.fixmystreet.com/report/8747783)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Mini clubman left on the main road for at least 5 days by aldi, 22nd January :- [8747121](https://www.fixmystreet.com/report/8747121)
 - Mini clubman left on the main road for at least 5 days by aldi, 22nd January :- [8747120](https://www.fixmystreet.com/report/8747120)
 - Street light not working, 22nd January :- [8746918](https://www.fixmystreet.com/report/8746918)
-- Pothole Eastbound, 22nd January :- [8746896](https://www.fixmystreet.com/report/8746896)
-- Eastbound Lane One, 22nd January :- [8746879](https://www.fixmystreet.com/report/8746879)
-- 2 blocked drains causing local flooding, 22nd January :- [8746691](https://www.fixmystreet.com/report/8746691)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Sign is faded 117982, 24th January :- [8755684](https://www.fixmystreet.com/report/8755684)
 - The box junction markings are worn, 24th January :- [8755634](https://www.fixmystreet.com/report/8755634)
 - Dangerous pothole on newly surfaced road, 23rd January :- [8755589](https://www.fixmystreet.com/report/8755589)
 - Extensive damage to road surface, 23rd January :- [8755425](https://www.fixmystreet.com/report/8755425)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole nearly as deep as a duck pond outside near25 Hearne road, 23rd January :- [8754034](https://www.fixmystreet.com/report/8754034)
 - New road surface has failed, huge potholes, 23rd January :- [8753949](https://www.fixmystreet.com/report/8753949)
 - Flytipped waste, 23rd January :- [8753905](https://www.fixmystreet.com/report/8753905)
-- Pothole, 23rd January :- [8753859](https://www.fixmystreet.com/report/8753859)
 
 <!-- fix_marker ends -->

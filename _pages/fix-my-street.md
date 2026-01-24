@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- The box junction markings are worn, 24th January :- [8755634](https://www.fixmystreet.com/report/8755634)
+- Dangerous pothole on newly surfaced road, 23rd January :- [8755589](https://www.fixmystreet.com/report/8755589)
 - Extensive damage to road surface, 23rd January :- [8755425](https://www.fixmystreet.com/report/8755425)
 - Lots of deep pot holes. Can’t even drive round them. Very dangerous, 23rd January :- [8755396](https://www.fixmystreet.com/report/8755396)
 - Growing pothole, 23rd January :- [8755258](https://www.fixmystreet.com/report/8755258)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - New road surface has failed, huge potholes, 23rd January :- [8753949](https://www.fixmystreet.com/report/8753949)
 - Flytipped waste, 23rd January :- [8753905](https://www.fixmystreet.com/report/8753905)
 - Pothole, 23rd January :- [8753859](https://www.fixmystreet.com/report/8753859)
-- Multiple deep potholes, 23rd January :- [8753835](https://www.fixmystreet.com/report/8753835)
-- Very deep pothole, 23rd January :- [8753828](https://www.fixmystreet.com/report/8753828)
 
 <!-- fix_marker ends -->

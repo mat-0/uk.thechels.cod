@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes in the road, 24th January :- [8755924](https://www.fixmystreet.com/report/8755924)
+- Multiple pot holes, 24th January :- [8755838](https://www.fixmystreet.com/report/8755838)
 - Sign is faded 117982, 24th January :- [8755684](https://www.fixmystreet.com/report/8755684)
 - The box junction markings are worn, 24th January :- [8755634](https://www.fixmystreet.com/report/8755634)
 - Dangerous pothole on newly surfaced road, 23rd January :- [8755589](https://www.fixmystreet.com/report/8755589)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Cracked pavement, 23rd January :- [8754310](https://www.fixmystreet.com/report/8754310)
 - H marking not redone by contractor, 23rd January :- [8754106](https://www.fixmystreet.com/report/8754106)
 - Pothole nearly as deep as a duck pond outside near25 Hearne road, 23rd January :- [8754034](https://www.fixmystreet.com/report/8754034)
-- New road surface has failed, huge potholes, 23rd January :- [8753949](https://www.fixmystreet.com/report/8753949)
-- Flytipped waste, 23rd January :- [8753905](https://www.fixmystreet.com/report/8753905)
 
 <!-- fix_marker ends -->

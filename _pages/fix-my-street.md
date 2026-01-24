@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lots of potholes across the whole side if road as approaching the roundabout. Makes driving extremely dangerous, 24th January :- [8760534](https://www.fixmystreet.com/report/8760534)
+- Several Starting One there that Bottoms my rear suspention out, 24th January :- [8760250](https://www.fixmystreet.com/report/8760250)
 - Two Potholes one about 18"x16" and >4" deep, the other roughly round about 14" diameter and 3" deep., 24th January :- [8760240](https://www.fixmystreet.com/report/8760240)
 - Deep pothole, 24th January :- [8760148](https://www.fixmystreet.com/report/8760148)
 - Pothole by drain cover, 24th January :- [8759646](https://www.fixmystreet.com/report/8759646)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Deep, unavoidable, dangerous pot holes, 24th January :- [8756929](https://www.fixmystreet.com/report/8756929)
 - Traffic Cone left by Severn Trent, 24th January :- [8756783](https://www.fixmystreet.com/report/8756783)
 - Litter all the way along a40 Cheltenham direction, 24th January :- [8756617](https://www.fixmystreet.com/report/8756617)
-- Deep pothole in road, 24th January :- [8756600](https://www.fixmystreet.com/report/8756600)
-- 10” pothole drain grid on road, 24th January :- [8756556](https://www.fixmystreet.com/report/8756556)
 
 <!-- fix_marker ends -->

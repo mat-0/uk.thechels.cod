@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police hunt wanted man who escaped custody ([2 hours ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
-- Exhibition celebrates imagination of toy maker ([3 hours ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
-- 'Overwhelming' support as community centre reopens ([11 hours ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))
-- 'Unmanned helicopter' and 'knife tackle' ([11 hours ago](https://www.bbc.com/news/articles/cew88v82w51o?at_medium=RSS&at_campaign=rss))
+- Police hunt wanted man who escaped custody ([4 hours ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
+- Exhibition celebrates imagination of toy maker ([5 hours ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
+- 'Overwhelming' support as community centre reopens ([13 hours ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))
+- 'Unmanned helicopter' and 'knife tackle' ([13 hours ago](https://www.bbc.com/news/articles/cew88v82w51o?at_medium=RSS&at_campaign=rss))
 - Man who burgled homes told officers to 'prove it' ([1 days ago](https://www.bbc.com/news/articles/c0413py7pw0o?at_medium=RSS&at_campaign=rss))
 - Cabinet to recommend £697 million budget for Council to approve ([1 days ago](https://gloucesternewscentre.co.uk/cabinet-to-recommend-697-million-budget-for-council-to-approve/))
 - Calls of 'shame on you' as new towns edge closer ([1 days ago](https://www.bbc.com/news/articles/cjw11jll35go?at_medium=RSS&at_campaign=rss))

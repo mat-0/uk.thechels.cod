@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Two Potholes one about 18"x16" and >4" deep, the other roughly round about 14" diameter and 3" deep., 24th January :- [8760240](https://www.fixmystreet.com/report/8760240)
+- Deep pothole, 24th January :- [8760148](https://www.fixmystreet.com/report/8760148)
 - Pothole by drain cover, 24th January :- [8759646](https://www.fixmystreet.com/report/8759646)
 - Multiple potholes in one area , in middle of the road , at the Cromwell road junction, 24th January :- [8759630](https://www.fixmystreet.com/report/8759630)
 - Pothole on mini roundabout when turning off Greenhills Road and onto Moorend Road., 24th January :- [8759330](https://www.fixmystreet.com/report/8759330)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Litter all the way along a40 Cheltenham direction, 24th January :- [8756617](https://www.fixmystreet.com/report/8756617)
 - Deep pothole in road, 24th January :- [8756600](https://www.fixmystreet.com/report/8756600)
 - 10” pothole drain grid on road, 24th January :- [8756556](https://www.fixmystreet.com/report/8756556)
-- Barriers left on grass, 24th January :- [8756509](https://www.fixmystreet.com/report/8756509)
-- A lot of pot holes all over this road into the estate., 24th January :- [8756500](https://www.fixmystreet.com/report/8756500)
 
 <!-- fix_marker ends -->

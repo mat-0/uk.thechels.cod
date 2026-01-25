@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole on Green Street, 25th January :- [8760681](https://www.fixmystreet.com/report/8760681)
 - Lots of potholes across the whole side if road as approaching the roundabout. Makes driving extremely dangerous, 24th January :- [8760534](https://www.fixmystreet.com/report/8760534)
 - Several Starting One there that Bottoms my rear suspention out, 24th January :- [8760250](https://www.fixmystreet.com/report/8760250)
 - Two Potholes one about 18"x16" and >4" deep, the other roughly round about 14" diameter and 3" deep., 24th January :- [8760240](https://www.fixmystreet.com/report/8760240)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Cracks in tree branches, 24th January :- [8757086](https://www.fixmystreet.com/report/8757086)
 - Deep, unavoidable, dangerous pot holes, 24th January :- [8756929](https://www.fixmystreet.com/report/8756929)
 - Traffic Cone left by Severn Trent, 24th January :- [8756783](https://www.fixmystreet.com/report/8756783)
-- Litter all the way along a40 Cheltenham direction, 24th January :- [8756617](https://www.fixmystreet.com/report/8756617)
 
 <!-- fix_marker ends -->

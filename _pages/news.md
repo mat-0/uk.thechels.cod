@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Police hunt wanted man who escaped custody ([6 hours ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
-- Exhibition celebrates imagination of toy maker ([7 hours ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
-- 'Overwhelming' support as community centre reopens ([15 hours ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))
-- 'Unmanned helicopter' and 'knife tackle' ([15 hours ago](https://www.bbc.com/news/articles/cew88v82w51o?at_medium=RSS&at_campaign=rss))
+- Police hunt wanted man who escaped custody ([8 hours ago](https://www.bbc.com/news/articles/crkr8880z04o?at_medium=RSS&at_campaign=rss))
+- Exhibition celebrates imagination of toy maker ([10 hours ago](https://www.bbc.com/news/articles/cx2ldlp5lpro?at_medium=RSS&at_campaign=rss))
+- 'Overwhelming' support as community centre reopens ([18 hours ago](https://www.bbc.com/news/articles/cn566k4n4wyo?at_medium=RSS&at_campaign=rss))
+- 'Unmanned helicopter' and 'knife tackle' ([18 hours ago](https://www.bbc.com/news/articles/cew88v82w51o?at_medium=RSS&at_campaign=rss))
 - Man who burgled homes told officers to 'prove it' ([1 days ago](https://www.bbc.com/news/articles/c0413py7pw0o?at_medium=RSS&at_campaign=rss))
 - Cabinet to recommend £697 million budget for Council to approve ([1 days ago](https://gloucesternewscentre.co.uk/cabinet-to-recommend-697-million-budget-for-council-to-approve/))
 - Calls of 'shame on you' as new towns edge closer ([1 days ago](https://www.bbc.com/news/articles/cjw11jll35go?at_medium=RSS&at_campaign=rss))
@@ -52,8 +52,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Volunteers help residents get confident online ([16 days ago](https://www.bbc.co.uk/sounds/play/p0mst4pw?at_medium=RSS&at_campaign=rss))
 - Christmas Day climbing event raises nearly £4,000 for cancer charity ([18 days ago](https://gloucesternewscentre.co.uk/christmas-day-climbing-event-raises-nearly-4000-for-cancer-charity/))
 - Business manager of Cheltenham McDonald’s wins prestigious global accolade ([19 days ago](https://gloucesternewscentre.co.uk/business-manager-of-cheltenham-mcdonalds-wins-prestigious-global-accolade/))
-- The Big Cases ([23 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
-- The Big Cases ([23 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([24 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([24 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([25 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 
 <!-- news_marker ends -->

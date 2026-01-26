@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out, 26th January :- [8773954](https://www.fixmystreet.com/report/8773954)
+- Two manhole covers at centre of Hare & Hounds junction have sunk and sound like a firing gun when cars from both ways travel over them. Also left on the side barriers which have been forgotten. These were used when the traffic light was replaced., 26th January :- [8773927](https://www.fixmystreet.com/report/8773927)
+- Series of potholes both sides of lane leading to Foxcote, just beneath track crossing (to Cabin Farm) ,, 26th January :- [8773838](https://www.fixmystreet.com/report/8773838)
+- 15" x 12" x 5" pothole, 26th January :- [8773743](https://www.fixmystreet.com/report/8773743)
+- 15" x 10" x 5" deep, 26th January :- [8773613](https://www.fixmystreet.com/report/8773613)
+- Rather large pothole, 26th January :- [8773610](https://www.fixmystreet.com/report/8773610)
 - Potholes are located approximately 120 metres before the 'slippery road' warning sign on the left-hand verge, when travelling from Cheltenham to Oxford, just before the dual carriageway starts on A40 near Shipton Oliffe, 26th January :- [8773409](https://www.fixmystreet.com/report/8773409)
 - Street lights out, 26th January :- [8773381](https://www.fixmystreet.com/report/8773381)
 - Street lights out on orchard avenue, 26th January :- [8773281](https://www.fixmystreet.com/report/8773281)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Potholes still not fixed- hall rd, 26th January :- [8772085](https://www.fixmystreet.com/report/8772085)
 - This was “repaired” in November. We all assumed they would be coming back to complete the works but nobody did. It appears to be signed off now, so I am flagging it as a new report. It’s a complete mess., 26th January :- [8772052](https://www.fixmystreet.com/report/8772052)
 - Large pothole, 26th January :- [8772040](https://www.fixmystreet.com/report/8772040)
-- Pothole near Asda Garage, 26th January :- [8771938](https://www.fixmystreet.com/report/8771938)
-- No bus shelter, 26th January :- [8771929](https://www.fixmystreet.com/report/8771929)
-- Recycling litterpicking bag next to bin ref:- 0230 which is just by the Greyhound pub traffic lights at Longlevens., 26th January :- [8771906](https://www.fixmystreet.com/report/8771906)
-- A pothole in road problem, 26th January :- [8772169](https://www.fixmystreet.com/report/8772169)
-- This is a pothole that has been filled previously and now back again in less than 3 months., 26th January :- [8771878](https://www.fixmystreet.com/report/8771878)
-- Right in the middle of the road. Wide and deep pothole., 26th January :- [8771857](https://www.fixmystreet.com/report/8771857)
 
 <!-- fix_marker ends -->

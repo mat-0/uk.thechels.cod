@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels are stable at the Fosseway and Great Somerford gauges. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast Monday and Tuesday. River levels are expected to rise further in response to this rain. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 26 January 2026 or as the situation changes.
+- River levels are due to rise at the Fosseway and Great Somerford gauges, with flood warnings possible Tuesday morning. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast Monday afternoon and into Tuesday. River levels are expected to rise further in response to this rain. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - River levels are high on parts of the River Churn. Therefore flooding of low lying land and roads remains possible today, especially near Cerney Wick.  Monday morning (26.01.26) and afternoon are expected to be mainly dry, but with rain from the early evening through to late morning or afternoon on Tuesday. Levels are likely to respond to this persistent rainfall and rise over the coming days
@@ -64,8 +64,48 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 27 January 2026 or as the situation changes.
 
+- Flood alert: Tributaries in Gloucester
+- Forecast high river levels today may lead to flooding. 
+Flooding is possible from overnight on 26 January 2026 . 
+River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Flooding may affect  low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
+
+- Flood alert: River Stour in South Warwickshire
+- Forecast high river levels tomorrow morning may lead to flooding. 
+Flooding is possible on 27 January 2026 . 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 27 January 2026 or as the situation changes.
+
+- Flood alert: Rivers in South Worcestershire
+- Forecast rising river levels today may lead to flooding. 
+Flooding is possible from overnight on 26 January 2026  
+River levels are forecast to rise tonight and throughout  tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
+
+- Flood alert: Tributaries in Cheltenham and Tewkesbury
+- Forecast high river levels today may lead to flooding. 
+Flooding is possible from overnight on 26 January 2026 . 
+River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high but steady today 26 January 2026 which may lead to flooding. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. Heavy rain is forecast over the next 24 hours which may lead to river levels rising further overnight and into tomorrow. We are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on Tuesday 27 January 2026 or as the situation changes
+
+- Flood alert: River Leadon catchment
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 26 January 2026 . 
+Flooding may affect low lying land and roads adjacent to the River Leadon. River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high but steady today 26 January 2026 which may lead to flooding. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Heavy rain is forecast over the next 24 hours which may lead to river levels rising further overnight and into tomorrow. We are closely monitoring the situation. Avoid low lying roads near rivers, which may be flooded. This message will be updated by 10:00AM on Tuesday 27 January 2026 or as the situation changes.
@@ -89,6 +129,14 @@ Ross on Wye 3.45m 26/01 AM,
 We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water. 
 
 This message will be updated by 10:00AM on 27th January 2026 or as the situation changes.
+
+- Flood alert: Rivers in the Forest of Dean
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 26 January 2026 . 
+River levels are forecast to rise tonight and throughout tomorrow as a result of forecast persistent heavy rain over the next 24 hours. Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 10:00AM on 27 January 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - River levels today are high but steady. Flooding is possible on 26th January 2026. Heavy rainfall is forecast over the next 24 hours which will likely lead to further river rises overnight into tomorrow.

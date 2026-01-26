@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 26 January 2026
 
-- The average temperature today is 6.08˚C,
-- With highs of 6.4˚C and lows of 5.16˚C,
-- It may feel like 3.43˚C with overcast clouds
-- The wind speed is 3.58m/s and visibility is 10000m
-- The pressure is 994hPa and humidity is 89%
+- The average temperature today is 5.54˚C,
+- With highs of 6.08˚C and lows of 5.16˚C,
+- It may feel like 2.27˚C with moderate rain
+- The wind speed is 4.47m/s and visibility is 9681m
+- The pressure is 991hPa and humidity is 94%
 - The sun will rise at 07:56 and set at 16:44
 
 <!-- weather_marker ends -->

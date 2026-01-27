@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 27 January 2026
 
-- The average temperature today is 6.65˚C,
-- With highs of 7.19˚C and lows of 6.27˚C,
-- It may feel like 3.06˚C with moderate rain
-- The wind speed is 5.81m/s and visibility is 10000m
-- The pressure is 980hPa and humidity is 94%
+- The average temperature today is 7.56˚C,
+- With highs of 7.76˚C and lows of 6.51˚C,
+- It may feel like 3.58˚C with moderate rain
+- The wind speed is 7.72m/s and visibility is 7000m
+- The pressure is 979hPa and humidity is 94%
 - The sun will rise at 07:55 and set at 16:46
 
 <!-- weather_marker ends -->

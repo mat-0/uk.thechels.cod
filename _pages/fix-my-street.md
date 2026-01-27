@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes along poorly laid linear utilities repair, 27th January :- [8774968](https://www.fixmystreet.com/report/8774968)
 - A pothole in road problem, 27th January :- [8774869](https://www.fixmystreet.com/report/8774869)
 - A pothole in road problem, 27th January :- [8774868](https://www.fixmystreet.com/report/8774868)
 - A pothole in road problem, 27th January :- [8774867](https://www.fixmystreet.com/report/8774867)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Street lights out on orchard avenue, 26th January :- [8773281](https://www.fixmystreet.com/report/8773281)
 - Potholes in crossroad, 26th January :- [8773089](https://www.fixmystreet.com/report/8773089)
 - Pothole outside 68a whaddon road on bus stop markings, 26th January :- [8773076](https://www.fixmystreet.com/report/8773076)
-- Multiple potholes on both rides of the road, 26th January :- [8773075](https://www.fixmystreet.com/report/8773075)
 
 <!-- fix_marker ends -->

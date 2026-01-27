@@ -148,6 +148,14 @@ We are closely monitoring the situation .
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
 
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- High river levels are expected to cause flooding today. 
+Flooding is expected on 27 January 2026 . 
+Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.7m to 4.0m on 28/01 PM, Upper Pound 3.7m to 4.0m on 28/01 PM. 
+We are closely monitoring the situation . 
+Avoid using low lying footpaths and any bridges near local watercourses . 
+This message will be updated by 10:00AM on 28 January 2026 or as the situation changes. 
+
 - Flood alert: Lower Bristol Avon area
 - Rising river levels this afternoon may lead to flooding. 
 Flooding is possible from the afternoon of 27 January 2026 . 

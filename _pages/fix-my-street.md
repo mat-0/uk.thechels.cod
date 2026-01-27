@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole oh the left side as you turn the corner towards London Road, 27th January :- [8782332](https://www.fixmystreet.com/report/8782332)
+- Large accumulation of potholes across the road, 27th January :- [8782244](https://www.fixmystreet.com/report/8782244)
+- Nasty deep pothole in front of bus stop, 27th January :- [8782135](https://www.fixmystreet.com/report/8782135)
+- Opposite 37 Clyde crescent street lights in area not working for the 3rd night, 27th January :- [8782076](https://www.fixmystreet.com/report/8782076)
+- Drain has been replaced, 27th January :- [8781980](https://www.fixmystreet.com/report/8781980)
+- Drain blocked and water flooding on to property, 27th January :- [8781917](https://www.fixmystreet.com/report/8781917)
 - Abandoned Caravan, 27th January :- [8781802](https://www.fixmystreet.com/report/8781802)
 - Deep pothole on Gotherington Lane., 27th January :- [8781653](https://www.fixmystreet.com/report/8781653)
 - Multiple potholes all un avoidable, 27th January :- [8781425](https://www.fixmystreet.com/report/8781425)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 27th January :- [8780432](https://www.fixmystreet.com/report/8780432)
 - A pothole in road problem, 27th January :- [8780431](https://www.fixmystreet.com/report/8780431)
 - TMC - Defects -CW6 Potholes  problem, 27th January :- [8780446](https://www.fixmystreet.com/report/8780446)
-- TMC - Defects -CW6 Potholes  problem, 27th January :- [8780445](https://www.fixmystreet.com/report/8780445)
-- Muliple pot holes, 27th January :- [8779976](https://www.fixmystreet.com/report/8779976)
-- Tree is damaged problem, 27th January :- [8780429](https://www.fixmystreet.com/report/8780429)
-- TMC - Defects -CW6 Potholes  problem, 27th January :- [8780438](https://www.fixmystreet.com/report/8780438)
-- TMC - Defects -CW6 Potholes  problem, 27th January :- [8780437](https://www.fixmystreet.com/report/8780437)
-- Incorrect Road Markings, 27th January :- [8779698](https://www.fixmystreet.com/report/8779698)
 
 <!-- fix_marker ends -->

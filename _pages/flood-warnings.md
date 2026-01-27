@@ -64,8 +64,12 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 pm on 28 January 2026 or as the situation changes.
 
-- Flood alert: Tributaries in Gloucester
-- Rising river levels today may lead to flooding. Flooding is possible today 27 January 2026. Flooding may affect low lying land and roads adjacent to Horsbere Brook, Wotton Brook, River Twyver, River Sud, Whaddon Brook, Daniels Brook & Dimore Brook. Locations that may be affected include Kemerton, Tewkesbury, Stoke Orchard, Uckington, Churchdown, Upton St Leonards, Cheltenham, Horsebere and Brookthorpe. The Horsbere flood storage area may be operating. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
+- Warning no longer in force: Tributaries in Gloucester
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Stour in South Warwickshire
 - High river levels today may lead to flooding. 
@@ -78,8 +82,12 @@ This message will be updated by 11:00AM on 28 January 2026 or as the situation c
 - Flood alert: Rivers in South Worcestershire
 - Rising river levels today may lead to flooding.  Flooding is possible today 27 January 2026. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge.  We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
 
-- Flood alert: Tributaries in Cheltenham and Tewkesbury
-- Rising river levels today may lead to flooding.  Flooding is possible today 27 January 2026. Flooding may affect low lying land and roads adjacent to Wymans Brook, Carrant Brook, Hatherley Brook, Swilgate and the River Chelt. Locations that may be affected include Mitton, Ashchurch, Walton Cardiff and locations along the River Chelt from Charlton Kings to Uckington and Boddington.  We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
+- Warning no longer in force: Tributaries in Cheltenham and Tewkesbury
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Severn in Gloucestershire
 - High river levels today may lead to flooding. 

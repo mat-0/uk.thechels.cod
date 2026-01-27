@@ -12,13 +12,13 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- 'Silicon Valley of the UK can now happen' ([1 hours ago](https://www.bbc.com/news/articles/c74wvk14nxko?at_medium=RSS&at_campaign=rss))
-- Police chief 'welcomes' merging of forces ([2 hours ago](https://www.bbc.com/news/articles/clymrk207j3o?at_medium=RSS&at_campaign=rss))
-- Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([5 hours ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
-- E-scooter rider dies after crash with car ([8 hours ago](https://www.bbc.com/news/articles/c77kmyexl2yo?at_medium=RSS&at_campaign=rss))
-- Penguins named after Only Fools and Horses trio ([9 hours ago](https://www.bbc.com/news/articles/cje144e433xo?at_medium=RSS&at_campaign=rss))
-- 'Independent venues are the heart of the community' ([16 hours ago](https://www.bbc.com/news/articles/cy055r7r2xro?at_medium=RSS&at_campaign=rss))
-- 'I can't move or eat' - How a rapid care team is helping people in urgent need ([16 hours ago](https://www.bbc.com/news/articles/clynnnjex59o?at_medium=RSS&at_campaign=rss))
+- 'Silicon Valley of the UK can now happen' ([3 hours ago](https://www.bbc.com/news/articles/c74wvk14nxko?at_medium=RSS&at_campaign=rss))
+- Police chief 'welcomes' merging of forces ([4 hours ago](https://www.bbc.com/news/articles/clymrk207j3o?at_medium=RSS&at_campaign=rss))
+- Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([8 hours ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
+- E-scooter rider dies after crash with car ([10 hours ago](https://www.bbc.com/news/articles/c77kmyexl2yo?at_medium=RSS&at_campaign=rss))
+- Penguins named after Only Fools and Horses trio ([11 hours ago](https://www.bbc.com/news/articles/cje144e433xo?at_medium=RSS&at_campaign=rss))
+- 'Independent venues are the heart of the community' ([19 hours ago](https://www.bbc.com/news/articles/cy055r7r2xro?at_medium=RSS&at_campaign=rss))
+- 'I can't move or eat' - How a rapid care team is helping people in urgent need ([19 hours ago](https://www.bbc.com/news/articles/clynnnjex59o?at_medium=RSS&at_campaign=rss))
 - Man in hospital with serious injuries after crash ([1 days ago](https://www.bbc.com/news/articles/c9wxqp5v2e4o?at_medium=RSS&at_campaign=rss))
 - Five arrested after e-scooter rider seriously injured ([1 days ago](https://www.bbc.com/news/articles/c150dgnq45wo?at_medium=RSS&at_campaign=rss))
 - Silent protestors gather in solidarity with Iran ([1 days ago](https://www.bbc.com/news/articles/cy4g1me23x7o?at_medium=RSS&at_campaign=rss))
@@ -53,8 +53,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Volunteers help residents get confident online ([18 days ago](https://www.bbc.co.uk/sounds/play/p0mst4pw?at_medium=RSS&at_campaign=rss))
 - Christmas Day climbing event raises nearly £4,000 for cancer charity ([20 days ago](https://gloucesternewscentre.co.uk/christmas-day-climbing-event-raises-nearly-4000-for-cancer-charity/))
 - Business manager of Cheltenham McDonald’s wins prestigious global accolade ([21 days ago](https://gloucesternewscentre.co.uk/business-manager-of-cheltenham-mcdonalds-wins-prestigious-global-accolade/))
-- The Big Cases ([25 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
-- The Big Cases ([25 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([26 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([26 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([27 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 
 <!-- news_marker ends -->

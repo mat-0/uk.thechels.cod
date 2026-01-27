@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 27th January :- [8774869](https://www.fixmystreet.com/report/8774869)
+- A pothole in road problem, 27th January :- [8774868](https://www.fixmystreet.com/report/8774868)
+- A pothole in road problem, 27th January :- [8774867](https://www.fixmystreet.com/report/8774867)
 - Large Pothole - On previous repair, 26th January :- [8774540](https://www.fixmystreet.com/report/8774540)
 - This stretch of road is dangerous, 26th January :- [8774406](https://www.fixmystreet.com/report/8774406)
 - Pothole in road, 26th January :- [8774237](https://www.fixmystreet.com/report/8774237)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Potholes in crossroad, 26th January :- [8773089](https://www.fixmystreet.com/report/8773089)
 - Pothole outside 68a whaddon road on bus stop markings, 26th January :- [8773076](https://www.fixmystreet.com/report/8773076)
 - Multiple potholes on both rides of the road, 26th January :- [8773075](https://www.fixmystreet.com/report/8773075)
-- Signage and cone left by contractor, 26th January :- [8773042](https://www.fixmystreet.com/report/8773042)
-- Drain iron work in road exposed, Road breaking up, already caused broken car spring, 26th January :- [8772885](https://www.fixmystreet.com/report/8772885)
-- Raised &rocking paving slab that was repaired by the council has moved again & is now protruding from the surrounding paving slabs, 26th January :- [8772668](https://www.fixmystreet.com/report/8772668)
 
 <!-- fix_marker ends -->

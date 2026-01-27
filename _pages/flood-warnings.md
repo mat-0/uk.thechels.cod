@@ -148,6 +148,15 @@ We are closely monitoring the situation .
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 28 January 2026 or as the situation changes.
 
+- Flood alert: Lower Bristol Avon area
+- Rising river levels this afternoon may lead to flooding. 
+Flooding is possible from the afternoon of 27 January 2026 . 
+Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly around low lying land at Hanham Lock and the floodplain upstream of Bath.
+Further flooding is possible throughout Tuesday evening and overnight into Wednesday as river levels rise due to rainfall we have had during Storm Chandra. 
+We are monitoring rainfall and river levels . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 28 January 2026 or as the situation changes.
+
 - Flood alert: River Coln and its tributaries
 - Rising river levels this morning may lead to flooding. 
 Flooding is possible from the morning of 27 January 2026 . 

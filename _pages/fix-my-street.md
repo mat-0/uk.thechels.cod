@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Abandoned Caravan, 27th January :- [8781802](https://www.fixmystreet.com/report/8781802)
+- Deep pothole on Gotherington Lane., 27th January :- [8781653](https://www.fixmystreet.com/report/8781653)
+- Multiple potholes all un avoidable, 27th January :- [8781425](https://www.fixmystreet.com/report/8781425)
+- So many potholes on this road unfortunately this has been a issue for a number of months with no action taken?, 27th January :- [8781391](https://www.fixmystreet.com/report/8781391)
+- Pothole in road, 27th January :- [8781053](https://www.fixmystreet.com/report/8781053)
+- Pothole in road, 27th January :- [8781036](https://www.fixmystreet.com/report/8781036)
 - Large pothole, 27th January :- [8781024](https://www.fixmystreet.com/report/8781024)
 - Deep pothole, 27th January :- [8780966](https://www.fixmystreet.com/report/8780966)
 - By the bus stop and barrier to the footpath, 27th January :- [8780641](https://www.fixmystreet.com/report/8780641)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 27th January :- [8780438](https://www.fixmystreet.com/report/8780438)
 - TMC - Defects -CW6 Potholes  problem, 27th January :- [8780437](https://www.fixmystreet.com/report/8780437)
 - Incorrect Road Markings, 27th January :- [8779698](https://www.fixmystreet.com/report/8779698)
-- Unauthorised cones being used, 27th January :- [8779661](https://www.fixmystreet.com/report/8779661)
-- Fallen very large tree, 27th January :- [8779635](https://www.fixmystreet.com/report/8779635)
-- 2 deep potholes on Alstone Lane kicking up gravel, 27th January :- [8779613](https://www.fixmystreet.com/report/8779613)
-- Two large potholes have appeared in the last couple of months, 27th January :- [8779422](https://www.fixmystreet.com/report/8779422)
-- TMC - Defects -CW6 Potholes  problem, 27th January :- [8779519](https://www.fixmystreet.com/report/8779519)
-- Large pothole in lane down into Foxcote from A436. 2.5 ft x 15 inches x 4-5 inches deep., 27th January :- [8779058](https://www.fixmystreet.com/report/8779058)
 
 <!-- fix_marker ends -->

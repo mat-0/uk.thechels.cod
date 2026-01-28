@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Major incident declared as floods hit homes and roads ([1 hours ago](https://www.bbc.com/news/articles/cvgpzl87v8xo?at_medium=RSS&at_campaign=rss))
-- Why celebrities keep moving to the Cotswolds - as new star buys mansion ([2 hours ago](https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss))
-- 'My brother's tinnitus was a brain tumour' ([6 hours ago](https://www.bbc.com/news/articles/cy7m20lv132o?at_medium=RSS&at_campaign=rss))
-- Four Covid era temporary courts made permanent ([14 hours ago](https://www.bbc.com/news/articles/c62vrzy0660o?at_medium=RSS&at_campaign=rss))
-- High Court challenge over home birth suspension ([16 hours ago](https://www.bbc.com/news/articles/c3veed2139qo?at_medium=RSS&at_campaign=rss))
-- New officers recruited to teach kids 'hard truths' ([16 hours ago](https://www.bbc.com/news/articles/cql44054rd3o?at_medium=RSS&at_campaign=rss))
+- Major incident declared as floods hit homes and roads ([3 hours ago](https://www.bbc.com/news/articles/cvgpzl87v8xo?at_medium=RSS&at_campaign=rss))
+- Why celebrities keep moving to the Cotswolds - as new star buys mansion ([5 hours ago](https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss))
+- 'My brother's tinnitus was a brain tumour' ([9 hours ago](https://www.bbc.com/news/articles/cy7m20lv132o?at_medium=RSS&at_campaign=rss))
+- Four Covid era temporary courts made permanent ([16 hours ago](https://www.bbc.com/news/articles/c62vrzy0660o?at_medium=RSS&at_campaign=rss))
+- High Court challenge over home birth suspension ([19 hours ago](https://www.bbc.com/news/articles/c3veed2139qo?at_medium=RSS&at_campaign=rss))
+- New officers recruited to teach kids 'hard truths' ([19 hours ago](https://www.bbc.com/news/articles/cql44054rd3o?at_medium=RSS&at_campaign=rss))
 - 'Silicon Valley of the UK can now happen' ([1 days ago](https://www.bbc.com/news/articles/c74wvk14nxko?at_medium=RSS&at_campaign=rss))
 - Police chief 'welcomes' merging of forces ([1 days ago](https://www.bbc.com/news/articles/clymrk207j3o?at_medium=RSS&at_campaign=rss))
 - Man aged 18 dies following collision involving e-scooter and car in Cheltenham ([1 days ago](https://gloucesternewscentre.co.uk/man-aged-18-dies-following-collision-involving-e-scooter-and-car-in-cheltenham/))
@@ -53,8 +53,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Volunteers help residents get confident online ([19 days ago](https://www.bbc.co.uk/sounds/play/p0mst4pw?at_medium=RSS&at_campaign=rss))
 - Christmas Day climbing event raises nearly £4,000 for cancer charity ([21 days ago](https://gloucesternewscentre.co.uk/christmas-day-climbing-event-raises-nearly-4000-for-cancer-charity/))
 - Business manager of Cheltenham McDonald’s wins prestigious global accolade ([22 days ago](https://gloucesternewscentre.co.uk/business-manager-of-cheltenham-mcdonalds-wins-prestigious-global-accolade/))
-- The Big Cases ([26 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
-- The Big Cases ([26 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([27 days ago](https://www.bbc.co.uk/iplayer/episode/p0g9z2dc?at_medium=RSS&at_campaign=rss))
+- The Big Cases ([27 days ago](https://www.bbc.co.uk/iplayer/episode/p0gz4ppl?at_medium=RSS&at_campaign=rss))
 - Man sexually assaulted teenage girl on Cheltenham bus ([28 days ago](https://gloucesternewscentre.co.uk/man-sexually-assaulted-teenage-girl-on-cheltenham-bus/))
 
 <!-- news_marker ends -->

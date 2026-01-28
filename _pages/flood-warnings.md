@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- River levels are rising at the Great Somerford gauge. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast Tuesday afternoon. River levels are expected to rise further in response to this rain. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 28 January 2026 or as the situation changes.
+- River levels are now falling at the Fosseway, Brokenborough and Great Somerford gauges. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is forecast for Thursday. River levels are expected to rise slightly in response to this rain. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. Avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 29 January 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -185,14 +185,12 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 29 January 2026 or as the situation changes. 
 
-- Flood alert: Lower Bristol Avon area
-- Rising river levels this afternoon may lead to flooding. 
-Flooding is possible from the afternoon of 27 January 2026 . 
-Flooding is forecast to affect locations near the Bristol Avon, Broadmead Brook, River Boyd, with low lying land and roads expected to be most affected, particularly around low lying land at Hanham Lock and the floodplain upstream of Bath.
-Further flooding is possible throughout Tuesday evening and overnight into Wednesday as river levels rise due to rainfall we have had during Storm Chandra. 
-We are monitoring rainfall and river levels . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 28 January 2026 or as the situation changes.
+- Warning no longer in force: Lower Bristol Avon area
+- The flood forecast has changed significantly. As a result, there is no longer a risk of flooding in the area. 
+Weather conditions are expected to improve and no further flooding is expected.   
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
+
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

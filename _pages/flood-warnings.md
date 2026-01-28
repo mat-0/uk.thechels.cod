@@ -50,11 +50,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00PM on 29 Jan 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels remain high on the River Thames and its tributaries. Therefore flooding of low lying land and roads remains possible today, 27 January 2026, especially in areas close to the river around Kempsford. Heavy and persistent rainfall will continue this morning, clearing by early afternoon leaving a predominantly dry afternoon and night. Tomorrow is expected to be predominantly dry. River levels are expected to rise slowly over the coming days.
+- Rising river levels may lead to flooding. 
+
+River levels are high and slowly rising on the River Thames and its tributaries. Therefore flooding of low lying land and roads is expected to continue today, 28 Jan 2026, especially in areas close to the river around Kempsford. The forecast is for a predominantly dry day and night with the possibility of light showers. We expect river levels to rise slowly through today before stabilising into tomorrow. Levels will remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 28 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 29 Jan 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -77,11 +79,8 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00PM on 29 January 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels today may lead to flooding. 
-Flooding is possible on 28 January 2026 . 
-Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
+- High river levels remain today at the Bidford gauge, which may lead to flooding. Flooding is possible on 28 January 2026.
+Flooding may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.
 This message will be updated by 11:00AM on 29 January 2026 or as the situation changes.
 
 - Warning no longer in force: Tributaries in Gloucester
@@ -130,24 +129,31 @@ This message will be updated by 10:00AM on 29 January 2026 or as the situation c
 - High river levels today may lead to flooding. Flooding is possible on 28 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks: Bredon 2.6m to 2.8m on Wednesday afternoon 28 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- River levels are high along the upper reaches of the River Thames. Therefore flooding of low lying land and roads remains possible today, 27 January 2026, near the river between Buscot Lock and Eynsham Lock. Heavy and persistent rainfall will continue this morning, clearing by early afternoon leaving a predominantly dry afternoon and night. Tomorrow is expected to be predominantly dry. Levels are expected to rise from later today and over the coming days in response to heavy rainfall.
+- Rising river levels may lead to flooding. 
+
+River levels are high and rising slowly along the upper reaches of the River Thames. Therefore flooding of low lying land and roads is expected to continue today, 28 Jan 2026, near the river between Buscot Lock and Eynsham Lock. The forecast is for a predominantly dry day and night with the possibility of light showers. River levels are expected to rise steadily through today as water moves downstream. Levels will remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 28 January 2026 or as the situation changes.
+This message will be updated by 12:00 pm on 29 Jan 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- River levels are rising as a response to the rainfall overnight and may continue to cause flooding. Flooding is possible on 27th January 2026. Further rainfall is forecast over the next 24 hours. 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
-Predicted peaks:- 
-Hay on Wye 2.0m to 2.4m Tuesday 27/01 
-Bredwardine 4.2m to 4.7m Tuesday 27/01 PM 
-Belmont 4.3m to 4.8m Tuesday 27/01 overnight 
-Old Wye Bridge 3.7m to 4.2m Tuesday 27/01 overnight 
-Mordiford - 4.4m to 4.9m Wednesday 28/01 
-Ross on Wye - 3.6m to 4.1m Wednesday 28/01 
-We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  
-This message will be updated by 11:00AM on 28th January 2026 or as the situation changes.
+- River levels are falling but remain high as a response to the recent rainfall and may continue to cause flooding. Flooding is possible on 28th January 2026. Further rainfall is forecast over the next 24 hours.
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.
+
+Predicted peaks:-
+Ross on Wye - 3.9m to 4.1m Wednesday 28/01 PM.
+
+Observed peaks:-
+Hay on Wye 2.34m Tuesday 27/01 PM.
+Bredwardine 4.42m Tuesday 27/01 PM.
+Belmont 4.59m Wednesday 28/01 AM.
+Old Wye Bridge 3.99m Wednesday 28/01 AM.
+Mordiford 4.69m Wednesday 28/01 AM.
+
+We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.
+
+This message will be updated by 11:00AM on 29th January 2026 or as the situation changes.
 
 - Warning no longer in force: Rivers in the Forest of Dean
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -157,13 +163,13 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood alert: River Wye in Gloucestershire
-- River levels are rising as a response to the rainfall overnight and may continue to cause flooding. Flooding is possible on 27th January 2026. Further rainfall is forecast over the next 24 hours. 
-Flooding may affect low lying land and roads along the River Wye.  
-Predicted peaks:-  
-Ross on Wye - 3.6m to 4.1m Wednesday 28/01 
-Lydbrook 5.2m to 5.7m Wednesday 28/01 PM 
-We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 11:00AM on 28th January 2026 or as the situation changes.
+- River levels are rising as a response to the recent rainfall and may continue to cause flooding. Flooding is possible on 28th January 2026. Further rainfall is forecast over the next 24 hours.
+Flooding may affect low lying land and roads along the River Wye. 
+Predicted peaks:- 
+Ross on Wye - 3.9m to 4.1m Wednesday 28/01 PM.
+Lydbrook 5.0m to 5.3m Wednesday 28/01 PM.
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+This message will be updated by 11:00AM on 29th January 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - High river levels today may lead to flooding. Flooding is possible on 28 January 2026 . Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Worcester 3.9m to 4.1m this morning Wednesday 28 January 2026, Diglis 3.8m to 4m this morning Wednesday 28 January 2026, Kempsey Yacht Club 6m to 6.2m this morning Wednesday 28 January 2026 and Saxons Lode 4.5m to 4.7m this afternoon on Wednesday 28 January 2026. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 29 January 2026 or as the situation changes.

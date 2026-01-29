@@ -50,13 +50,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12pm on 30 Jan 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- Rising river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-River levels are high and slowly rising on the River Thames and its tributaries. Therefore flooding of low lying land and roads is expected to continue today, 28 Jan 2026, especially in areas close to the river around Kempsford. The forecast is for a predominantly dry day and night with the possibility of light showers. We expect river levels to rise slowly through today before stabilising into tomorrow. Levels will remain high over the coming days. 
+River levels are high on parts of the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is possible today, 29 Jan 2026, especially in the Kempsford area. The forecast is predominantly dry today (29/01/26), with widespread light rain expected overnight and into tomorrow morning. River levels are high, but steady. We expect river levels to remain high over the coming days.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 29 Jan 2026 or as the situation changes.
+This message will be updated by 12pm on 30 Jan 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
@@ -94,13 +94,13 @@ This message will be updated by 11:00AM on 30 January 2026 or as the situation c
 - High river levels today may lead to flooding. Flooding is possible on 29 January 2026 . Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peaks: Bredon peaked at 2.71m at 06:00am this morning, Thursday 29 January 2026. Further rainfall is forecast over the next 24 hours. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 10:00AM on 30 January 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
-- Rising river levels may lead to flooding. 
+- High river levels may lead to flooding. 
 
-River levels are high and rising slowly along the upper reaches of the River Thames. Therefore flooding of low lying land and roads is expected to continue today, 28 Jan 2026, near the river between Buscot Lock and Eynsham Lock. The forecast is for a predominantly dry day and night with the possibility of light showers. River levels are expected to rise steadily through today as water moves downstream. Levels will remain high over the coming days. 
+River levels are high on parts of the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 29 Jan 2026, especially in the Eynsham area. The forecast is predominantly dry today (29/01/26), with widespread light rain expected overnight and into tomorrow morning. We expect river levels to remain high over the coming days, and for levels in the lower part of the catchment to rise as water moves through the system.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 pm on 29 Jan 2026 or as the situation changes.
+This message will be updated by 12pm on 30 Jan 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
 - River levels are falling but remain high as a response to the recent rainfall and may continue to cause flooding. Flooding is possible on 29th January 2026. Further rainfall is forecast over the next 24 hours. 

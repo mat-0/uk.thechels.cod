@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 29 January 2026
 
-- The average temperature today is 2.86˚C,
-- With highs of 4.41˚C and lows of 2.6˚C,
-- It may feel like -1.05˚C with clear sky
-- The wind speed is 4.47m/s and visibility is 10000m
+- The average temperature today is 3.4˚C,
+- With highs of 4.05˚C and lows of 2.62˚C,
+- It may feel like 1.25˚C with clear sky
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 997hPa and humidity is 96%
 - The sun will rise at 07:52 and set at 16:49
 

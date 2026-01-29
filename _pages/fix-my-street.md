@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- All street lights out on orchard Avenue, 29th January :- [8791885](https://www.fixmystreet.com/report/8791885)
+- All street lights have been out since Monday, 29th January :- [8791884](https://www.fixmystreet.com/report/8791884)
 - Street cleaning needed, 28th January :- [8791694](https://www.fixmystreet.com/report/8791694)
 - Street name plate has been hit and the frame is mangled, 28th January :- [8791438](https://www.fixmystreet.com/report/8791438)
 - Several pot holes from the umbrella public house along orchard way towards princess Eliza Beth way., 28th January :- [8791342](https://www.fixmystreet.com/report/8791342)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 28th January :- [8790260](https://www.fixmystreet.com/report/8790260)
 - Temp metal road sign left on grass verge., 28th January :- [8790098](https://www.fixmystreet.com/report/8790098)
 - Another pot hole after bridge, 28th January :- [8789969](https://www.fixmystreet.com/report/8789969)
-- Sandbag from temp Road sign left at foot of lamp post/bus stop sign., 28th January :- [8789947](https://www.fixmystreet.com/report/8789947)
-- Metal frame for temporary road sign left on top of waste bin., 28th January :- [8789837](https://www.fixmystreet.com/report/8789837)
 
 <!-- fix_marker ends -->

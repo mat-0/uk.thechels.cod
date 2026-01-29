@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Council hopes to increase tax and permit costs ([8 hours ago](https://www.bbc.com/news/articles/cx2wjxkn7nko?at_medium=RSS&at_campaign=rss))
-- Staff staging longest NHS strike to get one-off payment ([10 hours ago](https://www.bbc.com/news/articles/c80198vdvl8o?at_medium=RSS&at_campaign=rss))
-- Grieving mum gains support for new data sharing law ([12 hours ago](https://www.bbc.com/news/articles/cgezplx2v2do?at_medium=RSS&at_campaign=rss))
-- Gloucestershire Airport - update ([16 hours ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
-- Councillors may need to declare 'secret societies' ([21 hours ago](https://www.bbc.com/news/articles/cj4lpe4pj45o?at_medium=RSS&at_campaign=rss))
-- Builder to deliver fleet of vehicles to Ukraine ([21 hours ago](https://www.bbc.com/news/articles/c3edxkdx012o?at_medium=RSS&at_campaign=rss))
+- Council hopes to increase tax and permit costs ([10 hours ago](https://www.bbc.com/news/articles/cx2wjxkn7nko?at_medium=RSS&at_campaign=rss))
+- Staff staging longest NHS strike to get one-off payment ([12 hours ago](https://www.bbc.com/news/articles/c80198vdvl8o?at_medium=RSS&at_campaign=rss))
+- Grieving mum gains support for new data sharing law ([13 hours ago](https://www.bbc.com/news/articles/cgezplx2v2do?at_medium=RSS&at_campaign=rss))
+- Gloucestershire Airport - update ([18 hours ago](https://www.cheltenham.gov.uk/news/article/3090/gloucestershire_airport_-_update))
+- Councillors may need to declare 'secret societies' ([22 hours ago](https://www.bbc.com/news/articles/cj4lpe4pj45o?at_medium=RSS&at_campaign=rss))
+- Builder to deliver fleet of vehicles to Ukraine ([22 hours ago](https://www.bbc.com/news/articles/c3edxkdx012o?at_medium=RSS&at_campaign=rss))
 - Major incident declared as floods hit homes and roads ([1 days ago](https://www.bbc.com/news/articles/cvgpzl87v8xo?at_medium=RSS&at_campaign=rss))
 - Why celebrities keep moving to the Cotswolds - as new star buys mansion ([1 days ago](https://www.bbc.com/news/articles/c0lx26kl915o?at_medium=RSS&at_campaign=rss))
 - 'My brother's tinnitus was a brain tumour' ([1 days ago](https://www.bbc.com/news/articles/cy7m20lv132o?at_medium=RSS&at_campaign=rss))

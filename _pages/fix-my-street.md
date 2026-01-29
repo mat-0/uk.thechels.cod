@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on Road filled with rainwater, 29th January :- [8793393](https://www.fixmystreet.com/report/8793393)
+- Pothole, 29th January :- [8793370](https://www.fixmystreet.com/report/8793370)
+- Fly tipping. Been here for at least a week, 29th January :- [8793056](https://www.fixmystreet.com/report/8793056)
+- Several potholes/repairs, 29th January :- [8792982](https://www.fixmystreet.com/report/8792982)
+- 2 potholes in quick succession, 29th January :- [8792964](https://www.fixmystreet.com/report/8792964)
+- Fly tip opposite 68 Meadowleaze on the edge of the park., 29th January :- [8792720](https://www.fixmystreet.com/report/8792720)
+- Bright red barrier and old road sign discarded in Hedge, 29th January :- [8792708](https://www.fixmystreet.com/report/8792708)
 - Crater at edge of road, 29th January :- [8792557](https://www.fixmystreet.com/report/8792557)
 - Large Pothole towards edge of road, 29th January :- [8792380](https://www.fixmystreet.com/report/8792380)
 - Over flowing bin, 29th January :- [8792301](https://www.fixmystreet.com/report/8792301)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Street name plate has been hit and the frame is mangled, 28th January :- [8791438](https://www.fixmystreet.com/report/8791438)
 - Several pot holes from the umbrella public house along orchard way towards princess Eliza Beth way., 28th January :- [8791342](https://www.fixmystreet.com/report/8791342)
 - Pothole forming in road, 28th January :- [8791282](https://www.fixmystreet.com/report/8791282)
-- Pothole in road, 28th January :- [8791264](https://www.fixmystreet.com/report/8791264)
-- Pothole in left wheeltrack, 28th January :- [8791175](https://www.fixmystreet.com/report/8791175)
-- Pothole, 28th January :- [8791103](https://www.fixmystreet.com/report/8791103)
-- Tarmac around the pot hole broken, 28th January :- [8791094](https://www.fixmystreet.com/report/8791094)
-- The temporary lights have been placed 25 yards from a signalled road junction, cars are jumping the junction lights in order to go through the temporary lights when on green. Prioviously road works sround north upton labe gave resulted in 4 way lightc to includevthe Greenways traffic junction. This is now not the case, so when exiting Greenways on a green light cars are constantly having near misses with cars not stoppingat a red light on barnwood road. Wales and west refuse to accept there is a safety issue. The tempirary lights need to be moved to the junction of Greenways and have the main junction light tutned off to allow safe exit for Greenway residents, 28th January :- [8790935](https://www.fixmystreet.com/report/8790935)
-- Dangerous slab is a hazard to pedestrians, 28th January :- [8790809](https://www.fixmystreet.com/report/8790809)
-- Hope by drain, 28th January :- [8790759](https://www.fixmystreet.com/report/8790759)
 
 <!-- fix_marker ends -->

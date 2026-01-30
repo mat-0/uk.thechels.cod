@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Big pothole in left hand lane going up Birdlip Hill from the Air balloon Roundabout., 30th January :- [8804845](https://www.fixmystreet.com/report/8804845)
+- At least 10 potholes in one area!, 30th January :- [8804771](https://www.fixmystreet.com/report/8804771)
+- With ally way light gone and the second ligh really dull, 30th January :- [8804731](https://www.fixmystreet.com/report/8804731)
+- Tenants at 36 gwernant road have driven on the grass and have broken the public path and turned the grass to a swamp., 30th January :- [8804468](https://www.fixmystreet.com/report/8804468)
 - Multiple potholes and run off gravel., 30th January :- [8804161](https://www.fixmystreet.com/report/8804161)
 - Heap of sticks and twigs next to tree on Saint Luke’s Road, 30th January :- [8804129](https://www.fixmystreet.com/report/8804129)
 - Large pothole, 30th January :- [8804091](https://www.fixmystreet.com/report/8804091)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Multiple potholes on the entrance to Coriander Drive, 30th January :- [8802972](https://www.fixmystreet.com/report/8802972)
 - Large pothole, mid carriageway heading toward PEW, 30th January :- [8802864](https://www.fixmystreet.com/report/8802864)
 - Lots of potholes, 30th January :- [8802826](https://www.fixmystreet.com/report/8802826)
-- Massive potholes that aren't getting fixed properly, 30th January :- [8802638](https://www.fixmystreet.com/report/8802638)
-- TMC - Defects -CW10 Potholes problem, 30th January :- [8802731](https://www.fixmystreet.com/report/8802731)
-- TMC - Defects -CW10 Potholes problem, 30th January :- [8802730](https://www.fixmystreet.com/report/8802730)
-- TMC - Defects -CW10 Potholes problem, 30th January :- [8802729](https://www.fixmystreet.com/report/8802729)
 
 <!-- fix_marker ends -->

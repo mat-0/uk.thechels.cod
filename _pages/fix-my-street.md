@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A serious of huge potholes extending for 1 mile up the road, 29th January :- [8798789](https://www.fixmystreet.com/report/8798789)
+- There are 2 potholes in the road. One has been imperfectly mended with tarmac, leaving some of the hole unfilled. The other hasn't been repaired at all., 29th January :- [8798781](https://www.fixmystreet.com/report/8798781)
 - Square 8" pothole, 29th January :- [8798622](https://www.fixmystreet.com/report/8798622)
 - Deep trench across the lane so can’t avoid., 29th January :- [8797914](https://www.fixmystreet.com/report/8797914)
 - Large pothole, 29th January :- [8797838](https://www.fixmystreet.com/report/8797838)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Two potholes joined into one, 29th January :- [8796375](https://www.fixmystreet.com/report/8796375)
 - Manhole cover surrounded by large pothole, 29th January :- [8796327](https://www.fixmystreet.com/report/8796327)
 - Large pothole, centre of the road north bound, 29th January :- [8796300](https://www.fixmystreet.com/report/8796300)
-- Previous repair failing AGAIN, 29th January :- [8796280](https://www.fixmystreet.com/report/8796280)
-- The verge has been badly damaged by a recently jack knifed lorry which got stuck on it causing ruts and muddy surface where there was grass,., 29th January :- [8796243](https://www.fixmystreet.com/report/8796243)
 
 <!-- fix_marker ends -->

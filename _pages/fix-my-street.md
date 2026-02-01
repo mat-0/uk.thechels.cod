@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Mud and debris from unauthorised driveway making pavement slippery for pedestrians., 1st February :- [8812317](https://www.fixmystreet.com/report/8812317)
+- Several pot holes need repair, 1st February :- [8812126](https://www.fixmystreet.com/report/8812126)
+- You cleared two drains previously but did not rod or hose it thru as blocked in the pipe . It blocks , overflows and rain water rubs down washing the mud down to the bridge where it floods and now looks awful with a mud bath, 1st February :- [8811613](https://www.fixmystreet.com/report/8811613)
 - Large pot holes on Ashcot Mews, 1st February :- [8811416](https://www.fixmystreet.com/report/8811416)
 - Abandonded Caravan, 1st February :- [8811365](https://www.fixmystreet.com/report/8811365)
 - Multiple large potholes, 1st February :- [8811355](https://www.fixmystreet.com/report/8811355)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Right near cattle grid, 31st January :- [8810557](https://www.fixmystreet.com/report/8810557)
 - Very wide and deep pothole, 31st January :- [8810554](https://www.fixmystreet.com/report/8810554)
 - Multiple pot holes on this area of road. Some very deep, 31st January :- [8810547](https://www.fixmystreet.com/report/8810547)
-- Very large pothole, 31st January :- [8810545](https://www.fixmystreet.com/report/8810545)
-- Multiple pole holes. One huge one that is sure to damage cars., 31st January :- [8810536](https://www.fixmystreet.com/report/8810536)
-- Tarmac missing around drain is now dangerous especially for motorcycle or cyclist., 31st January :- [8810298](https://www.fixmystreet.com/report/8810298)
 
 <!-- fix_marker ends -->

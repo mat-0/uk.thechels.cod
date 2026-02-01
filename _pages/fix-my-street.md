@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic monitor broken, 1st February :- [8814179](https://www.fixmystreet.com/report/8814179)
+- Edge of repair causing pot hole with edge., 1st February :- [8813737](https://www.fixmystreet.com/report/8813737)
+- Three pot holes, 1st February :- [8813709](https://www.fixmystreet.com/report/8813709)
+- Four pot holes, 1st February :- [8813693](https://www.fixmystreet.com/report/8813693)
+- Sunken manhole cover, 1st February :- [8813511](https://www.fixmystreet.com/report/8813511)
 - Huge plant pots on carriageway., 1st February :- [8813378](https://www.fixmystreet.com/report/8813378)
 - Sunken manhole cover outside Sixways Spice Indian Restaurant, Charlton Kings. Extremely hazardous especially after dark., 1st February :- [8813360](https://www.fixmystreet.com/report/8813360)
 - Kerb is protruding into the road by 4-6 inches, 1st February :- [8812835](https://www.fixmystreet.com/report/8812835)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Quite a big pot hole right outside the turning to old Richians rfc however the whole of the sandyleaze road is covered in a lot of deep pot holes that need fixing as can cause damage to cars, 1st February :- [8811064](https://www.fixmystreet.com/report/8811064)
 - Just past old richians turning, 1st February :- [8811005](https://www.fixmystreet.com/report/8811005)
 - Number of potholes on approach to mini roundabout on church road and old Cheltenham road, near church, 31st January :- [8810986](https://www.fixmystreet.com/report/8810986)
-- Several large pot holes on left hand side driving from Down Hatherley lane to innsworth lane, 31st January :- [8810898](https://www.fixmystreet.com/report/8810898)
-- More fly tipping, 31st January :- [8810805](https://www.fixmystreet.com/report/8810805)
-- Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810711](https://www.fixmystreet.com/report/8810711)
-- Pot hole repair by pavement failed. Cars crossing white line to avoid the pothole and almost crashing into cars turning on to church road from Collum End Rise, 31st January :- [8810710](https://www.fixmystreet.com/report/8810710)
-- Patched road now big pothole, 31st January :- [8810635](https://www.fixmystreet.com/report/8810635)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large potholes on both sides of road, 1st February :- [8811169](https://www.fixmystreet.com/report/8811169)
 - Quite a big pot hole right outside the turning to old Richians rfc however the whole of the sandyleaze road is covered in a lot of deep pot holes that need fixing as can cause damage to cars, 1st February :- [8811064](https://www.fixmystreet.com/report/8811064)
 - Just past old richians turning, 1st February :- [8811005](https://www.fixmystreet.com/report/8811005)
 - Number of potholes on approach to mini roundabout on church road and old Cheltenham road, near church, 31st January :- [8810986](https://www.fixmystreet.com/report/8810986)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Many potholes along Argyll Road where there's parked cars, 31st January :- [8810088](https://www.fixmystreet.com/report/8810088)
 - Pothole, 31st January :- [8810058](https://www.fixmystreet.com/report/8810058)
 - Pothole, 31st January :- [8810004](https://www.fixmystreet.com/report/8810004)
-- Pedestrian crossing turning off. When the pedestrian crossing button it pressed it doesn't always activate a crossing and the light goes off. This happens very often leading to pedestrians crossing on a red light due to the issue., 31st January :- [8809677](https://www.fixmystreet.com/report/8809677)
 
 <!-- fix_marker ends -->

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 01 February 2026
 
-- The average temperature today is 6.18˚C,
-- With highs of 6.83˚C and lows of 5.93˚C,
-- It may feel like 6.18˚C with overcast clouds
+- The average temperature today is 6.44˚C,
+- With highs of 6.96˚C and lows of 5.4˚C,
+- It may feel like 6.44˚C with overcast clouds
 - The wind speed is 0.45m/s and visibility is 10000m
-- The pressure is 1001hPa and humidity is 95%
+- The pressure is 1001hPa and humidity is 94%
 - The sun will rise at 07:48 and set at 16:55
 
 <!-- weather_marker ends -->

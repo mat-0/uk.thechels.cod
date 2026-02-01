@@ -90,13 +90,6 @@ This message will be updated by 12:00PM on 02 February 2026 or as the situation 
 - Flood alert: River Severn in Worcestershire
 - River levels have fallen, however further forecast rainfall on Monday into Tuesday may see a further rise in river level  which could  lead to flooding. Flooding is possible from 2 February 2026. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury; including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Further detail will be provided once the rain is observed. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 2 February 2026 or as the situation changes.
 
-- Warning no longer in force: River Severn at Severn Ham, Tewkesbury
-- The Flood Warning has now been removed. However, a Flood Alert remains in force for the wider area, so flooding of roads and low lying land is still possible. 
-Further rainfall is forecast but no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Coln and its tributaries
 - River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 01 Feb 2026, especially in the Fossebridge area. Further rainfall is expected today and tomorrow. River levels are high but stable. We expect levels to remain high over the coming days. 
 

@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Monday, 02 February 2026
 
-- The average temperature today is 7.47˚C,
-- With highs of 7.76˚C and lows of 6.27˚C,
-- It may feel like 4.59˚C with broken clouds
-- The wind speed is 4.63m/s and visibility is 10000m
-- The pressure is 997hPa and humidity is 90%
+- The average temperature today is 7.84˚C,
+- With highs of 8.15˚C and lows of 7.14˚C,
+- It may feel like 4.83˚C with broken clouds
+- The wind speed is 5.14m/s and visibility is 10000m
+- The pressure is 995hPa and humidity is 88%
 - The sun will rise at 07:46 and set at 16:57
 
 <!-- weather_marker ends -->

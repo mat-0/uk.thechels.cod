@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Lane markings contradictory, 2nd February :- [8817040](https://www.fixmystreet.com/report/8817040)
+- On side of the road, 1st February :- [8816950](https://www.fixmystreet.com/report/8816950)
 - Pothole in road, 1st February :- [8816819](https://www.fixmystreet.com/report/8816819)
 - Cars parking causing obstruction, 1st February :- [8816433](https://www.fixmystreet.com/report/8816433)
 - New yellow lines - unable to get off driveway, 1st February :- [8816424](https://www.fixmystreet.com/report/8816424)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Blocked culvert at side of road in Bushcombe Lane just above Butts Lane, 1st February :- [8815295](https://www.fixmystreet.com/report/8815295)
 - Very deep pot hole on elm street, 1st February :- [8815216](https://www.fixmystreet.com/report/8815216)
 - Pots holes all over the turning and along shelbourne road, 1st February :- [8815174](https://www.fixmystreet.com/report/8815174)
-- Dropped curb, 1st February :- [8815088](https://www.fixmystreet.com/report/8815088)
-- Cyclist crossing button doesn't work, 1st February :- [8814974](https://www.fixmystreet.com/report/8814974)
 
 <!-- fix_marker ends -->

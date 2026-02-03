@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Street lights out, 3rd February :- [8825776](https://www.fixmystreet.com/report/8825776)
 - Large pot hole, 2nd February :- [8825363](https://www.fixmystreet.com/report/8825363)
 - Flytipped cardboard box, 2nd February :- [8825189](https://www.fixmystreet.com/report/8825189)
 - All street lights out emergency, 2nd February :- [8825079](https://www.fixmystreet.com/report/8825079)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Dog poo bin overflowing, 2nd February :- [8822855](https://www.fixmystreet.com/report/8822855)
 - TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822644](https://www.fixmystreet.com/report/8822644)
 - TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822643](https://www.fixmystreet.com/report/8822643)
-- TMC - Defects -CW6 Potholes  problem, 2nd February :- [8822640](https://www.fixmystreet.com/report/8822640)
 
 <!-- fix_marker ends -->

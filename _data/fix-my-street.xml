@@ -2,9 +2,9 @@
 <?xml-stylesheet type="text/xsl" href="/rss/xsl"?>
 
 <rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
  xmlns:atom="http://www.w3.org/2005/Atom"
  xmlns:georss="http://www.georss.org/georss"
- xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
 >
 
 <channel>
@@ -14,6 +14,15 @@
 <language>en-gb</language>
 <atom:link href="https://www.fixmystreet.com/rss/l/51.897991,-2.071308/10" rel="self" type="application/rss+xml"/>
 
+<item>
+<title>A pothole in road problem, 3rd February</title>
+<link>https://www.fixmystreet.com/report/8832636</link>
+<description>Large pothole - bigger than a dinner plate, deeper than a tennis ball - Caller stated there was multiple reports on FixMyStreet &#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8832636&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
+<category>A pothole in road</category>
+<guid isPermaLink="false">https://www.fixmystreet.com/report/8832636</guid>
+<pubDate>Tue, 03 Feb 2026 21:31:37 +0000</pubDate>
+<georss:point>51.881286 -2.063862</georss:point>
+</item>
 <item>
 <title>A pothole in road problem, 3rd February</title>
 <link>https://www.fixmystreet.com/report/8832408</link>
@@ -184,15 +193,6 @@
 <guid isPermaLink="false">https://www.fixmystreet.com/report/8830628</guid>
 <pubDate>Tue, 03 Feb 2026 15:38:33 +0000</pubDate>
 <georss:point>51.8945217 -2.12138430000016</georss:point>
-</item>
-<item>
-<title>TMC - Defects -CW6 Potholes  problem, 3rd February</title>
-<link>https://www.fixmystreet.com/report/8830627</link>
-<description>2 way stop and go 28 day carriage way pothole 400x600x50 stats required plus (CW6 Pothole)&#10;&lt;br&gt;&lt;a href=&#39;https://www.fixmystreet.com/report/8830627&#39;&gt;Report on FixMyStreet&lt;/a&gt;</description>
-<category>TMC - Defects -CW6 Potholes</category>
-<guid isPermaLink="false">https://www.fixmystreet.com/report/8830627</guid>
-<pubDate>Tue, 03 Feb 2026 15:38:25 +0000</pubDate>
-<georss:point>51.8945176999997 -2.12134820001278</georss:point>
 </item>
 </channel>
 </rss>

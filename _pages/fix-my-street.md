@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- A pothole in road problem, 3rd February :- [8832636](https://www.fixmystreet.com/report/8832636)
+- A pothole in road problem, 3rd February :- [8832408](https://www.fixmystreet.com/report/8832408)
+- Manhole loose when driving over it, 3rd February :- [8832265](https://www.fixmystreet.com/report/8832265)
+- Water from damaged drain entering basement, 3rd February :- [8832141](https://www.fixmystreet.com/report/8832141)
 - Fly tipping now starting, 3rd February :- [8831890](https://www.fixmystreet.com/report/8831890)
 - Several pot holes and it’s dangerous, 3rd February :- [8831476](https://www.fixmystreet.com/report/8831476)
 - Wooden post on sign rotted off and sign fallen down., 3rd February :- [8831303](https://www.fixmystreet.com/report/8831303)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830630](https://www.fixmystreet.com/report/8830630)
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830629](https://www.fixmystreet.com/report/8830629)
 - TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830628](https://www.fixmystreet.com/report/8830628)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830627](https://www.fixmystreet.com/report/8830627)
-- A pothole in road problem, 3rd February :- [8830368](https://www.fixmystreet.com/report/8830368)
-- Tree is damaged problem, 3rd February :- [8830367](https://www.fixmystreet.com/report/8830367)
-- Pothole repairs made only 2 weeks ago are failing or have failed at this location, 3rd February :- [8830163](https://www.fixmystreet.com/report/8830163)
 
 <!-- fix_marker ends -->

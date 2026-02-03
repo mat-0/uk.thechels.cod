@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Fly tipping now starting, 3rd February :- [8831890](https://www.fixmystreet.com/report/8831890)
+- Several pot holes and it’s dangerous, 3rd February :- [8831476](https://www.fixmystreet.com/report/8831476)
+- Wooden post on sign rotted off and sign fallen down., 3rd February :- [8831303](https://www.fixmystreet.com/report/8831303)
+- Huge potholes all along Warden Hall Road. Several have got worse in recent weeks - very dangerous now especially in the dark, 3rd February :- [8831192](https://www.fixmystreet.com/report/8831192)
 - Flytipping, 3rd February :- [8831087](https://www.fixmystreet.com/report/8831087)
 - Fly tipping, 3rd February :- [8831068](https://www.fixmystreet.com/report/8831068)
 - Fly Tipping, 3rd February :- [8831038](https://www.fixmystreet.com/report/8831038)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 3rd February :- [8830368](https://www.fixmystreet.com/report/8830368)
 - Tree is damaged problem, 3rd February :- [8830367](https://www.fixmystreet.com/report/8830367)
 - Pothole repairs made only 2 weeks ago are failing or have failed at this location, 3rd February :- [8830163](https://www.fixmystreet.com/report/8830163)
-- Several potholes, 3rd February :- [8830154](https://www.fixmystreet.com/report/8830154)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830373](https://www.fixmystreet.com/report/8830373)
-- TMC - Defects -CW6 Potholes  problem, 3rd February :- [8830372](https://www.fixmystreet.com/report/8830372)
-- Deep crevice in the road, 3rd February :- [8830069](https://www.fixmystreet.com/report/8830069)
 
 <!-- fix_marker ends -->

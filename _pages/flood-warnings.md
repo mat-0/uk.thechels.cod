@@ -83,15 +83,10 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 on 04 Feb 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels continue to fall but remain high. Flooding is possible on 3 February 2026. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 4 February 2026 or as the situation changes.
+- River levels continue to fall but remain high. Flooding continues on 4 February 2026. Flooding will affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 5 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- Rising river levels today may lead to flooding. 
-Flooding is possible from overnight on 03 February 2026 and over the next few days. 
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 04 February 2026 or as the situation changes.
+- Rising river levels today may lead to flooding.  Flooding is possible on 4 February 2026 and over the next few days.  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 5 February 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -101,6 +96,15 @@ River levels are high on parts of the River Thames and its tributaries from Busc
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
 This message will be updated by 12:00 on 04 Feb 2026 or as the situation changes.
+
+- Flood alert: Tidal River Avon at Bristol, Pill and Shirehampton
+- High tides this morning may lead to flooding. 
+Flooding is possible between 08:30 AM and 09:15 AM on 04 February 2026. 
+The detailed tidal forecast for those who use it is for a peak level at Avonmouth. The forecast high water is at 08:45 AM on 04/02/2026 with a level of 7.49 mAODN with  Easterly force 5 winds (mAODN is height above average sea level). Please note all tide times are in local time and refer to the high water time at Avonmouth. The high tide levels are now falling and subsequent tides are below the alert threshold. Locations most affected will be low lying land and roads near rivers or on the coast. 
+We are closely monitoring the situation . 
+Avoid coastal footpaths, which may be flooded . 
+This message will be updated by 12:00PM on 04 February 2026 or as the situation changes.
+
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - A series of high tides over the next few days may lead to flooding.  Flooding is possible from Monday 02/02 to Friday 06/02.  Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness over the next four days. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.8m Tuesday 03/02 at 10:45 PM, and 3.5m to 3.9m tomorrow morning Wednesday 04/02 at  11:00 AM. Sharpness 9.4m - 9.7m Wednesday at 9:30 AM. We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 12:00PM on 04 February 2026 or as the situation changes.

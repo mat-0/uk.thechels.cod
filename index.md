@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Wednesday, 04 February 2026
 
-- The average temperature today is 8.02˚C,
-- With highs of 8.71˚C and lows of 6.08˚C,
-- It may feel like 4.49˚C with few clouds
+- The average temperature today is 9.44˚C,
+- With highs of 10.38˚C and lows of 8.86˚C,
+- It may feel like 6.31˚C with few clouds
 - The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 991hPa and humidity is 88%
+- The pressure is 990hPa and humidity is 82%
 - The sun will rise at 07:43 and set at 17:00
 
 <!-- weather_marker ends -->

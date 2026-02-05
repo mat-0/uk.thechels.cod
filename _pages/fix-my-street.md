@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple lights not working, 5th February :- [8849263](https://www.fixmystreet.com/report/8849263)
+- Again., 5th February :- [8849022](https://www.fixmystreet.com/report/8849022)
+- Entire road destroyed, 5th February :- [8849015](https://www.fixmystreet.com/report/8849015)
 - A436 pothole in eastbound carriageway -, 5th February :- [8848356](https://www.fixmystreet.com/report/8848356)
 - Street lighting is not working, 5th February :- [8848188](https://www.fixmystreet.com/report/8848188)
 - Potholes down whole of albert road, 5th February :- [8847977](https://www.fixmystreet.com/report/8847977)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - There are a number of potholes just as you turn into Folland Ave from the main road, 5th February :- [8847329](https://www.fixmystreet.com/report/8847329)
 - Green or amber traffic light is not working problem, 5th February :- [8847368](https://www.fixmystreet.com/report/8847368)
 - Approximately 50 pot holes of varying sizes all the way down Kyderminster Road, 5th February :- [8847211](https://www.fixmystreet.com/report/8847211)
-- No lighting on the drive between Griffith Ave and The Knole, 5th February :- [8847177](https://www.fixmystreet.com/report/8847177)
-- The drain is blocked problem, 5th February :- [8847123](https://www.fixmystreet.com/report/8847123)
-- Post or sign leaning slightly (less than 20 degrees) problem, 5th February :- [8847122](https://www.fixmystreet.com/report/8847122)
 
 <!-- fix_marker ends -->

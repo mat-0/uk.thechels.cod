@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Thursday, 05 February 2026
 
-- The average temperature today is 7.1˚C,
-- With highs of 7.51˚C and lows of 6.08˚C,
-- It may feel like 4.67˚C with moderate rain
-- The wind speed is 3.58m/s and visibility is 2643m
+- The average temperature today is 7.32˚C,
+- With highs of 7.76˚C and lows of 5.95˚C,
+- It may feel like 5.51˚C with moderate rain
+- The wind speed is 2.68m/s and visibility is 5167m
 - The pressure is 981hPa and humidity is 95%
 - The sun will rise at 07:41 and set at 17:02
 

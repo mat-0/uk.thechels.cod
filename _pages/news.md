@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Village's last pub set to reopen after three-year fight ([3 hours ago](https://www.bbc.com/news/articles/c8018j3y7yko?at_medium=RSS&at_campaign=rss))
-- Gloucestershire residents encouraged to share their views on reorganisation of councils ([3 hours ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
-- Man who abused six-year-old girls as teen jailed ([6 hours ago](https://www.bbc.com/news/articles/c14r3vj72kro?at_medium=RSS&at_campaign=rss))
-- Keeping empty city office 'costs £132k a year' ([8 hours ago](https://www.bbc.com/news/articles/clygl0qmvmmo?at_medium=RSS&at_campaign=rss))
-- Congestion concerns raised ahead of junction work ([14 hours ago](https://www.bbc.com/news/articles/c62ryy5zp2eo?at_medium=RSS&at_campaign=rss))
-- New SEND training 'is great news' for students ([14 hours ago](https://www.bbc.com/news/articles/c87rvnynl0xo?at_medium=RSS&at_campaign=rss))
+- Village's last pub set to reopen after three-year fight ([5 hours ago](https://www.bbc.com/news/articles/c8018j3y7yko?at_medium=RSS&at_campaign=rss))
+- Gloucestershire residents encouraged to share their views on reorganisation of councils ([5 hours ago](https://www.cheltenham.gov.uk/news/article/3093/gloucestershire_residents_encouraged_to_share_their_views_on_reorganisation_of_councils))
+- Man who abused six-year-old girls as teen jailed ([8 hours ago](https://www.bbc.com/news/articles/c14r3vj72kro?at_medium=RSS&at_campaign=rss))
+- Keeping empty city office 'costs £132k a year' ([10 hours ago](https://www.bbc.com/news/articles/clygl0qmvmmo?at_medium=RSS&at_campaign=rss))
+- Congestion concerns raised ahead of junction work ([16 hours ago](https://www.bbc.com/news/articles/c62ryy5zp2eo?at_medium=RSS&at_campaign=rss))
+- New SEND training 'is great news' for students ([16 hours ago](https://www.bbc.com/news/articles/c87rvnynl0xo?at_medium=RSS&at_campaign=rss))
 - King Charles' home hosts World Cancer Day event ([1 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
 - Restoration of canal walkway amid £16m funding boost ([1 days ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
 - Teachers strike over 'abusive' pupil behaviour ([1 days ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))

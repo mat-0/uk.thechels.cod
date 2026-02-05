@@ -129,6 +129,14 @@ Flooding may affect low lying land & roads adjacent to the river from Highley to
 - Flood alert: Wye Estuary in Gloucestershire
 - High tides may lead to flooding on Thursday evening and Friday morning. Whilst the period of high tides is coming to an end, river levels will remain over the coming days. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 6.9m to 7.2m Thursday 05/02 at 9:45 PM and 6.9m to 7.1m Friday 06/02 at 10:00 AM. Newport 6.5m to 6.7m Thursday 05/02 at 9:30 PM and 6.5m to 6.7m Friday 06/02 at 09:45 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
+- Flood warning: River Severn at Severn Ham, Tewkesbury
+- Rising river levels are expected to cause flooding tomorrow morning. 
+Flooding is expected on 06 February 2026 . 
+Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 3.9m to 4.2m on 07/02 PM, Upper Pound 3.9m to 4.2m on 07/02 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 06 February 2026 or as the situation changes. 
+
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 

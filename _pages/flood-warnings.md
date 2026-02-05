@@ -75,18 +75,16 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
-- River levels continue to fall but remain high. Flooding continues on 4 February 2026. Flooding will affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 5 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
+Flooding will affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury may fill. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- Rising river levels today may lead to flooding.  Flooding is possible on 4 February 2026 and over the next few days.  Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.  We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 5 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
-- High river levels today may lead to flooding. 
-Flooding is possible on 04 February 2026 . 
-Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Predicted peaks:- Evesham 1.5m to 1.7m on 04/02 PM, Bredon 2.0m to 2.2m on 04/02 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 05 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
+Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peaks:- Evesham peaked 1.44m Wednesday PM, Bredon peaked 2.18m Thursday AM.  We are closely monitoring the situation.  Take care and avoid walking, cycling or driving through flood water.  This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
@@ -111,12 +109,8 @@ We are closely monitoring the situation . Take care and avoid walking, cycling o
 This message will be updated by 12:00PM on 05 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible from the morning of 04 February 2026 . 
-Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Predicted peaks:- Bewdley 2.4m - 2.6m Wednesday PM, Worcester 2.9m - 3.1m Wednesday PM, Diglis 2.8m - 3.0m Wednesday PM, Kempsey Yacht Club 4.9m - 5.1m Wednesday PM and Saxons Lode 3.9m - 4.1m Wednesday PM. 
-We are closely monitoring the situation . 
-Consider activating any flood protection products you may have . Take care and avoid walking, cycling or driving through flood water 
-This message will be updated by 10:00AM on 05 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
+Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peaks:- Bewdley peaked 2.51m Thursday AM, Worcester peaked 3.15m Thursday AM, Diglis peaked 2.90m Thursday AM, Kempsey Yacht Club peaking at 5.05m Thursday AM and Saxons Lode peaked 3.93m Thursday AM.  We are closely monitoring the situation.  Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 6 February 2026 or as the situation changes.
 
 - Flood alert: Wye Estuary in Gloucestershire
 - A series of high tides over the next few days may lead to flooding.  Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow.

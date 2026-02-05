@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole on side of road, 5th February :- [8842642](https://www.fixmystreet.com/report/8842642)
+- Major pot holes all around the mini roundabout, 5th February :- [8842594](https://www.fixmystreet.com/report/8842594)
+- Block drain flooding road, 5th February :- [8842414](https://www.fixmystreet.com/report/8842414)
+- Huge pothole, 5th February :- [8842245](https://www.fixmystreet.com/report/8842245)
 - Overgrown vegetation between The Magnum Ice Cream Company & path, 5th February :- [8842118](https://www.fixmystreet.com/report/8842118)
 - Street light not working. Very dark in area, 5th February :- [8842109](https://www.fixmystreet.com/report/8842109)
 - Pothole on London Road, 5th February :- [8841893](https://www.fixmystreet.com/report/8841893)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Potholes of various sizes - broken road surface, 4th February :- [8839553](https://www.fixmystreet.com/report/8839553)
 - I have reported the collapsing of the road and you despite mentioning potholes have failed to inspect the collapse by Norman’s brook frankly it’s unacceptable that despite me complaining several times you simply deny the issue, 4th February :- [8838995](https://www.fixmystreet.com/report/8838995)
 - Very dangerous large pothole just outside no 19 Greenhills road, 4th February :- [8838547](https://www.fixmystreet.com/report/8838547)
-- A pothole in road problem, 4th February :- [8838875](https://www.fixmystreet.com/report/8838875)
-- Pothole not been repaired as per report. Pothole in middle of road., 4th February :- [8838350](https://www.fixmystreet.com/report/8838350)
-- TMC - Defects - Other problem, 4th February :- [8838898](https://www.fixmystreet.com/report/8838898)
-- TMC - Defects - Other problem, 4th February :- [8838897](https://www.fixmystreet.com/report/8838897)
 
 <!-- fix_marker ends -->

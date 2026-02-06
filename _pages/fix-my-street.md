@@ -9,6 +9,12 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 6th February :- [8857649](https://www.fixmystreet.com/report/8857649)
+- Numerous large Potholes on New Barn Lane, 6th February :- [8857400](https://www.fixmystreet.com/report/8857400)
+- Blocked drain, 6th February :- [8857348](https://www.fixmystreet.com/report/8857348)
+- School warning light not working, 6th February :- [8857334](https://www.fixmystreet.com/report/8857334)
+- Blocked drain, 6th February :- [8857326](https://www.fixmystreet.com/report/8857326)
+- Large pothole, 6th February :- [8857317](https://www.fixmystreet.com/report/8857317)
 - Continous flooding and now potholes appearing, 6th February :- [8857103](https://www.fixmystreet.com/report/8857103)
 - Massive potholes (several!), 6th February :- [8856764](https://www.fixmystreet.com/report/8856764)
 - Lorry had a tyre off here due to MASSIVE POT HOLES!!, 6th February :- [8856757](https://www.fixmystreet.com/report/8856757)
@@ -23,11 +29,5 @@ permalink: /fix-my-street
 - Several XL potholes formed, 6th February :- [8856131](https://www.fixmystreet.com/report/8856131)
 - Council need to address the rod asap, 6th February :- [8856116](https://www.fixmystreet.com/report/8856116)
 - Council need to address the rod asap, 6th February :- [8856115](https://www.fixmystreet.com/report/8856115)
-- Abandoned Caravan, 6th February :- [8856080](https://www.fixmystreet.com/report/8856080)
-- Leaking roof of shelter, 6th February :- [8855704](https://www.fixmystreet.com/report/8855704)
-- No photo as I was driving, 6th February :- [8855674](https://www.fixmystreet.com/report/8855674)
-- Apologies, not a bollard. Large multi sign frame, 6th February :- [8855500](https://www.fixmystreet.com/report/8855500)
-- Water not getting to the train, 6th February :- [8855410](https://www.fixmystreet.com/report/8855410)
-- Inconsiderate and selfish parking by parents, 6th February :- [8855216](https://www.fixmystreet.com/report/8855216)
 
 <!-- fix_marker ends -->

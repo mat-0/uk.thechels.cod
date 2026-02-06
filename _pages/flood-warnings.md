@@ -174,6 +174,22 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 
 
+- Flood warning: River Severn at Chaceley and Haw Bridge
+- Rising river levels are expected to cause flooding over the next three days. 
+Flooding is expected on 06 February 2026 . 
+Flooding may affect properties and roads in and around Chaceley and Haw Bridge, including the B4213. Predicted peak at Haw Bridge 5.1m to 5.4m on 09/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 
+
+- Flood warning: River Severn at Abbots Court, Deerhurst
+- Rising river levels are expected to cause flooding over the next three days. 
+Flooding is expected on 06 February 2026 . 
+Flooding may affect Abbots Court, Deerhurst. Predicted peak at Haw Bridge 5.1m to 5.4m on 09/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 
+
 - Flood warning: River Avon at Strensham and Bredon
 - Rising river levels are expected to cause flooding today. 
 Flooding is expected on 06 February 2026 and over the coming days. 

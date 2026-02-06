@@ -25,54 +25,62 @@ This project fetches flood warning data for the Gloucestershire area and publish
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
 
-River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, especially near Cerney Wick. Rain and heavy showers are forecast for today and Friday. We expect levels to remain high over the coming days. 
+River levels are high on parts of the River Churn. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, especially near Cerney Wick. Further rain is forecast for today, overnight and into Saturday. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: River Windrush from Bourton to Newbridge
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, including areas around Bourton on the Water, Witney, and Newbridge. Rain and heavy showers are forecast for today and Friday. We expect river levels to remain high over the coming days. 
+River levels are high on parts of the River Windrush. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, including areas around Bourton on the Water, Witney, and Newbridge. Further rain is forecast for today, overnight and into Saturday. We expect river levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: River Evenlode from Moreton in Marsh to Cassington and also the River Glyme at Wootton and Woodstock
 - High river levels may lead to flooding. 
 
-River levels are high on the River Evenlode and along the River Glyme. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, including areas around Shipton-under-Wychwood and Woodstock. Rain and heavy showers are forecast for today and Friday.  We expect river levels to remain high over the coming days. 
+River levels are high on the River Evenlode and along the River Glyme. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, including areas around Shipton-under-Wychwood and Woodstock. Further rain is forecast for today, overnight and into Saturday. We expect river levels to remain high over the coming days. 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: River Thames and its small tributaries from Calcutt to Lechlade
-- River levels are high on parts of the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, including in the Kempsford area. Rain and heavy showers are forecast for today and Friday. River levels are high, but steady and we expect river levels to remain high for the next few days.
+- River levels are high on parts of the River Thames and its tributaries from Calcutt to Lechlade. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, including in the Kempsford area. Further rain is forecast for today, overnight and into Saturday. River levels are high, but steady and we expect river levels to remain high for the next few days.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: River Dikler from Condicote to Little Rissington
 - High river levels may lead to flooding. 
 
-River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, including around Bourton on the Water. Rain and heavy showers are forecast for today and Friday.  We expect river levels to remain high over the coming days. 
+River levels are high on the River Dikler. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, including around Bourton on the Water. Further rain is forecast for today, overnight and into Saturday. We expect river levels to remain high over the coming days. 
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: River Leach from Northleach to Mill Lane near Lechlade
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Leach. Flooding of low lying land and roads is possible today, 05 Feb 2026, especially in the Lechlade-on-Thames area. Rain and heavy showers are forecast for today and Friday.  River levels are falling and we expect this to continue.
+River levels are still high on parts of the River Leach. Flooding of low lying land and roads is possible today, 06 Feb 2026, especially in the Lechlade-on-Thames area. Further rain is forecast for today, overnight and into Saturday. River levels are falling and we expect this to continue.
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
+
+- Flood alert: Middle Avon Rugby to Bidford
+- High river levels this morning may lead to flooding. 
+Flooding is possible on 06 February 2026 this afternoon. 
+Locations most affected will be low lying land and roads near rivers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 07 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Gloucestershire
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
@@ -89,22 +97,27 @@ Flooding may affect low lying land and roads adjacent the River Avon from Abbott
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026. Rain and heavy showers are forecast for today and Friday.  River levels are expected to rise today and remain high over the coming days.
+River levels are high on parts of the River Thames and its tributaries from Buscot Wick down to Kings Lock. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026. Further rain is forecast for today, overnight and into Saturday. River levels are expected to continue to rise slowly today and remain high over the coming days.
 
-We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
+We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 - Flood alert: Severn estuary from Gloucester to Sharpness
 - A series of high tides over the next few days may lead to flooding. Flooding is possible until Friday 06/02. Flooding may affect low lying land and roads adjacent to the Estuary from Sandhurst to Chepstow and Sharpness. Some lengths of the flood embankment at Longney and The Noards may be overtopped. Rodley Lane, Westbury and Awre Road, Brims Pill may be flooded. Predicted peaks: Sandhurst 3.5m to 3.7m Thursday 05/02 at 12:00 PM, and 3.5m to 3.7m Friday 06/02 at 00:15 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- Rising river levels today may lead to flooding. 
-Flooding is possible from the early hours of 06 February 2026 . 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. Predicted peaks:- , Mordiford 4m to 4.3m on 06/02 PM, Ross on Wye 3.7m to 4.0m on 07/02 AM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
+- Rising river levels today may lead to flooding. Flooding is possible on the 6th February 2026. 
+
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
+
+Predicted peaks:- Bredwardine 3.2m to 3.3m Friday 06/02 AM, Belmont 3.4m to 3.6m Friday 06/02 PM, Old Wye Bridge 2.9m to 3.1m Friday 06/02 PM, Mordiford 4.2m to 4.5m Saturday 07/02 AM, Ross-on-Wye 3.7m to 4.0m Saturday 07/02 AM. 
+
+Observed peaks:- Hay-on-Wye 1.54m Friday 06/02 AM. 
+
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 7th February 2026 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
 - Rising river levels today may lead to flooding. 
@@ -115,12 +128,15 @@ Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- Rising river levels today may lead to flooding. 
-Flooding is possible from the early hours of 06 February 2026 . 
-Flooding mat effect low lying land and roads along the River Wye. Predicted peaks:-Ross on Wye 3.7m to 4.0m on 07/02 AM, Lydbrook 4.3m to 4.6m on 07/02 PM. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 10:00AM on 06 February 2026 or as the situation changes.
+- Rising river levels today may lead to flooding. Flooding is possible on 7th February 2026.  
+
+Flooding may affect low lying land and roads along the River Wye. 
+
+Predicted peaks:- Ross on Wye 3.7m to 4.0m on Saturday 07/02 AM, Lydbrook 4.6m to 4.9m on Saturday 07/02 PM.  
+
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 7th February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Thursday 5 February, and in the coming days.  Further rainfall is forecast over the next 24 hours.
@@ -140,11 +156,11 @@ This message will be updated by 10:00AM on 06 February 2026 or as the situation 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 
-River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 05 Feb 2026, especially in the Fossebridge area. Rain and heavy showers are forecast for today and Friday.  We expect levels to remain high over the coming days. 
+River levels are high on parts of the River Coln. Flooding of low lying land and roads is expected to continue today, 06 Feb 2026, especially in the Fossebridge area. Further rain is forecast for today, overnight and into Saturday. We expect levels to remain high over the coming days. 
 
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River levels online for updates on current river levels. 
 
-This message will be updated by 12:00 on 06 Feb 2026 or as the situation changes.
+This message will be updated by 12:00 on 07 Feb 2026 or as the situation changes.
 
 
 <!-- flood_marker ends -->

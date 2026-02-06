@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Someone has thrown bin over and now people are putting dog poo bags in bush, 6th February :- [8850396](https://www.fixmystreet.com/report/8850396)
+- Drain continually blocked despite cleansing, 6th February :- [8850236](https://www.fixmystreet.com/report/8850236)
 - Large pothole on corner of Moorend Road close to mini roundabout, 6th February :- [8849600](https://www.fixmystreet.com/report/8849600)
 - Large pothole on Oakland St, 6th February :- [8849597](https://www.fixmystreet.com/report/8849597)
 - Loads of dog dirt again, 5th February :- [8849343](https://www.fixmystreet.com/report/8849343)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole and broken edge of lane on the left side from Brockhampton to Sevenhampton, 5th February :- [8847559](https://www.fixmystreet.com/report/8847559)
 - Big pothole on lane left side from Brockhampton to Sevenhampton, 5th February :- [8847434](https://www.fixmystreet.com/report/8847434)
 - Large pothole impossible to avoid because of parked cars opposite, 5th February :- [8847397](https://www.fixmystreet.com/report/8847397)
-- Missing finger sign, 5th February :- [8847374](https://www.fixmystreet.com/report/8847374)
-- A pothole in road problem, 5th February :- [8847369](https://www.fixmystreet.com/report/8847369)
 
 <!-- fix_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Loads of dog dirt again, 5th February :- [8849343](https://www.fixmystreet.com/report/8849343)
+- Markings of box junction are worn, 5th February :- [8849301](https://www.fixmystreet.com/report/8849301)
 - Multiple lights not working, 5th February :- [8849263](https://www.fixmystreet.com/report/8849263)
 - Again., 5th February :- [8849022](https://www.fixmystreet.com/report/8849022)
 - Entire road destroyed, 5th February :- [8849015](https://www.fixmystreet.com/report/8849015)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - A pothole in road problem, 5th February :- [8847369](https://www.fixmystreet.com/report/8847369)
 - Footpath finger sign broken off, 5th February :- [8847344](https://www.fixmystreet.com/report/8847344)
 - There are a number of potholes just as you turn into Folland Ave from the main road, 5th February :- [8847329](https://www.fixmystreet.com/report/8847329)
-- Green or amber traffic light is not working problem, 5th February :- [8847368](https://www.fixmystreet.com/report/8847368)
-- Approximately 50 pot holes of varying sizes all the way down Kyderminster Road, 5th February :- [8847211](https://www.fixmystreet.com/report/8847211)
 
 <!-- fix_marker ends -->

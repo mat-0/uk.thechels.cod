@@ -12,8 +12,8 @@ seo: Menu
 
 - The average temperature today is 8.1˚C,
 - With highs of 8.62˚C and lows of 6.51˚C,
-- It may feel like 7.18˚C with light rain
-- The wind speed is 1.79m/s and visibility is 7645m
+- It may feel like 6.77˚C with light rain
+- The wind speed is 2.24m/s and visibility is 10000m
 - The pressure is 981hPa and humidity is 95%
 - The sun will rise at 07:40 and set at 17:04
 

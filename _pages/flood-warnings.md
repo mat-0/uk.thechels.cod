@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 05 February 2026 and throughout the week. River levels are currently decreasing at the Great Somerford gauge but are expected to rise in response to overnight rainfall. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rain is expected today and throughout the weekend. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 06 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 06 February 2026 and throughout the weekend. River levels are rising at the Fosseway, Brokenborough and Great Somerford gauges in response to overnight rainfall. The levels at the Dauntsey gauge are currently stable. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End6at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is forecast overnight tonight and on Sunday and river levels may rise further in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 07 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -149,11 +149,22 @@ We are closely monitoring the situation .
 Consider activating any flood protection products you may have . Take care and avoid walking, cycling or driving through flood water. 
 This message will be updated by 10:00AM on 07 February 2026 or as the situation changes.
 
-- Flood alert: Wye Estuary in Gloucestershire
-- High tides may lead to flooding on Thursday evening and Friday morning. Whilst the period of high tides is coming to an end, river levels will remain over the coming days. Flooding may affect low lying land and roads adjacent to the Wye Estuary from Redbrook to Chepstow. Predicted peaks:- Avonmouth Portbury 6.9m to 7.2m Thursday 05/02 at 9:45 PM and 6.9m to 7.1m Friday 06/02 at 10:00 AM. Newport 6.5m to 6.7m Thursday 05/02 at 9:30 PM and 6.5m to 6.7m Friday 06/02 at 09:45 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 1:00PM on 6 February 2026 or as the situation changes.
+- Warning no longer in force: Wye Estuary in Gloucestershire
+- There is no longer a threat of flooding, though standing water and debris may still remain. 
+Coastal conditions are expected to improve and no flooding is expected. Although this tidal alert is no longer in force, river levels remain high due to recent rainfall. 
+We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
+Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
 
 - Flood warning: River Severn at Severn Ham, Tewkesbury
 - River levels continue to rise at the Mythe Bridge and Upper Pound River Gauges. Consequently, flooding continues.  Flooding may affect property and roads in and around Severn Ham and access to Abbey Mill may be compromised. Predicted peaks:- Mythe 4.1m to 4.5m on 08/02 PM, Upper Pound 4.4m to 4.7m on 09/02 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 07 February 2026 or as the situation changes.
+
+- Flood warning: River Severn at Apperley and The Leigh
+- Rising river levels are expected to cause flooding today. 
+Flooding is expected on 06 February 2026 and over the coming days. 
+Flooding may affect Gabb Lane at Apperley and local caravan parks. Predicted peak at Haw Bridge 5.0m to 5.3m on Monday 09/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 10:00AM on 07 February 2026 or as the situation changes. 
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 

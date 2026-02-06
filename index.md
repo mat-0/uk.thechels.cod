@@ -10,10 +10,10 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Friday, 06 February 2026
 
-- The average temperature today is 8.76˚C,
-- With highs of 9.18˚C and lows of 7.06˚C,
-- It may feel like 6.97˚C with overcast clouds
-- The wind speed is 3.09m/s and visibility is 10000m
+- The average temperature today is 9.84˚C,
+- With highs of 10.29˚C and lows of 7.94˚C,
+- It may feel like 8.82˚C with overcast clouds
+- The wind speed is 2.24m/s and visibility is 9000m
 - The pressure is 984hPa and humidity is 95%
 - The sun will rise at 07:40 and set at 17:04
 

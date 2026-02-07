@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Saturday, 07 February 2026
 
-- The average temperature today is 10.67˚C,
-- With highs of 11.09˚C and lows of 9.91˚C,
-- It may feel like 10.12˚C with shower rain
+- The average temperature today is 10.39˚C,
+- With highs of 10.75˚C and lows of 9.83˚C,
+- It may feel like 9.78˚C with broken clouds
 - The wind speed is 6.69m/s and visibility is 10000m
-- The pressure is 992hPa and humidity is 89%
+- The pressure is 993hPa and humidity is 88%
 - The sun will rise at 07:38 and set at 17:06
 
 <!-- weather_marker ends -->

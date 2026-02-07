@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Whole road is a disgrace. Littered with potholes., 7th February :- [8863372](https://www.fixmystreet.com/report/8863372)
+- Multiple very deep pot holes on west bound lane., 7th February :- [8863318](https://www.fixmystreet.com/report/8863318)
+- Leaning sign, 7th February :- [8863114](https://www.fixmystreet.com/report/8863114)
+- Road gulley chamber collapsed, 7th February :- [8863085](https://www.fixmystreet.com/report/8863085)
 - Pothole 18 inch by 10 inch by at least 6 inch deep, 7th February :- [8862838](https://www.fixmystreet.com/report/8862838)
 - Group of potholes between 38 and 39 carisbrooke road, 7th February :- [8862286](https://www.fixmystreet.com/report/8862286)
 - Large puddle in front of school crossing, 7th February :- [8862203](https://www.fixmystreet.com/report/8862203)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Large pothole in road, 7th February :- [8861147](https://www.fixmystreet.com/report/8861147)
 - Drain is blocked, 7th February :- [8861145](https://www.fixmystreet.com/report/8861145)
 - Large pothole in road, 7th February :- [8861140](https://www.fixmystreet.com/report/8861140)
-- Large pothole in road, 7th February :- [8861133](https://www.fixmystreet.com/report/8861133)
-- Large pothole in lane, 7th February :- [8861120](https://www.fixmystreet.com/report/8861120)
-- Four very deep potholes. U now have to drive through if u are on one side of the road., 7th February :- [8860990](https://www.fixmystreet.com/report/8860990)
-- Road and drive erosion, 7th February :- [8860911](https://www.fixmystreet.com/report/8860911)
 
 <!-- fix_marker ends -->

@@ -162,6 +162,14 @@ This message will be updated by 11:00AM on 08 February 2026 or as the situation 
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 07 February, and in the coming days. Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.7m to 2.9m on Saturday 07/02 PM, and Bredon 2.9m to 3.1m on Sunday 08/02 PM. 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 08 February 2026 or as the situation changes.
 
+- Flood warning: River Avon at Twyning
+- High river levels are expected to cause flooding today. 
+Flooding is expected on 07 February 2026 . 
+Flooding may affect properties and roads around Twyning Green. Predicted peak:- Bredon 2.9m to 3.1m on 08/02 PM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 08 February 2026 or as the situation changes. 
+
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. 
 

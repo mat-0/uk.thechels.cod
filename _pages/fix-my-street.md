@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Group of potholes between 38 and 39 carisbrooke road, 7th February :- [8862286](https://www.fixmystreet.com/report/8862286)
+- Large puddle in front of school crossing, 7th February :- [8862203](https://www.fixmystreet.com/report/8862203)
+- The brickwork has sunk below the level of the pavement, which poses a trip hazard, 7th February :- [8862087](https://www.fixmystreet.com/report/8862087)
+- Dumped tyre & wood, 7th February :- [8862059](https://www.fixmystreet.com/report/8862059)
+- Big potholes driving down Leckhampton Road which our hard to avoid due to cars parked on road and oncoming traffic, 7th February :- [8861932](https://www.fixmystreet.com/report/8861932)
 - Big potholes which are hard to avoid as you drive down Leckhampton Road, 7th February :- [8861924](https://www.fixmystreet.com/report/8861924)
 - Big potholes which are hard to avoid as you drive down Leckhampton Road, 7th February :- [8861923](https://www.fixmystreet.com/report/8861923)
 - Large pothole, 7th February :- [8861914](https://www.fixmystreet.com/report/8861914)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Four very deep potholes. U now have to drive through if u are on one side of the road., 7th February :- [8860990](https://www.fixmystreet.com/report/8860990)
 - Road and drive erosion, 7th February :- [8860911](https://www.fixmystreet.com/report/8860911)
 - Erosion of surface leading to tyres slipping, 7th February :- [8860688](https://www.fixmystreet.com/report/8860688)
-- Deep rut on edge of Gambles Lane, eroding highway, 7th February :- [8860588](https://www.fixmystreet.com/report/8860588)
-- Bollard missing, 7th February :- [8860529](https://www.fixmystreet.com/report/8860529)
-- Multiple bollards damaged on Gambles Lane, 7th February :- [8860471](https://www.fixmystreet.com/report/8860471)
-- Potholes in the road, 7th February :- [8860435](https://www.fixmystreet.com/report/8860435)
-- Deep rut eroding edge of road, 7th February :- [8860410](https://www.fixmystreet.com/report/8860410)
 
 <!-- fix_marker ends -->

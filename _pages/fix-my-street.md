@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Drain once again needs repair, 7th February :- [8858927](https://www.fixmystreet.com/report/8858927)
+- Abandoned private hire car, 7th February :- [8858739](https://www.fixmystreet.com/report/8858739)
+- Flytipped suitcase Malthouse Lane/ Dunalley Parade, 7th February :- [8858499](https://www.fixmystreet.com/report/8858499)
+- Flytipped furniture on pavement Courtenay Street, 7th February :- [8858488](https://www.fixmystreet.com/report/8858488)
 - Road drain blocked with decomposed leaves, 7th February :- [8858376](https://www.fixmystreet.com/report/8858376)
 - Hazard to road users, particularly those on two wheels, 7th February :- [8858277](https://www.fixmystreet.com/report/8858277)
 - Multiple large potholes causing damage to vehicles, 7th February :- [8858251](https://www.fixmystreet.com/report/8858251)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Massive potholes (several!), 6th February :- [8856764](https://www.fixmystreet.com/report/8856764)
 - Lorry had a tyre off here due to MASSIVE POT HOLES!!, 6th February :- [8856757](https://www.fixmystreet.com/report/8856757)
 - 300+ millimetre diameter deep pothole full of water on outside of eastbound., 6th February :- [8856636](https://www.fixmystreet.com/report/8856636)
-- Pot hole on the speed ramp before the junction, 6th February :- [8856610](https://www.fixmystreet.com/report/8856610)
-- Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians, 6th February :- [8856534](https://www.fixmystreet.com/report/8856534)
-- Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians, 6th February :- [8856507](https://www.fixmystreet.com/report/8856507)
-- Water ponding on carriageway, 6th February :- [8856291](https://www.fixmystreet.com/report/8856291)
 
 <!-- fix_marker ends -->

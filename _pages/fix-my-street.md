@@ -9,6 +9,10 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes, 8th February :- [8869807](https://www.fixmystreet.com/report/8869807)
+- Broken Road Edge, Narrow Lane, 8th February :- [8869731](https://www.fixmystreet.com/report/8869731)
+- The flooding at this location is getting worse, 8th February :- [8869721](https://www.fixmystreet.com/report/8869721)
+- Pothole in entrance to Manor Park, 8th February :- [8869339](https://www.fixmystreet.com/report/8869339)
 - Several huge potholes, 8th February :- [8869213](https://www.fixmystreet.com/report/8869213)
 - Sunken Drain, 8th February :- [8869146](https://www.fixmystreet.com/report/8869146)
 - Footpath ruined, 8th February :- [8868979](https://www.fixmystreet.com/report/8868979)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - 4 potholes getting g wider and derper, 8th February :- [8867575](https://www.fixmystreet.com/report/8867575)
 - TMC - Defects -FW6 Potholes problem, 8th February :- [8867878](https://www.fixmystreet.com/report/8867878)
 - Potholes on collapsing speed hump, 8th February :- [8867504](https://www.fixmystreet.com/report/8867504)
-- Near bus stop, 8th February :- [8867446](https://www.fixmystreet.com/report/8867446)
-- Pothole getting deeper and wider, 8th February :- [8867397](https://www.fixmystreet.com/report/8867397)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8867539](https://www.fixmystreet.com/report/8867539)
-- Badly repaired pothole (c only 1 month ago, already failing), plus 2 adjacent potholes which should have been deatlt with at same time., 8th February :- [8867389](https://www.fixmystreet.com/report/8867389)
 
 <!-- fix_marker ends -->

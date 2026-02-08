@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sinkhole on residential street causes road closures ([2 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
-- Tax bill hike for police budget amid plan to put more bobbies on the beat ([5 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
-- Tax bills rise by 5.7% to cover policing shortfall ([6 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([11 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
+- Sinkhole on residential street causes road closures ([4 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
+- Tax bill hike for police budget amid plan to put more bobbies on the beat ([7 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
+- Tax bills rise by 5.7% to cover policing shortfall ([8 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([13 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
 - Lost spaniel is found after two weeks in the wild ([1 days ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
 - Teen to climb Everest equivalent for scout trip ([1 days ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
 - 'Theme park' and 'stabbed teenager memorial' ([1 days ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
@@ -29,7 +29,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Man who abused six-year-old girls as teen jailed ([3 days ago](https://www.bbc.com/news/articles/c14r3vj72kro?at_medium=RSS&at_campaign=rss))
 - Keeping empty city office 'costs £132k a year' ([3 days ago](https://www.bbc.com/news/articles/clygl0qmvmmo?at_medium=RSS&at_campaign=rss))
 - New SEND training 'is great news' for students ([3 days ago](https://www.bbc.com/news/articles/c87rvnynl0xo?at_medium=RSS&at_campaign=rss))
-- King Charles' home hosts World Cancer Day event ([3 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
+- King Charles' home hosts World Cancer Day event ([4 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
 - Teachers strike over 'abusive' pupil behaviour ([4 days ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
 - Hundreds oppose plans for new Forest of Dean town ([4 days ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
 - Cheltenham community praised for generosity in Salvation Army’s Christmas Appeal ([10 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-praised-for-generosity-in-salvation-armys-christmas-appeal/))

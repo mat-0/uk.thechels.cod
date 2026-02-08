@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 08 February 2026
 
-- The average temperature today is 9.61˚C,
-- With highs of 10.4˚C and lows of 8.8˚C,
-- It may feel like 7.05˚C with light rain
-- The wind speed is 5.14m/s and visibility is 10000m
-- The pressure is 1003hPa and humidity is 88%
+- The average temperature today is 9.51˚C,
+- With highs of 10.52˚C and lows of 8.49˚C,
+- It may feel like 6.74˚C with shower rain
+- The wind speed is 5.66m/s and visibility is 10000m
+- The pressure is 1003hPa and humidity is 85%
 - The sun will rise at 07:36 and set at 17:08
 
 <!-- weather_marker ends -->

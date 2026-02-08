@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole next to brick hump, 8th February :- [8870369](https://www.fixmystreet.com/report/8870369)
+- Pothole just north of mini round about, 8th February :- [8870354](https://www.fixmystreet.com/report/8870354)
+- Pothole on side of road, 8th February :- [8870345](https://www.fixmystreet.com/report/8870345)
+- Pothole on side of road just south of mini round about, 8th February :- [8870339](https://www.fixmystreet.com/report/8870339)
+- More deep dangerous potholes, 8th February :- [8870154](https://www.fixmystreet.com/report/8870154)
+- Another strip of deep wide potholes, 8th February :- [8870125](https://www.fixmystreet.com/report/8870125)
+- 300 meters of deep wide potholes., 8th February :- [8870101](https://www.fixmystreet.com/report/8870101)
+- Fly tipping, 8th February :- [8870033](https://www.fixmystreet.com/report/8870033)
 - Potholes, 8th February :- [8869807](https://www.fixmystreet.com/report/8869807)
 - Broken Road Edge, Narrow Lane, 8th February :- [8869731](https://www.fixmystreet.com/report/8869731)
 - The flooding at this location is getting worse, 8th February :- [8869721](https://www.fixmystreet.com/report/8869721)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Developing pothole , material being expelled on pavement, 8th February :- [8868457](https://www.fixmystreet.com/report/8868457)
 - Flytipped items, 8th February :- [8868235](https://www.fixmystreet.com/report/8868235)
 - 2 x pavement potholes, approx 12 inch diameter, between 103 and 105 Ciren Road, 8th February :- [8868013](https://www.fixmystreet.com/report/8868013)
-- I counted fourteen potholes on Wellington Road between the suare and the A435, 8th February :- [8867982](https://www.fixmystreet.com/report/8867982)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8868161](https://www.fixmystreet.com/report/8868161)
-- TMC - Defects -CW6 Potholes  problem, 8th February :- [8867879](https://www.fixmystreet.com/report/8867879)
-- 4 large pot holes, on narrow chicane outside school that are impossible to avoid, 8th February :- [8867603](https://www.fixmystreet.com/report/8867603)
-- 2potholes on mini roundabout getting deeper and wider, 8th February :- [8867601](https://www.fixmystreet.com/report/8867601)
-- 4 potholes getting g wider and derper, 8th February :- [8867575](https://www.fixmystreet.com/report/8867575)
-- TMC - Defects -FW6 Potholes problem, 8th February :- [8867878](https://www.fixmystreet.com/report/8867878)
-- Potholes on collapsing speed hump, 8th February :- [8867504](https://www.fixmystreet.com/report/8867504)
 
 <!-- fix_marker ends -->

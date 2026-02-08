@@ -198,5 +198,13 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 09 Feb 2026 or as the situation changes.
 
+- Flood warning: River Severn at Ashleworth
+- Rising river levels are expected to cause flooding today. 
+Flooding is expected on 08 February 2026 and in the coming days. 
+Flooding may affect properties and roads in and around Ashleworth, Apperley and the Leigh. Ashleworth Flood Alleviation Scheme may be overtopping. Predicted peak at Haw Bridge 5.15m to 5.3m on Monday 09/02 AM. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 09 February 2026 or as the situation changes. 
+
 
 <!-- flood_marker ends -->

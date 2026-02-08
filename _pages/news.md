@@ -12,9 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Lost spaniel is found after two weeks in the wild ([13 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
-- Teen to climb Everest equivalent for scout trip ([23 hours ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
-- 'Theme park' and 'stabbed teenager memorial' ([23 hours ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([1 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
+- Lost spaniel is found after two weeks in the wild ([15 hours ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
+- Teen to climb Everest equivalent for scout trip ([1 days ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
+- 'Theme park' and 'stabbed teenager memorial' ([1 days ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))
 - Driver avoids prison after fatal crash on A-road ([1 days ago](https://www.bbc.com/news/articles/c2lgl9dwkglo?at_medium=RSS&at_campaign=rss))
 - Bid could turn forest into 'theme park' group says ([1 days ago](https://www.bbc.com/news/articles/cm2y24vdn1do?at_medium=RSS&at_campaign=rss))
 - An uplifting night of celebration at the No Child Left Behind Awards 2025 ([1 days ago](https://www.cheltenham.gov.uk/news/article/3094/an_uplifting_night_of_celebration_at_the_no_child_left_behind_awards_2025))
@@ -29,7 +30,6 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - King Charles' home hosts World Cancer Day event ([3 days ago](https://www.bbc.com/news/articles/cwyw058g99lo?at_medium=RSS&at_campaign=rss))
 - Restoration of canal walkway amid £16m funding boost ([3 days ago](https://www.bbc.com/news/articles/cp873mnp1rgo?at_medium=RSS&at_campaign=rss))
 - Teachers strike over 'abusive' pupil behaviour ([3 days ago](https://www.bbc.com/news/articles/cq5ynn00032o?at_medium=RSS&at_campaign=rss))
-- 'I want other cancer patients to realise they are not alone' ([4 days ago](https://www.bbc.com/news/articles/crkr3yg2zpko?at_medium=RSS&at_campaign=rss))
 - Hundreds oppose plans for new Forest of Dean town ([4 days ago](https://www.bbc.com/news/articles/cqxyn385rrxo?at_medium=RSS&at_campaign=rss))
 - Cheltenham community praised for generosity in Salvation Army’s Christmas Appeal ([9 days ago](https://gloucesternewscentre.co.uk/cheltenham-community-praised-for-generosity-in-salvation-armys-christmas-appeal/))
 - Lib Dems plan council tax and parking hike for Gloucestershire ([9 days ago](https://gloucesternewscentre.co.uk/lib-dems-plan-council-tax-and-parking-hike-for-gloucestershire/))
@@ -47,7 +47,7 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Police Chief wants to raise Council Tax ([16 days ago](https://www.bbc.co.uk/sounds/play/p0mwgdbd?at_medium=RSS&at_campaign=rss))
 - Celebrating 29 inspiring finalists for the No Child Left Behind Awards 2025 ([17 days ago](https://www.cheltenham.gov.uk/news/article/3088/celebrating_29_inspiring_finalists_for_the_no_child_left_behind_awards_2025))
 - New local polling shows Reform would make sweeping gains in cancelled Cheltenham elections ([18 days ago](https://gloucesternewscentre.co.uk/new-local-polling-shows-reform-would-make-sweeping-gains-in-cancelled-cheltenham-elections/))
-- Serious concerns over low rate of cyber security training among councillors ([18 days ago](https://gloucesternewscentre.co.uk/serious-concerns-over-low-rate-of-cyber-security-training-among-councillors/))
+- Serious concerns over low rate of cyber security training among councillors ([19 days ago](https://gloucesternewscentre.co.uk/serious-concerns-over-low-rate-of-cyber-security-training-among-councillors/))
 - Have your say on Cheltenham’s housing budget for 2026/27 ([22 days ago](https://www.cheltenham.gov.uk/news/article/3086/have_your_say_on_cheltenhams_housing_budget_for_202627))
 - Long‑awaited review of sexual entertainment rules announced following Cheltenham campaign ([22 days ago](https://www.cheltenham.gov.uk/news/article/3087/long%E2%80%91awaited_review_of_sexual_entertainment_rules_announced_following_cheltenham_campaign))
 - Calls for Cavendish House to be ‘restored to past glories’ after traders leave ([23 days ago](https://gloucesternewscentre.co.uk/calls-for-cavendish-house-to-be-restored-to-past-glories-after-traders-leave/))
@@ -57,8 +57,8 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 - Ask for Angela test operation achieves 100% pass rate ([26 days ago](https://gloucesternewscentre.co.uk/ask-for-angela-test-operation-achieves-100-pass-rate/))
 - Budget cut sparks fear over council’s pledge to tackle climate change as 2030 approaches ([26 days ago](https://gloucesternewscentre.co.uk/budget-cut-sparks-fear-over-councils-pledge-to-tackle-climate-change-as-2030-approaches/))
 - Ask for Angela test operation achieves 100% pass rate ([26 days ago](https://www.cheltenham.gov.uk/news/article/3084/ask_for_angela_test_operation_achieves_100_pass_rate))
-- Year of the Horse: Jo Rose brings powerful new exhibition to Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/year-of-the-horse-jo-rose-brings-powerful-new-exhibition-to-cheltenham/))
-- CCTV appeal after report cyclist assaulted pedestrian in Cheltenham ([26 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-after-report-cyclist-assaulted-pedestrian-in-cheltenham/))
+- Year of the Horse: Jo Rose brings powerful new exhibition to Cheltenham ([27 days ago](https://gloucesternewscentre.co.uk/year-of-the-horse-jo-rose-brings-powerful-new-exhibition-to-cheltenham/))
+- CCTV appeal after report cyclist assaulted pedestrian in Cheltenham ([27 days ago](https://gloucesternewscentre.co.uk/cctv-appeal-after-report-cyclist-assaulted-pedestrian-in-cheltenham/))
 - Golden Valley submits detailed plans for phase one ([29 days ago](https://www.cheltenham.gov.uk/news/article/3083/golden_valley_submits_detailed_plans_for_phase_one))
 
 <!-- news_marker ends -->

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Traffic light out, 8th February :- [8864028](https://www.fixmystreet.com/report/8864028)
+- Water pooling across path due to uneven surface, 8th February :- [8864008](https://www.fixmystreet.com/report/8864008)
 - Large pothole, 8th February :- [8863612](https://www.fixmystreet.com/report/8863612)
 - Multipke pot holes of varying depths and widths along manor road towards the roundabout near salvation army shop. Some are at least 4inchs deep and over 40cm wide duevto the number of pot holes and where they are in the road you are having to drive eirher very close to the pavement or on the other side of the riad to miss them to prevent damaging a car, 7th February :- [8863542](https://www.fixmystreet.com/report/8863542)
 - Whole road is a disgrace. Littered with potholes., 7th February :- [8863372](https://www.fixmystreet.com/report/8863372)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - The cycle path needs sweeping, 7th February :- [8861878](https://www.fixmystreet.com/report/8861878)
 - Large potholes outside 219 Hatherley Road, 7th February :- [8861413](https://www.fixmystreet.com/report/8861413)
 - Street light not working, 7th February :- [8861167](https://www.fixmystreet.com/report/8861167)
-- Large pothole, 7th February :- [8861153](https://www.fixmystreet.com/report/8861153)
-- Large pothole in road, 7th February :- [8861147](https://www.fixmystreet.com/report/8861147)
 
 <!-- fix_marker ends -->

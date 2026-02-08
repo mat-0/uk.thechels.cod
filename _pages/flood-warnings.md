@@ -75,7 +75,7 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 on 08 Feb 2026 or as the situation changes.
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels today may lead to flooding.  Flooding is possible on 07 February 2026 .  Locations most affected will be low lying land and roads near rivers.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 08 February 2026 or as the situation changes.
+- High river levels overnight have led to flooding. Flooding is possible on 08 February 2026 . Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 09 February 2026 or as the situation changes.
 
 - Warning no longer in force: River Stour in South Warwickshire
 - There is no longer a threat of flooding, though standing water and debris may still remain. 
@@ -89,8 +89,11 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Predicted peaks:- Mythe 4.2m to 4.5m on Sunday 08/02 PM, and Haw Bridge 5.1m to 5.3m on Monday 09/02 AM. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 08 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 07 February, and in the coming days. Further rainfall is forecast over the next 24 hours.
-Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 08 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Sunday 08 February, and in the coming days. Further rainfall is forecast over the next 24 hours. 
+
+Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 10:00AM on 09 February 2026 or as the situation changes.
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high in response to the recent rainfall. Flooding is possible today, Saturday 07 February, and in the coming days. Further rainfall is forecast over the next 24 hours.
@@ -106,26 +109,20 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 08 Feb 2026 or as the situation changes.
 
-- Warning no longer in force: Severn estuary from Gloucester to Sharpness
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Coastal conditions are expected to improve and no flooding is expected. Although this tidal alert is no longer in force, river levels remain high due to recent rainfall. 
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
 - Flood alert: River Wye in Herefordshire
-- High river levels today may lead to flooding. Flooding is possible on 7th February 2026.
+- High river levels today may lead to flooding. Flooding is possible on 8th February 2026.
 Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.
 Observed peaks:- Hay-on-Wye 1.54m Friday 06/02 AM. Bredwardine 3.22m Friday 06/02 AM. Belmont 3.46m Friday 06/02 PM. Old Wye Bridge 2.96m Friday 06/02 PM. Mordiford 3.90m Friday 06/02 PM. Ross-on-Wye 3.52m Saturday 07/02 AM.
+Predicted peaks:- Mordiford second peak of 4.1m Sunday 08/02 AM, Ross-on-Wye second peak of 3.7m to 3.8m Sunday 08/02 PM.
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 10:00AM on 8th February 2026 or as the situation changes.
+This message will be updated by 10:00AM on 9th February 2026 or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
-- Rising river levels today may lead to flooding. 
-Flooding is possible on 07 February 2026 . 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 08 February 2026 or as the situation changes.
+- River levels remain high in response to the recent rainfall. Flooding is possible today, Sunday 08 February, and in the coming days. Further rainfall is forecast over the next 24 hours. 
+
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
+
+This message will be updated by 11:00AM on 09 February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
 - High river levels today may lead to flooding. Flooding is possible on 7th February 2026. 

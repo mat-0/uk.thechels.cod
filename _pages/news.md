@@ -12,10 +12,10 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Sinkhole on residential street causes road closures ([10 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
-- Tax bill hike for police budget amid plan to put more bobbies on the beat ([14 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
-- Tax bills rise by 5.7% to cover policing shortfall ([15 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
-- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([20 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
+- Sinkhole on residential street causes road closures ([12 hours ago](https://www.bbc.com/news/articles/c0lj84ld9ezo?at_medium=RSS&at_campaign=rss))
+- Tax bill hike for police budget amid plan to put more bobbies on the beat ([16 hours ago](https://gloucesternewscentre.co.uk/tax-bill-hike-for-police-budget-amid-plan-to-put-more-bobbies-on-the-beat/))
+- Tax bills rise by 5.7% to cover policing shortfall ([16 hours ago](https://www.bbc.com/news/articles/cp8r1kvxvmro?at_medium=RSS&at_campaign=rss))
+- In Pictures: 'Pancake Day preparations' and 'dancing at Highgrove' ([22 hours ago](https://www.bbc.com/news/articles/cly1j2yyykdo?at_medium=RSS&at_campaign=rss))
 - Lost spaniel is found after two weeks in the wild ([1 days ago](https://www.bbc.com/news/articles/cre2e19ew02o?at_medium=RSS&at_campaign=rss))
 - Teen to climb Everest equivalent for scout trip ([1 days ago](https://www.bbc.com/news/articles/cn0k6d2p4z7o?at_medium=RSS&at_campaign=rss))
 - 'Theme park' and 'stabbed teenager memorial' ([1 days ago](https://www.bbc.com/news/articles/c87r94y5wnwo?at_medium=RSS&at_campaign=rss))

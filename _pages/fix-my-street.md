@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 49 Green street, 9th February :- [8870848](https://www.fixmystreet.com/report/8870848)
+- 12 inches in, 9th February :- [8870800](https://www.fixmystreet.com/report/8870800)
 - Several potholes on Harry Yates Way, after roundabout and up towards Thistledown Close, 8th February :- [8870541](https://www.fixmystreet.com/report/8870541)
 - Pothole next to brick hump, 8th February :- [8870369](https://www.fixmystreet.com/report/8870369)
 - Pothole just north of mini round about, 8th February :- [8870354](https://www.fixmystreet.com/report/8870354)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Footpath ruined, 8th February :- [8868979](https://www.fixmystreet.com/report/8868979)
 - Pathway flooded and surface damaged, 8th February :- [8868937](https://www.fixmystreet.com/report/8868937)
 - Pothole, 8th February :- [8868569](https://www.fixmystreet.com/report/8868569)
-- Developing pothole , material being expelled on pavement, 8th February :- [8868457](https://www.fixmystreet.com/report/8868457)
-- Flytipped items, 8th February :- [8868235](https://www.fixmystreet.com/report/8868235)
 
 <!-- fix_marker ends -->

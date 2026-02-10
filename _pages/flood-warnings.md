@@ -20,7 +20,7 @@ This project fetches flood warning data for the Gloucestershire area and publish
 
 <!-- flood_marker starts -->
 - Flood alert: Upper Bristol Avon area
-- High river levels today may lead to flooding. Flooding is possible on 09 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, and Dauntsey gauges are currently peaking but the Avon at Great Somerford is still rising. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is forecast for later today and tomorrow and river levels are expected to rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 10 February 2026 or as the situation changes.
+- High river levels today may lead to flooding. Flooding is possible on 10 February 2026 and throughout this week. River levels at the Fosseway, Brokenborough, Great Somerford and Dauntsey gauges are currently falling. Flooding is forecast to affect locations near the Bristol Avon, Tetbury Avon, Sherston Avon, Dauntsey Brook, with low lying land and roads expected to be most affected, particularly around low lying areas in Tetbury, Badminton, Brook End at Luckington, Corsham, Lacock and the road at Reybridge. Further rainfall is forecast for later today and tomorrow and river levels may rise again in response. We are closely monitoring the situation and will issue further alerts and warnings if required. Please avoid using low lying footpaths and any bridges near local watercourses. This message will be updated by 12:00PM on 11 February 2026 or as the situation changes.
 
 - Flood alert: River Churn and its tributaries
 - High river levels may lead to flooding.
@@ -113,15 +113,15 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 on 11 Feb 2026 or as the situation changes.
 
 - Flood alert: River Wye in Herefordshire
-- High river levels today may lead to flooding. Flooding is possible on 9th February 2026.
+- High river levels today may lead to flooding. Flooding is possible on 10th February 2026. 
 
-Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force.
+Flooding may affect low lying land and roads along the River Wye from Hay on Wye to Ross on Wye. Other locations affected may include the A438 between Letton & Willersey, Byford, Bredwardine & Hereford. Road closures & diversions on the A438 may be in force. 
 
-Observed peaks:- Hay-on-Wye 1.54m Friday 06/02 AM. Bredwardine 3.22m Friday 06/02 AM. Belmont 3.46m Friday 06/02 PM. Old Wye Bridge 2.96m Friday 06/02 PM. Mordiford 3.90m Friday 06/02 PM and 4.20m Sunday 08/02 PM. Ross-on-Wye 3.52m Saturday 07/02 AM and 3.78m Sunday 08/02 PM.
+Observed peaks:- Hay-on-Wye 1.54m Friday 06/02 AM. Bredwardine 3.22m Friday 06/02 AM. Belmont 3.46m Friday 06/02 PM. Old Wye Bridge 2.96m Friday 06/02 PM. Mordiford 3.90m Friday 06/02 PM and 4.20m Sunday 08/02 PM. Ross-on-Wye 3.52m Saturday 07/02 AM and 3.78m Sunday 08/02 PM. 
 
-We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
+We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water.  
 
-This message will be updated by 10:00AM on 10th February 2026 or as the situation changes.
+This message will be updated by 10:00AM on 11th February 2026 or as the situation changes.
 
 - Warning no longer in force: Rivers in the Forest of Dean
 - There is no longer a threat of flooding, though standing water and debris may still remain. 

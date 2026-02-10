@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Potholes down Albert Road, 10th February :- [8880390](https://www.fixmystreet.com/report/8880390)
+- Multiple potholes opened up AGAIN, 9th February :- [8880298](https://www.fixmystreet.com/report/8880298)
 - Large pothole that is getting bigger, 9th February :- [8880178](https://www.fixmystreet.com/report/8880178)
 - 12" pothole right outside my house, 9th February :- [8880113](https://www.fixmystreet.com/report/8880113)
 - A 350-400mm square sinkage in the road due to poor backfill of a drain repair, 9th February :- [8880094](https://www.fixmystreet.com/report/8880094)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Pothole in centre of carriageway, 9th February :- [8878925](https://www.fixmystreet.com/report/8878925)
 - Series of potholes in road, 9th February :- [8878911](https://www.fixmystreet.com/report/8878911)
 - Back Lane, 9th February :- [8878843](https://www.fixmystreet.com/report/8878843)
-- TMC - Defects -CW10 Potholes problem, 9th February :- [8878964](https://www.fixmystreet.com/report/8878964)
-- Potholes by Arlington on Douro Rd, 9th February :- [8878545](https://www.fixmystreet.com/report/8878545)
 
 <!-- fix_marker ends -->

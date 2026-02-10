@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Tuesday, 10 February 2026
 
-- The average temperature today is 9.8˚C,
+- The average temperature today is 9.97˚C,
 - With highs of 10.55˚C and lows of 9.05˚C,
-- It may feel like 9.8˚C with overcast clouds
-- The wind speed is 0.89m/s and visibility is 10000m
-- The pressure is 981hPa and humidity is 94%
+- It may feel like 9.34˚C with overcast clouds
+- The wind speed is 1.79m/s and visibility is 10000m
+- The pressure is 981hPa and humidity is 95%
 - The sun will rise at 07:33 and set at 17:12
 
 <!-- weather_marker ends -->

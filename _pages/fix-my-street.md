@@ -9,6 +9,15 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Recent repair of rattling drain lid has not been resolved and continues to clatter when cars drive over it, 10th February :- [8889321](https://www.fixmystreet.com/report/8889321)
+- Potholes galore, 10th February :- [8889285](https://www.fixmystreet.com/report/8889285)
+- Large deep pot hole, 10th February :- [8889256](https://www.fixmystreet.com/report/8889256)
+- Deep pothole, 12” - 14” in diameter in centre of road., 10th February :- [8889225](https://www.fixmystreet.com/report/8889225)
+- A few large potholes in Salvia Close, not far from the entrance, 10th February :- [8889130](https://www.fixmystreet.com/report/8889130)
+- A large number of potholes on the top of Coriander Drive, 10th February :- [8889113](https://www.fixmystreet.com/report/8889113)
+- Pothole in road, 10th February :- [8889109](https://www.fixmystreet.com/report/8889109)
+- Multiple pothole on the mini roundabout, 10th February :- [8889043](https://www.fixmystreet.com/report/8889043)
+- Several pot holes, Cotswold Way, Cheltenham, 10th February :- [8888986](https://www.fixmystreet.com/report/8888986)
 - Corner of billbrook road near green lane., 10th February :- [8888657](https://www.fixmystreet.com/report/8888657)
 - Large deep crater, 10th February :- [8888547](https://www.fixmystreet.com/report/8888547)
 - There are numerous potholes and missing road surface, 10th February :- [8888432](https://www.fixmystreet.com/report/8888432)
@@ -20,14 +29,5 @@ permalink: /fix-my-street
 - Flooded YET AGAIN lmao nice one council., 10th February :- [8886992](https://www.fixmystreet.com/report/8886992)
 - Pot hole full of water but looks like the could subside, 10th February :- [8886973](https://www.fixmystreet.com/report/8886973)
 - Volunteer litter picker, 10th February :- [8886797](https://www.fixmystreet.com/report/8886797)
-- Next to the paved green area, 10th February :- [8886673](https://www.fixmystreet.com/report/8886673)
-- Loads hole, 10th February :- [8886567](https://www.fixmystreet.com/report/8886567)
-- A pothole in road problem, 10th February :- [8886187](https://www.fixmystreet.com/report/8886187)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886200](https://www.fixmystreet.com/report/8886200)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886205](https://www.fixmystreet.com/report/8886205)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886203](https://www.fixmystreet.com/report/8886203)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886195](https://www.fixmystreet.com/report/8886195)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886202](https://www.fixmystreet.com/report/8886202)
-- TMC - Defects -CW6 Potholes  problem, 10th February :- [8886201](https://www.fixmystreet.com/report/8886201)
 
 <!-- fix_marker ends -->

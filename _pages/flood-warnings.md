@@ -123,11 +123,11 @@ We are closely monitoring the situation. Take care and avoid walking, cycling 
 This message will be updated by 10:00AM on 11th February 2026 or as the situation changes.
 
 - Flood alert: River Wye in Gloucestershire
-- High river levels today may lead to flooding. Flooding is possible on 9th February 2026. 
+- High river levels today may lead to flooding. Flooding is possible on 10th February 2026. 
 Flooding may affect low lying land and roads along the River Wye.
 Observed peaks:- Ross-on-Wye 3.52m Saturday 07/02 AM and 3.78m Sunday 08/02 PM. Lydbrook 4.62m Monday 09/02 AM.
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-This message will be updated by 10:00AM on 10th February 2026 or as the situation changes.
+This message will be updated by 10:00AM on 11th February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels are falling slowly but  remain high in response to the recent rainfall. Flooding is possible today, Tuesday 10 February, and in the coming days.  Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 11 February 2026 or as the situation changes.

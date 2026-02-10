@@ -84,12 +84,7 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00 on 11 Feb 2026 or as the situation changes
 
 - Flood alert: Middle Avon Rugby to Bidford
-- High river levels this morning may lead to flooding. 
-Flooding is possible on 09 February 2026 . 
-Locations most affected will be low lying land and roads near rivers. 
-We are closely monitoring the situation . 
-Take care and avoid walking, cycling or driving through flood water . 
-This message will be updated by 11:00AM on 10 February 2026 or as the situation changes.
+- High river levels on Monday have led to flooding. Flooding is possible on 10 February 2026 . Locations most affected will be low lying land and roads near rivers. We are closely monitoring the situation . Take care and avoid walking, cycling or driving through flood water . This message will be updated by 11:00AM on 11 February 2026 or as the situation changes.
 
 - Flood alert: Rivers in South Worcestershire
 - High river levels today may lead to flooding.  Flooding is possible on 10 February 2026 .  Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. Peak information:- Sedgeberrow 1.67m on 09/02 PM, Hinton on the Green 2.29m on 09/02 PM, Toddington 1.14m on 09/02 AM.  We are closely monitoring the situation .  Take care and avoid walking, cycling or driving through flood water .  This message will be updated by 11:00AM on 11 February 2026 or as the situation changes.

@@ -9,6 +9,8 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 18 inch wide x 3 inch deep in the road, near GL2 0HE by the hair dressers., 11th February :- [8898180](https://www.fixmystreet.com/report/8898180)
+- Large pot hole, 11th February :- [8898084](https://www.fixmystreet.com/report/8898084)
 - Very poor road surface and worsening., 11th February :- [8897796](https://www.fixmystreet.com/report/8897796)
 - Existing pothole increasing in size., 11th February :- [8897741](https://www.fixmystreet.com/report/8897741)
 - No street lights working, 11th February :- [8897723](https://www.fixmystreet.com/report/8897723)
@@ -27,7 +29,5 @@ permalink: /fix-my-street
 - Public footpath sign broken, 11th February :- [8896428](https://www.fixmystreet.com/report/8896428)
 - Several items of furniture, 11th February :- [8896335](https://www.fixmystreet.com/report/8896335)
 - 3rd time reporting this!!!!!, 11th February :- [8896265](https://www.fixmystreet.com/report/8896265)
-- Road is in an appalling state and is now difficult to drive on. Has been repaired recently but to a very poor standard, you may as well not have bothered., 11th February :- [8896261](https://www.fixmystreet.com/report/8896261)
-- This drain is completely blocked and a lot of water cascades down this road from the flooded field, 11th February :- [8896008](https://www.fixmystreet.com/report/8896008)
 
 <!-- fix_marker ends -->

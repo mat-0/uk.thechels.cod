@@ -83,13 +83,6 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00 on 12 Feb 2026 or as the situation changes
 
-- Warning no longer in force: Middle Avon Rugby to Bidford
-- There is no longer a threat of flooding, though standing water and debris may still remain. 
-Weather conditions are expected to improve and no further flooding is expected.   
-We will continue to monitor the situation and will issue further alerts or warnings if necessary.   
-Continue to take care on waterside roads and footpaths and don't put yourself in unnecessary danger. Never drive through flood water,  just 30cm of fast flowing water is enough to move your car.   
-
-
 - Flood alert: River Severn in Gloucestershire
 - River levels are falling slowly but remain high in response to the recent rainfall. Flooding is possible today, Thursday 12 February, and in the coming days. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. Peak information:- Mythe peaked at 4.33m on Monday 09/02 at 06:30AM, and Haw Bridge peaked at 5.2m on Tuesday 10/02 PM. Further rain is forecast for Thursday and Friday which may result in further rises on the River. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 13 February 2026 or as the situation changes.
 
@@ -157,13 +150,13 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 - Flood warning: River Coln from Fossebridge to Quennington
 - High river levels on the River Coln may cause flooding. 
 
-Flooding of property and roads is possible, especially nearest the River Coln in the Fossebridge area. This evening and overnight is forecast to be mainly dry with light rain showers. Further rain is forecast across the region tomorrow. We expect river levels to continue slowly rising overnight and remain high over coming days. River levels will remain sensitive to further rainfall. 
+River levels are slowly rising on the River Coln. Flooding of property and roads is possible, especially nearest the River Coln in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times.  We expect river levels to continue slowly rising throughout today and remain high over coming days. River levels will remain sensitive to further rainfall. 
 
 We are closely monitoring the situation. 
 
-Activate any flood protection products you may have. Go to River levels online for updates on current river levels. Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
+Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 11:00AM on 12 February 2026, or as the situation changes.
+This message will be updated by 18:00PM on 12 Feb 2026 , or as the situation changes.
 
 
 <!-- flood_marker ends -->

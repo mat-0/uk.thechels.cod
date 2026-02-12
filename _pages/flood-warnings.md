@@ -148,15 +148,15 @@ Continue to take care on waterside roads and footpaths and don't put yourself in
 
 
 - Flood warning: River Coln from Fossebridge to Quennington
-- High river levels on the River Coln may cause flooding. 
+- Rising river levels on the River Coln may cause flooding. 
 
-River levels are slowly rising on the River Coln. Flooding of property and roads is possible, especially nearest the River Coln in the Fossebridge area. Further rain is forecast over the next 24 hours, which has the potential to be heavy at times.  We expect river levels to continue slowly rising throughout today and remain high over coming days. River levels will remain sensitive to further rainfall. 
+River levels are slowly rising on the River Coln. Flooding of property and roads is expected, especially nearest the River Coln in the Fossebridge area. Further rain is forecast this evening and overnight, which has the potential to be heavy at times.  We expect river levels to continue slowly rising overnight and wil remain high over coming days. River levels will remain sensitive to further rainfall. 
 
 We are closely monitoring the situation. 
 
 Activate any flood protection products you may have. Go to River levels online for updates on current river levels.  Stay away from flood water - it contains hidden dangers such as open man hole covers, sewage and chemicals.  
 
-This message will be updated by 18:00PM on 12 Feb 2026 , or as the situation changes.
+This message will be updated by 11:00AM on 13 Feb 2026 , or as the situation changes.
 
 
 <!-- flood_marker ends -->

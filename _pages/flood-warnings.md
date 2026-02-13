@@ -99,6 +99,14 @@ We are closely monitoring the situation . 
 Take care and avoid walking, cycling or driving through flood water . 
 This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
 
+- Flood alert: Little Avon catchment and the Vale of Berkeley
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 13 February 2026 and 14 February 2026. 
+Flooding is forecast to affect locations near the Little Avon, with low lying land and roads expected to be most affected, particularly around the Little Avon River and other rivers and streams in the Vale of Berkeley. 
+We are closely monitoring the situation and will issue further alerts and warnings if required. 
+Consider activating any flood protection products you may have and avoid using low lying footpaths and bridges near local watercourses. 
+This message will be updated by 12:00PM on 14 February 2026 or as the situation changes.
+
 - Flood alert: Rivers in South Worcestershire
 - Rising river levels today may lead to flooding. 
 Flooding is possible on 13 February 2026 and over the next few days. 
@@ -125,6 +133,14 @@ This message will be updated by 10:00AM on 14 February 2026 or as the situation 
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high and may rise again today in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. Further rain is forecast which may result in further rises on the River. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
+
+- Flood alert: Bristol Frome catchment
+- High river levels overnight may lead to flooding. 
+Flooding is possible on 13 February 2026 and 14 February 2026. 
+Flooding is forecast to affect locations near the Bristol Frome, with low lying land and roads expected to be most affected, particularly around St John's Way in Chipping Sodbury and Damson Bridge. Further rainfall is forecast tomorrow and through the weekend so river levels may rise again in response. 
+We are closely monitoring the situation and will issue further alerts or warnings as required. 
+Consider activating any flood protection products you may have and avoid using low lying footpaths and bridges near local watercourses. 
+This message will be updated by 12:00PM on 14 February 2026 or as the situation changes.
 
 - Flood alert: River Thames and tributaries from Buscot Wick down to Kings Lock
 - High river levels may lead to flooding. 

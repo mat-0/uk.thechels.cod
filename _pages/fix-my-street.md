@@ -9,6 +9,11 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Very deep crater on junction with roundabout, 13th February :- [8907676](https://www.fixmystreet.com/report/8907676)
+- Constant flow of water onto A40 due to a blockage in the channel under the road, 12th February :- [8907535](https://www.fixmystreet.com/report/8907535)
+- About 200 meters of the road has been unmaintained for a long time, 12th February :- [8907466](https://www.fixmystreet.com/report/8907466)
+- Pothole in front of Halfords car garage, 12th February :- [8907086](https://www.fixmystreet.com/report/8907086)
+- Wide pothole, 12th February :- [8907067](https://www.fixmystreet.com/report/8907067)
 - Overflowing bin, 12th February :- [8906550](https://www.fixmystreet.com/report/8906550)
 - Single fridge dumped outside Nazeby Court Cromwell Road Cheltenham, 12th February :- [8906425](https://www.fixmystreet.com/report/8906425)
 - A double sized mattress dumped in Prestbury Rd, 12th February :- [8906392](https://www.fixmystreet.com/report/8906392)
@@ -24,10 +29,5 @@ permalink: /fix-my-street
 - Several potholes already repaired twice recently have returned bigger and deeper than before, 12th February :- [8906071](https://www.fixmystreet.com/report/8906071)
 - Road has been flooded on both sides of the road for weeks, 12th February :- [8906015](https://www.fixmystreet.com/report/8906015)
 - Barnmeadow Road, 12th February :- [8905890](https://www.fixmystreet.com/report/8905890)
-- Street light not lit, 12th February :- [8905841](https://www.fixmystreet.com/report/8905841)
-- Overgrown trees on bend obscuring traffic, 12th February :- [8905668](https://www.fixmystreet.com/report/8905668)
-- Large pot hole on road outside my drive. Causing bigger pot hole., 12th February :- [8905493](https://www.fixmystreet.com/report/8905493)
-- Unpermitted roadworks problem, 12th February :- [8905498](https://www.fixmystreet.com/report/8905498)
-- Pothole, 12th February :- [8905233](https://www.fixmystreet.com/report/8905233)
 
 <!-- fix_marker ends -->

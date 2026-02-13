@@ -9,6 +9,18 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Major pot hole's over road and speed bumps, 13th February :- [8913838](https://www.fixmystreet.com/report/8913838)
+- 60cm pothole on Albert Road near Pittville School, 13th February :- [8913837](https://www.fixmystreet.com/report/8913837)
+- Series of pot holes along the end of Grove Street on narrow road., 13th February :- [8913736](https://www.fixmystreet.com/report/8913736)
+- Direction sign misaligned - second notification, 13th February :- [8913725](https://www.fixmystreet.com/report/8913725)
+- The drain is blocked problem, 13th February :- [8913905](https://www.fixmystreet.com/report/8913905)
+- Multiple deep holes with a lot of stones and debris - highly dangerous for cyclist and car drivers - ongoing problem never been properly fixed for many years, 13th February :- [8913585](https://www.fixmystreet.com/report/8913585)
+- Appalling rubbish, 13th February :- [8913488](https://www.fixmystreet.com/report/8913488)
+- Outside 20 Pound Close, 13th February :- [8913439](https://www.fixmystreet.com/report/8913439)
+- A pothole in road problem, 13th February :- [8913399](https://www.fixmystreet.com/report/8913399)
+- TMC - Defects - Other problem, 13th February :- [8913426](https://www.fixmystreet.com/report/8913426)
+- Overflowing bin, 13th February :- [8913020](https://www.fixmystreet.com/report/8913020)
+- Compulsory sign facing wrong way, 13th February :- [8912999](https://www.fixmystreet.com/report/8912999)
 - Drain blocked, 13th February :- [8912661](https://www.fixmystreet.com/report/8912661)
 - 3 potholes near traffic calming area, 13th February :- [8912659](https://www.fixmystreet.com/report/8912659)
 - Drain is completely filled with silt., 13th February :- [8912613](https://www.fixmystreet.com/report/8912613)
@@ -17,17 +29,5 @@ permalink: /fix-my-street
 - 190 mm deep 4 metre long pot hole, 13th February :- [8912561](https://www.fixmystreet.com/report/8912561)
 - Abandoned road sign, 13th February :- [8912495](https://www.fixmystreet.com/report/8912495)
 - Abandoned road sign, 13th February :- [8912485](https://www.fixmystreet.com/report/8912485)
-- 3 small potholes in close proximity on Pilley Lane, 13th February :- [8912478](https://www.fixmystreet.com/report/8912478)
-- 90 mm pot hole, 13th February :- [8912464](https://www.fixmystreet.com/report/8912464)
-- Several potholes in close proximity on Southfield Approach, 13th February :- [8912434](https://www.fixmystreet.com/report/8912434)
-- Unacceptable maintenance!, 13th February :- [8912431](https://www.fixmystreet.com/report/8912431)
-- 135mm deep pot hole and road sign from last year still dumped in hedgerow, 13th February :- [8912414](https://www.fixmystreet.com/report/8912414)
-- 2/3 potholes including ‘gash/linear’ pothole creating sever drenching of pavement during rain showers and impacting pedestrians. Totally unacceptable!!, 13th February :- [8912385](https://www.fixmystreet.com/report/8912385)
-- Pothole on Church Road going into Leckhampton by traffic calming measure, 13th February :- [8912372](https://www.fixmystreet.com/report/8912372)
-- 90mm deep pot holes, 13th February :- [8912359](https://www.fixmystreet.com/report/8912359)
-- 90mm deep pothole, 13th February :- [8912311](https://www.fixmystreet.com/report/8912311)
-- TMC - Defects -CW6 Potholes  problem, 13th February :- [8912291](https://www.fixmystreet.com/report/8912291)
-- On corner of Highland Road & Park Road, 13th February :- [8912174](https://www.fixmystreet.com/report/8912174)
-- Pothole in middle of road, 13th February :- [8912118](https://www.fixmystreet.com/report/8912118)
 
 <!-- fix_marker ends -->

@@ -83,6 +83,30 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 
 This message will be updated by 12:00PM on the 14 February 2026, or as the situation changes.
 
+- Flood alert: Middle Avon Rugby to Bidford
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 13 February 2026 . 
+Flooding  may affect low-lying land and roads adjacent to the River Avon between Rugby and Bidford including Warwick, Stratford upon Avon, caravan parks and farmland. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+
+- Flood alert: River Stour in South Warwickshire
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 13 February 2026 . 
+Flooding may affect low lying land and roads around Shipston on Stour, Tredington, Halford, Newbold on Stour, Crimscote, Wimpstone and Clifford Chambers. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+
+- Flood alert: Rivers in South Worcestershire
+- Rising river levels today may lead to flooding. 
+Flooding is possible on 13 February 2026 and over the next few days. 
+Flooding may affect low lying land and roads adjacent to the river from North Littleton to Winchcombe. Other locations that may be affected are Badsey, Childswickham, Broadway, Sedgeberrow, Toddington and the Road at Hinton on the Green bridge. Predicted peaks:- Sedgeberrow 2.3m to 2.7m on Friday 13/02 PM, Hinton on the Green 2.7m to 3.1m on Friday 13/02 PM. 
+We are closely monitoring the situation . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+
 - Flood alert: River Severn in Gloucestershire
 - River levels are expected to remain high over the next few days. Flooding is possible today, Friday 13 February, and in the coming days. Locations most affected will be low lying land and roads near rivers. Flooding may affect low lying land and roads adjacent the River Severn from Tewkesbury to Gloucester. Locations that may be affected include Apperley, Maisemore, Hempstead, Minsterworth Ham and Quedgley. Severn Ham, Tewkesbury starts to fill. 
 
@@ -110,6 +134,14 @@ River levels are high but stable on the River Thames and its tributaries from Bu
 We are monitoring rainfall and river levels. Avoid low lying footpaths and roads near rivers, which may be flooded. Go to River Levels Online for updates on current river levels. 
 
 This message will be updated by 12:00PM on the 14 February 2026, or as the situation changes.
+
+- Flood alert: Rivers in the Forest of Dean
+- Rising river levels this evening may lead to flooding. 
+Flooding is possible on 13 February 2026 and over the next few days. 
+Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
+We are closely monitoring the situation . 
+Avoid low lying roads near rivers, which may be flooded . 
+This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high and may rise again in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. Further rain is forecast which may result in further rises on the river. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
@@ -149,6 +181,14 @@ Flooding is possible today, Friday 13th February, and in the coming days.  Flo
 Haw Bridge peaked at 5.2m on Monday 9 February at 8PM. 
 
 We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 11:00AM on 14 February 2026 or as the situation changes
+
+- Flood warning: River Avon at Strensham and Bredon
+- Rising river levels are expected to cause flooding this evening. 
+Flooding is expected on 13 February 2026 and over the next few days. 
+Flooding may affect properties and roads around Mill Lane, Strensham and areas around Dock Lane Bredon. Predicted peaks:- Evesham 2.6m to 2.9m on 13/02 PM, Bredon 3.0m to 3.4m on 15/02 PM. Evesham will have an initial peak overnight tonight 13/02 followed by a second peak overnight on Saturday 14/02. 
+We are closely monitoring the situation . 
+Take care and avoid walking, cycling or driving through flood water . 
+This message will be updated by 11:00AM on 14 February 2026 or as the situation changes. 
 
 - Flood alert: River Coln and its tributaries
 - High river levels may lead to flooding. A Flood Warning is in force for the River Coln from Fossebridge to Quennington

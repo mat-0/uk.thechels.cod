@@ -9,6 +9,13 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Large pothole, 14th February :- [8917025](https://www.fixmystreet.com/report/8917025)
+- Chewed up verge making pavement dodgy, 14th February :- [8916930](https://www.fixmystreet.com/report/8916930)
+- Water covering pedestrian crossing, 14th February :- [8916776](https://www.fixmystreet.com/report/8916776)
+- Potholes all along the road that are damaging vehicles, 14th February :- [8916710](https://www.fixmystreet.com/report/8916710)
+- Kingsditch lane approaching the McDonald's roundabout, pothole in RH lane, 14th February :- [8916625](https://www.fixmystreet.com/report/8916625)
+- Opposite number 1, 14th February :- [8916582](https://www.fixmystreet.com/report/8916582)
+- Huge deep pothole, 14th February :- [8916518](https://www.fixmystreet.com/report/8916518)
 - The footpath past the driveway is sunken, 14th February :- [8916399](https://www.fixmystreet.com/report/8916399)
 - Light is dim on 171827 on roundabout Hathery Lane, Cheltenham, 14th February :- [8915974](https://www.fixmystreet.com/report/8915974)
 - Lights out on unnumbered speed limit sign Churchdown Road, Cheltenham, 14th February :- [8915969](https://www.fixmystreet.com/report/8915969)
@@ -22,12 +29,5 @@ permalink: /fix-my-street
 - Barriers around Utility defect have been left in place for 6 weeks during which defect left unrepaired., 13th February :- [8915673](https://www.fixmystreet.com/report/8915673)
 - Whole width of the road is cratered and very dangerous if the severity of the damagenot seen in the dark, 13th February :- [8915422](https://www.fixmystreet.com/report/8915422)
 - Big pothole damaged tyre, 13th February :- [8915329](https://www.fixmystreet.com/report/8915329)
-- Pothole on road, 13th February :- [8915312](https://www.fixmystreet.com/report/8915312)
-- Large pothole near drain, 13th February :- [8915310](https://www.fixmystreet.com/report/8915310)
-- 10 inch pothole on north Upton lane. Barnwood, 13th February :- [8914995](https://www.fixmystreet.com/report/8914995)
-- Very few pothole on roundabout, 13th February :- [8914970](https://www.fixmystreet.com/report/8914970)
-- How has this road not been sorted yet? It’s been like this for months this road is now dangerous I’ve be involved and witnessed accidents on this road where cars go onto the over side of the road to avoid all th potholes what are unavoidable and likely cause damage to our cars this road if needs to be needs temp lights re tarmac the one side of the road going away from the racecourse to Tommy Taylor’s, 13th February :- [8914948](https://www.fixmystreet.com/report/8914948)
-- Large porthole, 13th February :- [8914646](https://www.fixmystreet.com/report/8914646)
-- Very large potholes, 13th February :- [8914456](https://www.fixmystreet.com/report/8914456)
 
 <!-- fix_marker ends -->

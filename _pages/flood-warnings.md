@@ -125,11 +125,7 @@ Further rainfall is expected. We are closely monitoring the situation. Take care
 This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
 
 - Flood alert: River Leadon catchment
-- River levels remain high due to recent rainfall. Flooding is possible today, 13 February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court.
-
-Further rainfall is expected. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. 
-
-This message will be updated by 10:00AM on 14 February 2026 or as the situation changes
+- River levels remain high due to recent rainfall. Flooding is possible today, 14 February 2026. Flooding may affect low lying land and roads adjacent to the River Leadon. Locations that may be affected include Ledbury, Much Marcle, Staunton, Tibberton and Wedderburn Bridge may now be impassable. Water is over the road at Upleadon Court. Further rainfall is expected. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 15 February 2026 or as the situation changes
 
 - Flood alert: River Avon in Worcestershire
 - River levels remain high and may rise again today in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land and roads adjacent the River Avon from Abbotts Salford to Tewkesbury. Other locations that may be affected include Offenham, Evesham, Twyning and the Eckington Road. Mill Bank Road from Jubillee Bridge to Fladbury is impacted. Peak information:- Evesham peaked at 2.85m on Saturday 07/02 at 7:30PM, Bredon peaked at 3.09m Sunday 08/02 11:15PM. Further rain is forecast which may result in further rises on the River. We are closely monitoring the situation. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.
@@ -152,12 +148,7 @@ We are monitoring rainfall and river levels. Avoid low lying footpaths and roads
 This message will be updated by 12:00PM on the 14 February 2026, or as the situation changes.
 
 - Flood alert: Rivers in the Forest of Dean
-- Rising river levels this evening may lead to flooding. 
-Flooding is possible on 13 February 2026 and over the next few days. 
-Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney. 
-We are closely monitoring the situation . 
-Avoid low lying roads near rivers, which may be flooded . 
-This message will be updated by 11:00AM on 14 February 2026 or as the situation changes.
+- Rising river levels and forecast rainfall this evening Saturday 14/02 may lead to flooding.  Flooding is possible on 15 February 2026 and over the next few days.  Flooding may affect low lying land and roads adjacent to the river from Gloucester to Chepstow. Other locations that may be affected include Westbury and Lydney.  We are closely monitoring the situation .  Avoid low lying roads near rivers, which may be flooded .  This message will be updated by 11:00AM on 15 February 2026 or as the situation changes.
 
 - Flood alert: River Severn in Worcestershire
 - River levels remain high and may rise again in response to the recent rainfall. Flooding is possible today, Friday 13 February, and in the coming days. Flooding may affect low lying land & roads adjacent to the river from Highley to Tewkesbury: including Dog Lane Bewdley, Stourport, Diglis & Hylton Road towpath. Flooded drains affect the racecourse & Worcester CCG. PLP should be installed. New St Gate closed at Upton upon Severn. Peak information:- Bewdley peaked at 3.49m on Sunday 08/02 at 12:45AM, Worcester peaked at 4.90m on Sunday 08/02 at 07:30AM, Diglis peaked at 4.70m on Sunday 08/02 at 07:30AM, Kempsey Yacht Club peaked at 6.85m on Sunday 08/02 at 05:15AM, and Saxons Lode peaked at 5.15m on Monday 09/02 12:30AM. Further rain is forecast which may result in further rises on the river. We are closely monitoring the situation. Consider activating any flood protection products you may have. Take care and avoid walking, cycling or driving through flood water. This message will be updated by 10:00AM on 14 February 2026 or as the situation changes.

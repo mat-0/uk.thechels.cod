@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Light is dim on 171827 on roundabout Hathery Lane, Cheltenham, 14th February :- [8915974](https://www.fixmystreet.com/report/8915974)
+- Lights out on unnumbered speed limit sign Churchdown Road, Cheltenham, 14th February :- [8915969](https://www.fixmystreet.com/report/8915969)
+- Speed limit sign lights out next to KFC Hatherley Lane, Cheltenham, 14th February :- [8915963](https://www.fixmystreet.com/report/8915963)
 - The road surface on the A40 London Road, Cheltenham, from Sixways junction to Madra Veterinary Clinic is generally deteriorating, 14th February :- [8915826](https://www.fixmystreet.com/report/8915826)
 - Pothole in Road in Charlton Court Road, Cheltenham, 14th February :- [8915821](https://www.fixmystreet.com/report/8915821)
 - Potholes in road, 14th February :- [8915815](https://www.fixmystreet.com/report/8915815)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - Large porthole, 13th February :- [8914646](https://www.fixmystreet.com/report/8914646)
 - Very large potholes, 13th February :- [8914456](https://www.fixmystreet.com/report/8914456)
 - Graffiti at bus stop, 13th February :- [8914387](https://www.fixmystreet.com/report/8914387)
-- Large pothole near the junction in middle of the road adjoining pub, 13th February :- [8914374](https://www.fixmystreet.com/report/8914374)
-- Pothole, 13th February :- [8914363](https://www.fixmystreet.com/report/8914363)
-- No street sign on Tutor Court, 13th February :- [8914357](https://www.fixmystreet.com/report/8914357)
 
 <!-- fix_marker ends -->

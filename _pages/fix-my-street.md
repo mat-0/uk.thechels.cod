@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Multiple potholes and only the most minor have been repaired!, 14th February :- [8920269](https://www.fixmystreet.com/report/8920269)
 - Orchard avenue, 14th February :- [8920008](https://www.fixmystreet.com/report/8920008)
 - Car parked too close to junction, 14th February :- [8919863](https://www.fixmystreet.com/report/8919863)
 - Long deep pothole on St Stephen’s Riad, 14th February :- [8919718](https://www.fixmystreet.com/report/8919718)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Pothole, 14th February :- [8918656](https://www.fixmystreet.com/report/8918656)
 - This drain has sunken an poses a risk especially to cyclists. It is also blocked an has been for a long time. I noticed 2 other reports on this and these have been closed wit no apparent action taken or explanation why not., 14th February :- [8918639](https://www.fixmystreet.com/report/8918639)
 - Pothole, 14th February :- [8918619](https://www.fixmystreet.com/report/8918619)
-- Pedestrian crossing button not working, 14th February :- [8918609](https://www.fixmystreet.com/report/8918609)
 
 <!-- fix_marker ends -->

@@ -9,10 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Damaged railings, 14th February :- [8920734](https://www.fixmystreet.com/report/8920734)
+- There are 15/20 potholes between junction 12 and junction 11a northbound, 14th February :- [8920717](https://www.fixmystreet.com/report/8920717)
+- Multiple Pot Holes Under Railway Bridge, 14th February :- [8920625](https://www.fixmystreet.com/report/8920625)
 - Multiple potholes and only the most minor have been repaired!, 14th February :- [8920269](https://www.fixmystreet.com/report/8920269)
 - Orchard avenue, 14th February :- [8920008](https://www.fixmystreet.com/report/8920008)
 - Car parked too close to junction, 14th February :- [8919863](https://www.fixmystreet.com/report/8919863)
 - Long deep pothole on St Stephen’s Riad, 14th February :- [8919718](https://www.fixmystreet.com/report/8919718)
+- Road flooded for weeks. Brook close by has plenty of capacity. So please unblock drains or install new drains a short distance from road to brook. It's been like this for at least 2 years. Not good enough., 14th February :- [8919681](https://www.fixmystreet.com/report/8919681)
 - Tarmac is breaking up around road grate as vehicles attempt to avoid grate., 14th February :- [8919553](https://www.fixmystreet.com/report/8919553)
 - Signs, barriers or materials left by contractor, 14th February :- [8919542](https://www.fixmystreet.com/report/8919542)
 - Signs left by contractors, 14th February :- [8919527](https://www.fixmystreet.com/report/8919527)
@@ -25,9 +29,5 @@ permalink: /fix-my-street
 - Illuminated bollards are missing on The Park, 14th February :- [8919271](https://www.fixmystreet.com/report/8919271)
 - Rattling manhole cover plus tarman sinking, 14th February :- [8918964](https://www.fixmystreet.com/report/8918964)
 - Road has not been swept fo at least a year. Grass is growing in the debtis. This is the main reason why the drains keep blocking and causing flooding every time it rains. Pedestrians are getting drenched by vehicles as they drive through the floods and there is no way to get out of the way., 14th February :- [8918757](https://www.fixmystreet.com/report/8918757)
-- A very large pothole down beeches road, 14th February :- [8918708](https://www.fixmystreet.com/report/8918708)
-- Pothole, 14th February :- [8918656](https://www.fixmystreet.com/report/8918656)
-- This drain has sunken an poses a risk especially to cyclists. It is also blocked an has been for a long time. I noticed 2 other reports on this and these have been closed wit no apparent action taken or explanation why not., 14th February :- [8918639](https://www.fixmystreet.com/report/8918639)
-- Pothole, 14th February :- [8918619](https://www.fixmystreet.com/report/8918619)
 
 <!-- fix_marker ends -->

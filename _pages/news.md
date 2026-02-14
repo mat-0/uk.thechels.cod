@@ -12,12 +12,12 @@ _sources: BBC, Glos Police, Cheltenham Borough Council, and Glos news centre_
 [Get this page as daily RSS feed](/daily.rss)
 
 <!-- news_marker starts -->
-- Cheltenham publican hits out at Lib Dems for lack of help ([4 hours ago](https://gloucesternewscentre.co.uk/cheltenham-publican-hits-out-at-lib-dems-for-lack-of-help/))
-- Walk for Cobalt with Cheltenham Mayor ([4 hours ago](https://gloucesternewscentre.co.uk/walk-for-cobalt-with-cheltenham-mayor/))
-- Bowman heartbroken after case with ashes goes missing ([5 hours ago](https://www.bbc.com/news/articles/cn0z8p05l7no?at_medium=RSS&at_campaign=rss))
-- Teen who killed two in crash filmed herself speeding on Snapchat ([9 hours ago](https://www.bbc.com/news/videos/cvg19zld09no?at_medium=RSS&at_campaign=rss))
-- 'Three months from cancer diagnosis to dying' ([13 hours ago](https://www.bbc.com/news/articles/c98g4z9p4z2o?at_medium=RSS&at_campaign=rss))
-- 'Baseball bat attack' and 'gorillas moving house' ([13 hours ago](https://www.bbc.com/news/articles/cedz9zjj8lwo?at_medium=RSS&at_campaign=rss))
+- Cheltenham publican hits out at Lib Dems for lack of help ([6 hours ago](https://gloucesternewscentre.co.uk/cheltenham-publican-hits-out-at-lib-dems-for-lack-of-help/))
+- Walk for Cobalt with Cheltenham Mayor ([6 hours ago](https://gloucesternewscentre.co.uk/walk-for-cobalt-with-cheltenham-mayor/))
+- Bowman heartbroken after case with ashes goes missing ([7 hours ago](https://www.bbc.com/news/articles/cn0z8p05l7no?at_medium=RSS&at_campaign=rss))
+- Teen who killed two in crash filmed herself speeding on Snapchat ([11 hours ago](https://www.bbc.com/news/videos/cvg19zld09no?at_medium=RSS&at_campaign=rss))
+- 'Three months from cancer diagnosis to dying' ([15 hours ago](https://www.bbc.com/news/articles/c98g4z9p4z2o?at_medium=RSS&at_campaign=rss))
+- 'Baseball bat attack' and 'gorillas moving house' ([15 hours ago](https://www.bbc.com/news/articles/cedz9zjj8lwo?at_medium=RSS&at_campaign=rss))
 - Driver jailed after causing crash that killed two ([1 days ago](https://www.bbc.com/news/articles/c3ew3vp8dlzo?at_medium=RSS&at_campaign=rss))
 - A-road to close overnight for several weeks ([1 days ago](https://www.bbc.com/news/articles/cedz9zgzjy5o?at_medium=RSS&at_campaign=rss))
 - Bid to ban coaches from 'Venice of the Cotswolds' ([1 days ago](https://www.bbc.com/news/articles/c309pnenp6no?at_medium=RSS&at_campaign=rss))

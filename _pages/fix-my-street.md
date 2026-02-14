@@ -9,6 +9,9 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Pothole, 14th February :- [8917483](https://www.fixmystreet.com/report/8917483)
+- Potholes reopened 2 weeks after filling, 14th February :- [8917437](https://www.fixmystreet.com/report/8917437)
+- Four large potholes outside number 17, 14th February :- [8917319](https://www.fixmystreet.com/report/8917319)
 - Large pothole, 14th February :- [8917025](https://www.fixmystreet.com/report/8917025)
 - Chewed up verge making pavement dodgy, 14th February :- [8916930](https://www.fixmystreet.com/report/8916930)
 - Water covering pedestrian crossing, 14th February :- [8916776](https://www.fixmystreet.com/report/8916776)
@@ -26,8 +29,5 @@ permalink: /fix-my-street
 - This drain and (adjacent ones?) is blocked somewhere underground. tattemps at gully cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915733](https://www.fixmystreet.com/report/8915733)
 - This darin is blocked somewhere underground. Repeated attemps at gulley cleaning have failed. Needs in depth invetigation. Cllr Whyborn, 13th February :- [8915711](https://www.fixmystreet.com/report/8915711)
 - Sign permanently on - flashing. Also 20 mph sign plate wording is inappropriate now that the location is in a 20 mph speed limit area., 13th February :- [8915692](https://www.fixmystreet.com/report/8915692)
-- Barriers around Utility defect have been left in place for 6 weeks during which defect left unrepaired., 13th February :- [8915673](https://www.fixmystreet.com/report/8915673)
-- Whole width of the road is cratered and very dangerous if the severity of the damagenot seen in the dark, 13th February :- [8915422](https://www.fixmystreet.com/report/8915422)
-- Big pothole damaged tyre, 13th February :- [8915329](https://www.fixmystreet.com/report/8915329)
 
 <!-- fix_marker ends -->

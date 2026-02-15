@@ -9,6 +9,14 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- Linear, unavoidable, deep surface defect, 15th February :- [8922333](https://www.fixmystreet.com/report/8922333)
+- The Pothole is approx 500mm wide and 500mm in length and approx 6 inches deep., 15th February :- [8922308](https://www.fixmystreet.com/report/8922308)
+- Drains on both sides of the road are blocked, 15th February :- [8922042](https://www.fixmystreet.com/report/8922042)
+- Flytipping in wardens wood car park, 15th February :- [8921982](https://www.fixmystreet.com/report/8921982)
+- Big holes, very dangerous for cyclists, 15th February :- [8921979](https://www.fixmystreet.com/report/8921979)
+- The whole road at the Gloucester Road end is in terrible and dangerous condition as are the pavements and has been for years., 15th February :- [8921927](https://www.fixmystreet.com/report/8921927)
+- RTPI not working, 15th February :- [8921875](https://www.fixmystreet.com/report/8921875)
+- Multiple potholes and broken road surface. No markings on speed bump and speed bump has large chunks missing., 15th February :- [8921857](https://www.fixmystreet.com/report/8921857)
 - Persistent flooding on Old Gloucester Road (B4634) creating serious danger to road users and pedestrians - unresolved, 15th February :- [8921702](https://www.fixmystreet.com/report/8921702)
 - The road is in an awful state, with multiple potholes, uneven surface and broken speed bumps. It’s extremely difficult to drive down and its likely to cause damage to cars now., 15th February :- [8921699](https://www.fixmystreet.com/report/8921699)
 - Numerous potholes & speed bumps with chunks missing, 15th February :- [8921676](https://www.fixmystreet.com/report/8921676)
@@ -21,13 +29,5 @@ permalink: /fix-my-street
 - Orchard avenue, 14th February :- [8920008](https://www.fixmystreet.com/report/8920008)
 - Car parked too close to junction, 14th February :- [8919863](https://www.fixmystreet.com/report/8919863)
 - Long deep pothole on St Stephen’s Riad, 14th February :- [8919718](https://www.fixmystreet.com/report/8919718)
-- Road flooded for weeks. Brook close by has plenty of capacity. So please unblock drains or install new drains a short distance from road to brook. It's been like this for at least 2 years. Not good enough., 14th February :- [8919681](https://www.fixmystreet.com/report/8919681)
-- Tarmac is breaking up around road grate as vehicles attempt to avoid grate., 14th February :- [8919553](https://www.fixmystreet.com/report/8919553)
-- Signs, barriers or materials left by contractor, 14th February :- [8919542](https://www.fixmystreet.com/report/8919542)
-- Signs left by contractors, 14th February :- [8919527](https://www.fixmystreet.com/report/8919527)
-- Signs misaligned an not readable, 14th February :- [8919520](https://www.fixmystreet.com/report/8919520)
-- Deeper than tennis ball pothole over 12” wide, 14th February :- [8919505](https://www.fixmystreet.com/report/8919505)
-- Water flowing out of field, 14th February :- [8919496](https://www.fixmystreet.com/report/8919496)
-- Flytipped furniture, 14th February :- [8919402](https://www.fixmystreet.com/report/8919402)
 
 <!-- fix_marker ends -->

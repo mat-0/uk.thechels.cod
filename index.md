@@ -10,11 +10,11 @@ seo: Menu
 <!-- weather_marker starts -->
 ## On Sunday, 15 February 2026
 
-- The average temperature today is 1.65˚C,
-- With highs of 1.96˚C and lows of 1.03˚C,
-- It may feel like -1.63˚C with light rain
-- The wind speed is 3.13m/s and visibility is 10000m
-- The pressure is 1012hPa and humidity is 89%
+- The average temperature today is 2.84˚C,
+- With highs of 3.32˚C and lows of 1.83˚C,
+- It may feel like -1.55˚C with overcast clouds
+- The wind speed is 5.36m/s and visibility is 1358m
+- The pressure is 1009hPa and humidity is 88%
 - The sun will rise at 07:23 and set at 17:21
 
 <!-- weather_marker ends -->

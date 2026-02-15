@@ -8,14 +8,14 @@ seo: Menu
 ![Logo](/images/logo.jpg){:width="832px"}
 
 <!-- weather_marker starts -->
-## On Saturday, 14 February 2026
+## On Sunday, 15 February 2026
 
-- The average temperature today is 3.31˚C,
-- With highs of 3.73˚C and lows of 2.38˚C,
-- It may feel like -0.74˚C with light rain
-- The wind speed is 4.92m/s and visibility is 10000m
-- The pressure is 1015hPa and humidity is 76%
-- The sun will rise at 07:25 and set at 17:19
+- The average temperature today is 1.65˚C,
+- With highs of 1.96˚C and lows of 1.03˚C,
+- It may feel like -1.63˚C with light rain
+- The wind speed is 3.13m/s and visibility is 10000m
+- The pressure is 1012hPa and humidity is 89%
+- The sun will rise at 07:23 and set at 17:21
 
 <!-- weather_marker ends -->
 

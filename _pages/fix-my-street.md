@@ -9,6 +9,7 @@ permalink: /fix-my-street
 
 <!-- fix_marker starts -->
 
+- 120cm long 125mm deep (at least ) pothole absolutely destroyed the wheel and tyre of my car! 5 minutes later another car hit this pothole and broke down at the same lay-by as me (30m away). This needs to be sorted ASAP before a motorcyclist hits this and it will kill them !!, 15th February :- [8921041](https://www.fixmystreet.com/report/8921041)
 - Damaged railings, 14th February :- [8920734](https://www.fixmystreet.com/report/8920734)
 - There are 15/20 potholes between junction 12 and junction 11a northbound, 14th February :- [8920717](https://www.fixmystreet.com/report/8920717)
 - Multiple Pot Holes Under Railway Bridge, 14th February :- [8920625](https://www.fixmystreet.com/report/8920625)
@@ -28,6 +29,5 @@ permalink: /fix-my-street
 - Long line of deep potholes, 14th February :- [8919272](https://www.fixmystreet.com/report/8919272)
 - Illuminated bollards are missing on The Park, 14th February :- [8919271](https://www.fixmystreet.com/report/8919271)
 - Rattling manhole cover plus tarman sinking, 14th February :- [8918964](https://www.fixmystreet.com/report/8918964)
-- Road has not been swept fo at least a year. Grass is growing in the debtis. This is the main reason why the drains keep blocking and causing flooding every time it rains. Pedestrians are getting drenched by vehicles as they drive through the floods and there is no way to get out of the way., 14th February :- [8918757](https://www.fixmystreet.com/report/8918757)
 
 <!-- fix_marker ends -->
